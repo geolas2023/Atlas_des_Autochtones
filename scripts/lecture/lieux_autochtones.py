@@ -211,4 +211,9 @@ L = {
     'Monts Cerbat (Arizona)': (-114.15, 35.3, 'h', 'Monts Cerbat (Arizona)'),
     'Canyon Havasu (Supai, Arizona)': (-112.7, 36.24, 'h', 'Canyon Havasu (Supai, Arizona)'),
     'Fort Apache (Arizona)': (-109.99, 33.79, 'h', 'Fort Apache (Camp Ord, Arizona)'),
+    'Village pawnee de la Loup (Nebraska)': (-97.95, 41.45, 'h', 'Villages pawnees de la Loup Fork (Nebraska)'),
+    'Calumet Bluff (Nebraska)': (-97.48, 42.86, 'h', 'Calumet Bluff (comté de Cedar, Nebraska)'),
+    'Beaver Creek (Boone, Nebraska)': (-98.0, 41.65, 'h', 'Beaver Creek (comté de Boone, Nebraska)'),
+    'Fontenelle (Nebraska)': (-96.43, 41.55, 'h', 'Fontenelle (comté de Washington, Nebraska)'),
+    'Fort Reno (Wyoming)': (-106.15, 43.83, 'h', 'Fort Connor / Fort Reno (Powder River, Wyoming)'),
 }
