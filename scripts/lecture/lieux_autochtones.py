@@ -49,4 +49,5 @@ L = {
     'Village de Little Crow (agence sioux inférieure)': (-94.98, 44.53, 'a', "Village de Little Crow, près de l'agence sioux inférieure, Minnesota"),
     'Wood Lake (Minnesota)': (-95.54, 44.65, 'a', 'Wood Lake, Minnesota (bataille de 1862)'),
     'Old Crossing (rivière Otter Tail)': (-96.4, 46.3, 'h', "Old Crossing, sur l'Otter Tail, à seize milles de Breckenridge"),
+    'Comté de Spink (Dakota du Sud)': (-98.35, 44.95, 'a', "Comté de Spink, vallée de la James (Dakota du Sud)"),
 }
