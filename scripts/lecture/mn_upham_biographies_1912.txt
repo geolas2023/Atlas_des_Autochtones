@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Upham et Dunlap, Minnesota Biographies (1912)
+# ref: Warren Upham et Rose Barteau Dunlap, Minnesota Biographies, 1655-1912 (Collections of the Minnesota Historical Society, vol. XIV), Saint Paul, 1912
+# lien: https://archive.org/details/collections14minnuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/collections14minnuoft/mode/1up?q={q}
+# Pages approximatives.
+Enmegahbowh (John Johnson) | Anishinaabés (Ojibwés, Saulteux) | Terre Blanche | 1902 | 207 | Indien né au Canada, interprète pendant cinquante ans de la mission épiscopale chez les Ojibwés, ordonné diacre à Faribault en 1859 puis prêtre; meurt à White Earth le 12 juin.
+Paul Soulie | Anishinaabés (Ojibwés, Saulteux) | La Pointe | 1840~ | 725 | Ojibwé de la bande de Buffalo Bay, voyageur réputé dans le nord du Minnesota après 1840; meurt près de Bayfield en 1891.
+Compagnie ojibwée du 9e Minnesota | Anishinaabés (Ojibwés, Saulteux) | Bena (Minnesota) | 1904 | 42 | Charles H. Beaulieu, ancien officier d'une compagnie d'Ojibwés pendant la guerre de Sécession puis agent à Leech Lake, meurt à Bena.
+Sioux du lac Pépin | Sioux (Dakotas, Lakotas, Nakotas) | Fort Beauharnois | 1728 | 283 | La mission jésuite fondée en 1727 chez les Sioux doit être abandonnée l'année suivante à cause des guerres indiennes.
+Sioux du lac des Bois | Sioux (Dakotas, Lakotas, Nakotas) | Île au Massacre | 1736 | 24 | Le 6 juin, des Sioux massacrent le père Aulneau, le fils aîné de La Vérendrye et vingt autres Français sur une île du lac.

@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Collections of the Minnesota Historical Society, vol. XII (1908)
+# ref: Collections of the Minnesota Historical Society, vol. XII, Saint Paul, 1908
+# lien: https://archive.org/details/collections12minnuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/collections12minnuoft/mode/1up?q={q}
+# Pages approximatives.
+Chef dakota de Le Sueur | Sioux (Dakotas, Lakotas, Nakotas) | Île Pelée (Prairie Island) | 1695 | 490 | Un chef dakota accompagne Le Sueur et devient le premier de sa nation à visiter le Canada.
+Mascoutens et Renards | Mascoutens; Mesquakies (Renards) | Fort L'Huillier | 1701 | 289 | Un parti allié tue trois Français près du fort, qui est abandonné à la fin de l'été ou à l'automne.
+Bande de Pinisha (Good Road) | Sioux (Dakotas, Lakotas, Nakotas) | Fort Snelling | 1844 | 326 | De jeunes hommes insultent l'épouse métisse d'un forgeron du gouvernement; le capitaine Backus envoie arrêter le chef Good Road.
+Bande Kiuksa | Sioux (Dakotas, Lakotas, Nakotas) | Lac Pépin | 1837 | 338 | Bande dakota du bas du lac Pépin, cliente du traiteur Louis Rock.
+Bande d'Inkpaduta | Sioux (Dakotas, Lakotas, Nakotas) | Springfield (Jackson, Minnesota) | 1857 | 273-277 | Massacre d'Inkpaduta et attaque de Springfield; des familles sissetons paisibles pêchant dans le comté de Watonwan provoquent la panique des colons.
