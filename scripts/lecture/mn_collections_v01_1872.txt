@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · Collections of the Minnesota Historical Society, vol. I (1872)
+# ref: Collections of the Minnesota Historical Society, vol. I (1850-1856), réimpression, Saint Paul, 1872
+# lien: https://archive.org/details/collections01minnuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/collections01minnuoft/mode/1up?q={q}
+# Pages approximatives.
+= Mantantons et Mendeoucantons | Sioux (Dakotas, Lakotas, Nakotas) | Fort L'Huillier | 1700-12 | 330-335 | Bandes dakotas qui viennent au fort de Le Sueur ; les Mendeoucantons réparent en décembre le vol commis contre des Français en apportant 400 livres de castor.
+Tioscate | Sioux (Dakotas, Lakotas, Nakotas) | Fort L'Huillier | 1700 | 330, 332 | Dakota emmené à Montréal par Le Sueur ; les siens pleurent à son nom et demandent pardon de l'insulte faite aux Français.
+Wahkantape | Sioux (Dakotas, Lakotas, Nakotas) | Fort L'Huillier | 1700 | 332 | Chef qui parle au nom des Dakotas et rappelle que Tioscate demandait l'oubli de l'insulte des Mendeoucantons.
+= Petit Corbeau, Fils de Pinchon, L'Original Levé, La Demi-Douzaine, Bras Cassé et Le Grand Partisan | Sioux (Dakotas, Lakotas, Nakotas) | Mendota | 1805-09 | 378-381 | Chefs présents au conseil de Pike au confluent du Minnesota ; Petit Corbeau et le Fils de Pinchon signent la cession de terres.
+Black Soldier | Sioux (Dakotas, Lakotas, Nakotas) | Pig's Eye (Saint Paul) | 1805 | 376 | Seul homme d'un camp de quatre loges sioux visité par Pike.
+La Feuille (Wabasha) | Sioux (Dakotas, Lakotas, Nakotas) | Prairie du Chien | 1806-04-25 | 370, 416 | Chef héréditaire des Kiyuksas ; long entretien avec Pike sur la jalousie de sa nation envers ses chefs.
+Roman Nose (The Wind that Walks) | Sioux (Dakotas, Lakotas, Nakotas) | Point Douglas (Minnesota) | 1806-04 | 412 | Ancien second chef des Sioux qui avait renoncé à son rang après avoir causé la mort d'un traiteur.
+Petit Corbeau | Sioux (Dakotas, Lakotas, Nakotas) | Kaposia (Saint Paul) | 1805-09-25 | 382 | Chef principal qui vient à l'aube voir si Pike et ses hommes ont été tués, ayant trouvé son drapeau emporté.

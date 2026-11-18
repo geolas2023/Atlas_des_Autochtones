@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Collections of the Minnesota Historical Society, vol. II (1889)
+# ref: Collections of the Minnesota Historical Society, vol. II (1860-1867), réimpression, Saint Paul, 1889
+# lien: https://archive.org/details/collections02minnuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/collections02minnuoft/mode/1up?q={q}
+# Pages approximatives.
+Teeoskahtay | Sioux (Dakotas, Lakotas, Nakotas) | Montréal | 1695 | 95 | Grand chef sioux emmené par Le Sueur à Montréal, premier de sa nation à visiter la ville ; parle au gouverneur au nom des bandes sioux.
+Petit Corbeau | Sioux (Dakotas, Lakotas, Nakotas) | Kaposia (Saint Paul) | 1817 | 29-31 | Chef dont le village commande le passage du fleuve ; il oblige parfois les traiteurs à débarquer et à lui faire des présents.
+La Feuille (Wabasha) | Sioux (Dakotas, Lakotas, Nakotas) | Winona (Minnesota) | 1817 | 23, 47 | Village de la bande de La Feuille, désert lors du passage du major Long, ses habitants étant partis chasser.
+Little Crow | Sioux (Dakotas, Lakotas, Nakotas) | Washington (D.C.) | 1824 | 109 | Grand-père du chef de 1862, conduit à Washington par le major Taliaferro avec une délégation de Dakotas et d'Ojibwés.
