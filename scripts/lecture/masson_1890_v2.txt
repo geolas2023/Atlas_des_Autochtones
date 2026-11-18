@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Masson (1890)
+# ref: Masson, Louis-Rodrigue (1890), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 2 (deuxième série)
+# lien: https://archive.org/details/cihm_30415/page/{page}/mode/1up
+# recherche: https://archive.org/details/cihm_30415/mode/1up?q={q}
+# Pages approximatives.
+Wabogish | Anishinaabés (Ojibwés, Saulteux) | La Pointe | 1792 | 139 | Grand chef de La Pointe dont le pouvoir s'étend jusqu'au Mississippi ; sa fille épouse le traiteur John Johnston.

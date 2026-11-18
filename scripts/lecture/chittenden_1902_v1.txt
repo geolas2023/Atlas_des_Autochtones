@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Chittenden (1902), vol. 1
+# ref: Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 1
+# lien: https://archive.org/details/americanfurtrade01chit/page/{page}/mode/1up
+# recherche: https://archive.org/details/americanfurtrade01chit/mode/1up?q={q}
+# Pages approximatives.
+Shahaka (Gros Blanc, Big White) | Mandans | Mandan villages | 1806 | s. p. | Chef mandan persuadé par Lewis et Clark de les accompagner à Saint-Louis, avec son interprète René Jusseaume.
+Shahaka (Gros Blanc, Big White) | Mandans | Villages arikaras | 1807 | 122 | L'enseigne Pryor tente de le reconduire chez lui ; les Arikaras exigent qu'il descende à terre et attaquent l'escorte.
+= Chefs arikaras | Arikaras | Villages arikaras | 1807 | 122 | Un chef reçoit une médaille de Pryor puis la jette à terre ; le chef du village d'en haut monte sur la barge.
+= Chef sioux | Sioux (Dakotas, Lakotas, Nakotas) | Villages arikaras | 1807 | 122 | Un chef sioux, monté sur la barge de Pryor, est tué pendant la poursuite.

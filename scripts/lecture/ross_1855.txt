@@ -1,0 +1,12 @@
+# corpus: Lecture intégrale · Ross (1855)
+# ref: Ross, Alexander (1855), The Fur Hunters of the Far West, Londres, Smith, Elder & Co., 2 vol.
+# lien: https://archive.org/details/cihm_40228/page/{page}/mode/1up
+# recherche: https://archive.org/details/cihm_40228/mode/1up?q={q}
+# Pages approximatives.
+= Chefs cath-le-yach-e-yach | Autochtones (nation non précisée) | Cascades (Columbia) | 181X | 9 | Exigent qu'on leur livre les meurtriers de deux des leurs avant de rendre les biens saisis.
+Eyacktana | Autochtones (nation non précisée) | Cascades (Columbia) | 181X | 23 | Chef hardi et turbulent qui s'empare du couteau d'un engagé puis harangue les siens en faveur de Ross.
+Ye-whell-come-tetsa | Okanagans | Fort Okanagan | 181X | 61 | Principal chef okanagan, vient avertir Ross de mauvaises nouvelles.
+Shy-law-iffs | Autochtones (nation non précisée) | The Dalles | 181X | s. p. | Chef indien dont la fidélité est louée lors de l'arrêt de la brigade par les glaces.
+Tum-a-tap-um | Autochtones (nation non précisée) | Walla Walla | 1818 | s. p. | Chef ; grand conseil et cérémonie du calumet lors de la fondation du fort Nez Percés.
+Tum-a-tap-um | Autochtones (nation non précisée) | Walla Walla | 1819 | 212 | Harangues et offrande de paix après la découverte de sept cadavres près du fort Nez Percés.
+Gueule plat | Autochtones (nation non précisée) | Walla Walla | 1819 | 234 | Chef ainsi nommé par les Canadiens, qui interpelle Ross avec effronterie.

@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Hamlin (1884)
+# ref: Hamlin, Marie Caroline Watson (1884), Legends of le Détroit, Détroit, Thorndike Nourse
+# lien: https://archive.org/details/legendsofledtr00haml/page/{page}/mode/1up
+# recherche: https://archive.org/details/legendsofledtr00haml/mode/1up?q={q}
+# Pages approximatives.
+Churlioa | Potawatomis | Fort Pontchartrain (Détroit) | 1701~ | s. p. | Chef potawatomi (légende) dont la fille est aimée du jeune de Veron, de la garnison de Cadillac.
+Saguina | Odawas (Outaouais) | Detroit | 1712 | s. p. | Chef des Outaouais venu avec ses guerriers secourir Détroit.
+Makisabe | Potawatomis | Detroit | 1712 | s. p. | Chef des Potawatomis venu avec ses guerriers secourir Détroit.
+Pontiac | Odawas (Outaouais) | Detroit | 1763 | s. p. | À sa demande, Godefroy part pour le pays des Illinois.

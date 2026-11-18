@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Masson (1889)
+# ref: Masson, Louis-Rodrigue (1889), Les Bourgeois de la Compagnie du Nord-Ouest, Québec, A. Côté, vol. 1, « Liste des bourgeois, commis, engagés et voyageurs de la Compagnie du Nord-Ouest après la fusion de 1804 »
+# lien: https://archive.org/details/cihm_30414/page/{page}/mode/1up
+# recherche: https://archive.org/details/cihm_30414/mode/1up?q={q}
+# Pages approximatives.
+Chef Anglais | Dénés (Porteurs, Sékanis, Chipewyans) | Grand lac des Esclaves | 178X | 82 | Le plus marquant des chefs chipewyans, envoyé par Leroux aux tribus du Nord pour les inviter à traiter à son fort.
+= Chefs du lac à la Marte | Autochtones (nation non précisée) | Grand lac des Esclaves | 178X | 88 | De retour chez eux, ils vantent la générosité des Blancs ; leur peuple vient traiter au fort du Lac aux Esclaves.
+Na-kan-au-Bettau (Great Chief) | Autochtones (nation non précisée) | Fraser River | 1808 | 89 | Seul chef un peu respecté et obéi de sa nation, selon Simon Fraser.
+Le Borgne | Gros-Ventres (Aaniiih) | Villages de la Knife | 1805 | 348 | Grand chef, alité, consulté par La Rocque sur sa route vers les Crows.
+Nakesinia (Red Calf) | Crows (Apsáalooke) | Pays des Corbeaux (Yellowstone) | 1805 | 345 | Chef de la nation des Rocheuses rencontré par La Rocque ; l'une des deux tribus est gouvernée par lui.
+Red Fish | Crows (Apsáalooke) | Pays des Corbeaux (Yellowstone) | 1805 | 349 | Second chef de la nation, qui compte environ six cents guerriers.

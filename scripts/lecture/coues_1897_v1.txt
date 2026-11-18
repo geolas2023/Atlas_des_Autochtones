@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Coues (1897), vol. 1
+# ref: Coues, Elliott (dir.) (1897), New Light on the Early History of the Greater Northwest. The Manuscript Journals of Alexander Henry and of David Thompson, New York, F. P. Harper, vol. 1
+# lien: https://archive.org/details/newlightonearlyh01henr/page/{page}/mode/1up
+# recherche: https://archive.org/details/newlightonearlyh01henr/mode/1up?q={q}
+# Pages approximatives.
+Wesh-ko-bug (Le Sucre) | Anishinaabés (Ojibwés, Saulteux) | Leech Lake | 180X | 67 | Célèbre chef ojibwé du lac Leech ; un de ses fils visite la loge de Tanner.
+Tabashaw | Anishinaabés (Ojibwés, Saulteux) | Pembina | 180X | s. p. | Chef ojibwé du journal d'Alexander Henry, rapproché du Tabushshah de Tanner.
+René Jusseaume | Mandans | Villages de la Knife | 1806 | 332 | Canadien établi au village, interprète du chef mandan Gros Blanc lors du voyage à Washington.
+Le Borgne | Gros-Ventres (Aaniiih) | Villages de la Knife | 1806 | 379 | Chef hidatsa ; son frère et Two Crows chevauchent avec Henry ; le chef des Loups maintient la troupe en rang.
