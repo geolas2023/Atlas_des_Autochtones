@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Munro-Fraser, History of Marin County, California (1880)
+# ref: History of Marin County (Alley, Bowen, 1880)
+# lien: https://archive.org/details/historyofmarinco00munr/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofmarinco00munr/mode/1up?q={q}
+# Pages approximatives.
+Marin | Autochtones (nation non précisée) | San Rafael (Californie) | 1824 | 88, 347 | Chef réputé des Licatiuts qui tint tête aux Espagnols de 1815 à 1824 ; repris, il échappe de peu à la mort grâce aux pères de San Rafael et se convertit. Le comté porte son nom.
+Marcelo | Autochtones (nation non précisée) | San Rafael (Californie) | 1824 | 347 | Chef célèbre des Cholgones et des Bolgones qui accompagne les troupes de Martínez et Sánchez à la poursuite de Marin.

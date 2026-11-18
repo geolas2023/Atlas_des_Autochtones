@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Bancroft, History of California, vol. III (1885)
+# ref: H. H. Bancroft, History of California, vol. III (1885), Pioneer Register
+# lien: https://archive.org/details/worksofhuberthow20bancrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/worksofhuberthow20bancrich/mode/1up?q={q}
+# Pages approximatives.
+Solano (Sem-Yeto) | Autochtones (nation non précisée) | Sonoma (Californie) | 1835 | 300, 455 | Chef allié de Vallejo, qui marche avec lui contre les Yolos révoltés.

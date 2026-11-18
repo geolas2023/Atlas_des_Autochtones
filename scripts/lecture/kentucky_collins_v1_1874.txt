@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Collins, Historical Sketches of Kentucky, vol. I (1874)
+# ref: Lewis et Richard H. Collins, History of Kentucky, vol. I (1874)
+# lien: https://archive.org/details/collinshistorica01coll/page/{page}/mode/1up
+# recherche: https://archive.org/details/collinshistorica01coll/mode/1up?q={q}
+# Pages approximatives.
+Blackfish (Poisson noir) | Shawnees | Harrodsburg (Kentucky) | 1777-03-07 | s. p. | Premier siège de Harrodsburg par quarante-sept Autochtones sous leur chef Blackfish.
+Puckshenubbee | Choctaws (Chactas) | Maysville (Kentucky) | 1824 | 31 | Mingo âgé de quatre-vingts ans, doyen des chefs chactas, en route pour Washington avec une délégation ; il tombe d'un mur de vingt pieds et se tue.
+Black Hawk (Faucon noir) | Sauks; Mesquakies (Renards) | Rivière Ohio (Kentucky) | 1833-04-13 | s. p. | Le célèbre chef, âgé de 67 ans, avec le prophète Neopope, son fils et deux autres chefs, remonte l'Ohio sur le Lady Byron vers Fort Monroe, où ils sont retenus en otages.

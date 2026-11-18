@@ -162,4 +162,8 @@ L = {
     'Sand Creek (Colorado)': (-102.5, 38.54, 'c', 'Sand Creek (Colorado)'),
     'Agence de White River (Meeker, Colorado)': (-107.9, 40.04, 'a', 'Agence de White River, près de Meeker (Colorado)'),
     'Harrodsburg (Kentucky)': (-84.84, 37.76, 'c', 'Harrodsburg (Kentucky)'),
+    'Rivière Ohio (Kentucky)': (-85.2, 38.4, 'h', 'Rivière Ohio, le long du Kentucky'),
+    'Cholame (Californie)': (-120.3, 35.72, 'a', 'Rancherías de Cholam (Cholame, Californie)'),
+    'San Luis Rey (Californie)': (-117.32, 33.23, 'c', 'Mission San Luis Rey (Californie)'),
+    'Lava Beds (Tule Lake, Californie)': (-121.5, 41.75, 'a', 'Lava Beds, près du lac Tule (Californie)'),
 }

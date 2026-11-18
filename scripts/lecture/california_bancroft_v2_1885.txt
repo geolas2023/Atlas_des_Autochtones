@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Bancroft, History of California, vol. II (1885)
+# ref: H. H. Bancroft, History of California, vol. II (1885), Pioneer Register
+# lien: https://archive.org/details/worksofhuberthow19bancrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/worksofhuberthow19bancrich/mode/1up?q={q}
+# Pages approximatives.
+Guchapa | Autochtones (nation non précisée) | Cholame (Californie) | 1804 | s. p. | Chef de toutes les rancherías de la région de Cholam ; arrêté après une vive résistance, il promet de ramener les fugitifs chrétiens et laisse son fils en otage.
+Malaca | Autochtones (nation non précisée) | Solano (comté) | 1817 | 92 | Chef des Suisunes ; attaqués, les siens mettent le feu aux huttes et aux temescales où ils s'étaient réfugiés et y périssent.

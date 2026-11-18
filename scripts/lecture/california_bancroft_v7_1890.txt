@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Bancroft, History of California, vol. VII (1890)
+# ref: H. H. Bancroft, History of California, vol. VII (1890)
+# lien: https://archive.org/details/worksofhuberthow24bancrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/worksofhuberthow24bancrich/mode/1up?q={q}
+# Pages approximatives.
+Juan Antonio | Autochtones (nation non précisée) | San Bernardino | 1851 | 199, 31 | Chef des puissants Cahuillas et alcalde de son district ; il poursuit et tue la bande d'Irving, puis capture Antonio Garra pour prouver sa loyauté.
+Antonio Garra | Autochtones (nation non précisée) | San Luis Rey (Californie) | 1851 | 31 | Chef de San Luis Rey qui déclare la guerre en se vantant d'avoir trois mille guerriers à son signal ; livré par Juan Antonio.
+Pocatello | Shoshones | Bear River (massacre de 1863) | 1863 | 469 | Le colonel Connor attaque les Shoshones de Pocatello, accusés de nombreux meurtres d'émigrants, et en fait un grand carnage.
