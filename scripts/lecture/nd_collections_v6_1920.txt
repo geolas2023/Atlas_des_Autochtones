@@ -1,0 +1,14 @@
+# corpus: Lecture intégrale · Collections of the State Historical Society of North Dakota, vol. VI (1920) : The Arikara Narrative
+# ref: O. G. Libby (éd.), The Arikara Narrative of the Campaign against the Hostile Dakotas, June 1876, Collections of the State Historical Society of North Dakota, vol. VI, Bismarck, 1920
+# lien: https://archive.org/details/collectionsofsta06stat_0/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofsta06stat_0/mode/1up?q={q}
+# Pages approximatives.
+White Shield, Crow's Breast, Son-of-the-Star | Arikaras; Gros-Ventres; Mandans | Fort Berthold | 1866 | 42-43 | Au conseil, White Shield parle le premier pour les Arikaras et Crow's Breast (Crow Gizzard), chef hidatsa, le second ; Pierre Garreau interprète pour les trois nations.
+Soldier, Bob-tailed Bull | Arikaras | Fort Abraham Lincoln (Dakota du Nord) | 1876-05 | 55-56 | Soldier et Bob-tailed Bull rencontrent Custer dans sa tente, Gérard interprétant : Bob-tailed Bull est nommé chef des éclaireurs (trois galons) et Soldier second (deux galons).
+Young Hawk, Strikes Two, Red Bear, Little Sioux, Enemy Heart, Standing Soldier | Arikaras | Fort Abraham Lincoln (Dakota du Nord) | 1876 | 50 | Avec Young Hawk s'enrôlent trente autres Arikaras, dont Strikes Two, Red Bear, Little Sioux, Enemy Heart, Standing Soldier et Horns-in-Front, père de Young Hawk.
+Bloody Knife, Bob-tailed Bull, Soldier, Strikes Two, Stabbed | Arikaras | Little Bighorn | 1876-06-25 | 82-131 | Les éclaireurs arikaras de Custer à la Little Bighorn : Bloody Knife et Bob-tailed Bull y sont tués ; Red Star, Boy Chief, Strikes Two, Little Sioux, One Feather, Stabbed, Strikes-the-Lodge et Soldier ramènent des chevaux dakotas.
+Red Star | Arikaras | Little Bighorn | 1876 | 57-121 | Récit de Red Star sur la marche, la mission spéciale des éclaireurs et la bataille.
+Robert Jackson, Ca-roo, Bouyer (Ka-pesh) | Pieds-Noirs; Sioux; Métis | Little Bighorn | 1876 | 66, 131, 158 | Robert Jackson, Métis pied-noir, Ca-roo, interprète métis dakota, et Mitch Bouyer (Ka-pesh), Métis, font partie des éclaireurs et interprètes de l'expédition.
+One Stab | Sioux | Black Hills | 1874 | 20 | One Stab, chef d'une bande dakota, est retenu comme guide et otage dans le camp de Custer après la fuite de son village.
+Soldier | Arikaras; Mandans | Fort Clark | 1831 | 174-186 | Soldier, né en 1831 dans un camp d'hiver le jour d'un combat entre Arikaras et Yanktonais, vit au village d'en haut des Mandans puis vingt-quatre ans au village du fort Clark ; il épouse une Arikara à vingt ans et sera fait chef par les Arikaras en 1904.
+One Feather | Arikaras; Pawnees | Fort Clark | 1832 | 203 | One Feather, né en 1832 au pays des Pawnees pendant la migration arikara vers le sud, devient guerrier au fort Clark sous le commandement de Soldier.

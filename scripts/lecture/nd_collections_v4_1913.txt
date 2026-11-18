@@ -1,0 +1,12 @@
+# corpus: Lecture intégrale · Collections of the State Historical Society of North Dakota, vol. IV (1913)
+# ref: Collections of the State Historical Society of North Dakota, vol. IV, Bismarck, 1913
+# lien: https://archive.org/details/collectionsofsta04stat_0/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofsta04stat_0/mode/1up?q={q}
+# Pages approximatives.
+= Métis de Pembina | Métis | Pembina | 1823 | 249 | Environ 350 personnes, dont les deux tiers de Métis, vivent à Pembina dans une soixantaine de cabanes de rondins.
+= Métis venus de la rivière Rouge | Métis | Pembina | 184X | 287 | Plus de cinq cents Métis quittent la colonie de la rivière Rouge pour Pembina, et quelque 120 personnes pour Portage la Prairie.
+= Métis britanniques | Métis | Pembina | 1845 | 256 | Le capitaine Sumner avertit les Métis britanniques qu'ils ne pourront plus chasser le bison en territoire américain.
+= Métis de la rivière Rouge | Métis | Fort Garry | 1846 | 282-290 | Les Métis posent par écrit à la Compagnie leurs questions sur leur droit, « comme natifs du pays », de chasser et vendre les fourrures, d'en recevoir de leurs parents autochtones ; une vingtaine d'entre eux écrivent au comité de Londres.
+= Saulteux, Métis | Anishinaabés; Métis | Pembina | 1851 | 302 | Traité entre les États-Unis et les Autochtones et Métis qui revendiquent le haut de la vallée de la rivière Rouge, pour l'achat de leurs terres.
+= Descendants de traiteurs français | Métis; Anishinaabés | Fort Douglas | 1816 | 481 | Le rapport Coltman note que des descendants d'anciens traiteurs français vivaient parmi les Autochtones et étaient devenus chefs sur la rivière Rouge quand les traiteurs revinrent après la Conquête.
+= Métis du Nord-Ouest | Métis | Pembina | 1816 | 500-504 | Robertson trouve à Pembina les Canadiens libres et les Métis changés depuis l'automne ; Bostonnais Pangman et d'autres Métis sont envoyés prisonniers au fort Douglas.

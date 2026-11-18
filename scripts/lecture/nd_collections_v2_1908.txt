@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Collections of the State Historical Society of North Dakota, vol. II (1908)
+# ref: Collections of the State Historical Society of North Dakota, vol. II, Bismarck, 1908
+# lien: https://archive.org/details/collectionsofsta02stat_0/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofsta02stat_0/mode/1up?q={q}
+# Pages approximatives.
+Cappenakia, La-bi-na-shany | Anishinaabés | Turtle River | 1812 | 118 | Cappenakia et La-bi-na-shany, principaux chefs des gens du pays, rapportent à McLeod que Toussaint Vaudry et Bonhomme Montour les ont prévenus qu'ils deviendraient esclaves s'ils laissaient la colonie de Selkirk s'établir sur la rivière Rouge.
+= Saulteaux | Anishinaabés; Sioux | Turtle Mountain | 1813~ | 129 | Une nuit, un parti de Sioux attaque un campement saulteux et tue trente-trois des trente-six guerriers ; les trois survivants se réfugient au poste de Turtle Mountain.
+= Sioux | Sioux | Fort La Framboise (Dakota du Sud) | 1863-06-26 | 275 | Au poste de Frank La Framboise, on décharge les annuités ; les Sioux, peints et armés, sont assis en groupes silencieux et l'on craint des troubles en amont.
+= Femme de Culbertson, Sioux | Autochtones; Sioux | Fort Pierre | 1863 | 278 | Alexander Culbertson et sa femme autochtone avertissent le capitaine La Barge qu'un parti de guerre sioux qui feint l'amitié sur la rive prépare une attaque.
+= Sissetons et éclaireurs métis | Sioux; Métis | Fort Wadsworth (Dakota du Sud) | 1864-07 | 424 | L'expédition Fisk atteint un camp d'éclaireurs métis et de Sioux sissetons, où se trouvent le major Brown et les deux Renville, sur le futur site du fort Wadsworth.
+Hole-in-the-Day, Enmegahbowh | Anishinaabés | Gull Lake (Minnesota) | 1862-08 | 484-486 | Hole-in-the-Day, chef principal des Saulteaux du Mississippi, annonce en conseil qu'il s'est allié à Little Crow pour chasser les Blancs ; Enmegahbowh, prêtre ojibwé, prévient les autorités.
