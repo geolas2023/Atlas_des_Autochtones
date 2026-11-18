@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Hall, History of the State of Colorado, vol. II (1890)
+# ref: Frank Hall, History of the State of Colorado, vol. II (1890)
+# lien: https://archive.org/details/historyofstateof02hall/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofstateof02hall/mode/1up?q={q}
+# Pages approximatives.
+Ouray | Utes | Agence de Los Pinos (Colorado) | 1873 | 187-191 | Grand vieux chef des Utes qui retient les siens contre les intrus du San Juan et explique au gouverneur par lettre pourquoi il accepte le traité modifié.

@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · History of Clear Creek and Boulder Valleys, Colorado (1880)
+# ref: History of Clear Creek and Boulder Valleys, Colorado (1880)
+# lien: https://archive.org/details/historyofclearcr00olba/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofclearcr00olba/mode/1up?q={q}
+# Pages approximatives.
+Johnson | Utes | Agence de White River (Meeker, Colorado) | 1879 | 131 | Chef ute qui a violemment agressé l'agent Meeker peu avant le soulèvement ; il prête ensuite un serment pittoresque devant la commission.
+= Quatre chefs de White River | Utes | Denver (Colorado) | 1879 | 124 | Ils rendent visite au gouverneur Pitkin à Denver.

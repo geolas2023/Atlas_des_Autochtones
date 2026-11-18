@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · New Mexico Historical Review, vol. II (1927)
+# ref: New Mexico Historical Review, vol. II (1927)
+# lien: https://archive.org/details/newmexicohistori02univrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/newmexicohistori02univrich/mode/1up?q={q}
+# Pages approximatives.
+Manuelito | Navajos (Diné) | Fort Defiance (Arizona) | 1869 | 208 | Chef navajo, ami fidèle de l'équipe d'arpenteurs de Pradt, grâce à qui la réserve est arpentée.

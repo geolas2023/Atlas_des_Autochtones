@@ -153,4 +153,13 @@ L = {
     'Ojo del Oso (Nouveau-Mexique)': (-108.5, 35.47, 'a', "Ojo del Oso, près de l'actuel Fort Wingate (Nouveau-Mexique)"),
     'Picuris (Nouveau-Mexique)': (-105.73, 36.2, 'c', 'Pueblo de Picuris (Nouveau-Mexique)'),
     'Village pawnee de la Republican (Kansas)': (-97.95, 39.95, 'a', 'Village pawnee de la Republican, comté de Republic (Kansas)'),
+    'Fort Stanton (Nouveau-Mexique)': (-105.57, 33.49, 'c', 'Fort Stanton (Nouveau-Mexique)'),
+    'San Carlos (Arizona)': (-110.45, 33.35, 'c', 'Agence de San Carlos (Arizona)'),
+    'Chloride (Nouveau-Mexique)': (-107.68, 33.34, 'c', 'Chloride (Nouveau-Mexique)'),
+    'Fort Defiance (Arizona)': (-109.08, 35.74, 'c', 'Fort Defiance (Arizona)'),
+    'Agence de Los Pinos (Colorado)': (-107.0, 38.25, 'h', 'Agence de Los Pinos des Utes (Colorado)'),
+    'Embouchure de la White River (Utah)': (-109.55, 40.07, 'a', 'Embouchure de la White River, près de la réserve Uintah (Utah)'),
+    'Sand Creek (Colorado)': (-102.5, 38.54, 'c', 'Sand Creek (Colorado)'),
+    'Agence de White River (Meeker, Colorado)': (-107.9, 40.04, 'a', 'Agence de White River, près de Meeker (Colorado)'),
+    'Harrodsburg (Kentucky)': (-84.84, 37.76, 'c', 'Harrodsburg (Kentucky)'),
 }

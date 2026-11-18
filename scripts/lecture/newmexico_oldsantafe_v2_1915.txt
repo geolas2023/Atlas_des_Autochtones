@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Old Santa Fe, vol. II (1915)
+# ref: Old Santa Fe: A Magazine of History, Archaeology, Genealogy and Biography, vol. II, Santa Fe, Old Santa Fe Press, 1914-1915
+# lien: https://archive.org/details/oldsantafemagazi02unse/page/{page}/mode/1up
+# recherche: https://archive.org/details/oldsantafemagazi02unse/mode/1up?q={q}
+# Pages approximatives.
+Luis Tupatu | Pueblos | Isleta (Nouveau-Mexique) | 1681-12-23 | 389 | Chef supérieur de tous les révoltés, qui interpelle à minuit les gens d'Isleta avec une troupe montée.
+José González | Pueblos | Santa Fe | 1837 | 173 | Chef du pueblo de Taos proclamé gouverneur du territoire par les insurgés grâce à sa nombreuse parenté et à ses partisans autochtones.
+= Chefs navajos convoqués | Navajos (Diné) | Santo Domingo (Nouveau-Mexique) | 1844-03-21 | 164 | Date fixée pour conclure la paix avec les chefs navajos en conseil à Santo Domingo.

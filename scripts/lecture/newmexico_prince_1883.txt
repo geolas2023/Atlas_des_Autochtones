@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Prince, Historical Sketches of New Mexico (1883)
+# ref: L. Bradford Prince, Historical Sketches of New Mexico from the Earliest Records to the American Occupation, New York, Leggat Brothers, 1883
+# lien: https://archive.org/details/histnewmexico00prin/page/{page}/mode/1up
+# recherche: https://archive.org/details/histnewmexico00prin/mode/1up?q={q}
+# Pages approximatives.
+= Cacique des pueblos moquis | Pueblos | Hopi villages | 1748 | 38 | Le P. Menchero l'amène avec plus de trois cent cinquante convertis pour fonder un pueblo vers le rio Puerco.
+Miguel | Pueblos | Hopi villages | 1692 | 211 | Chef qui ordonne aux siens de déposer les armes et de recevoir les Espagnols de Vargas en frères.
+Antonio | Pueblos | Hopi villages | 1692 | 211 | Chef de Walpi, principal orateur du grand conseil des villages moquis réuni à l'annonce de la lettre de Vargas.

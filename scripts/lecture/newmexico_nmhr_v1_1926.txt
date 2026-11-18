@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · New Mexico Historical Review, vol. I (1926)
+# ref: New Mexico Historical Review, vol. I (1926)
+# lien: https://archive.org/details/newmexicohistori01univrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/newmexicohistori01univrich/mode/1up?q={q}
+# Pages approximatives.
+Bigotes | Pueblos | Tiguex (Bernalillo) | 1540 | 46 | Chef moustachu de Cicuyé, mis aux fers quand sa tribu ne peut produire les bracelets d'or que le Turc l'accuse d'avoir volés.
