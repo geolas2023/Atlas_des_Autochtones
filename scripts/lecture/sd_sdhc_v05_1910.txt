@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · South Dakota Historical Collections, vol. V (1910)
+# ref: South Dakota Historical Collections, vol. V, Pierre, State Historical Society, 1910
+# lien: https://archive.org/details/southdakotahisto5191sout/page/{page}/mode/1up
+# recherche: https://archive.org/details/southdakotahisto5191sout/mode/1up?q={q}
+# Pages approximatives.
+= Bande des Fool Soldiers (Martin Charger et ses compagnons) | Sioux (Dakotas, Lakotas, Nakotas) | Mobridge (Dakota du Sud) | 1862-11-18 | 350 | Partent de Fort Pierre le lendemain de l'arrivée de Galpin et rachètent les captives du lac Shetak au camp santee, à l'emplacement de Mobridge.
+= Captives et camp santee de Beaver Creek | Sioux (Dakotas, Lakotas, Nakotas) | Beaver Creek (comté d'Emmons, Dakota du Nord) | 1862-11 | 285, 350 | Camp santee qui retient deux femmes et six enfants capturés le 21 août au lac Shetak.
+= Two Bears (Ma-to-no-poh), Black Cat Fish, fils de Bear's Rib et Long Soldier | Sioux (Dakotas, Lakotas, Nakotas) | Fort Rice (Dakota du Nord) | 1865 | 331 | Chefs les plus notables venus parlementer près du fort, un an après avoir combattu les troupes pendant trois jours.
+= Colonie sissetonne du comté de Grant | Sioux (Dakotas, Lakotas, Nakotas) | Comté de Grant (Dakota du Sud) | 1878 | 91 | Une cinquantaine de familles sissetonnes, seuls habitants du comté de Grant avec quelques colons blancs.
