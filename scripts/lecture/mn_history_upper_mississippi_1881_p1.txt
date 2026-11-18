@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · History of the Upper Mississippi Valley (1881), 1re partie
+# ref: N. H. Winchell, Edward D. Neill, J. Fletcher Williams et Charles S. Bryant, History of the Upper Mississippi Valley, Minneapolis, Minnesota Historical Company, 1881
+# lien: https://archive.org/details/historyofuppermi01winc/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofuppermi01winc/mode/1up?q={q}
+# Pages approximatives.
+Mission de Pembina | Anishinaabés (Ojibwés, Saulteux); Métis | Pembina | 1849 | 193 | Le prêtre G. A. Belcourt, premier missionnaire auprès des Ojibwés et des Métis des environs de Pembina, y fonde une mission après avoir quitté la colonie de Selkirk.
