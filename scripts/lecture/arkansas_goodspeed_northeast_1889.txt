@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Biographical and Historical Memoirs of Northeast Arkansas (Goodspeed, 1889)
+# ref: Biographical and Historical Memoirs of Northeast Arkansas, Chicago, Goodspeed, 1889
+# lien: https://archive.org/details/biographicalhist02good/page/{page}/mode/1up
+# recherche: https://archive.org/details/biographicalhist02good/mode/1up?q={q}
+# Pages approximatives.
+= Corn Meal, John East, Moonshine, John Big Knife et Chuck-alee | Autochtones (nation non précisée) | Osceola (Arkansas) | 1837 | 452 | Principaux Autochtones qui occupaient le pays du lac quand un pionnier s'y établit en 1837, près de la colonie de Chickasawba.

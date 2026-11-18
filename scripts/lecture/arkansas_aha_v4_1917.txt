@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Publications of the Arkansas Historical Association, vol. IV (1917)
+# ref: John Hugh Reynolds (éd.), Publications of the Arkansas Historical Association, vol. IV, Conway, 1917
+# lien: https://archive.org/details/publications04arka/page/{page}/mode/1up
+# recherche: https://archive.org/details/publications04arka/mode/1up?q={q}
+# Pages approximatives.
+Young Clermont (Clermont le jeune) | Osages | Village de Clermont (Osages de l'Arkansas) | 1832 | s. p. | Chef du parti osage rencontré par Albert Pike, de fort belle allure, qui lui offre de la viande en abondance.

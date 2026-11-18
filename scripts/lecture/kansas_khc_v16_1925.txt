@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Collections of the Kansas State Historical Society, vol. XVI (1925)
+# ref: Collections of the Kansas State Historical Society, vol. XVI (1923-1925), Topeka, 1925
+# lien: https://archive.org/details/collectionsofkan1619kans/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofkan1619kans/mode/1up?q={q}
+# Pages approximatives.
+= Chefs de la nation osage | Osages | Council Grove | 1825-08-10 | 529 | Les commissaires américains les rencontrent en conseil au gué de la Neosho, nommé ce jour-là Council Grove, pour un traité de droit de passage.
+Non-on-da-gum-un | Lenapes (Delawares, Loups) | Réserve delaware (Kansas) | 1842 | 10 | Chef delaware mort après près de trois mois de maladie.
+Char-a-cha-ush (le Chef rusé) | Pawnees | Villages panis (Platte) | 1844 | 284, 296 | Chef principal des Grands Pawnees de la rive sud de la Platte, qui répond au major Wharton en conseil.
+Ste-de-la-we-it (Celui qui a tué beaucoup) | Pawnees | Villages panis (Platte) | 1844 | 286 | Chef de la bande des Tapages, du village d'en face, qui prend la parole au conseil.

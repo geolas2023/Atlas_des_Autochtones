@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Reynolds, Makers of Arkansas History (1905)
+# ref: John Hugh Reynolds, Makers of Arkansas History, New York, Silver, Burdett & Co., 1905
+# lien: https://archive.org/details/makersofarkansas01reyn/page/{page}/mode/1up
+# recherche: https://archive.org/details/makersofarkansas01reyn/mode/1up?q={q}
+# Pages approximatives.
+= Dry Man, Eagle's Bill et Tame Buffalo | Quapaws (Arkansas) | Poste des Arkansas | 181X | 60 | Chefs quapaws par l'intermédiaire desquels les États-Unis concluent leurs traités.

@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Herndon, Centennial History of Arkansas, vol. I (1922)
+# ref: Dallas T. Herndon, Centennial History of Arkansas, vol. I, Chicago et Little Rock, S. J. Clarke, 1922
+# lien: https://archive.org/details/centennialhistor0001dall/page/{page}/mode/1up
+# recherche: https://archive.org/details/centennialhistor0001dall/mode/1up?q={q}
+# Pages approximatives.
+Big Track (Grande Piste) | Osages | Three Forks | 1802~ | s. p. | Selon Lewis et Clark, vers 1802, près de la moitié des Grands Osages émigrent sous ce chef aux trois fourches de l'Arkansas : c'est l'origine de la bande de l'Arkansas.
+= Chefs des Arkansas | Quapaws (Arkansas) | Poste des Arkansas | 1753 | 98 | Appelés en conférence, ils reçoivent la promesse de la protection de la France.
