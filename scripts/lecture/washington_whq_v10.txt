@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. X (1919)
+# ref: The Washington Historical Quarterly, vol. X (1919), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor10wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor10wash/mode/1up?q={q}
+# Pages approximatives.
+Lachka-nam (Lord Nelson) | Klallams | Port Townsend | 1854 | 8 | Chef principal des Clallams ; abdique en faveur de S'Haiak.
+S'Haiak (King George) | Klallams | Port Townsend | 1854 | 8 | Nouveau chef principal des Clallams.
+Tonasket | Okanagans | Okanogan (comté, Washington) | 1860 | 170 | Chef okanogan ; conduit devant toute la tribu le procès d'Antoine et le fouette.
+Kwuss-ka-nam (George Snatelum) | Snoqualmies et Snohomishs | Tulalip | 1855 | 211 | Chef skagit, signataire du traité Stevens du 22 janvier 1855.
+Joseph | Nimíipuu (Nez-Percés) | Asotin (Washington) | 187X | 201 | Vécut des années sur le Joseph Creek avant la guerre de 1877.

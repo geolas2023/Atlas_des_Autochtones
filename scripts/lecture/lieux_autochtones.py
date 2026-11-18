@@ -192,4 +192,6 @@ L = {
     'Nauvoo (Illinois)': (-91.38, 40.55, 'h', 'Nauvoo (Illinois)'),
     'Corn Creek (Kanosh, Utah)': (-112.43, 38.8, 'h', 'Corn Creek (Kanosh, comté de Millard, Utah)'),
     'Fourche sud de la rivière Rouge (Texas)': (-100.3, 34.6, 'h', 'Fourche sud de la rivière Rouge (Texas)'),
+    'White Salmon (Washington)': (-121.49, 45.73, 'h', 'White Salmon (Washington)'),
+    'Île Tatoosh (cap Flattery)': (-124.74, 48.39, 'h', 'Île Tatoosh (cap Flattery, Washington)'),
 }

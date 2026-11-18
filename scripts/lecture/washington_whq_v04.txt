@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. IV (1913)
+# ref: The Washington Historical Quarterly, vol. IV (1913), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor04wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor04wash/mode/1up?q={q}
+# Pages approximatives.
+= Chef okanagan | Okanagans | Fort Okanagan | 1811 | 8 | Avec soixante hommes, offre saumon et racines à David Thompson.
+= Chef nez-percé | Nimíipuu (Nez-Percés) | Rivière Lewis (Nez-Percés) | 1811 | 9 | Montre une petite médaille et un drapeau américain reçus de Lewis et Clark.
+Seattle | Autochtones (nation non précisée) | Seattle | 1912 | 51 | Statue du chef inaugurée le 13 novembre 1912 par son arrière-petite-fille.
+Makiah | Klickitats | White Salmon (Washington) | 1855 | 114 | Ancien chef klickitat, ami des Blancs, contraint de quitter les siens pendant la guerre de 1855-1856.
+Le Borgne | Gros-Ventres (Aaniiih) | Villages de la Knife | 1811 | 171 | Avec Black Shoe, chef minetaree invité à dîner au fort.
+Black Shoe | Gros-Ventres (Aaniiih) | Villages de la Knife | 1811 | 171 | Chef minetaree.

@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. V (1914)
+# ref: The Washington Historical Quarterly, vol. V (1914), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor05wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor05wash/mode/1up?q={q}
+# Pages approximatives.
+= Chefs | Autochtones (nation non précisée) | Spokane House | 1825 | 99 | Avisés du déménagement du fort et priés de prêter des chevaux.
+= Vieux chef de la Sampoile | Autochtones (nation non précisée) | Fort Colville | 1825 | 104 | Apporte vingt saumons frais aux gens du fort.
+= Vieux chef tête-plate | Salish (Têtes-Plates) | Spokane House | 1825 | 106 | Accompagne le traiteur à travers les plaines des Cœurs d'Alène.
+Tatoosh | Autochtones (nation non précisée) | Île Tatoosh (cap Flattery) | 1788 | 134 | Chef dont Meares donne le nom à l'île.
+Casanov | Autochtones (nation non précisée) | Fort Vancouver | 182X | 193 | Chef puissant ; la princesse divorcée devient sa femme favorite.
