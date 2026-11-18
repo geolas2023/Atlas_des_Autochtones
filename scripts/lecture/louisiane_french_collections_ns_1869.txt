@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · French, Historical Collections of Louisiana and Florida, nouvelle série (1869)
+# ref: B. F. French (éd.), Historical Collections of Louisiana and Florida, new series, New York, J. Sabin & Sons, 1869
+# lien: https://archive.org/details/historicalcollec00fren_1/page/{page}/mode/1up
+# recherche: https://archive.org/details/historicalcollec00fren_1/mode/1up?q={q}
+# Pages approximatives.
+= Chefs natchitoches | Natchitoches | Natchitoches | 1700 | 73 | Ils chantent le calumet aux Français remontés à soixante-dix lieues sur la rivière Rouge.
+= Chefs des Mobiliens, Tohomés et Gens des Fourches | Mobiliens et Tohomés | Fort Louis de la Mobile | 1702 | 78 | Les chefs de ces nations et des tribus voisines viennent au fort conclure la paix et chanter le calumet.
+= Tête du frère du grand chef, dit la Flèche | Natchez | Fort Rosalie (Natchez) | 1716 | 130 | Les Natchez apportent enfin à Bienville la tête du frère du grand chef, l'un des meurtriers.

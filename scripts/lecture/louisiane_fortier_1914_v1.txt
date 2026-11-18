@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Fortier, Louisiana: Comprising Sketches, vol. I (1914)
+# ref: Alcée Fortier, Louisiana: comprising sketches of parishes, towns, events, institutions, and persons, vol. 1, Atlanta, Southern Historical Association, 1914
+# lien: https://archive.org/details/louisianacompris01fort/page/{page}/mode/1up
+# recherche: https://archive.org/details/louisianacompris01fort/mode/1up?q={q}
+# Pages approximatives.
+= Augliakabee et autres chefs chicachas | Chickasaws (Chicachas) | Memphis (Tennessee) | 1795 | 167, 206 | Par traité conclu sur place avec Gayoso, ils cèdent aux Espagnols un terrain aux Chickasaw Bluffs pour un poste militaire.
+Piamingo | Chickasaws (Chicachas) | Memphis (Tennessee) | 1797 | 206 | Chef de la majorité des Chicachas, qui se range du côté des Américains contre la faction de Wolf's Friend.
+Wolf's Friend | Chickasaws (Chicachas) | Memphis (Tennessee) | 1797 | 206 | Meneur de la faction chicacha hostile à l'occupation américaine des terres cédées aux Espagnols.

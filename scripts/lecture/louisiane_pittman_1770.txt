@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Pittman, The Present State of the European Settlements on the Mississippi (1770)
+# ref: Philip Pittman, The Present State of the European Settlements on the Mississippi, Londres, J. Nourse, 1770
+# lien: https://archive.org/details/presentstateofeu00pitt/page/{page}/mode/1up
+# recherche: https://archive.org/details/presentstateofeu00pitt/mode/1up?q={q}
+# Pages approximatives.
+= Natchez retranchés | Natchez | Fort natchez de Sicily Island (Louisiane) | 173X | 58 | Avec leurs chefs, les Natchez décident de se défendre dans un fort bâti près d'un lac communiquant avec le bayou d'Argent, à l'ouest de Natchez, contre une armée de quinze cents hommes.

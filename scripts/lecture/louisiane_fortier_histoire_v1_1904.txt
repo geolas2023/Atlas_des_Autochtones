@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Fortier, A History of Louisiana, vol. I (1904)
+# ref: Alcée Fortier, A History of Louisiana, vol. 1 : Early Explorers and the Domination of the French, 1512-1768, New York, Manzi, Joyant & Co., 1904
+# lien: https://archive.org/details/historyoflouisia01fortuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyoflouisia01fortuoft/mode/1up?q={q}
+# Pages approximatives.
+Tuscaluza | Autochtones (nation non précisée) | Mabila (Alabama) | 1540 | s. p. | Chef puissant, grand et d'allure farouche, dont De Soto s'empare sous prétexte de l'honorer.
+= Empereur des Kaouytas | Muscogees (Creeks) | Coweta (Creeks) | 1757 | s. p. | Chef chez qui des fugitifs relâchent leur guide Beaudreau avec un certificat.

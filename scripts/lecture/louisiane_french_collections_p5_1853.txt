@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · French, Historical Collections of Louisiana, partie V (1853)
+# ref: B. F. French (éd.), Historical Collections of Louisiana, part V : Historical Memoirs from 1687 to 1770, New York, Lamport, Blakeman & Law, 1853
+# lien: https://archive.org/details/cihm_36231/page/{page}/mode/1up
+# recherche: https://archive.org/details/cihm_36231/mode/1up?q={q}
+# Pages approximatives.
+Serpent Piqué | Natchez | Natchez | 1723 | 48-49 | Alors grand chef, il présente le calumet de paix au général et rejette les hostilités sur les gens du village de la Pomme Blanche.
+= Chef des Tonicas | Tunicas; Natchez | Natchez | 1723 | 50-55 | Chef chrétien et bon guerrier qui se joint aux Français ; il mène la marche et échange des coups de feu avec le chef natchez dit le Petit Soleil.
+Soulier Rouge (Redshoe) | Choctaws (Chactas); Natchez | Natchez | 1723 | 54 | Chef du petit parti chacta qui suit l'armée et capture quatre femmes en fuite.
+Moncachtapé | Yazous et Koroas | Rivière Yazoo (Mississippi) | 1724 | 122 | Autochtone des environs des Yazous surnommé l'Interprète, interrogé par Le Page du Pratz sur ses voyages.

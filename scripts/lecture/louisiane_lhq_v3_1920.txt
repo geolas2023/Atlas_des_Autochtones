@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · The Louisiana Historical Quarterly, vol. III (1920)
+# ref: The Louisiana Historical Quarterly, vol. 3, nos 1-4, La Nouvelle-Orléans, Louisiana Historical Society, 1920
+# lien: https://archive.org/details/per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1920-01_3_1/page/{page}/mode/1up
+# recherche: https://archive.org/details/per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1920-01_3_1/mode/1up?q={q}
+# Pages approximatives.
+Chef de la Farine (The Flour) | Natchez | Natchitoches | 1731 | 1 | Échappé avec environ cent cinquante guerriers, il remonte la Catahoula ; tué avec quatre-vingt-onze guerriers et trois autres chefs devant Natchitoches.
+Billy Bowlegs | Séminoles | New Orleans | 1858 | 3 | Le célèbre chef séminole passe par le New Canal avec trois cents de ses guerriers de la guerre des Everglades.

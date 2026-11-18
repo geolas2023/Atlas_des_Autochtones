@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Publications of the Louisiana Historical Society, vol. IV (1908)
+# ref: Publications of the Louisiana Historical Society, vol. IV, La Nouvelle-Orléans, Louisiana Historical Society, 1908
+# lien: https://archive.org/details/publicationslou01socigoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/publicationslou01socigoog/mode/1up?q={q}
+# Pages approximatives.
+= Chefs chicachas et chactas | Chickasaws (Chicachas); Choctaws (Chactas) | Natchez | 1792-11-09 | 135 | Traité conclu à Natchez avec la nation chicacha, le chef de la nation chacta et d'autres chefs et guerriers.

@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Fortier, A History of Louisiana, vol. II (1904)
+# ref: Alcée Fortier, A History of Louisiana, vol. 2 : The Spanish Domination and the Cession to the United States, 1769-1803, New York, Manzi, Joyant & Co., 1904
+# lien: https://archive.org/details/historyoflouisia02fortuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyoflouisia02fortuoft/mode/1up?q={q}
+# Pages approximatives.
+Taskatapo | Choctaws (Chactas) | Rivière Yazoo (Mississippi) | 1788 | 120 | Oncle du roi des Chactas, homme de grande influence, présent à la rencontre avec le capitaine de La Villebeuvre au village des Yazous.
+= Tranchimastabe, Mingohuma et Chetonaque | Choctaws (Chactas) | Rivière Yazoo (Mississippi) | 1788 | 120 | Trois chefs chactas qui répondent au discours de La Villebeuvre.

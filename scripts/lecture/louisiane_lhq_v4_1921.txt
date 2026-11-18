@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · The Louisiana Historical Quarterly, vol. IV (1921)
+# ref: The Louisiana Historical Quarterly, vol. 4, nos 1-4, La Nouvelle-Orléans, Louisiana Historical Society, 1921
+# lien: https://archive.org/details/per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1921-01_4_1/page/{page}/mode/1up
+# recherche: https://archive.org/details/per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1921-01_4_1/mode/1up?q={q}
+# Pages approximatives.
+Achenoya | Atakapas | Poste des Attakapas | 1803~ | 4 | Chef des Attakapas, mandaté pour vendre une terre dont un acte de vente est produit dans les réclamations foncières.
+Rinemo | Atakapas | Poste des Attakapas | 1803~ | 4 | Chef du village attakapa dit « Lamonier », vendu par lui à Fuselier de la Claire avec l'autorisation du gouverneur.

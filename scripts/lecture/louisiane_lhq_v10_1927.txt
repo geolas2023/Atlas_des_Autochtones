@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · The Louisiana Historical Quarterly, vol. X (1927)
+# ref: The Louisiana Historical Quarterly, vol. 10, nos 1-4, La Nouvelle-Orléans, Louisiana Historical Society, 1927
+# lien: https://archive.org/details/per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1927-01_10_1/page/{page}/mode/1up
+# recherche: https://archive.org/details/per_louisiana-historical-quarterly_the-louisiana-historical-quarterly_1927-01_10_1/mode/1up?q={q}
+# Pages approximatives.
+= Vingt-cinq chefs caddos | Caddos et Hasinais | Agence caddo (Shreveport) | 1835-07-01 | 4 | Traité de cession signé avec le commissaire Jehiel Brooks ; les chefs réservent une section de terre, futur site de Shreveport, à leur ami et interprète métis Larkin Edwards.

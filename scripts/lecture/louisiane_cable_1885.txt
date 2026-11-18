@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Cable, The Creoles of Louisiana (1885)
+# ref: George W. Cable, The Creoles of Louisiana, Londres, John C. Nimmo, 1885
+# lien: https://archive.org/details/creolesoflouisia00cabluoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/creolesoflouisia00cabluoft/mode/1up?q={q}
+# Pages approximatives.
+= Chefs natchez à La Nouvelle-Orléans | Natchez | New Orleans | 1729 | 31 | Périer réunit leurs chefs en conseil ; ils repartent en protestant d'une amitié et d'une loyauté qui le trompent.
