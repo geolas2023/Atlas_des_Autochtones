@@ -1,0 +1,24 @@
+# corpus: Lecture intégrale · Collections of the State Historical Society of Wisconsin, vol. XV (1900)
+# ref: Collections of the State Historical Society of Wisconsin, vol. XV, éd. Reuben G. Thwaites, Madison, 1900
+# lien: https://archive.org/details/collectionsstate15stat_0/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsstate15stat_0/mode/1up?q={q}
+# Pages approximatives.
+Wabisipine et Le Tabac noir | Autochtones (nation non précisée) | Kaukauna | 1793 | 1-3 | Cèdent à Dominique Ducharme la terre du portage du Kakalin contre deux barils de rhum; le vieux Wabisipine, aveugle, signe par témoins; ratifications et paiements en rhum jusqu'en 1799.
+Chefs folles-avoines | Menominees (Folles-Avoines) | Green Bay | 1794-08-08 | 3-4 | Cèdent à Jacob Franks pour 999 ans une terre sur la rivière aux Renards; Thomas Caron (Tomah), alors chef principal des Ménomines, signe par sa marque.
+Achoabenie, son fils Etouailsique et son gendre Metcheshakie | Autochtones (nation non précisée) | Green Bay | 1807-01-03 | 4-6 | Cèdent leur défrichement à Jean Bte Lemoine, qui s'engage à leur bâtir une maison de trente pieds.
+Chefs ménomines (bail Arndt) | Menominees (Folles-Avoines) | Green Bay | 1826-08-25 | 16-17 | Oaskash (la Griffe), Oh-ke-me-ne-shaw (Grande Vague) et Sthai-ki-tok (Fait-peur-à-tous) permettent à John P. Arndt un moulin sur la rivière Paissacue, contre bois, mouture gratuite et 15 dollars par an.
+Chefs ménomines (moulin de Little Chute) | Menominees (Folles-Avoines) | Little Chute (Wisconsin) | 1831-04-22 | 11-13 | Permettent un moulin à Irwin, Grignon et Ellis contre sciage, mouture et une rente annuelle de poudre, plomb, tabac et farine.
+Chefs ménomines (île Doty) | Menominees (Folles-Avoines) | Île Doty (lac Winnebago) | 1831-08-15 | 14-15 | Permettent à James D. Doty d'occuper l'île et d'y bâtir des moulins.
+Chefs ménomines (moulin Whitney) | Menominees (Folles-Avoines) | Wisconsin Rapids | 1831-08-16 | 9-10 | Permettent à Daniel Whitney un moulin aux rapides du haut Wisconsin contre une rente de poudre, plomb, pierres à fusil, tabac, pipes et maïs pendant dix ans.
+Osh Kush et les chefs ménomines | Menominees (Folles-Avoines) | Green Bay | 1835-08-07 | 18-19 | Accordent à John Lawe et aux Grignon un site de moulin sur la Waubunkeesippe; Amable figure parmi les signataires.
+Chefs ménomines (concession Grignon) | Menominees (Folles-Avoines) | Butte-des-Morts | 1835-10 | 19-20 | Projet de concession à Charles Grignon père, traiteur depuis plus de 25 ans et allié par mariage à la nation.
+Awishtoyou, timonier | Autochtones (nation non précisée) | Kaukauna | 1829-06 | 236 | Gouverne le bateau qui mène les invités de Green Bay à la noce de Margaret Grignon au Grand Kakalin.
+Louise Sophie Migisan Baird | Odawas (Outaouais) | Green Bay | 1833-05 | 241 | Baptisée à Menomoneeville; ses parents autochtones ajoutent à ses prénoms Migisan (Wampum).
+Village ménomine de la Grand Butte | Menominees (Folles-Avoines); Anishinaabés (Ojibwés, Saulteux) | Butte-des-Morts | 1830~ | 444-445 | Moins de 100 wigwams; maïs cultivé à la houe et riz sauvage; chasses d'hiver; villages à Winneconne, Shiocton, Shawano, etc.; beaucoup d'Ojibwés mêlés aux Ménomines.
+Black Hawk et le Prophète | Sauks | Portage (Wisconsin) | 1832-08-25~ | 442-443 | Selon Robert Grignon, ils se rendent à lui près du fort Winnebago et lui demandent de les conduire à l'agent américain.
+James Knaggs | Potawatomis | Algoma (Oshkosh) | 1835 | 441 | « Pottawattomie half-breed », six ans employé à Point Bass, rachète le traversier d'Algoma.
+Conseil ménomine du lac Poygan | Menominees (Folles-Avoines) | Lac Poygan | 1848 | 446-447 | Après quatre jours de refus, Oshkosh et les chefs signent le traité Medill, puis sont déplacés à la réserve de Shawano.
+Guide oneida d'Alexis Clermont | Haudenosaunee (Iroquois) | Green Bay | 1832 | 454 | Un Oneida accompagne toujours Clermont sur la route postale Green Bay-Chicago; gros villages autochtones à Manitowoc et Sheboygan.
+Stockbridges au camp de Calumet | Mohicans (Mahingans) | Fond du Lac (Wisconsin) | 1839-03 | 456 | Transportent des bardeaux de Stockbridge à Fond du Lac pour Daniel Whitney et partagent leur feu avec Clermont.
+Duel des fils de Sangaunauneebee et de Seebwasen | Potawatomis; Anishinaabés (Ojibwés, Saulteux) | Chicago | 1833 | 461-463 | Au paiement de Chicago, les fils de deux chefs potawatomis se battent au couteau pour la fille de Wampum, chef ojibwé de Sheboygan; tous deux meurent.
+Élèves autochtones de l'école Cadle | Haudenosaunee (Iroquois); Anishinaabés (Ojibwés, Saulteux); Sioux (Dakotas, Lakotas, Nakotas); Sauks | Green Bay | 1829/1833 | 463-464 | Parmi quelque 400 élèves, des Oneidas, Ojibwés et Sioux; en 1833, deux enfants sauks laissés par la bande de Black Hawk.
