@@ -1,0 +1,12 @@
+# corpus: Lecture intégrale · Pickett, History of Alabama (1851), vol. I
+# ref: Albert James Pickett, History of Alabama, and Incidentally of Georgia and Mississippi, vol. I, Charleston, Walker & James, 1851
+# lien: https://archive.org/details/historyofalabama01pick/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofalabama01pick/mode/1up?q={q}
+# Pages approximatives.
+Captain Ellick | Muscogees (Creeks) | Cusseta (Creeks) | 1729 | s. p. | Vieux chef de Cusseta qui épouse trois femmes uchees et attire des Uchees chez les Creeks.
+Tomochichi | Muscogees (Creeks) | Savannah (Géorgie) | 1733 | 306 | Chef de Yamacraw, où s'est établi le traiteur Musgrove, marié à la métisse Mary.
+= Chefs de plusieurs nations à la Mobile | Autochtones (nation non précisée) | Mobile | 1714 | 216 | Délégations de chefs qui fument le calumet avec Cadillac et Bienville et promettent d'abandonner les Anglais.
+= Sept Alibamons | Muscogees (Creeks) | Mobile | 1715-07 | 228 | Un grand canot porte sept Alibamons, un Anglais et le Canadien Boutin jusqu'à la Mobile.
+White Earth (Terre Blanche) | Natchez | Fort Rosalie (Natchez) | 1716 | 235 | Chef natchez désigné par les chefs emprisonnés comme instigateur du meurtre des Français.
+Bracket | Muscogees (Creeks) | Tukabatchee (Alabama) | 1759-07-27 | 84 | Vieux chef de près de cent ans interrogé par le traiteur William Balsover sur les plaques anciennes de Tukabatchee.
+Spoke-oak | Muscogees (Creeks) | Tukabatchee (Alabama) | 1836 | 85 | Chef à la tête des six hommes qui portent les plaques sacrées lors de la migration vers l'Arkansas à l'automne 1836.

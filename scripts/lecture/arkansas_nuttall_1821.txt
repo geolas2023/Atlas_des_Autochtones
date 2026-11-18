@@ -1,0 +1,15 @@
+# corpus: Lecture intégrale · Nuttall, Journal of Travels into the Arkansa Territory (1821)
+# ref: Thomas Nuttall, A Journal of Travels into the Arkansa Territory, during the Year 1819, Philadelphie, Palmer, 1821
+# lien: https://archive.org/details/journaloftravels00nutt/page/{page}/mode/1up
+# recherche: https://archive.org/details/journaloftravels00nutt/mode/1up?q={q}
+# Pages approximatives.
+Grand Barbe | Quapaws (Arkansas) | Poste des Arkansas | 1819 | 92 | Défunt chef quapaw qui portait, contre l'usage, une longue barbe ; un village d'une quinzaine de cabanes porte son nom.
+Hakatton | Quapaws (Arkansas); Caddos et Hasinais; Osages | Poste des Arkansas | 1819 | 93-94 | Chef principal des Quapaws, nommé en raison du bas âge des enfants de Grand Barbe ; il a aidé à délivrer des prisonniers et des femmes caddos enlevés par les Osages.
+Paspatoo | Quapaws (Arkansas) | Poste des Arkansas | 1819 | 96 | Chef quapaw âgé de 75 ans.
+Walter Webber | Cherokees; Métis | Dardanelle (Arkansas) | 1819 | 129 | Métis, traiteur et chef de la nation cherokee de l'Arkansas, qui vit dans l'aisance et sait lire et écrire.
+Tallantusky | Cherokees | Dardanelle (Arkansas) | 1819 | 129 | Défunt chef principal des Cherokees de l'Arkansas ; son frère rend visite à Nuttall.
+Jolly | Cherokees | Dardanelle (Arkansas) | 1819 | 130 | Chef cherokee dont on vante la parole inviolable et la générosité.
+Clermont (l'Oiseau de fer) | Osages | Village de Clermont (Osages de l'Arkansas) | 1819 | 173 | Chef principal des Osages, nommé Clermont par les Français.
+White Hair (Cheveux blancs) | Osages | Village osage (rivière Osage) | 1819 | 173 | Chef d'un village sur la rivière Osage.
+Ta-lai | Osages | Village de Clermont (Osages de l'Arkansas) | 1819 | 181 | Chef héréditaire des Osages qui rend visite à Nuttall.
+Coweta | Natchez; Muscogees (Creeks) | Village natchez de la Tallapoosa (Alabama) | 181X | 30-36 | Chef d'un petit village natchez réfugié sur la Tallapoosa, rallié aux États-Unis contre les Creeks d'en bas.

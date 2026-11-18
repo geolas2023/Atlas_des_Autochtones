@@ -66,4 +66,13 @@ L = {
     'Agence des Kansas (rivière Kansas)': (-95.4, 39.05, 'a', 'Agence des Kansas, sur la rivière Kansas'),
     'Rivière Godin (Big Lost River, Idaho)': (-113.3, 43.8, 'a', 'Rivière Godin (Big Lost River, Idaho)'),
     'Grand village des Kansas (Doniphan)': (-95.12, 39.65, 'a', 'Grand village des Kansas, près de Doniphan (Kansas)'),
+    'Montréal': (-73.55, 45.5, 'c', 'Montréal'),
+    'Tukabatchee (Alabama)': (-85.8, 32.5, 'a', 'Tukabatchee (Tookabatcha), ville creek sur la Tallapoosa (Alabama)'),
+    'Village natchez de la Tallapoosa (Alabama)': (-85.9, 33.0, 'h', 'Village natchez sur la Tallapoosa (Alabama)'),
+    'Cusseta (Creeks)': (-84.98, 32.35, 'a', 'Cusseta, ville creek sur la Chattahoochee'),
+    'Willstown (Alabama)': (-85.83, 34.45, 'a', 'Willstown, village cherokee (Alabama)'),
+    'Catoma Creek (Alabama)': (-86.35, 32.3, 'a', 'Catoma Creek, près de Montgomery (Alabama)'),
+    'Baie de Clayoquot (île de Vancouver)': (-125.9, 49.2, 'a', 'Baie de Clayoquot, île de Vancouver'),
+    'Blackbird Hill (Nebraska)': (-96.25, 42.05, 'a', 'Blackbird Hill, sur le Missouri (Nebraska)'),
+    'Pays des Crows (Wind River)': (-108.8, 43.3, 'h', 'Pays des Crows, vers la Wind River (Wyoming)'),
 }

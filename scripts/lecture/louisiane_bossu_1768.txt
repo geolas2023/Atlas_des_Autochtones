@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Bossu, Nouveaux voyages aux Indes occidentales (1768)
+# ref: Jean-Bernard Bossu, Nouveaux voyages aux Indes occidentales, Paris, Le Jay, 1768
+# lien: https://archive.org/details/nouveauxvoyagesa00boss_0/page/{page}/mode/1up
+# recherche: https://archive.org/details/nouveauxvoyagesa00boss_0/mode/1up?q={q}
+# Pages approximatives.
+Thamathélé-Mingo | Muscogees (Creeks) | Fort Toulouse (Alibamons) | 175X | s. p. | Chef (mingo) d'une tribu des Alibamons dont Bossu rapporte le discours comme preuve du talent oratoire des Autochtones.
+= Grand chef des Tonikas | Tunicas; Natchez | Village des Tunicas | 173X | 37 | Des Natchez feignent de faire la paix avec lui puis massacrent les Tonikas en commençant par leur grand chef.
+Serpent Piqué | Natchez | Natchez | 1725 | s. p. | Grand chef de guerre (généralissime) des Natchez ; sa femme favorite et d'autres victimes doivent le suivre dans la mort.
+= Akanças | Quapaws (Arkansas) | Poste des Arkansas | 175X | s. p. | Les Akanças adoptent Bossu comme guerrier et chef et lui impriment un chevreuil sur la cuisse.
+= Renards et leurs alliés sioux | Mesquakies (Renards); Sioux (Dakotas, Lakotas, Nakotas); Sauks; Kickapous | Fort de Chartres | 1752 | s. p. | Victoire des Renards, avec Sioux, Sakis et Kikapous en auxiliaires ; ils ne perdent que quatre hommes, dont un chef sioux à médaille.

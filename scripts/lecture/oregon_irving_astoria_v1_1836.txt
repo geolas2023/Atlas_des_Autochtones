@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Irving, Astoria, vol. I (1836)
+# ref: Washington Irving, Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. I, Philadelphie, Carey, Lea & Blanchard, 1836
+# lien: https://archive.org/details/astoriaoranecdo02irvigoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/astoriaoranecdo02irvigoog/mode/1up?q={q}
+# Pages approximatives.
+Comcomly | Chinooks | Cap Disappointment | 1811 | 97-98, 113 | Vieux chef chinook borgne, rusé, qui accueille les hommes du Tonquin et les ramène au navire dans son canot d'apparat.
+Nookamis | Autochtones (nation non précisée) | Baie de Clayoquot (île de Vancouver) | 1811 | 115 | Vieux chef guide, blanchi dans le commerce avec les capitaines de Nouvelle-Angleterre.
+Wash-ing-guh-sah-ba (Blackbird) | Omahas | Blackbird Hill (Nebraska) | 1800~ | 171 | Chef omaha célèbre, l'un des premiers du Missouri à traiter avec les Blancs, habile à prélever ses droits.
+Lefthanded (le Gaucher) | Arikaras | Villages arikaras | 1811-06 | 211 | Chef héréditaire du village arikara, de belle stature.
+Big Man (le Gros Homme) | Arikaras | Villages arikaras | 1811-06 | 211 | Chef de guerre arikara de taille gigantesque.

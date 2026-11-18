@@ -1,0 +1,14 @@
+# corpus: Lecture intégrale · Shea, Early Voyages Up and Down the Mississippi (1861)
+# ref: John Gilmary Shea (éd.), Early Voyages Up and Down the Mississippi, by Cavelier, St. Cosme, Le Sueur, Gravier and Guignas, Albany, Munsell, 1861
+# lien: https://archive.org/details/earlyvoyagesupdo00shea/page/{page}/mode/1up
+# recherche: https://archive.org/details/earlyvoyagesupdo00shea/mode/1up?q={q}
+# Pages approximatives.
+Chingouabe | Anishinaabés (Ojibwés, Saulteux) | Montréal | 1695 | 86 | Chef sauteur qui descend à Montréal avec Le Sueur.
+Tioscate (Ciôscate) | Sioux (Dakotas, Lakotas, Nakotas) | Montréal | 1695 | 86 | Premier Sioux à voir le Canada ; il présente à Frontenac autant de flèches qu'il y a de villages sioux.
+Tioscate (Ciôscate) | Sioux (Dakotas, Lakotas, Nakotas) | Montréal | 1696 | 86 | Tombé malade pendant l'hiver, il meurt à Montréal après trente-trois jours sans avoir pu remonter avec Le Sueur.
+Rouensa | Illinois (Inoka) | Peoria | 1698 | s. p. | Le plus considérable des chefs illinois, dont Saint-Cosme trouve la cabane le premier jour.
+= Chef des Taensas | Taensas | Village des Taensas | 169X | 76 | À sa mort, douze personnes s'offrent à mourir avec lui et sont tuées.
+= Chef tonica baptisé | Tunicas | Village des Tunicas | 169X | 76 | Chef très distingué des Tonicas instruit par interprètes et baptisé.
+Ouacantapai | Sioux (Dakotas, Lakotas, Nakotas) | Fort L'Huillier | 1700 | s. p. | Chef de village sioux reçu au fort de Le Sueur sur la rivière Bleue ; il fait fumer le calumet d'acier.
+= Chefs mdewakantons | Sioux (Dakotas, Lakotas, Nakotas) | Fort L'Huillier | 1700 | s. p. | Trois chefs mendeouacantons viennent au fort réparer le pillage commis contre les Français.
+= Chefs des Kappas et des Tourima | Quapaws (Arkansas) | Kappa (Arkansas) | 1700 | s. p. | Accueillent Gravier près de l'ancien village des Akansea où fut reçu le P. Marquette.
