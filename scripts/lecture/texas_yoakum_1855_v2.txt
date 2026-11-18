@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Yoakum, History of Texas (1855), vol. 2
+# ref: H. Yoakum, History of Texas from its first settlement in 1685 to its annexation to the United States in 1846, 2 vol., New York, Redfield, 1855
+# lien: https://archive.org/details/historyoftexasfr02yoak/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyoftexasfr02yoak/mode/1up?q={q}
+# Pages approximatives.
+Bolles (Bowles) | Cherokees | Nacogdoches | 1836 | 156 | Chef cherokee, indigné qu'on soupçonne sa bonne foi, envoie un démenti.

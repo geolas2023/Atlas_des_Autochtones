@@ -1,0 +1,12 @@
+# corpus: Lecture intégrale · Davis, The History of Nevada (1913), vol. 1
+# ref: S. P. Davis (dir.), The History of Nevada, Reno et Los Angeles, Elms Publishing Company, 1913, 2 vol.
+# lien: https://archive.org/details/historyofnevada01davirich/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofnevada01davirich/mode/1up?q={q}
+# Pages approximatives.
+Sho-cup-ut-see | Shoshones | Humboldt River | 1859 | 33 | Sa bande cultive au ranch de Haws (blé, pommes de terre, courges).
+Qu-da-zo-bo-eat | Shoshones | Pyramid Lake | 1860 | 44 | Chef shoshone marié à une Paiute, partisan de la guerre au conseil.
+Sa-a-be | Paiutes | Pyramid Lake | 1860 | 45 | Chef des Indiens de Smoke Creek, partisan de la guerre.
+No-jo-mud | Paiutes | Honey Lake | 1860 | 45 | Chef de la bande de Honey Lake, partisan de la guerre.
+Numaga (Young Winnemucca) | Paiutes | Pyramid Lake | 1860 | 46 | Chef de guerre, défié par son cousin Captain John.
+Ka-nosh | Utes | Corn Creek (Kanosh, Utah) | 1872 | 90 | Chef d'Indiens qui cultivent un peu, cueillent et chassent.
+Sho-Kup | Shoshones | Ruby Valley (Nevada) | 1861 | 154 | Chef des Shoshones de Ruby Valley, ami des Blancs ; souhaite que Buck lui succède.

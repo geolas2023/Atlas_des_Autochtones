@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Bolton, Athanase de Mézières (1914), vol. 2
+# ref: H. E. Bolton, Athanase de Mézières and the Louisiana-Texas Frontier, 1768-1780, 2 vol., Cleveland, Arthur H. Clark, 1914
+# lien: https://archive.org/details/athanasedemzi01mz/page/{page}/mode/1up
+# recherche: https://archive.org/details/athanasedemzi01mz/mode/1up?q={q}
+# Pages approximatives.
+Tinhiouen | Caddos et Hasinais | Villages cadodachos | 1770 | s. p. | À sa demande, un traiteur est autorisé à revenir vivre chez les Cadodachos.
+Bigotes (Vigotes) | Caddos et Hasinais | Natchitoches | 1771 | s. p. | Chef principal des Texas (Hasinais), médiateur auprès des nations du Nord ; nommé capitán grande par De Mézières.
+Sauto | Autochtones (nation non précisée) | San Antonio | 1771 | s. p. | Grand cacique ; mène les nations à San Antonio de Béxar pour la ratification des traités.
+Gorgoritos (Melchor) | Autochtones (nation non précisée) | Villages bidais | 1771 | 258 | Nommé capitaine de toutes les bandes de la nation bidai.
+Quirotaches | Wichitas et Taovayas | San Antonio | 1772 | 258 | Chef taovaya ; arrive au presidio avec quatre autres sous un drapeau espagnol et ratifie les capitulations.

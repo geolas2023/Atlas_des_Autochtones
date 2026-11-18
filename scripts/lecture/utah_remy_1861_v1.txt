@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Remy et Brenchley, A Journey to Great-Salt-Lake City (1861), vol. 1
+# ref: J. Remy et J. Brenchley, A Journey to Great-Salt-Lake City, Londres, W. Jeffs, 1861, 2 vol.
+# lien: https://archive.org/details/ajourneytogreat01brengoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/ajourneytogreat01brengoog/mode/1up?q={q}
+# Pages approximatives.
+Sokopitz | Shoshones | Humboldt River | 1855 | 144 | Chef de la vallée, mandé par Peter Haws.
+= Deux chefs shoshones | Shoshones | Salt Lake City | 1855 | 192 | Guides de Remy et Brenchley, restés quelques jours avec eux.
+Wakara (Joseph Walker) | Utes | Manti (vallée de la Sanpete) | 1849 | 446 | Chef des Utahs, accueille amicalement les colons avec son frère Arapine.
+Arapine (Sen-a-rock) | Utes | Manti (vallée de la Sanpete) | 1855 | 466 | Succède à son frère comme chef des Utahs et les contient.

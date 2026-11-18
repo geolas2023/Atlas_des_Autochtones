@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Farish, History of Arizona (1915-1916), vol. 2
+# ref: T. E. Farish, History of Arizona, vol. 1 et 2, Phoenix, Filmer Brothers, 1915-1916
+# lien: https://archive.org/details/historyofarizona02faririch/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofarizona02faririch/mode/1up?q={q}
+# Pages approximatives.
+Cochise | Apaches | Apache Pass (Arizona) | 1861 | 30 | Chef de guerre des Chiricahuas, jusque-là ami des Blancs ; arrêté avec d'autres chefs par Bascom sous le drapeau blanc.
+Mangas Colorado | Apaches | Apache Pass (Arizona) | 1861 | 124 | Chef d'une bande du Nouveau-Mexique, étroitement lié à Cochise.
+Cochise | Apaches | Apache Pass (Arizona) | 1874 | 236 | Convoque les chefs de sa division et désigne son fils aîné pour successeur.
+Tarjay | Apaches | Apache Pass (Arizona) | 187X | 238 | Fils de Cochise, chef principal des Apaches chiricahuas.

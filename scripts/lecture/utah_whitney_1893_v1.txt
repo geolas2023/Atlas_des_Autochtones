@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Whitney, History of Utah, vol. 2-3 (1893-1898), vol. 1
+# ref: O. F. Whitney, History of Utah, vol. 2 et 3, Salt Lake City, George Q. Cannon & Sons, 1893-1898
+# lien: https://archive.org/details/historyofutahcom02whitrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofutahcom02whitrich/mode/1up?q={q}
+# Pages approximatives.
+Sanpitch | Shoshones | Bear River (massacre de 1863) | 1863 | 79 | L'un des chefs nommés au mandat du juge Kinney ; s'échappe, comme Pocatello et une cinquantaine de guerriers.
+Pocatello | Shoshones | Bear River (massacre de 1863) | 1863 | 79 | S'échappe lors de l'attaque de Connor.
+Black Hawk | Utes | Manti (vallée de la Sanpete) | 186X | 149 | Chef d'une bande contre laquelle Brigham Young lève trois cents hommes pour protéger les colons du sud.

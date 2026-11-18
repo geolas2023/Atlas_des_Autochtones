@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Annals of Wyoming (1923-1928), vol. 4
+# ref: Annals of Wyoming, vol. 1 à 5 (1923-1928)
+# lien: https://archive.org/details/annalsofwyom414192627wyom/page/{page}/mode/1up
+# recherche: https://archive.org/details/annalsofwyom414192627wyom/mode/1up?q={q}
+# Pages approximatives.
+Gall | Sioux (Dakotas, Lakotas, Nakotas) | Little Bighorn | 1876 | 304 | Chef des Hunkpapas ; refuse de fuir devant Custer et mène l'attaque.

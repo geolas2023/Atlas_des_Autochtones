@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Bancroft, North Mexican States and Texas (1884-1889), vol. 2
+# ref: H. H. Bancroft, History of the North Mexican States and Texas, 2 vol., San Francisco, 1884-1889
+# lien: https://archive.org/details/northmexicanst02bancrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/northmexicanst02bancrich/mode/1up?q={q}
+# Pages approximatives.
+Necoroco | Comanches | Fourche sud de la rivière Rouge (Texas) | 1801 | 6 | Chef comanche dont le village reçoit pendant un mois la troupe de Nolan.
+Fields | Cherokees | Nacogdoches | 1826 | 103 | Chef métis très influent des Cherokees immigrés au Texas ; signe la ligue de Fredonia le 21 décembre.
+= Chefs des tribus associées | Cherokees | Nacogdoches | 1826 | 106 | Avec Hunter et Fields, signent la confédération avec les colons.
