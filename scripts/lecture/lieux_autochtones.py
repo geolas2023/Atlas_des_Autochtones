@@ -248,4 +248,5 @@ L = {
     'Ash Hollow (Nebraska)': (-102.12, 41.29, 'h', 'Ash Hollow (Blue Water, Nebraska)'),
     'Acton (Minnesota)': (-94.66, 45.10, 'h', 'Acton (comté de Meeker)'),
     'Village de Black Dog (Minnesota)': (-93.20, 44.81, 'h', "village de Black Dog (Grey Iron), canton d'Eagan"),
+    'Île Doty (lac Winnebago)': (-88.45, 44.19, 'h', 'île Doty, entrée du lac Winnebago (Neenah-Menasha)'),
 }
