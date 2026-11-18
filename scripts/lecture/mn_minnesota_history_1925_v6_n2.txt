@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Minnesota History, vol. 6, no 2 (juin 1925)
+# ref: Minnesota History: A Quarterly Magazine, vol. 6, no 2 (juin 1925), Saint Paul, Minnesota Historical Society
+# lien: https://archive.org/details/sim_minnesota-history_1925-06_6_2/page/{page}/mode/1up
+# recherche: https://archive.org/details/sim_minnesota-history_1925-06_6_2/mode/1up?q={q}
+# Pages approximatives.
+Famille de Joseph Renville | Sioux (Dakotas, Lakotas, Nakotas); Métis | Lac qui Parle | 1838 | 172-173 | Renville, Métis de mère sioux marié à une Sioux, vit depuis des années chez les Sioux de Lac qui Parle et y exerce une grande influence, selon le capitaine Marryat.
+Village de Cloud Man | Sioux (Dakotas, Lakotas, Nakotas) | Lac Calhoun (Minneapolis) | 1838 | 172 | Marryat visite le village du chef sioux Cloud Man et de sa bande sur la rive du lac Calhoun, près de la mission du lac Harriet.
