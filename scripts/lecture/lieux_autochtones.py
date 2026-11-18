@@ -166,4 +166,10 @@ L = {
     'Cholame (Californie)': (-120.3, 35.72, 'a', 'Rancherías de Cholam (Cholame, Californie)'),
     'San Luis Rey (Californie)': (-117.32, 33.23, 'c', 'Mission San Luis Rey (Californie)'),
     'Lava Beds (Tule Lake, Californie)': (-121.5, 41.75, 'a', 'Lava Beds, près du lac Tule (Californie)'),
+    'Vallée de Yosemite (Californie)': (-119.6, 37.74, 'c', 'Vallée de Yosemite (Californie)'),
+    'Rivière Stanislaus (Californie)': (-120.95, 37.7, 'a', 'Rivière Stanislaus (Californie)'),
+    'Mariposa (comté)': (-119.97, 37.48, 'a', 'Comté de Mariposa (Californie)'),
+    "Knight's Ferry (Californie)": (-120.57, 37.82, 'c', "Knight's Ferry, sur la Stanislaus (Californie)"),
+    'Clear Lake (Californie)': (-122.75, 39.0, 'c', 'Clear Lake (Californie)'),
+    'Wolf Creek (Grass Valley, Californie)': (-121.06, 39.2, 'a', 'Wolf Creek, près de Grass Valley (Californie)'),
 }

@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Willey, History of Santa Cruz County, California (1879)
+# ref: History of Santa Cruz County (Elliott, 1879)
+# lien: https://archive.org/details/historyofsantacr00will/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofsantacr00will/mode/1up?q={q}
+# Pages approximatives.
+Telos | Autochtones (nation non précisée) | Santa Cruz (Californie) | 1792-04-25 | 94 | Garçon d'environ seize ans, fils de Cholmo et Ninpen, du rancho de Chaloctaca, baptisé à la mission de Santa Cruz.

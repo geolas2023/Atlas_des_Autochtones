@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Hittell, A History of the City of San Francisco (1878)
+# ref: J. S. Hittell, A History of the City of San Francisco (1878)
+# lien: https://archive.org/details/historyofcityofs00hitt/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofcityofs00hitt/mode/1up?q={q}
+# Pages approximatives.
+= Premiers convertis de la mission de San Francisco | Autochtones (nation non précisée) | San Francisco | 1777-06-01 | 50 | Trois premiers convertis baptisés le même jour à la mission ; on en compte deux cent soixante sept ans plus tard.
