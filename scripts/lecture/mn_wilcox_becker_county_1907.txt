@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Wilcox, A Pioneer History of Becker County (1907)
+# ref: Alvin H. Wilcox, A Pioneer History of Becker County, Minnesota, Saint Paul, Pioneer Press Company, 1907
+# lien: https://archive.org/details/pioneerhistoryof00wilc/page/{page}/mode/1up
+# recherche: https://archive.org/details/pioneerhistoryof00wilc/mode/1up?q={q}
+# Pages approximatives.
+Charlotte Louisa Chabrille | Métis; Anishinaabés (Ojibwés, Saulteux) | Fort William (lac Supérieur) | 1825~ | 267 | Métisse ojibwée née au vieux Fort William, elle épouse vers 1825 le traiteur Allan Morrison; leurs enfants reçoivent des lots dans la réserve de White Earth.
+Paul H. Beaulieu | Métis; Anishinaabés (Ojibwés, Saulteux) | Terre Blanche | 1897-02-09 | 258 | Interprète franco-ojibwé né à Mackinac en 1820, artisan de la réserve de White Earth où il mène les Ojibwés; il y meurt, inhumé au cimetière de la mission Saint-Benoît.
