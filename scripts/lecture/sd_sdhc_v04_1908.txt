@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · South Dakota Historical Collections, vol. IV (1908)
+# ref: South Dakota Historical Collections, vol. IV, Pierre, State Historical Society, 1908
+# lien: https://archive.org/details/reporthistorical04soutuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/reporthistorical04soutuoft/mode/1up?q={q}
+# Pages approximatives.
+Crawler | Sioux (Dakotas, Lakotas, Nakotas) | Rivière Moreau (Dakota du Sud) | 1830 | 113 | Vieux chef pied-noir (Sihasapa) d'une famille de chefs, né sur la Moreau ; raconte à la Société historique l'histoire transcrite par Simon Kirk et Joseph Fly.
+Bear's Rib (Le Plat Côté d'Ours) | Sioux (Dakotas, Lakotas, Nakotas) | Fort Pierre | 1851~ | 226 | Chef à qui le bourgeois Picotte demande de punir un Autochtone qui a tué une vache du fort.
+Bear's Rib | Sioux (Dakotas, Lakotas, Nakotas) | Fort Pierre | 1862-06 | 244 | Tué en juin 1862 au-dessus du feu de camp où Bruguier faisait la traite, près du poste de Primeau.
+Big Head | Sioux (Dakotas, Lakotas, Nakotas) | Fort Pierre | 1860 | 249 | Chef yanktonais qui, à la demande de Bruguier, fait escorter le convoi de traite par son frère pour le protéger jusqu'à la traversée du fleuve.
+Le Borgne | Autochtones (nation non précisée) | Fort Mandan | 1805 | 373 | Grand chef des Minnetarees (Gros-Ventres), ainsi nommé par les Français parce qu'il n'a qu'un œil, vient pour la première fois au fort de Lewis et Clark.
