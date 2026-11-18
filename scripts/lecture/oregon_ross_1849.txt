@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Ross, Adventures of the First Settlers on the Oregon (1849)
+# ref: Alexander Ross, Adventures of the First Settlers on the Oregon or Columbia River, Londres, Smith, Elder, 1849
+# lien: https://archive.org/details/adventuresoffirs00ross/page/{page}/mode/1up
+# recherche: https://archive.org/details/adventuresoffirs00ross/mode/1up?q={q}
+# Pages approximatives.
+Comcomly | Chinooks | Astoria | 1811 | 76, 256 | Chef ami des Astoriens qui ramène six déserteurs le troisième jour.
+Eaasno | Autochtones (nation non précisée) | Willamette | 1811 | 106 | Chef principal à qui Ross fait quelques présents en passant l'embouchure de la Willamette.
+= Chefs de la Columbia moyenne | Walla Wallas | Walla Walla | 1811 | 128 | Les chefs déclarent que Koo-Koo-Sint (David Thompson) leur a remis entre autres le pavillon britannique.
+= Iroquois de David Thompson | Haudenosaunee (Iroquois) | Astoria | 1811 | 85 | Thompson descend la Columbia dans un canot léger monté par huit Iroquois des environs de Montréal et un interprète.

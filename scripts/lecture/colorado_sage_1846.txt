@@ -1,0 +1,15 @@
+# corpus: Lecture intégrale · Sage, Scenes in the Rocky Mountains (1846)
+# ref: Rufus B. Sage, Scenes in the Rocky Mountains, and in Oregon, California, New Mexico, Texas, and the Grand Prairies, Philadelphie, Carey & Hart, 1846
+# lien: https://archive.org/details/scenesinrockymou00sage/page/{page}/mode/1up
+# recherche: https://archive.org/details/scenesinrockymou00sage/mode/1up?q={q}
+# Pages approximatives.
+= Chef de village kansas | Kansas (Kaws) | Agence des Kansas (rivière Kansas) | 1841 | 24 | Premier Autochtone que l'auteur voit en costume presque traditionnel.
+Schena-Chischille | Sioux (Dakotas, Lakotas, Nakotas) | Fort Platte | 1841~ | 28 | Chef tué avec plusieurs des siens à Fort Platte dans une rixe d'ivrognes entre deux factions de sa tribu.
+Marto-cogershne (Brave Bear) | Sioux (Dakotas, Lakotas, Nakotas) | Fort Platte | 1841~ | 66 | Un des chefs des Sioux brûlés.
+Tahtunga-sana (Bull Tail) | Sioux (Dakotas, Lakotas, Nakotas) | Fort Platte | 1841~ | 66 | Vieux chef connu des voyageurs, vêtu d'un bonnet de phoque et d'une redingote reçus en présent.
+= Chef brûlé | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1841~ | 69 | Un des chefs du village brûlé se tue en tombant de cheval entre Fort John et Fort Platte ; ses parents demandent aux Blancs d'assister à l'inhumation.
+Tahtunga-mobellu (Bull Eagle) | Sioux (Dakotas, Lakotas, Nakotas) | Fort Platte | 1842 | 83 | Chef et homme-médecine, tenu pour le plus grand brave de la nation sioux.
+Tahtunga-egoniska | Sioux (Dakotas, Lakotas, Nakotas) | Fort Platte | 1842~ | 89, 94 | Chef principal du village brûlé, visiteur quotidien, qui raconte une histoire des Oglalas et des Brûlés.
+Susu-ceicha | Sioux (Dakotas, Lakotas, Nakotas) | Fort Platte | 1842~ | 99 | Vieux chef dont l'échafaud funéraire reçoit à côté un autre défunt.
+Little Lodge (Petite Loge) | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1842~ | 100 | Chef oglala en différend avec un traiteur de l'American Fur Company.
+Tall Soldier (Grand Soldat) | Cheyennes | Rivière Platte | 184X | 159 | Chef d'un petit village cheyenne dans la loge duquel les voyageurs passent la nuit.

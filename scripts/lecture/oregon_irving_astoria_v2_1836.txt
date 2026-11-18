@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Irving, Astoria, vol. II (1836)
+# ref: Washington Irving, Astoria, or Anecdotes of an Enterprise beyond the Rocky Mountains, vol. II, Philadelphie, Carey, Lea & Blanchard, 1836
+# lien: https://archive.org/details/astoriaoranecdo00irvigoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/astoriaoranecdo00irvigoog/mode/1up?q={q}
+# Pages approximatives.
+Marie Dorion | Iowas; Métis | Grande Ronde | 1811-12 | 39, 59 | Femme de l'interprète Pierre Dorion ; pendant la marche de Hunt, elle accouche puis reprend la route le lendemain.
+= Chef crow géant | Crows (Apsáalooke) | Pays des Crows (Wind River) | 1812 | 133-136 | Chef d'une taille gigantesque qui intimide la troupe de Robert Stuart ; seule la vigilance des Blancs empêche l'outrage.
+Comcomly | Chinooks | Astoria | 1813 | 248-251 | Beau-père de M'Dougall ; il vient en armes à l'arrivée du Racoon, puis renie son gendre qui a rendu le fort sans combat.
+Marie Dorion | Iowas; Métis | Astoria | 1814 | 254 | Son récit tragique de la mort de Reed et de ses compagnons clôt les aventures de l'entreprise.

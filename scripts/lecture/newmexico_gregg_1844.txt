@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Gregg, Commerce of the Prairies (1844), vol. I
+# ref: Josiah Gregg, Commerce of the Prairies, or the Journal of a Santa Fé Trader, vol. I, New York, Langley, 1844
+# lien: https://archive.org/details/commerceofprairi01greg/page/{page}/mode/1up
+# recherche: https://archive.org/details/commerceofprairi01greg/mode/1up?q={q}
+# Pages approximatives.
+= Caciques des pueblos | Pueblos | Taos | 183X | 273 | Chaque pueblo est gouverné par un cacique ou gobernadorcillo choisi parmi ses sages ; il réunit les principaux dans l'estufa souterraine pour les affaires publiques.
+Juan José | Apaches | Santa Rita (Nouveau-Mexique) | 1837 | 295-296 | Chef apache célèbre et redouté, tué avec une vingtaine des siens par la troupe d'un capitaine américain qui avait caché une pièce chargée à mitraille.

@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Dumont, Mémoires historiques sur la Louisiane (1753)
+# ref: Jean-François-Benjamin Dumont de Montigny (éd. Le Mascrier), Mémoires historiques sur la Louisiane, t. I, Paris, Bauche, 1753
+# lien: https://archive.org/details/mmoireshistori01dumo/page/{page}/mode/1up
+# recherche: https://archive.org/details/mmoireshistori01dumo/mode/1up?q={q}
+# Pages approximatives.
+= Grand chef des Tonicas | Tunicas | Village des Tunicas | 172X | s. p. | Converti par le missionnaire, il reçoit le baptême avec son fils, sans que sa nation suive son exemple.
+= Chef des jongleurs des Yazous | Yazous et Koroas | Fort Saint-Claude (Yazous) | 172X | 175 | Le commandant du poste lui demande de la pluie en pleine sécheresse ; il en promet pour le lendemain, et l'auteur certifie qu'il plut.
+Serpent Piqué | Natchez | Natchez | 1725 | 209 | Grand chef de guerre des Natchez, très attaché aux Français ; l'auteur assiste à sa mort et aux cérémonies funèbres.
+Yakstalchil | Natchez | Village de la Pomme Blanche (Natchez) | 1725 | s. p. | Second chef de guerre du village de la Farine, demeurant au grand village près du temple ; l'auteur partage avec lui une demi-bouteille d'eau-de-vie.

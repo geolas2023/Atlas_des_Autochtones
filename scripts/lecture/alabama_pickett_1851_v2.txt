@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Pickett, History of Alabama (1851), vol. II
+# ref: Albert James Pickett, History of Alabama, and Incidentally of Georgia and Mississippi, vol. II, Charleston, Walker & James, 1851
+# lien: https://archive.org/details/historyofalabama04pick/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofalabama04pick/mode/1up?q={q}
+# Pages approximatives.
+Red Head Will | Cherokees; Métis | Willstown (Alabama) | 1792 | 121 | Chef métis, fils d'un officier britannique, qui a donné son nom à Willstown, important village cherokee.
+Mormouth | Muscogees (Creeks) | Catoma Creek (Alabama) | 1812 | 248 | Vieux chef qui tue l'émigrant Thomas Merideth sur la Catoma.
+Uchee Tom | Muscogees (Creeks) | Fort Claiborne (Alabama) | 1815-03-06 | 330 | Chef qui, avec dix-sept guerriers, arrête la charrette de William Ogle en route vers le fort Claiborne.
