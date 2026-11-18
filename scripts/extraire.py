@@ -189,7 +189,7 @@ def lecture_integrale(G_fr):
                 'description': desc, 'passage': desc,
                 'sources': f"{meta['ref']}, " + (f"p. {page}." if p1 else 's. p.'),
                 'note': "Lecture intégrale du livre pour l'Atlas des Autochtones ; description paraphrasée, à vérifier dans le livre.",
-                'voir_aussi': [{'url': meta['lien'].format(page=p1), 'texte': f"Lire la page {p1} →"} if p1 else
+                'voir_aussi': [] if not meta.get('lien') else [{'url': meta['lien'].format(page=p1), 'texte': f"Lire la page {p1} →"} if p1 else
                                {'url': meta['recherche'].format(q=re.sub(r'\s+', '+', (noms or [qui.split(',')[0]])[0].split(' (')[0])), 'texte': "Chercher dans le livre →"}]}})
     return sortie
 
