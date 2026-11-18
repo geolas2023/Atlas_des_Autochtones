@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Curtiss-Wedge, History of Renville County, vol. I (1916)
+# ref: Franklyn Curtiss-Wedge (dir.), The History of Renville County, Minnesota, vol. I, Chicago, H. C. Cooper Jr. & Co., 1916
+# lien: https://archive.org/details/historyofrenvill01curt/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofrenvill01curt/mode/1up?q={q}
+# Pages approximatives.
+Famille Renville de Lac qui Parle | Métis; Sioux (Dakotas, Lakotas, Nakotas) | Lac qui Parle | 1849 | 547 | Le recensement de 1849 compte à Lac qui Parle et Big Stone Lake les foyers de J., A., G. et M. Renville, parmi missionnaires et engagés.
+Colonie métisse de Birch Coulee | Métis; Sioux (Dakotas, Lakotas, Nakotas) | Birch Coulee (Minnesota) | 1862 | 548 | Avant le massacre, de nombreux Canadiens français et Métis rejoignent la famille La Croix à Birch Coulee, dont David Faribault et le traiteur François La Bathe.
+Engagés métis des Renville Rangers | Sioux (Dakotas, Lakotas, Nakotas); Métis | Agence Yellow Medicine (Minnesota) | 1862-08-12 | 136-137 | Des Sioux métis, avec des Canadiens français et d'anciens employés du gouvernement, s'enrôlent dans les Renville Rangers à Yellow Medicine.

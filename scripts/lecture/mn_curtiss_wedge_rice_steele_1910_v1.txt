@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Curtiss-Wedge, History of Rice and Steele Counties, vol. I (1910)
+# ref: Franklyn Curtiss-Wedge (dir.), History of Rice and Steele Counties, Minnesota, vol. I, Chicago, H. C. Cooper Jr. & Co., 1910
+# lien: https://archive.org/details/historyofriceste01curt/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofriceste01curt/mode/1up?q={q}
+# Pages approximatives.
+Yanktons de la Des Moines | Sioux (Dakotas, Lakotas, Nakotas) | Rivière Des Moines | 1808 | 82 | Malgré la guerre entre Sioux et Sauteux, J. B. Faribault hiverne chez les Yanktons; une grande bande yanktonne le délivre des Iowas qui menaçaient de le tuer.
+Iowas de la Des Moines | Iowas | Rivière Des Moines | 1808 | 82 | Les Iowas arrêtent J. B. Faribault et menacent de le tuer et de piller ses marchandises.
+Village du lac Cannon | Sioux (Dakotas, Lakotas, Nakotas) | Lac Cannon (Minnesota) | 1835 | 89-90 | Alexander Faribault persuade les habitants du « lac du Grand Village » de quitter ses rives pour le confluent de la Straight et de la Cannon, où se dressent leurs tipis d'écorce et de peaux de bison.
