@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · Irving, The Adventures of Captain Bonneville (1837)
+# ref: Washington Irving, The Adventures of Captain Bonneville, U.S.A., in the Rocky Mountains and the Far West, éd. de 1849 (New York, Putnam)
+# lien: https://archive.org/details/adventuresofcap00irvi/page/{page}/mode/1up
+# recherche: https://archive.org/details/adventuresofcap00irvi/mode/1up?q={q}
+# Pages approximatives.
+White Plume (Plume Blanche) | Kansas (Kaws) | Agence des Kansas (rivière Kansas) | 1832 | 28, 34 | Chef des Kansas qui reçoit la caravane de Bonneville dans sa maison bâtie par le gouvernement, aussi imposante que pauvrement meublée.
+Kowsoter | Nimíipuu (Nez-Percés) | Salmon River | 183X | 132 | Chef nez-percé auquel un trappeur de Bonneville confie son désir d'épouser une jeune Nez-Percée ; mariage célébré par le chef.
+= Pend d'Oreilles et leur chef | Pend d'Oreilles et Kalispels | Salmon River | 183X | 107 | Visiteurs des quartiers d'hiver de Bonneville, proches des Nez-Percés par le caractère et les coutumes.
+The Horse (le Cheval) | Bannocks; Pieds-Noirs (Niitsitapis) | Rivière Godin (Big Lost River, Idaho) | 1833 | 147 | Chef banneck ami des Blancs, qui retint les siens de toute vengeance ; tombé en repoussant une attaque des Pieds-Noirs à la tête de la rivière Godin.
+Blue John | Nimíipuu (Nez-Percés); Pieds-Noirs (Niitsitapis) | Salmon River | 183X | 165 | Chef nez-percé qui propose de surprendre le camp pied-noir avec une petite troupe choisie pour enlever les chevaux.
+Arapooish | Crows (Apsáalooke) | Bighorn (rivière) | 183X | 189 | Chef crow qui décrit à Robert Campbell les beautés du pays des Crows.
+Yo-mus-ro-y-e-cut | Nimíipuu (Nez-Percés) | Grande Ronde | 1834 | 279, 283 | Vieux chef nez-percé bavard qui guide Bonneville vers la Way-lee-way et le présente à son cousin.
+Hay-she-in-cow-cow | Nimíipuu (Nez-Percés) | Grande Ronde | 1834 | s. p. | Cousin du vieux chef, présenté en forme au capitaine Bonneville.

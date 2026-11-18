@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · De Smet, Oregon Missions and Travels over the Rocky Mountains (1847)
+# ref: Pierre-Jean De Smet, Oregon Missions and Travels over the Rocky Mountains in 1845-46, New York, Dunigan, 1847
+# lien: https://archive.org/details/OregonMissionsAndTravels/page/{page}/mode/1up
+# recherche: https://archive.org/details/OregonMissionsAndTravels/mode/1up?q={q}
+# Pages approximatives.
+= Chef des Skadjats | Klallams; Autochtones (nation non précisée) | Île Whidbey | 1840 | 61-63 | Klalams et Skadjats viennent au-devant du missionnaire ; le chef des Skadjats refuse qu'il loge sous la tente et promet de lui bâtir une demeure.
+Stiettiedloodsho | Pend d'Oreilles et Kalispels | Mission Saint-Ignace (Kalispels) | 1845 | 92-93 | Chef de la « tribu vaillante » des Kalispels, qui avait tenu cinq jours avec soixante hommes contre deux cents loges de Pieds-Noirs.
+Selpisto | Pend d'Oreilles et Kalispels | Mission Saint-Ignace (Kalispels) | 1845 | 92 | Chef principal des Kalispels lors de la fondation de la mission Saint-Ignace.
+Chalax (la Robe blanche) | Pend d'Oreilles et Kalispels | Mission Saint-Ignace (Kalispels) | 1845 | 92 | Chef kalispel surnommé le Jongleur, grand homme-médecine.
+= Têtes-Plates, Nez-Percés et Pieds-Noirs contre les Crows | Salish (Têtes-Plates); Nimíipuu (Nez-Percés); Pieds-Noirs (Niitsitapis); Crows (Apsáalooke) | Camp de chasse voisin des Crows (Montana) | 1846 | 295-300 | Le camp tête-plate, renforcé de trente loges nez-percées et d'une douzaine de loges pieds-noires, repousse l'attaque des Crows ; le fils d'un chef nez-percé est tué.
+Victor | Salish (Têtes-Plates); Crows (Apsáalooke) | Camp de chasse voisin des Crows (Montana) | 1846 | 298 | Grand chef des Têtes-Plates dans le combat contre les Crows.
+Gabriel | Salish (Têtes-Plates); Crows (Apsáalooke) | Camp de chasse voisin des Crows (Montana) | 1846 | 296 | Interprète de De Smet ; avec un Pend d'Oreille nommé Charles, il annonce aux Crows l'arrivée de la Robe noire.
+Nicholas | Pieds-Noirs (Niitsitapis) | Camp de chasse voisin des Crows (Montana) | 1846 | 316 | Vieux chef pied-noir baptisé cinq ans plus tôt, qui prépare la voie de l'Évangile dans sa tribu.
