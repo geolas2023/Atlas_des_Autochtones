@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Robinson et Kerr, A History of South Dakota (1907)
+# ref: Doane Robinson et Robert F. Kerr, A History of South Dakota from Earliest Times, Mitchell, Educator School Supply Co., 1907
+# lien: https://archive.org/details/historyofsouthda00robi/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofsouthda00robi/mode/1up?q={q}
+# Pages approximatives.
+Charles F. Picotte | Sioux (Dakotas, Lakotas, Nakotas) | Yankton (Dakota du Sud) | 1861 | 72-73 | Yankton métis instruit, influent lors de l'organisation du territoire ; veille aux droits des Autochtones dans les traités, reçoit une section de terre à Yankton et aide à bâtir le premier capitole.
+Sitting Bull | Sioux (Dakotas, Lakotas, Nakotas) | Grand River (Dakota du Sud) | 1890-12-15 | 73 | Tué par la police autochtone en résistant à son arrestation, chez lui sur la Grand River, après son retour du Canada en 1881.
+Spotted Tail | Sioux (Dakotas, Lakotas, Nakotas) | Agence de Rosebud | 1881 | 73 | Chef brûlé, fait chef principal de la nation sioux en 1876, assassiné à Rosebud à l'automne 1881 par un sous-chef oglala.
+Red Cloud | Sioux (Dakotas, Lakotas, Nakotas) | Pine Ridge | 1907 | 73 | Chef oglala qui empêcha l'ouverture de la route du Montana en 1867-1868 ; vit en 1907 à l'agence de Pine Ridge, presque aveugle.

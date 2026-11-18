@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · South Dakota Historical Collections, vol. VII (1914)
+# ref: South Dakota Historical Collections, vol. VII, Pierre, State Department of History, 1914
+# lien: https://archive.org/details/southdakotahisto7191sout/page/{page}/mode/1up
+# recherche: https://archive.org/details/southdakotahisto7191sout/mode/1up?q={q}
+# Pages approximatives.
+= Chefs mandanes | Mandans | Mandan villages | 1738-12 | 162-174 | Accueillent La Vérendrye, reçoivent poudre, balles, couteaux et tabac au nom du gouverneur et s'affligent du vol commis contre leur « père ».
+= Assiniboines de l'escorte | Assiniboines (Nakodas) | Mandan villages | 1738-12-03 | 171 | Les Assiniboines armés de fusils s'alignent comme les Français pour l'entrée de La Vérendrye au fort mandane.
+= Gens de la Petite Cerise (Little Cherry) | Autochtones (nation non précisée) | Fort Pierre | 1743-03 | 230, 262 | Bande près de laquelle le Chevalier de La Vérendrye dépose sa plaque de plomb ; un homme élevé chez les Espagnols y parle d'un Français établi à trois jours de là.
