@@ -1,0 +1,14 @@
+# corpus: Lecture intégrale · Collections of the State Historical Society of North Dakota, vol. III (1910)
+# ref: Collections of the State Historical Society of North Dakota, vol. III, Bismarck, 1910
+# lien: https://archive.org/details/collectionsofsta03stat/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofsta03stat/mode/1up?q={q}
+# Pages approximatives.
+= Sioux | Sioux; Métis | Fort Totten (Dakota du Nord) | 1868-05-10 | 180-181 | Une bande de Sioux tue entre le fort Totten et le fort Stevenson le porteur de courrier McDonald, gendre de Pierre Bottineau, et le Métis Rolette qui l'accompagnait ; le 25 mai, deux autres porteurs, dont un Métis français, sont capturés et dépouillés.
+Frank Desjarlais | Métis; Anishinaabés | Devils Lake | 1867 | 214-216 | Frank Desjarlais, né à Red Lake en 1825 d'un père guide d'ascendance française et autochtone et d'une mère saulteuse, chasseur métis puis porteur de courrier au lac Devils.
+Frank Desjarlais | Métis; Sioux | Wood Mountain | 1877 | 216 | Après la bataille de la Little Bighorn, Frank Desjarlais sert d'interprète à Sitting Bull à Wood Mountain lors de l'accord avec le major Wise pour l'installation des Sioux au Canada.
+= Chasseurs métis | Métis | Rivière Mouse (Souris, Dakota du Nord) | 1868 | 215-216 | Année de sécheresse et de sauterelles : les chasseurs métis, certains avec vingt à vingt-cinq charrettes, poussent jusqu'au Coteau du Missouri ; ils vendent fourrures et pemmican aux postes de la Milk River ou à la baie d'Hudson.
+Icanajika, Tiyowashte, Motocatka | Sioux | Saint-Paul (Minnesota) | 1872 | 237 | Le major Forbes conduit trois chefs sioux du fort Totten, Icanajika, Tiyowashte et Motocatka, chez l'évêque Grace : ils veulent des écoles et « l'homme à la croix, pas l'homme au fusil ».
+= Sioux du fort Totten | Sioux | Fort Totten (Dakota du Nord) | 1874 | 237 | Les Sioux, qui avaient fait de la brique et bâti eux-mêmes une petite école, accueillent les sœurs grises de Montréal ; l'abbé Ravoux, chez les Sioux depuis 1841, leur enseigne la langue.
+= Saulteux de Red Lake | Anishinaabés | Embouchure de la Reed (rivière Rouge) | 1800 | 357 | Michel Langlois, commis d'Alexander Henry, part pour Red Lake avec une bande de Saulteux.
+= Bois-Brûlés | Métis | Grenouillère | 1816-06-19 | 396-398 | Les Bois-Brûlés du Nord-Ouest, commandés par Cuthbert Grant, Hoole, Pruneau, Fraser, Bourassa, Lacerte et McKay, tuent le gouverneur Semple et une vingtaine de ses hommes à la Grenouillère (Sept-Chênes).
+= Saulteux de la rivière Rouge | Anishinaabés | Fort Douglas | 1816 | 382 | Les colons déposent que les Saulteux de la rivière Rouge ont toujours été bienveillants envers eux, mieux disposés pour les colons que pour quiconque.
