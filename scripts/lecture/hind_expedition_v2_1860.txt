@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Hind, Narrative of the Canadian Red River Exploring Expedition, vol. II (1860)
+# ref: Henry Youle Hind, Narrative of the Canadian Red River Exploring Expedition of 1857 and of the Assinniboine and Saskatchewan Exploring Expedition of 1858, vol. II, Londres, Longman, 1860
+# lien: https://archive.org/details/narrativecanadi00hindgoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/narrativecanadi00hindgoog/mode/1up?q={q}
+# Pages approximatives.
+= Chasseurs métis de la division de White Horse Plain | Métis; Autochtones (nation non précisée) | Montagne du Chef (rivière Sheyenne, Dakota du Nord) | 1849 | 109 | Recensement de Flett : 603 charrettes, 700 Métis, 200 Indiens, 600 chevaux, 200 bœufs, 400 chiens et un chat, près de la montagne du Chef, non loin de la Sheyenne.
+Tk-wa-pit | Anishinaabés (Ojibwés, Saulteux) | Lac Dauphin (Manitoba) | 1858-10 | 60, 138 | Ojibwé qui passe la nuit au feu de camp de Hind et fabrique sur-le-champ une pipe de roseau.
+Wigwam | Anishinaabés (Ojibwés, Saulteux); Métis | Lac Dauphin (Manitoba) | 1858 | 52, 140 | Métis ojibwé du lac Supérieur au service de l'expédition ; il se découvre parent d'autres Ojibwés par le totem de l'Ours.
+Peguis | Anishinaabés (Ojibwés, Saulteux) | Fort Garry | 1860 | 174-175 | Chef saulteux de l'établissement indien de la rivière Rouge ; sa lettre sur le titre de sa tribu provoque une grande assemblée des Métis le 7 mars 1860.
+= Métis de la rivière Rouge | Métis | Fort Garry | 1860-03-07 | 176 | Assemblée qui affirme que les Métis, représentants immédiats des tribus, doivent faire valoir leurs droits sur le sol faute d'arrangement avec les nations autochtones.
