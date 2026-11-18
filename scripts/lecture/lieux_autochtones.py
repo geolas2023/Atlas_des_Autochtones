@@ -113,4 +113,10 @@ L = {
     'New York': (-74.0, 40.71, 'c', 'New York'),
     'Réserve comanche de la Clear Fork (Texas)': (-99.3, 32.9, 'a', 'Réserve comanche de la Clear Fork de la Brazos (Texas)'),
     "Missions d'El Cañón (rivière Nueces)": (-99.95, 29.65, 'a', "Missions San Lorenzo et Candelaria d'El Cañón, haute Nueces (Texas)"),
+    'Paris': (2.35, 48.86, 'c', 'Paris'),
+    'Fort natchez de Sicily Island (Louisiane)': (-91.7, 31.85, 'h', 'Fort des Natchez près de Sicily Island (Louisiane)'),
+    'Agence caddo (Shreveport)': (-93.75, 32.46, 'a', 'Agence caddo, bayou Pierre, au sud de Shreveport (Louisiane)'),
+    'Hopewell (Caroline du Sud)': (-82.88, 34.7, 'a', 'Hopewell, sur la Keowee (Caroline du Sud)'),
+    'Kittamaquindi (Piscataway, Maryland)': (-77.03, 38.7, 'a', 'Kittamaquindi, capitale des Piscataways (Maryland)'),
+    'Dolores (Sonora)': (-110.6, 30.7, 'a', 'Mission Nuestra Señora de los Dolores (Sonora)'),
 }

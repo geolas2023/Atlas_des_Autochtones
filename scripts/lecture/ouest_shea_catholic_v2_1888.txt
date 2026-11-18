@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Shea, A History of the Catholic Church within the Limits of the United States, vol. II (1888)
+# ref: John Gilmary Shea, Life and Times of the Most Rev. John Carroll (A History of the Catholic Church within the Limits of the United States, vol. 2), New York, 1888
+# lien: https://archive.org/details/ahistorycatholi00sheagoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/ahistorycatholi00sheagoog/mode/1up?q={q}
+# Pages approximatives.
+Orono | Abénakis | Old Town (Maine) | 1775~ | 164, 393 | Chef catholique des Penobscots qui rallie les siens à la cause de l'indépendance ; le Maine porte son nom.
+= Chefs onneiouts des clans du Loup, de la Tortue et de l'Ours | Haudenosaunee (Iroquois) | Onneiout (Oneida) | 1790 | 374 | Ils signent une pétition latine demandant un évêque d'Oneida, primat des Six-Nations ; le projet n'aboutit pas.

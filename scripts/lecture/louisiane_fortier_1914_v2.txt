@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Fortier, Louisiana: Comprising Sketches, vol. II (1914)
+# ref: Alcée Fortier, Louisiana: comprising sketches of parishes, towns, events, institutions, and persons, vol. 2, Atlanta, Southern Historical Association, 1914
+# lien: https://archive.org/details/louisianacompris02fort/page/{page}/mode/1up
+# recherche: https://archive.org/details/louisianacompris02fort/mode/1up?q={q}
+# Pages approximatives.
+= Vieux chef des Tunicas | Tunicas; Natchez | Village des Tunicas | 1730 | 204 | Les Natchez attaquent et brûlent le principal village des Tunicas et tuent leur vieux chef.
+Chef de la Farine (Flour Chief) | Natchez | Natchitoches | 1731 | 205 | Célèbre chef natchez échappé avec environ cent cinquante guerriers ; il continue la guerre et est défait l'été suivant par Saint-Denis.

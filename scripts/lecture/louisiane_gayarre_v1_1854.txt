@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Gayarré, History of Louisiana, vol. I (1854)
+# ref: Charles Gayarré, History of Louisiana, vol. 1 : The French Domination, New York, Redfield, 1854
+# lien: https://archive.org/details/historyoflouisia01gayaiala/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyoflouisia01gayaiala/mode/1up?q={q}
+# Pages approximatives.
+Grand Soleil | Natchez | Village des Tunicas | 1716-05-08 | 142-143 | Invité par Bienville à une conférence sur l'île des Tunicas, il arrive en grand appareil et est retenu avec ses frères.
+Serpent Piqué | Natchez | Village des Tunicas | 1716-05-08 | 144 | Frère du Grand Soleil, retenu au camp de Bienville.
+Petit Soleil | Natchez | Village des Tunicas | 1716-05-08 | 144 | Autre frère du Grand Soleil, retenu avec lui.
+Chef de la Barbe | Natchez | Village des Tunicas | 1716-05 | 148 | Un des quatre Natchez désignés comme coupables du meurtre des Français.
+Alahofléchia | Natchez | Village des Tunicas | 1716-05 | 148 | Chef du village des Noyers, désigné avec le chef de la Barbe.
+Soulier Rouge (Red Shoe) | Choctaws (Chactas); Chickasaws (Chicachas) | Villages chactas | 1734 | 460 | Chef chacta qui joue un rôle de premier plan dans les vaines négociations pour lancer les Chactas contre les Chicachas.

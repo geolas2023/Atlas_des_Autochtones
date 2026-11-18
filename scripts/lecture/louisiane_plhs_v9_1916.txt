@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Publications of the Louisiana Historical Society, vol. IX (1916)
+# ref: Publications of the Louisiana Historical Society, vol. IX, Proceedings and Reports 1916, La Nouvelle-Orléans, Louisiana Historical Society, 1917
+# lien: https://archive.org/details/publicationslou06socigoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/publicationslou06socigoog/mode/1up?q={q}
+# Pages approximatives.
+= Chefs chactas à Hopewell | Choctaws (Chactas) | Hopewell (Caroline du Sud) | 1786 | 84 | Quelques chefs chactas qui n'avaient pas rendu la médaille anglaise vont traiter à Hopewell sans mandat de leur nation, selon le gouverneur espagnol.

@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · French, Historical Collections of Louisiana, partie II (1850)
+# ref: B. F. French (éd.), Historical Collections of Louisiana, part II, Philadelphie, Daniels and Smith, 1851
+# lien: https://archive.org/details/cihm_36229/page/{page}/mode/1up
+# recherche: https://archive.org/details/cihm_36229/mode/1up?q={q}
+# Pages approximatives.
+= Chef bayogoula guide de Bienville | Bayogoulas et Mougoulachas; Colapissas | Village des Bayogoulas | 1699 | 15 | Bienville l'envoie parlementer avec les Colapissas, dont le village vient d'être surpris par deux Anglais et des Chicachas qui ont emmené des captifs.
+= Chefs mantantons et mdewakantons | Sioux (Dakotas, Lakotas, Nakotas) | Fort L'Huillier | 1700-11 | 2 | Huit Mantantons envoyés par leurs chefs, puis trois chefs mendeouacantons, viennent au fort réparer les torts faits aux Français.
+= Frère du grand chef, dit la Flèche | Natchez | Fort Rosalie (Natchez) | 1716 | 46 | Bienville déclare à ses prisonniers qu'il ne peut douter que ce frère du grand chef soit l'un des meurtriers des Français.
