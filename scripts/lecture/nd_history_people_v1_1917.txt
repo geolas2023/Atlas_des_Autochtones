@@ -1,0 +1,17 @@
+# corpus: Lecture intégrale · Lounsberry, North Dakota History and People, vol. I (1917)
+# ref: C. A. Lounsberry, North Dakota History and People : Outlines of American History, vol. I, Chicago, S. J. Clarke, 1917
+# lien: https://archive.org/details/northdakotahisto01loun/page/{page}/mode/1up
+# recherche: https://archive.org/details/northdakotahisto01loun/mode/1up?q={q}
+# Pages d'après les titres courants.
+Charles F. Picotte | Sioux; Métis | Yankton (Dakota du Sud) | 1858 | 221, 233-234 | Fils d'Honoré Picotte et d'une fille du chef Two Lance ; membre du comité du traité des Yanktons, il reçoit une section de terre et une annuité ; il contribue en 1862 au retour des captifs.
+= Veuve d'Honoré Picotte (fille de Two Lance) | Sioux | Grand River (Dakota du Sud) | 1870 | 233 | Épouse ensuite le major Galpin, mort à Grand River en 1870 ; elle poursuit seule la traite sur la Cannonball.
+Amy Parkins | Sioux; Métis | Rivière Cannonball (Dakota du Nord) | 1916 | 233 | Fille de Mme Galpin, veuve d'Henry S. Parkins, elle gère encore leurs grands intérêts sur la Cannonball.
+François Jeannotte | Métis | Pembina | 1818 | 230 | Né en 1806 sur la Souris d'un père canadien-français et d'une mère chippewa ; vient à Pembina à douze ans avec sa mère.
+= Parti de guerre chippewa | Anishinaabés (Ojibwés, Saulteux) | Minot (Dakota du Nord) | 1820 | 230 | Selon François Jeannotte, un parti de guerre chippewa trouve un poste de traite près de Minot.
+= Bande de Two Bears | Sioux | Fort Berthold | 1863-12-25 | 232 | Attaque du poste de Fort Berthold, défendu par dix-sept hommes dont Gerard, Malnouri et Patineaud.
+= Sioux et Chippewas | Sioux; Anishinaabés (Ojibwés, Saulteux) | Saint-Joseph (Dakota) | 1861 | 232 | Rixe entre Sioux et Chippewas chez Jean B. Wilkie ; plusieurs morts.
+= Bande de Little Crow (Little Six, Medicine Bottle) | Sioux | Pembina Hills | 1862 | 227 | Environ mille personnes plantent leurs tipis autour du poste de Moorhead ; le fils de William Myrick, prisonnier, est racheté par Frank Gingras pour un sac de pemmican (année donnée par le texte).
+= Métis et Indiens du lac Devils | Métis | Lac Devils (Fort Totten) | 1862 | 227 | Une centaine de familles de Métis et d'Indiens vivent au lac Devils, où Moorhead passe l'été et l'hiver.
+Iron Heart | Sioux | New Ulm (Minnesota) | 1862 | 234 | Chef sioux en vue, qui prend part à la bataille de New Ulm.
+Gabriel Renville | Sioux | Lac Traverse (Minnesota) | 1872-09-20 | 322 | Grand chef des Sissetons, négocie la cession de leurs terres du Dakota, sauf les réserves du lac Traverse et du lac Devils.
+Dave Faribault | Sioux; Métis | Owego (comté de Ransom, Dakota du Nord) | 1868 | 527 | Métis sioux, neveu du vieux chef Faribault, vit sur la Sheyenne et tient un relais du gouvernement, déplacé ensuite à Pigeon Point.
