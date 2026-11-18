@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Folwell, A History of Minnesota, vol. I (1921)
+# ref: William Watts Folwell, A History of Minnesota, vol. I, Saint Paul, Minnesota Historical Society, 1921
+# lien: https://archive.org/details/cu31924009091392/page/{page}/mode/1up
+# recherche: https://archive.org/details/cu31924009091392/mode/1up?q={q}
+# Pages approximatives.
+Village d'Izatys | Sioux (Dakotas, Lakotas, Nakotas) | Mille Lacs (Izatys) | 1679 | 23 | Du Luth nomme Izatys le village du lac Mille Lacs, plus tard déformé en « Kathio », et y plante le 1er juillet les armes du roi.
+Sioux de l'Est | Sioux (Dakotas, Lakotas, Nakotas); Iowas; Otoes-Missourias | Fort L'Huillier | 1700 | 41 | Les Sioux de l'Est se plaignent du fort de Le Sueur : ils ne peuvent y venir traiter sans risquer l'attaque des Sioux de l'Ouest, des Iowas et des Otos, qui revendiquent le pays.
+Sioux de la carrière | Sioux (Dakotas, Lakotas, Nakotas) | Carrière de pipestone (Minnesota) | 1836 | 120-121 | Les Sioux s'irritent du projet de Catlin et Wood de visiter la carrière de pipestone, interdite jusque-là aux Blancs hormis un ou deux traiteurs.
+Kegwedzissag | Anishinaabés (Ojibwés, Saulteux) | Leech Lake | 1836 | 124 | Ojibwé « Who-tries-to-walk », connaisseur du haut pays, guide Nicollet de Leech Lake vers les sources du Mississippi.
+Mission de Ravoux | Sioux (Dakotas, Lakotas, Nakotas) | Traverse des Sioux | 1841 | 207 | Seule mission catholique aux Sioux : Augustin Ravoux visite la Traverse des Sioux à l'automne puis passe l'hiver à Lac qui Parle.

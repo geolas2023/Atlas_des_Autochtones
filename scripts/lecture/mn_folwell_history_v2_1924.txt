@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Folwell, A History of Minnesota, vol. II (1924)
+# ref: William Watts Folwell, A History of Minnesota, vol. II, Saint Paul, Minnesota Historical Society, 1924
+# lien: https://archive.org/details/historyofminneso02folw/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofminneso02folw/mode/1up?q={q}
+# Pages approximatives.
+Guerriers dakotas | Sioux (Dakotas, Lakotas, Nakotas) | Redwood (Minnesota) | 1862-08-18 | 107 | À l'aube, un grand parti de guerriers dakotas peints pour la guerre cerne le village des traiteurs de l'agence inférieure et ouvre le feu sur les magasins.
+John Other Day | Sioux (Dakotas, Lakotas, Nakotas) | Agence Yellow Medicine (Minnesota) | 1862-08-18 | 117 | Dakota chrétien marié à une Blanche, il rassemble avec Joseph Laframboise les Blancs de l'agence supérieure dans l'entrepôt de briques.
+Les 38 condamnés de Mankato | Sioux (Dakotas, Lakotas, Nakotas) | Mankato (Minnesota) | 1862-12-26 | 209 | Trente-huit Dakotas et Métis sont pendus à Mankato; Tatemima (Round Wind) obtient un sursis.
+Camp de Fort Snelling | Sioux (Dakotas, Lakotas, Nakotas); Métis | Fort Snelling | 1862-12-02 | 252 | Le recensement du camp clos près du fort compte 1 601 personnes, dont 112 Métis loyaux des familles Frenière, Faribault, Laframboise, Robertson et Renville.
