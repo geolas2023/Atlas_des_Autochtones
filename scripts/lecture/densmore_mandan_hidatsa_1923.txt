@@ -1,0 +1,18 @@
+# corpus: Lecture intégrale · Densmore, Mandan and Hidatsa Music (1923)
+# ref: Frances Densmore, Mandan and Hidatsa Music, Washington, Bureau of American Ethnology, Bulletin 80, 1923
+# lien: https://archive.org/details/mandanhidatsamus0000dens/page/{page}/mode/1up
+# recherche: https://archive.org/details/mandanhidatsamus0000dens/mode/1up?q={q}
+# Enquête menée sur la réserve de Fort Berthold de 1912 à 1918.
+= Mandans du traité de 1825 | Mandans | Mandan villages | 1825-07-30 | 11 | Traité de paix conclu après des « actes d'hostilité de quelques hommes turbulents » ; les chefs et guerriers donnent des explications jugées satisfaisantes.
+= Mandans après la variole | Mandans | Mandan villages | 1837 | 12 | Estimés à environ 1 250 en 1804, puis 1 600, les Mandans tombent à 150 après la variole de 1837 ; 274 en 1918.
+= Arikaras, Mandans et Hidatsas | Arikaras; Mandans; Gros-Ventres (Aaniiih) | Fort Berthold | 1864 | 11 | Le père De Smet tient des conseils au nom du gouvernement et les trouve « dans les meilleures dispositions envers les Blancs ».
+= Indiens de Fort Berthold | Mandans; Gros-Ventres (Aaniiih); Arikaras | Fort Berthold | 1875 | 12 | Traités de paix avec les Sioux, obtenus par les généraux Custer et Carlin ; mille acres étaient déjà cultivés en 1872.
+= Village de Fort Berthold | Mandans; Gros-Ventres (Aaniiih) | Fort Berthold | 1887 | 1 | Le village commun des Mandans et des Hidatsas est abandonné ; les terres sont allotties, les Mandans à l'ouest du Missouri, la plupart des Hidatsas à l'est.
+Moves Slowly | Mandans | Fort Berthold | 1904 | 1 | Dernier prêtre du maïs des Mandans, mort en 1904, « le dernier d'une lignée de 34 prêtres » dont les noms sont conservés dans un registre pictographique.
+Scattered Corn (Mrs. Holding Eagle, Wo'pite) | Mandans | Fort Berthold | 1912 | XVIII, 1 | Fille de Moves Slowly ; donne vingt et un chants et les coutumes du maïs, la matière la plus ancienne recueillie.
+Little Crow (Ke'kaha'mahe) | Mandans | Fort Berthold | 1912 | XVIII, 1 | Vieillard très honoré, enregistre des chants en 1912 et meurt le 10 juin 1913.
+Ben Benson (Buffalo Bull Head), Flat Bear (Bear on the Flat), Wounded Face, Otter Woman, Sitting Rabbit, Wolf Head, Wolf Ghost, Sitting Crow, Water Chief | Mandans | Fort Berthold | 1912 | XVIII-XIX, 1 | Presque tous les Mandans de sang pur encore vivants, tous âgés de plus de cinquante ans ; Ben Benson, ancien policier indien, est le seul à parler un peu anglais.
+Crow's Heart (Ke'kana'tka) | Mandans | Fort Berthold | 1912 | 1-2 | Bâtit une loge de terre à l'ancienne et un « poteau de cèdre » sur sa terre au bord du Missouri ; son passage en bateau de peau (« Crow's Heart's Landing ») devient le centre de la communauté mandane.
+James Holding Eagle | Mandans | Fort Berthold | 1912 | XVII | Fils d'un des derniers Mandans de sang pur, seul Mandan capable d'écrire sa langue ; il transcrit les mots mandans de l'enquête.
+Holding Eagle, Old Dog, Butterfly (White Clay Nose), Pan (Pine Wood), Good Bear, Yellow Hair, Harry Eaton (One Eye), James Driver | Gros-Ventres (Aaniiih) | Fort Berthold | 1912 | XVIII, 2 | Chanteurs hidatsas ; Good Bear fut longtemps juge du tribunal indien de l'agence ; la maison de rondins d'Old Dog sert de lieu de réunion aux Hidatsas.
+Buffalo Paunch, Dancing Bull, Joseph Packineau | Gros-Ventres (Aaniiih) | Fort Berthold | 1918 | XIX | Informateurs hidatsas qui n'ont pas enregistré de chants ; Buffalo Paunch meurt le 8 novembre 1918.
