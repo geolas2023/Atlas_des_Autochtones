@@ -141,6 +141,59 @@ def nettoyer(desc, lieu):
         t = t[len(lieu):]
     return t.strip(' ,.')
 
+
+# ---------- lecture intégrale des livres (scripts/lecture/*.txt) ----------
+def lecture_integrale(G_fr):
+    import glob, importlib.util
+    spec = importlib.util.spec_from_file_location('la', os.path.join(ICI, 'scripts', 'lecture', 'lieux_autochtones.py'))
+    la = importlib.util.module_from_spec(spec); spec.loader.exec_module(la)
+    canons = [c for c, _, _, _ in NATIONS]
+    def nation(x):
+        x = x.strip()
+        for c in canons:
+            if c == x or c.split(' (')[0] == x or c.startswith(x): return c
+        raise ValueError('nation inconnue : ' + x)
+    sortie = []
+    for chemin in sorted(glob.glob(os.path.join(ICI, 'scripts', 'lecture', '*.txt'))):
+        meta = {}; vus = collections.Counter()
+        for ligne in open(chemin, encoding='utf-8'):
+            ligne = ligne.rstrip('\n')
+            if ligne.startswith('#'):
+                m = re.match(r"#\s*(corpus|ref|lien):\s*(.*)", ligne)
+                if m: meta[m.group(1)] = m.group(2).strip()
+                continue
+            if not ligne.strip(): continue
+            qui, nats, lieu, date, page, desc = [c.strip() for c in ligne.split(' | ', 5)]
+            nats = [nation(x) for x in nats.split(';')]
+            if lieu in la.L: lon, lat, cert, libelle = la.L[lieu]
+            elif lieu in G_fr: lon, lat, cert = G_fr[lieu][:3]; libelle = G_fr[lieu][3] if len(G_fr[lieu]) > 3 else lieu
+            else: raise ValueError(f'lieu inconnu : {lieu} ({chemin})')
+            m = re.match(r"(\d{3})(\d|X)(?:-(\d\d))?", date)
+            if m.group(2) == 'X': debut, fin = int(m.group(1) + '0'), int(m.group(1) + '9')
+            else: debut = fin = int(m.group(1) + m.group(2))
+            if m.group(3) and m.group(2) != 'X': debut = fin = debut + (int(m.group(3)) - 0.5) / 12
+            p1 = re.match(r"\d+", page).group(0)
+            noms = [n.strip() for n in qui.split(',') if n.strip() and not est_nation(n.strip()) and not re.match(r"^(?:[A-ZÉ][a-zé]+s|Indiens|Osages|Chefs?|Bande|Gendres)\b", n.strip())]
+            base = slug(libelle.split(' (')[0] + '-' + str(int(debut)))
+            vus[base] += 1
+            ident = 'L-' + slug(os.path.basename(chemin)[:-4])[:10] + '-' + base + (f'-{vus[base]}' if vus[base] > 1 else '')
+            th = 'personnage' if noms else theme(desc, libelle, [], None)
+            sortie.append({'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [lon, lat]}, 'properties': {
+                'id': ident, 'nom': f"{libelle.split(' (')[0]} : {qui}", 'corpus': meta['corpus'], 'theme': th,
+                'debut': float(debut), 'fin': float(fin) + (0.999 if m.group(2) == 'X' else 0), 'date_edtf': date, 'precision': 'mois' if m.group(3) else ('decennie' if m.group(2) == 'X' else 'annee'),
+                'certitude': {'c': 'certaine', 'a': 'approximative', 'h': 'hypothetique'}.get(cert, 'approximative'),
+                'personnages': noms, 'nations': nats, 'aires': [AIRE[n] for n in nats], 'francophones': [],
+                'description': desc, 'passage': desc,
+                'sources': f"{meta['ref']}, p. {page}.",
+                'note': "Lecture intégrale du livre pour l'Atlas des Autochtones ; description paraphrasée, à vérifier dans le livre.",
+                'voir_aussi': [{'url': meta['lien'].format(page=p1), 'texte': f"Lire la page {p1} →"}]}})
+    return sortie
+
+def slug(s):
+    import unicodedata
+    s = unicodedata.normalize('NFD', s).encode('ascii', 'ignore').decode().lower()
+    return re.sub(r'[^a-z0-9]+', '-', s).strip('-')[:40]
+
 RESEAU = [  # atlas du réseau : fiches complètes (remplacent les renvois courts de l'atlas des Canadiens français)
     ('atlas-aubry', 'Atlas Aubry', 'https://geolas2023.github.io/Atlas-Aubry/index.html#lieu={id}', "Fiche d'origine dans l'Atlas Aubry →"),
     ('atlas-iberville', 'Atlas Iberville', 'https://geolas2023.github.io/Atlas-Iberville/index.html#lieu={id}', "Fiche d'origine dans l'Atlas Iberville →"),
@@ -212,6 +265,13 @@ def main(src):
         out.append({'type': 'Feature', 'geometry': geom, 'properties': q})
         stats[th] += 1
         for n in nats: par_nation[n] += 1
+    sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(src)), '..', 'scripts', 'sources_archive'))
+    from lieux_ouest import G as G_fr
+    lus = lecture_integrale(G_fr)
+    for f in lus:
+        stats['lecture:' + f['properties']['corpus']] += 1
+        for n in f['properties']['nations']: par_nation[n] += 1
+    out += lus
     os.makedirs(os.path.join(ICI, 'data'), exist_ok=True)
     json.dump({'type': 'FeatureCollection', 'features': out}, open(os.path.join(ICI, 'data', 'lieux.geojson'), 'w'), ensure_ascii=False, separators=(',', ':'))
     json.dump(THEMES, open(os.path.join(ICI, 'data', 'themes.json'), 'w'), ensure_ascii=False, indent=1)
