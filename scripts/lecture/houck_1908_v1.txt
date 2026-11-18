@@ -1,0 +1,12 @@
+# corpus: Lecture intégrale · Houck, A History of Missouri, vol. I (1908)
+# ref: Houck, Louis (1908), A History of Missouri from the Earliest Explorations and Settlements until the Admission of the State into the Union, Chicago, R. R. Donnelley, vol. 1
+# lien: https://archive.org/details/historyofmissour01houc/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofmissour01houc/mode/1up?q={q}
+# Pages approximatives.
+Ca-ha-go-tonga (Cheveux Blancs) | Osages | Washington (D.C.) | 1804-07-12 | 192 | Chef principal des Osages lors de l'achat de la Louisiane, en visite à Washington avec une délégation conduite par Pierre Chouteau.
+Wa-tcha-wa-ha (Jean La Fon) | Osages | Village osage (rivière Osage) | 1808 | 193 | Gendre de Cheveux Blancs et second chef des Grands Osages.
+= Chefs des Petits Osages | Osages | Fort Osage | 1808 | 193 | Tut-ta-suggy (le Vent), Watch-ke-singar (Soldat du Chien), Nezuma, Te-to-basi (Sans Oreille), Tare-hem et Maugraine (Gros Coquin).
+Te-to-basi (Sans Oreille) | Osages | Fort Osage | 1811 | 185 | Chef des Petits Osages à qui le facteur Sibley remet un calumet envoyé par le général Clark.
+Has-ha-ke-da-tungar (Big Soldier) | Osages | Washington (D.C.) | 1820 | 183, 193 | Chef principal des Grands Osages, plusieurs fois délégué à Washington, qui admire le mode de vie des Blancs sans vouloir l'adopter.
+Massa-Rosanga | Illinois (Inoka) | Sainte-Geneviève | 1794 | 219 | Chef d'une bande de Peorias établie près de Sainte-Geneviève.
+The Bowl (Dima'li) | Cherokees | Rivière Saint-François (Missouri) | 1794 | s. p. | Chef d'une bande de Cherokees restée sur la rivière Saint-François.

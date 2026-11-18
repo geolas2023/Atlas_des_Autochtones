@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Houck, The Spanish Regime in Missouri, vol. II (1909)
+# ref: Houck, Louis (1909), The Spanish Regime in Missouri: A Collection of Papers and Documents Relating to Upper Louisiana, Chicago, R. R. Donnelley, vol. 2
+# lien: https://archive.org/details/spanishregimeinm02houc/page/{page}/mode/1up
+# recherche: https://archive.org/details/spanishregimeinm02houc/mode/1up?q={q}
+# Pages approximatives.
+Missa Rosanga | Illinois (Inoka) | Sainte-Geneviève | 1794 | 59 | Chef des Peorias invité avec huit branches de porcelaine et du tabac à rassembler les siens campés près de Sainte-Geneviève.
+Le Point du Jour | Lenapes (Delawares, Loups) | Cap-Girardeau | 1794 | 68 | Chef des Loups.
+= Chefs chaouanons | Shawnees | Cap-Girardeau | 1794 | 64 | Assemblés dans leurs loges, ils se plaignent de plusieurs Français.
+Ugulayacabe (Ami du Loup) | Chickasaws (Chicachas) | Memphis (Tennessee) | 179X | 26-27 | Chef chicacha qui accorde un terrain aux Espagnols.

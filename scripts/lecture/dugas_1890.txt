@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Dugas, Un voyageur des pays d'en haut (1890)
+# ref: Dugas, Georges (1890), Un voyageur des pays d'en haut, Montréal, C.-O. Beauchemin et fils
+# lien: https://archive.org/details/unvoyageurdespay00duga/page/{page}/mode/1up
+# recherche: https://archive.org/details/unvoyageurdespay00duga/mode/1up?q={q}
+# Pages approximatives.
+Le Petit Corbeau (Little Crow) | Sioux (Dakotas, Lakotas, Nakotas) | Village de Little Crow (agence sioux inférieure) | 1862 | 130 | Le chef le plus renommé des Sioux confie à un agent, quelques semaines avant le massacre, qu'il entend chaque matin le bruit de la guerre.
+= Chef ami de Charbonneau | Sioux (Dakotas, Lakotas, Nakotas) | Village de Little Crow (agence sioux inférieure) | 1862 | 134-136 | Il ordonne à ses guerriers d'amener Charbonneau au camp sans lui faire de mal ; il laisse partir le Métis Montreuil, qui ne revient pas.

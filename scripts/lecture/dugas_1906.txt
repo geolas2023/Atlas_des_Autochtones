@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Dugas, Histoire de l'Ouest canadien de 1822 à 1869 (1906)
+# ref: Dugas, Georges (1906), Histoire de l'Ouest canadien de 1822 à 1869 : époque des troubles, Montréal, Beauchemin
+# lien: https://archive.org/details/histoiredelouest00dugauoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/histoiredelouest00dugauoft/mode/1up?q={q}
+# Pages approximatives.
+= Sioux en visite à Saint-Boniface | Sioux (Dakotas, Lakotas, Nakotas) | Saint-Boniface | 1844 | s. p. | Venus dans la colonie un dimanche, ils désirent traverser pour saluer Mgr Provencher, « le grand chef de la prière ».

@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Houck, A History of Missouri, vol. II (1908)
+# ref: Houck, Louis (1908), A History of Missouri from the Earliest Explorations and Settlements until the Admission of the State into the Union, Chicago, R. R. Donnelley, vol. 2
+# lien: https://archive.org/details/historyofmissour02houc/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofmissour02houc/mode/1up?q={q}
+# Pages approximatives.
+Machiquawish (Matchekewis) | Anishinaabés (Ojibwés, Saulteux) | Michilimackinac | 1780 | 36-37 | Chef très renommé qui part de Michilimackinac avec sa bande pour l'attaque de Saint-Louis ; avec Wabasha, il attise l'esprit de guerre.
+Ligulayacabe (Ugulayacabe) | Chickasaws (Chicachas) | Memphis (Tennessee) | 1795 | 141 | Chef chicacha qui, voyant les hommes de Gayoso travailler sans armes, demande à lui donner le nom de « Payemingo », « sans peur ».
+Quashquama | Sauks | Clarksville (Missouri) | 1830 | 398 | Chef sauk du Missouri, grand signataire de traités (Saint-Louis 1804, Portage des Sioux 1815, Fort Armstrong 1822, Prairie du Chien 1825), mort en face de Clarksville.

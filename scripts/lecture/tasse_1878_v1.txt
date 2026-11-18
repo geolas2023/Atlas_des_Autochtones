@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Tassé, Les Canadiens de l'Ouest, t. II (1878)
+# ref: Tassé, Joseph (1878), Les Canadiens de l'Ouest, Montréal, Compagnie d'imprimerie canadienne, 2 tomes
+# lien: https://archive.org/details/lescanadiensdelo02tass/page/{page}/mode/1up
+# recherche: https://archive.org/details/lescanadiensdelo02tass/mode/1up?q={q}
+# Pages approximatives.
+Bec-de-Faucon | Sioux (Dakotas, Lakotas, Nakotas) | Saint-Paul (Minnesota) | 184X | 13 | Chef ami qui chasse des agresseurs ivres de la maison de Guérin ; Mme Guérin en profite pour se réfugier chez Benjamin Gervais.
+Sagonash (Billy Caldwell) | Potawatomis; Métis | Chicago | 1831 | 89 | Chef de guerre célèbre et l'un des habitants les plus importants de Chicago, qui donne son nom au Sagonash Hôtel.

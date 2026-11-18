@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Larpenteur, Forty Years a Fur Trader on the Upper Missouri, vol. II (1898)
+# ref: Larpenteur, Charles (1898), Forty Years a Fur Trader on the Upper Missouri, éd. Elliott Coues, New York, F. P. Harper, 2 vol.
+# lien: https://archive.org/details/fortyyearsfurtra02larpiala/page/{page}/mode/1up
+# recherche: https://archive.org/details/fortyyearsfurtra02larpiala/mode/1up?q={q}
+# Pages approximatives.
+Redstone (Pierre rouge) | Assiniboines (Nakodas); Sioux (Dakotas, Lakotas, Nakotas) | Canoe band (Missouri, en aval du fort Union) | 1864 | 363 | Chef de soixante loges de la bande des Canots, dont le parti se fait voler deux chevaux par les Sioux près du fort.
+= The Whip et The Drum | Autochtones (nation non précisée) | Village ponca | 184X | 302 | Deux bandes, l'une conduite par le Fouet en deçà de la Running Water, l'autre par le Tambour restée sur la Ponca Creek.
