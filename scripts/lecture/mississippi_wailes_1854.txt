@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Wailes, Report on the Agriculture and Geology of Mississippi (1854)
+# ref: B. L. C. Wailes, Report on the Agriculture and Geology of Mississippi, Philadelphia, Lippincott, Grambo & Co., 1854
+# lien: https://archive.org/details/reportonagricult00miss/page/{page}/mode/1up
+# recherche: https://archive.org/details/reportonagricult00miss/mode/1up?q={q}
+# Pages approximatives.
+Alibamo Mingo | Choctaws (Chactas); Natchez | Fort Rosalie (Natchez) | 1730-01-27 | 39 | L'un des plus redoutables chefs chactas ; sous ses menaces, les Natchez livrent aux Chactas les femmes, les enfants et la plupart des esclaves noirs qu'ils détenaient.
+= Chef instigateur du massacre | Natchez | Fort Rosalie (Natchez) | 1730 | 39 | Le chef qui avait poussé au massacre des Français tombe dans l'attaque.

@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Rowland, Mississippi: Comprising Sketches, vol. I (1907)
+# ref: Dunbar Rowland (éd.), Mississippi : Comprising Sketches of Towns, Events, Institutions, and Persons, vol. 1, Atlanta, Southern Historical Publishing Association, 1907
+# lien: https://archive.org/details/mississippicompr01rowl/page/{page}/mode/1up
+# recherche: https://archive.org/details/mississippicompr01rowl/mode/1up?q={q}
+# Pages approximatives.
+Soulier Rouge (Red Shoes) | Choctaws (Chactas) | Garlandsville (Mississippi) | 1746 | 474 | Chef de la faction hostile des Six Villes chactas, qui résidait près de l'actuelle Garlandsville.
+Chinnabie | Natchez; Muscogees (Creeks) | New York | 1790-08-07 | 77 | « Le principal guerrier natchez », du voyage de McGillivray et d'une vingtaine de Creeks à New York, où ils signent un traité.
+= Chickamauga Charles et autres chefs cherokees | Cherokees | New Orleans | 1792 | 80 | Carondelet leur conseille de garder la paix pendant que le roi d'Espagne traite avec les Américains.
+Tishomingo | Chickasaws (Chicachas) | Iuka (Mississippi) | 1836~ | 948 | Chef chicacha mort vers 1836 aux sources d'Iuka et enterré sur le site de la ville.

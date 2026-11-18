@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Sketch of the Catholic Church in the City of Natchez (1886)
+# ref: Sketch of the Catholic Church in the City of Natchez, Miss., on the Occasion of the Consecration of its Cathedral, Natchez, 1886
+# lien: https://archive.org/details/SketchOfTheCatholicChurchInTheCity/page/{page}/mode/1up
+# recherche: https://archive.org/details/SketchOfTheCatholicChurchInTheCity/mode/1up?q={q}
+# Pages approximatives.
+= Grand Soleil des Natchez | Natchez | Natchez | 1700 | 7 | Entouré de quelque six cents guerriers, il reçoit Iberville en grande pompe ; un traité d'amitié est conclu.

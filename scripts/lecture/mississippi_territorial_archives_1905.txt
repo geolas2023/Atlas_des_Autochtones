@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Mississippi Territorial Archives, vol. I (1905)
+# ref: Dunbar Rowland (éd.), Mississippi Territorial Archives, 1798-1803, vol. I, Nashville, Brandon, 1905
+# lien: https://archive.org/details/mississippiterri01missuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/mississippiterri01missuoft/mode/1up?q={q}
+# Pages approximatives.
+= Chefs chactas à Concord | Choctaws (Chactas) | Natchez | 1798-10-19 | 69 | Les chefs d'environ deux cents guerriers chactas se présentent au gouverneur Sargent à la maison de Concord, près de Natchez.
