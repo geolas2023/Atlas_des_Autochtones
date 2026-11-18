@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Southwestern Historical Quarterly, vol. 10 (1906-1907)
+# ref: The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 10, Austin, 1906-1907
+# lien: https://archive.org/details/southwesternhist10bark/page/{page}/mode/1up
+# recherche: https://archive.org/details/southwesternhist10bark/mode/1up?q={q}
+# Pages approximatives.
+= Six chefs | Coahuiltèques et peuples du Texas | Goliad | 1754 | 129 | Chefs des Cujanes, Karankawas et Guapites qui réclament une mission et demandent à voir le vice-roi.
