@@ -159,7 +159,7 @@ def lecture_integrale(G_fr):
         for ligne in open(chemin, encoding='utf-8'):
             ligne = ligne.rstrip('\n')
             if ligne.startswith('#'):
-                m = re.match(r"#\s*(corpus|ref|lien):\s*(.*)", ligne)
+                m = re.match(r"#\s*(corpus|ref|lien|recherche):\s*(.*)", ligne)
                 if m: meta[m.group(1)] = m.group(2).strip()
                 continue
             if not ligne.strip(): continue
@@ -172,7 +172,8 @@ def lecture_integrale(G_fr):
             if m.group(2) == 'X': debut, fin = int(m.group(1) + '0'), int(m.group(1) + '9')
             else: debut = fin = int(m.group(1) + m.group(2))
             if m.group(3) and m.group(2) != 'X': debut = fin = debut + (int(m.group(3)) - 0.5) / 12
-            p1 = re.match(r"\d+", page).group(0)
+            mp = re.match(r"\d+", page)
+            p1 = mp.group(0) if mp else None
             groupe = qui.startswith('=')
             qui = qui.lstrip('= ')
             noms = [] if groupe else [n.strip() for n in qui.split(',') if n.strip() and not est_nation(n.strip()) and not re.match(r"^(?:[A-ZÉ][a-zé]+s|Indiens|Osages|Chefs?|Bande|Gendres)\b", n.strip())]
@@ -186,9 +187,10 @@ def lecture_integrale(G_fr):
                 'certitude': {'c': 'certaine', 'a': 'approximative', 'h': 'hypothetique'}.get(cert, 'approximative'),
                 'personnages': noms, 'nations': nats, 'aires': [AIRE[n] for n in nats], 'francophones': [],
                 'description': desc, 'passage': desc,
-                'sources': f"{meta['ref']}, p. {page}.",
+                'sources': f"{meta['ref']}, " + (f"p. {page}." if p1 else 's. p.'),
                 'note': "Lecture intégrale du livre pour l'Atlas des Autochtones ; description paraphrasée, à vérifier dans le livre.",
-                'voir_aussi': [{'url': meta['lien'].format(page=p1), 'texte': f"Lire la page {p1} →"}]}})
+                'voir_aussi': [{'url': meta['lien'].format(page=p1), 'texte': f"Lire la page {p1} →"} if p1 else
+                               {'url': meta['recherche'].format(q=re.sub(r'\s+', '+', (noms or [qui.split(',')[0]])[0].split(' (')[0])), 'texte': "Chercher dans le livre →"}]}})
     return sortie
 
 def slug(s):

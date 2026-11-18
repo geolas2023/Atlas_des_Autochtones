@@ -31,4 +31,12 @@ L = {
     'Village de la Rivière-Saint-Jean (Floride)': (-81.5, 30.4, 'a', "Pays de Satouriona, embouchure du Saint-Jean (Floride)"),
     'Pays des Timucuas (Outina)': (-81.65, 29.6, 'h', "Pays d'Outina (Timucuas Utina), haut Saint-Jean, Floride"),
     'Ancienne-Lorette': (-71.36, 46.8, 'c', "Lorette (Wendake), près de Québec"),
+    'Prairie de la Madeleine (Laprairie)': (-73.5, 45.42, 'a', "Prairie de la Madeleine (La Prairie), mission iroquoise"),
+    'Grand village des Illinois (Utica)': (-88.98, 41.32, 'a', "Grand village des Illinois (Kaskaskia de la rivière des Illinois), près d'Utica"),
+    'Rivière Vermilion (Aramoni)': (-88.95, 41.2, 'h', "Rivière Aramoni (Vermilion), Illinois"),
+    'Pointe du Saint-Esprit (Chequamegon)': (-90.88, 46.6, 'a', "Mission de la Pointe du Saint-Esprit (La Pointe), lac Supérieur"),
+    'Village des Coroas (1682)': (-91.3, 31.4, 'h', "Village des Coroas"),
+    'Baie de James': (-80.5, 52.5, 'h', "Baie James et baie d'Hudson (pays des Kilistinons)"),
+    'Gandastogué (Susquehanna)': (-76.4, 39.95, 'h', "Gandastogué, village des Andastes (Susquehannocks), Pennsylvanie"),
+    'Sainte-Marie-du-Sault': (-84.35, 46.5, 'c', "Sault-Sainte-Marie"),
 }
