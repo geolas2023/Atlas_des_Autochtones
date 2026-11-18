@@ -178,4 +178,6 @@ L = {
     'Nootka (île de Vancouver)': (-126.62, 49.6, 'c', 'Baie de Nootka (Yuquot), île de Vancouver'),
     'Neah Bay (Washington)': (-124.62, 48.37, 'c', 'Neah Bay (Washington)'),
     'Réserve de Port Madison (Washington)': (-122.55, 47.73, 'a', 'Réserve de Port Madison (Suquamish, Washington)'),
+    'Gull River (lac Nipigon)': (-88.9, 49.4, 'h', 'Gull River, près du lac Nipigon (Ontario)'),
+    'Sandy Hills (Saskatchewan)': (-106.5, 51.2, 'h', 'Sandy Hills, près de la branche sud de la Saskatchewan'),
 }

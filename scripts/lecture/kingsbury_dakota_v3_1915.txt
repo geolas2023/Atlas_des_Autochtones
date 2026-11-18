@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Kingsbury, History of Dakota Territory, vol. III (1915)
+# ref: George W. Kingsbury et George Martin Smith, History of Dakota Territory / South Dakota : Its History and Its People, vol. III, Chicago, S. J. Clarke, 1915
+# lien: https://archive.org/details/historyofdakotat03king/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofdakotat03king/mode/1up?q={q}
+# Pages approximatives.
+= Chefs sioux devant la commission | Sioux (Dakotas, Lakotas, Nakotas) | Agence de Standing Rock | 1888 | 57-59 | Big Head, Circling Bear, Long Dog, Mad Bear, Rain-in-the-Face et Gall, grand orateur, refusent de signer l'accord malgré le gouverneur Church.
+John Grass (Glass) | Sioux (Dakotas, Lakotas, Nakotas) | Washington (D.C.) | 1888 | 57 | Chef envoyé représenter sa tribu à Washington, au grand courroux de Sitting Bull.
+Black Thunder (Tonnerre noir) | Sioux (Dakotas, Lakotas, Nakotas) | Agence de Standing Rock | 1888 | 57 | Prononce un discours éloquent contre la signature, acclamé par des centaines de guerriers.
+Gall | Sioux (Dakotas, Lakotas, Nakotas) | Agence de Standing Rock | 1888 | 59 | Arrête les guerriers lancés par Sitting Bull contre le jeune White Cloud et prévient un affrontement ouvert.
