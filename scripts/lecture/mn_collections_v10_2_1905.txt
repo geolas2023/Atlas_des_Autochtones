@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Collections of the Minnesota Historical Society, vol. X, partie II (1905)
+# ref: Collections of the Minnesota Historical Society, vol. X, partie II, Saint Paul, 1905
+# lien: https://archive.org/details/p2collections10minnuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/p2collections10minnuoft/mode/1up?q={q}
+# Pages approximatives.
+Hurons et Outaouais réfugiés | Wyandots (Hurons-Wendat); Odawas (Outaouais) | Île Pelée (Prairie Island) | 1655 | 462-476 | Fuyant les Iroquois, ils vivent dans l'île où Groseilliers et Radisson passent plus d'un an avec eux.
+Nadouessioux d'Izatys | Sioux (Dakotas, Lakotas, Nakotas) | Mille Lacs (Izatys) | 1679 | 537 | Du Luth plante le 2 juillet les armes du roi dans leur grand village.
+Sioux de Prairie Island | Sioux (Dakotas, Lakotas, Nakotas) | Île Pelée (Prairie Island) | 1905 | 563 | De nombreuses familles sioux vivent encore dans l'île sur des terres allotties qu'elles cultivent.
+Parti de la paix sisseton et wahpeton | Sioux (Dakotas, Lakotas, Nakotas) | Agence Yellow Medicine (Minnesota) | 1862 | 600 | Camp des Dakotas amis des Blancs près de la mission Hazelwood; loge des soldats dirigée par Gabriel Renville, Joseph La Framboise, Marpiya-hdi-na-pe et Wakpa-ee-yu-wayga pour libérer les captifs.
+Taopi, Good Thunder et Wah-ke-yan-tah-wah | Sioux (Dakotas, Lakotas, Nakotas) | Agence Yellow Medicine (Minnesota) | 1862 | 604 | Ils rejoignent le camp ami; Lawrence rend dix captifs à leurs proches.
+Éclaireurs dakotas de Sibley | Sioux (Dakotas, Lakotas, Nakotas) | Fort Ridgely (Minnesota) | 1863 | 611-613 | Two Stars, Little Paul, Gabriel Renville et d'autres Dakotas et Métis servent d'éclaireurs pour l'expédition de Sibley.

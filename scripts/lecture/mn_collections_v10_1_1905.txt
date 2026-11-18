@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Collections of the Minnesota Historical Society, vol. X, partie I (1905)
+# ref: Collections of the Minnesota Historical Society, vol. X, partie I, Saint Paul, 1905
+# lien: https://archive.org/details/p1collections10minnuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/p1collections10minnuoft/mode/1up?q={q}
+# Pages approximatives.
+Sioux de Traverse des Sioux | Sioux (Dakotas, Lakotas, Nakotas) | Traverse des Sioux | 1841 | 128 | Le gouverneur Doty tient son traité dans le vieux magasin de traite.
+Sleepy Eye, Mazahsha (Red Iron) et les chefs sioux | Sioux (Dakotas, Lakotas, Nakotas) | Traverse des Sioux | 1851 | 104-126 | Traité de Traverse des Sioux; discours du chef Sleepy Eye; Louisa Carpenter, petite-fille de Mazahsha, témoin enfant.
+Hnmegahbowh | Anishinaabés (Ojibwés, Saulteux) | Gull Lake (Minnesota) | 1852 | 183 | « Indien canadien instruit », interprète de Breck à la mission ojibwée de Gull Lake, puis ministre épiscopalien.

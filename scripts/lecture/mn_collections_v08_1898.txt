@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Collections of the Minnesota Historical Society, vol. VIII (1898)
+# ref: Collections of the Minnesota Historical Society, vol. VIII, Saint Paul, 1898
+# lien: https://archive.org/details/collectionsofmin0008unse/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofmin0008unse/mode/1up?q={q}
+# Pages approximatives.
+Village de Killdeer | Sioux (Dakotas, Lakotas, Nakotas) | Killdeer Mountain (Dakota du Nord) | 1864 | 454 | Les éclaireurs de Sully signalent le 24 juillet un grand village à Ta-ha-kouty; après le combat, environ seize cents tipis et les provisions sont détruits.

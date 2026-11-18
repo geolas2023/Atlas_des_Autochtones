@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Brower, The Mississippi River and its Source (1893)
+# ref: J. V. Brower, The Mississippi River and its Source (Collections of the Minnesota Historical Society, vol. VII), Minneapolis, 1893
+# lien: https://archive.org/details/collectionsofmin07minn/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofmin07minn/mode/1up?q={q}
+# Pages approximatives.
+Issatis | Sioux (Dakotas, Lakotas, Nakotas) | Mille Lacs (Izatys) | 1680 | 77 | Hennepin, Accault et Auguelle sont conduits aux villages issatis, où Du Luth les rejoint avant leur départ en septembre.
+Chippewas de Cass Lake | Anishinaabés (Ojibwés, Saulteux) | Lac au Cèdre Rouge (Cass Lake) | 1820 | 132 | Ils indiquent au gouverneur Cass que la source du fleuve est le lac La Biche, à une cinquantaine de milles à l'ouest-nord-ouest.
+Sioux des chutes | Sioux (Dakotas, Lakotas, Nakotas) | Saint Anthony Falls | 1836 | 157 | Le 26 juillet, des Sioux volent à Nicollet ses canots et ses vivres au bivouac des chutes.
+Guides ojibwés de Nicollet | Anishinaabés (Ojibwés, Saulteux) | Lac Itasca (Minnesota) | 1836 | 158 | Des Ojibwés et des Métis accompagnent Nicollet jusqu'au bassin d'Itasca.
