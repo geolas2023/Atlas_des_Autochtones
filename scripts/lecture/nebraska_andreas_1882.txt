@@ -1,0 +1,25 @@
+# corpus: Lecture intégrale · Andreas, History of the State of Nebraska (1882) — chapitres généraux
+# ref: A. T. Andreas, History of the State of Nebraska, Chicago, Western Historical Company, 1882 (édition kancoll.org : « Early History » et « Military History »)
+# lien: https://www.kancoll.org/books/andreas_ne/hon_tabl.html
+# recherche: https://www.kancoll.org/books/andreas_ne/hon_tabl.html
+# Texte en ligne sans pagination. Chapitres de comtés non relus.
+Tartarrax | Pawnees | Villages panis (Platte) | 1541 | s. p. | Vieux souverain de la Quivira, que l'auteur situe sur la Platte, rencontré par Coronado.
+The Turk | Pueblos | Villages panis (Platte) | 1541 | s. p. | Guide indien de la région de Pecos, pendu par Coronado à la Quivira pour avoir égaré l'expédition.
+= Indiens du village mascouten | Mascoutens | Villages mascoutens (rivière Fox) | 1673 | s. p. | Fournissent le 7 juin deux guides à Jolliet et Marquette pour gagner le Wisconsin.
+Shongotongo (Big Horse) | Otoes-Missourias | Fort Atkinson (Council Bluff) | 1804 | s. p. | Chef otoe au conseil du 3 août avec Lewis et Clark ; revient le 18 août.
+Wethea (Hospitality) | Otoes-Missourias | Fort Atkinson (Council Bluff) | 1804 | s. p. | Chef missouri au conseil du 3 août.
+Shosguscan (White Horse) | Otoes-Missourias | Fort Atkinson (Council Bluff) | 1804 | s. p. | Chef otoe au conseil du 3 août.
+Heahrushhah (Little Thief) | Otoes-Missourias | Fort Atkinson (Council Bluff) | 1804 | s. p. | Chef otoe absent au conseil du 3 août, arrivé le 18 avec sa bande.
+Wash-ing-guh-sah-ba (Blackbird) | Omahas | Blackbird Hill (Nebraska) | 1804 | s. p. | Chef omaha mort de la variole environ quatre ans plus tôt ; Lewis et Clark visitent sa tombe le 11 août.
+= Chefs yanktons | Sioux (Dakotas, Lakotas, Nakotas) | Calumet Bluff (Nebraska) | 1804 | s. p. | Environ cinq chefs et soixante-dix hommes ; premier conseil entre agents américains et une bande sioux, le 30 août.
+Tarrarecawaho | Pawnees | Village pawnee de la Loup (Nebraska) | 1820 | s. p. | Chef principal des Grands Pawnees, absent (fête de médecine) lors de la visite de l'expédition Long.
+= Grand village pawnee de la Republican | Pawnees | Village pawnee de la Republican (Kansas) | 1832 | s. p. | Brûlé par les Delawares, l'année de la variole chez les Pawnees.
+Logan Fontenelle | Omahas | Fontenelle (Nebraska) | 1854 | s. p. | Guide les colons de Quincy vers le site qu'ils nomment Fontenelle.
+Logan Fontenelle | Omahas | Beaver Creek (Boone, Nebraska) | 1855 | s. p. | Chef des Omahas (métis), tué le 15 juin lors d'une attaque sioux contre le camp de chasse omaha ; Joe La Flesche et Sansouci l'accompagnaient.
+Logan Fontenelle | Omahas | Bellevue | 1855 | s. p. | Inhumé à Bellevue le 1er juillet ; Joe La Flesche ramène le corps, son frère Henry fait le cercueil.
+= Chefs pawnees | Pawnees | Villages panis (Platte) | 1855 | s. p. | Conseil avec Thayer et le gouverneur Richardson ; nient les déprédations du comté de Dodge et accusent les Poncas.
+= Six jeunes Pawnees | Pawnees | Fontenelle (Nebraska) | 1859 | s. p. | « Guerre pawnee » : livrés à l'expédition Thayer ; deux sont abattus le lendemain en tentant de fuir.
+= Sioux brûlés, yanktons, pieds-noirs, santees et cutheads | Sioux (Dakotas, Lakotas, Nakotas) | Whitestone Hill (Dakota du Nord) | 1863 | s. p. | Près de deux mille guerriers combattus par Sully le 3 septembre ; 150 tués, 200 prisonniers.
+= Sioux, Cheyennes et Arapahos | Sioux (Dakotas, Lakotas, Nakotas) ; Cheyennes ; Arapahos | Julesburg | 1865 | s. p. | Environ 500 guerriers détruisent les stations le 6 janvier.
+= Sioux, Cheyennes et Arapahos | Sioux (Dakotas, Lakotas, Nakotas) ; Cheyennes ; Arapahos | Platte Bridge (Casper) | 1865 | s. p. | Environ un millier attaquent la station le 25 juillet ; le lieutenant Collins et 26 soldats tués.
+= Éclaireurs pawnees | Pawnees | Fort Reno (Wyoming) | 1865 | s. p. | Les éclaireurs de North tuent 26 Cheyennes près du fort Connor vers le 8 août.
