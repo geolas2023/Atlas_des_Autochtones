@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Southwestern Historical Quarterly, vol. 19 (1915-1916)
+# ref: The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 19, Austin, 1915-1916
+# lien: https://archive.org/details/southwesternhist19bark/page/{page}/mode/1up
+# recherche: https://archive.org/details/southwesternhist19bark/mode/1up?q={q}
+# Pages approximatives.
+= Chef des Mobilas | Mobiliens et Tohomés | Mobile | 1686 | 345 | Rejoint les Espagnols avec les chefs de cinq autres tribus ; déconseille d'aller plus loin et promet de faire suivre la lettre de Cabrera.
+= Chef tejas | Caddos et Hasinais | Villages tejas (Hasinai) | 1689 | s. p. | Dans sa rancheria, le capitaine Leon trouve L'Archevêque et Grollet.
+Fresada Pinta | Coahuiltèques et peuples du Texas | Goliad | 1791 | 400 | Chef karankawa païen, se présente le 31 mars à la mission Rosario.
+Llano Grande | Coahuiltèques et peuples du Texas | Goliad | 1791 | s. p. | Chef karankawa qui fait appeler le père Garza.

@@ -1,0 +1,12 @@
+# corpus: Lecture intégrale · Southwestern Historical Quarterly, vol. 17 (1913-1914)
+# ref: The Quarterly of the Texas State Historical Association / The Southwestern Historical Quarterly, vol. 17, Austin, 1913-1914
+# lien: https://archive.org/details/southwesternhist17bark/page/{page}/mode/1up
+# recherche: https://archive.org/details/southwesternhist17bark/mode/1up?q={q}
+# Pages approximatives.
+Juan Rodriguez | Autochtones (nation non précisée) | San Antonio | 1721 | s. p. | Chef de la Rancheria Grande, trouvé à San Antonio par Aguayo avec sa bande, demande une mission.
+= Quatre chefs | Autochtones (nation non précisée) | San Antonio | 1745 | s. p. | Chefs des tribus de San Xavier (Rancheria Grande, Mayeyes, Deadoses, Yojuanes) venus demander une mission le 2 juin.
+White Hairs | Osages | Washington (D.C.) | 1804 | 148 | Célèbre chef osage en visite à Washington avec Pierre Chouteau.
+= Chef caddo | Caddos et Hasinais | Bayou Pierre (Louisiane) | 1805 | 163 | Menacé par l'officier espagnol en passant par Bayou Pierre vers Natchitoches.
+Bowles | Cherokees | Houston (Texas) | 1838 | 46 | Célèbre chef cherokee, embarque avec le président Houston pour Galveston.
+= Chefs tonkawas | Wichitas et Taovayas | Houston (Texas) | 1839 | 44 | Une dizaine de chefs ; trois signent le traité avec la République à la maison du président.
+= Chefs comanche et coushatta | Comanches ; Autochtones (nation non précisée) | Houston (Texas) | 1839 | s. p. | Fument le calumet de paix au camp comanche près de la ville.
