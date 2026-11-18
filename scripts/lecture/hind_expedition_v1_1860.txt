@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Hind, Narrative of the Canadian Red River Exploring Expedition, vol. I (1860)
+# ref: Henry Youle Hind, Narrative of the Canadian Red River Exploring Expedition of 1857 and of the Assinniboine and Saskatchewan Exploring Expedition of 1858, vol. I, Londres, Longman, 1860
+# lien: https://archive.org/details/narrativeofcanad01hind/page/{page}/mode/1up
+# recherche: https://archive.org/details/narrativeofcanad01hind/mode/1up?q={q}
+# Pages approximatives.
+= Chefs ojibwés du traité Robinson | Anishinaabés (Ojibwés, Saulteux) | Fort William (lac Supérieur) | 1850 | 26 | Traité avec les chefs ojibwés de la rive nord du lac Supérieur, de la baie de Batchewana à la rivière Pigeon.
+Lish-i-muck-qua | Anishinaabés (Ojibwés, Saulteux) | Gull River (lac Nipigon) | 1850 | 29 | Chef pour qui le traité réserve quatre milles carrés sur la Gull River.
+= Chef de l'île du Jardin | Anishinaabés (Ojibwés, Saulteux) | Lake of the Woods | 1857 | 96-100 | En conseil, il refuse que les siens guident l'expédition à travers les marais ; on lui promet du thé et du tabac de la rivière Rouge.
+Mis-tick-oos | Cris | Sandy Hills (Saskatchewan) | 1858 | 338 | Chef dont la trentaine de tentes est occupée à prendre le bison au parc des Sandy Hills.
