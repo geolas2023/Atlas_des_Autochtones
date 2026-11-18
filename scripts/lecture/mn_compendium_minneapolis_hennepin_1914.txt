@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Compendium of History and Biography of Minneapolis and Hennepin County (1914)
+# ref: R. I. Holcombe et William H. Bingham (dir.), Compendium of History and Biography of Minneapolis and Hennepin County, Minnesota, Chicago, Henry Taylor & Co., 1914
+# lien: https://archive.org/details/compendiumofhist01holc/page/{page}/mode/1up
+# recherche: https://archive.org/details/compendiumofhist01holc/mode/1up?q={q}
+# Pages approximatives.
+Wayago Enagee, « Fils de Pinchon » | Sioux (Dakotas, Lakotas, Nakotas) | Lac Pépin | 1745 | 41 | Fils du traiteur canadien Penechon et d'une Indienne, il devient chef d'une bande installée plus tard à l'embouchure de la Minnesota et signe l'accord de Pike.
+Sucrières de l'île Nicollet | Sioux (Dakotas, Lakotas, Nakotas) | Saint Anthony Falls | 1842 | 63 | Des femmes des villages de Cloud Man et de Good Road aident chaque printemps les familles des chutes à exploiter les érablières de l'île Nicollet.
