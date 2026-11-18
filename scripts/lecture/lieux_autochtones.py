@@ -39,4 +39,8 @@ L = {
     'Baie de James': (-80.5, 52.5, 'h', "Baie James et baie d'Hudson (pays des Kilistinons)"),
     'Gandastogué (Susquehanna)': (-76.4, 39.95, 'h', "Gandastogué, village des Andastes (Susquehannocks), Pennsylvanie"),
     'Sainte-Marie-du-Sault': (-84.35, 46.5, 'c', "Sault-Sainte-Marie"),
+    'Réserve Michel (Villeneuve, Alberta)': (-113.83, 53.67, 'a', "Réserve de Michel Calihoo, nord-ouest d'Edmonton"),
+    'Mahnomen (Minnesota)': (-95.97, 47.32, 'a', "Mahnomen, Minnesota (réserve de White Earth)"),
+    'Massacre Rock (Idaho)': (-112.99, 42.67, 'c', "Massacre Rocks, rivière Snake, Idaho"),
+    'Bear River (massacre de 1863)': (-111.93, 42.18, 'c', "Massacre de la Bear River, près de Preston, Idaho"),
 }
