@@ -239,4 +239,7 @@ L = {
     'Huron (Dakota du Sud)': (-98.21, 44.36, 'h', 'Huron (Dakota du Sud)'),
     "Mission de l'Immaculée-Conception (Stephan, Dakota du Sud)": (-99.45, 44.24, 'h', "Mission de l'Immaculée-Conception (Stephan, Dakota du Sud)"),
     'Waterbury (Dakota du Sud)': (-98.6, 44.0, 'h', 'Waterbury (comté de Jerauld, Dakota du Sud)'),
+    'White Stone Hill (Dakota du Nord)': (-98.85, 46.17, 'h', 'White Stone Hill (Dakota du Nord)'),
+    'Coteau des Prairies': (-97.2, 45.0, 'c', 'Coteau des Prairies'),
+    'Bordache Creek (Dakota du Nord)': (-100.55, 46.3, 'c', 'Bordache ou Bourbeuse Creek (Dakota du Nord)'),
 }

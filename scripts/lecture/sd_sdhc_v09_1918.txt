@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · South Dakota Historical Collections, vol. IX (1918)
+# ref: South Dakota Historical Collections, vol. IX, Pierre, State Historical Society, 1918
+# lien: https://archive.org/details/reporthistorical09soutuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/reporthistorical09soutuoft/mode/1up?q={q}
+# Pages approximatives.
+Mauvais Boeuf | Sioux (Dakotas, Lakotas, Nakotas) | Fort Tecumseh | 1830 | 109, 132 | Arrive de la White River avec deux femmes ; un Yankton qui l'a mordu est tué par ses parents ; plus tard menacé d'être scalpé par les Omahas.
+La Bauchanne | Poncas | Fort Tecumseh | 1830 | 129 | Chef ponca venu au fort avec un autre Autochtone.
+Big Soldier | Sioux (Dakotas, Lakotas, Nakotas) | Fort Tecumseh | 1830 | 144 | Yankton arrivé au fort.
+Little Soldier | Sioux (Dakotas, Lakotas, Nakotas) | Fort Tecumseh | 1831~ | 166 | Gendre yankton qui quitte le fort avec une de ses filles gravement malade.
+= Bear et Blind Chief | Sioux (Dakotas, Lakotas, Nakotas) | Fort Pierre | 1843-09 | 200 | Chefs de bandes yanktonaises qui commercent avec le fort de septembre 1843 à février 1844.
+= Iowa, Lafourche, Eagle, Pratt's Soldier et He who plays with iron | Sioux (Dakotas, Lakotas, Nakotas) | Fort Pierre | 1843 | 200 | Bandes yanktonnes inscrites dans les comptes de traite du fort.

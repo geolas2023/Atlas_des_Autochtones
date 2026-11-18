@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · South Dakota Historical Collections, vol. VI (1912)
+# ref: South Dakota Historical Collections, vol. VI, Pierre, State Historical Society, 1912
+# lien: https://archive.org/details/reporthistorical06soutuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/reporthistorical06soutuoft/mode/1up?q={q}
+# Pages approximatives.
+= American Horse et Crazy Horse | Sioux (Dakotas, Lakotas, Nakotas) | Slim Buttes (Dakota du Sud) | 1876-09-09 | 489 | Chefs des Sioux affrontés par le général Crook à la bataille de Slim Buttes, les 9 et 10 septembre 1876.
+Roman Nose | Cheyennes | Slim Buttes (Dakota du Sud) | 1876-09-09 | 489 | Chef des Cheyennes présents à la bataille de Slim Buttes.
+= Femmes et enfants de la grotte de Slim Buttes | Sioux (Dakotas, Lakotas, Nakotas) | Slim Buttes (Dakota du Sud) | 1876-09 | 568 | Onze femmes et six enfants acceptent la reddition offerte par Frank Gruard et Baptiste Fourier ; les guerriers survivants poursuivent le combat.
+= Patriarch Crow et Sitting Bull | Sioux (Dakotas, Lakotas, Nakotas) | Milk River | 1881-01 | s. p. | Patriarch Crow mène la reddition de quelque trois cents personnes ; Sitting Bull et quarante-trois familles repartent vers la frontière canadienne.
+= Medicine Bear et Skin of the Heart | Sioux (Dakotas, Lakotas, Nakotas) | Poplar River | 1881-01 | 263-264 | Chefs yanktonais qui supplient le major Ilges de ne pas entrer dans leur camp, où s'étaient réfugiés des Sioux hostiles.
