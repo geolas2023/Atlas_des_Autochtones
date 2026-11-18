@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Collections of the Minnesota Historical Society, vol. IX (1901)
+# ref: Collections of the Minnesota Historical Society, vol. IX, Saint Paul, 1901
+# lien: https://archive.org/details/collections09minnuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/collections09minnuoft/mode/1up?q={q}
+# Pages approximatives.
+Ojibwés du lac Supérieur | Anishinaabés (Ojibwés, Saulteux) | La Pointe | 1854 | 244 | Par le traité de La Pointe, en septembre, le reste du pays le long de la rive nord du lac et de la frontière est cédé.
+Parti de la bande de Little Crow | Sioux (Dakotas, Lakotas, Nakotas) | Acton (Minnesota) | 1862 | 434 | Le dimanche 17 août, de jeunes chasseurs de la bande de Little Crow tuent des colons, déclenchant le soulèvement.
+Snana | Sioux (Dakotas, Lakotas, Nakotas) | Redwood (Minnesota) | 1862 | 426 | Femme dakota, elle recueille et protège la captive Mary Schwandt pendant le soulèvement.
+Captifs et Dakotas | Sioux (Dakotas, Lakotas, Nakotas) | Camp Release (Minnesota) | 1862 | 418 | Après la défaite de Wood Lake, une partie des Dakotas veut se rendre à Sibley; les captifs blancs et métis craignent d'être tués.
+Wendjimadub (Joseph Charette) | Anishinaabés (Ojibwés, Saulteux) | Terre Blanche | 1900~ | 74 | Chef de White Earth, d'environ cinquante-cinq ans, réputé le plus grand orateur ojibwé de son temps.
+Ojibwés de Gull Lake | Anishinaabés (Ojibwés, Saulteux) | Gull Lake (Minnesota) | 1900~ | 54 | Environ deux cents Ojibwés y demeurent encore, non déplacés vers White Earth.
