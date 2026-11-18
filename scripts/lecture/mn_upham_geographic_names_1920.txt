@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Upham, Minnesota Geographic Names (1920)
+# ref: Warren Upham, Minnesota Geographic Names, their Origin and Historic Significance (Collections of the Minnesota Historical Society, vol. XVII), Saint Paul, 1920
+# lien: https://archive.org/details/collections17minnuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/collections17minnuoft/mode/1up?q={q}
+# Pages approximatives.
+Cris et Ojibwés de la rivière à la Pluie | Cris; Anishinaabés (Ojibwés, Saulteux) | Rainy Lake | 1688 | 8 | Jacques de Noyon relève le nom cri Ouchichiq (Koochiching) de la rivière, adopté ensuite par les Ojibwés.
+Ochagach | Assiniboines (Nakodas) | Kaministiquia | 1730 | 8 | Un Assiniboine dessine en 1730 une carte des eaux de la frontière, source du « Lac Long » des cartes anglaises.

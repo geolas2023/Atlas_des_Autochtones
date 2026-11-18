@@ -247,4 +247,5 @@ L = {
     'Lightning Creek (Wyoming)': (-104.6, 43.3, 'c', 'Lightning Creek (comté de Converse, Wyoming)'),
     'Ash Hollow (Nebraska)': (-102.12, 41.29, 'h', 'Ash Hollow (Blue Water, Nebraska)'),
     'Acton (Minnesota)': (-94.66, 45.10, 'h', 'Acton (comté de Meeker)'),
+    'Village de Black Dog (Minnesota)': (-93.20, 44.81, 'h', "village de Black Dog (Grey Iron), canton d'Eagan"),
 }
