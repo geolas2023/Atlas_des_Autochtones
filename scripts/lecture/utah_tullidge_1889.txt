@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Tullidge's Histories, vol. II (1889)
+# ref: E. W. Tullidge, Tullidge's Histories, vol. 2, Northern Utah and Southern Idaho, Salt Lake City, Juvenile Instructor, 1889
+# lien: https://archive.org/details/tullidgeshistori02tull/page/{page}/mode/1up
+# recherche: https://archive.org/details/tullidgeshistori02tull/mode/1up?q={q}
+# Pages approximatives.
+Terikee | Shoshones | Weber River (Utah) | 1850 | 15 | Chef de la bande de la Weber, tué par erreur dans un champ de maïs par le colon Stewart après avoir fait ses adieux au président Farr.
+Washakie | Shoshones | Weber River (Utah) | 1866-08 | 133 | Le grand chef shoshone paraît sur la Weber avec sa bande.

@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · An Illustrated History of Skagit and Snohomish Counties (1906)
+# ref: An Illustrated History of Skagit and Snohomish Counties, Interstate Publishing Co., 1906 (archive.org : illustratedhisto00inte)
+# lien: https://archive.org/details/illustratedhisto00inte/page/{page}/mode/1up
+# recherche: https://archive.org/details/illustratedhisto00inte/mode/1up?q={q}
+# Pages approximatives.
+Peopeomoxmox | Walla Wallas | Sutter's Fort (Nouvelle-Helvétie) | 1843 | 42 | Chef principal des Walla Wallas, meneur de l'expédition en Californie.
+Seattle (Sealth) | Snoqualmies et Snohomishs | Réserve de Port Madison (Washington) | 1866 | 440 | Le vieux chef dont la ville porte le nom vit et meurt sur cette réserve.

@@ -174,4 +174,8 @@ L = {
     'Wolf Creek (Grass Valley, Californie)': (-121.06, 39.2, 'a', 'Wolf Creek, près de Grass Valley (Californie)'),
     "Embouchure de l'Alpowa (Washington)": (-117.2, 46.42, 'a', "Embouchure de l'Alpowa, sur la Snake (Washington)"),
     'Table Rock (Oregon)': (-122.9, 42.47, 'c', 'Table Rock, vallée de la Rogue (Oregon)'),
+    'Embouchure de la Palouse (Washington)': (-118.22, 46.59, 'a', 'Embouchure de la Palouse, sur la Snake (Washington)'),
+    'Nootka (île de Vancouver)': (-126.62, 49.6, 'c', 'Baie de Nootka (Yuquot), île de Vancouver'),
+    'Neah Bay (Washington)': (-124.62, 48.37, 'c', 'Neah Bay (Washington)'),
+    'Réserve de Port Madison (Washington)': (-122.55, 47.73, 'a', 'Réserve de Port Madison (Suquamish, Washington)'),
 }

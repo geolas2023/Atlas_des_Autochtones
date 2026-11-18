@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · An Illustrated History of the Big Bend Country (1904)
+# ref: An Illustrated History of the Big Bend Country, Embracing Lincoln, Douglas, Adams and Franklin Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto01stee, illustratedhisto02stee)
+# lien: https://archive.org/details/illustratedhisto01stee/page/{page}/mode/1up
+# recherche: https://archive.org/details/illustratedhisto01stee/mode/1up?q={q}
+# Pages approximatives.
+= Quatre chefs nez-percés à Saint-Louis | Nimíipuu (Nez-Percés) | Saint-Louis | 1831 | 26-27 | Les quatre chefs venus des contreforts des Rocheuses chercher le « Livre de l'homme blanc ».

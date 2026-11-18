@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Bagley, History of Seattle, vol. I (1916)
+# ref: Bagley, Clarence B., History of Seattle from the Earliest Settlement to the Present Time, 3 vol., S. J. Clarke, 1916 (archive.org : historyofseattle01bagl, 02bagl, 03bagl)
+# lien: https://archive.org/details/historyofseattle01bagl/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofseattle01bagl/mode/1up?q={q}
+# Pages approximatives.
+Maquinna | Autochtones (nation non précisée) | Nootka (île de Vancouver) | 1788-05 | 1 | Chef à qui Meares achète un terrain pour deux pistolets.
+Tatoosh | Klallams | Neah Bay (Washington) | 1788 | 1 | Chef qui reçoit Meares sur la côte de l'actuel État de Washington.
+Seattle (Sealth) | Snoqualmies et Snohomishs | Seattle | 1851 | 21, 77 | Chef des Duwamish et Suquamish, ami des premiers colons, qui leur vante l'endroit ; la ville porte son nom.
+= Seattle, Patkanim, Goliah et Chow-its-hoot | Snoqualmies et Snohomishs | Mukilteo (Washington) | 1855 | 86-88 | Chefs des Duwamish et Suquamish, des Snohomish, des Skagits et des tribus du nord au conseil du gouverneur Stevens.

@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Arizona Historical Review, vol. III (1930)
+# ref: Arizona Historical Review, vol. 3, 1930
+# lien: https://archive.org/details/arizonahistorica03univ/page/{page}/mode/1up
+# recherche: https://archive.org/details/arizonahistorica03univ/mode/1up?q={q}
+# Pages approximatives.
+Es-kim-in-zin | Apaches | San Carlos (Arizona) | 1873-02 | 60 | Chef des Pinals et Aravaipas, installé à Camp Grant en 1871 puis déplacé à San Carlos avec environ huit cents des siens.
+Toga-da-chuz | Apaches | San Carlos (Arizona) | 187X | 47 | Chef capturé avec sa famille, dont un jeune garçon qui deviendra l'« Apache Kid ».
+Dis-a-lin | Apaches | San Carlos (Arizona) | 1875-12-22 | 14, 48 | Jeune chef qui tente de tuer l'agent, le commis et le chef de police ; il est abattu par la police de l'agence.

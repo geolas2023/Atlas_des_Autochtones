@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Cooke, The Conquest of New Mexico and California (1878)
+# ref: P. St. G. Cooke, The Conquest of New Mexico and California, New York, G. P. Putnam's Sons, 1878
+# lien: https://archive.org/details/conquestofnewmex00cookrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/conquestofnewmex00cookrich/mode/1up?q={q}
+# Pages approximatives.
+Juan Antonio | Autochtones (nation non précisée) | San Bernardino | 1847-01 | 161-192 | Chef principal des Cahuillas qui soupe avec Cooke ; un chef nommé Antonio et dix des siens servent d'éclaireurs au bataillon mormon.
+Baupista | Autochtones (nation non précisée) | San Bernardino | 1847-01-23 | 192 | Chef important des Cahuillas, tribu d'environ deux mille personnes, avec qui Cooke tient conseil.
