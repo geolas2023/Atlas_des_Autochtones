@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Collections of the State Historical Society of Wisconsin, vol. XIII (1895)
+# ref: Collections of the State Historical Society of Wisconsin, vol. XIII, éd. Reuben G. Thwaites, Madison, 1895
+# lien: https://archive.org/details/collectionsofsta0013unse/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofsta0013unse/mode/1up?q={q}
+# Pages approximatives.
+Chunksah | Sioux (Dakotas, Lakotas, Nakotas) | Prairie du Chien | 1815-01-07 | 47-51 | Membre de la bande des Gens de la Feuille Tirée, accusé d'avoir tué Louis Champagney et blessé à mort Antoine Dubois vers le 8 décembre 1814; livré par ses chefs, jugé par un conseil de guerre à Fort McKay et fusillé.
+Le Corbeau François (Little Crow) et Le Bœuf qui Joue | Sioux (Dakotas, Lakotas, Nakotas) | Prairie du Chien | 1815-01-07 | 50-52 | Chefs des Gens de la Feuille Tirée : livrent le meurtrier, déposent drapeaux et médailles américains aux pieds de Bulger et promettent fidélité aux Britanniques au nom de leur bande.
+L'Épervier, grand chef de guerre | Sauks | Prairie du Chien | 1815-04-18 | 131 | Prend la parole au conseil tenu par Bulger avec les Sauks à Fort McKay.
+Guerriers winnebagos et folles-avoines | Ho-Chunks (Winnebagos); Menominees (Folles-Avoines) | Green Bay | 1815-03-16 | 117-118 | Bulger ordonne à John Lawe d'envoyer 150 guerriers choisis défendre Mackinac dès l'ouverture de la navigation.

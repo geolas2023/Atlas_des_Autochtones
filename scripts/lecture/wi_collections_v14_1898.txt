@@ -1,0 +1,14 @@
+# corpus: Lecture intégrale · Collections of the State Historical Society of Wisconsin, vol. XIV (1898)
+# ref: Collections of the State Historical Society of Wisconsin, vol. XIV, éd. Reuben G. Thwaites, Madison, 1898
+# lien: https://archive.org/details/collectionsofsta0014reub_f2f9/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofsta0014reub_f2f9/mode/1up?q={q}
+# Pages approximatives.
+Elizabeth Thérèse Baird (née Fisher) | Odawas (Outaouais) | Prairie du Chien | 1810-04-24 | 17 | Née à Prairie du Chien, petite-fille de Thérèse Schindler et arrière-petite-fille de Migisan, fille du chef outaouais Kewinaquot (Returning Cloud); fière de son ascendance autochtone, elle épouse Henry S. Baird à Mackinac en 1824.
+Meurtrier de Laframboise | Autochtones (nation non précisée) | Grand Haven (Michigan) | 1809 | 38-39 | Au dernier campement avant la rivière Grand, un Autochtone à qui l'on avait refusé de l'alcool tue le traiteur Laframboise dans sa tente.
+Femmes de la famille Laframboise | Autochtones (nation non précisée) | Île Mackinac | 1817 | 40-41 | Josette Laframboise, décrite comme « half-breed girl » instruite, épouse le capitaine Benjamin K. Pierce; sa mère et sa tante, Mme Schindler, assistent au mariage en costume autochtone.
+Femmes outaouaises et ojibwées de la mission protestante | Odawas (Outaouais); Anishinaabés (Ojibwés, Saulteux) | Île Mackinac | 1823/1824 | 46 | La Mission House protestante, ouverte comme école autochtone en 1823-1824, prend des femmes outaouaises et ojibwées comme servantes pour leur apprendre à travailler.
+École indienne catholique gratuite | Autochtones (nation non précisée) | Green Bay | 1831-06-24 | 176-177, 184 | Souscription du 19 juin et règlement du 24 juin 1831 : Rosalie Dousman et Elizabeth Grignon enseignent gratuitement aux Autochtones pauvres.
+Jeune Décari | Ho-Chunks (Winnebagos) | Portage (Wisconsin) | 1833-05-08 | 183 | Membre de la famille Decorah, il vient à cheval de Portage chercher Mazzuchelli, attendu avec impatience par les siens.
+Ménomines instruits à l'église catholique | Menominees (Folles-Avoines) | Green Bay | 1831/1834 | 191 | Mazzuchelli facture à la nation ménomine l'instruction de plusieurs de ses membres à l'église de Green Bay et des visites à leurs villages de Butte des Morts, du Grand Kakalin et des deux rives de la baie.
+Augustin J. Aw-ma-ta | Menominees (Folles-Avoines) | Kaukauna | 1834-11 | 191 | Chef au Kakalin : reçoit outils et fenêtres pour une chapelle d'après le compte de Mazzuchelli.
+Chefs ménomines en conseil | Menominees (Folles-Avoines) | Green Bay | 1834-11 | 191-192 | Réunis en conseil, l'ensemble des chefs disent ne rien savoir du compte de Mazzuchelli et refusent de le payer sur leurs fonds de traité.
