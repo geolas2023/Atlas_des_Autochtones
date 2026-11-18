@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Bancroft, History of Arizona and New Mexico (1889)
+# ref: H. H. Bancroft, History of Arizona and New Mexico, 1530-1888, San Francisco, The History Company, 1889
+# lien: https://archive.org/details/arizonanewmex00bancroft/page/{page}/mode/1up
+# recherche: https://archive.org/details/arizonanewmex00bancroft/mode/1up?q={q}
+# Pages approximatives.
+Bigotes | Pueblos | Pecos (Nouveau-Mexique) | 1540 | 48 | Chef et porte-parole ainsi nommé par les Espagnols pour sa longue moustache ; il parle à Coronado des « vaches » de son pays.
+= Sept chefs pour trente-quatre pueblos | Pueblos | Santo Domingo (Nouveau-Mexique) | 1598-07-07 | 130 | Ils reconnaissent la souveraineté temporelle et spirituelle des nouveaux maîtres.
+= Chefs autochtones de la junta générale | Pueblos | San Juan Pueblo (Nouveau-Mexique) | 1598-09-09 | 133 | Junta universelle de toute la terre réunie par Oñate à San Juan.
+Gicombo | Pueblos | Acoma (Nouveau-Mexique) | 1599 | 143 | Chef important d'Acoma, opposé à la première attaque, qui convoque une assemblée générale des chefs.
+Coro | Pimas et Tohono O'odham | Rivière San Pedro (Arizona) | 1697 | 355 | Chef sobaipuri qui se joint à l'expédition avec trente guerriers à Quiburi.
+Sandoval | Navajos (Diné) | Cebolleta (Nouveau-Mexique) | 1846 | 421 | Chef qui guide le capitaine Reid et ses trente volontaires.

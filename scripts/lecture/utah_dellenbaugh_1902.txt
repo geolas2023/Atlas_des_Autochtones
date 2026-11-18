@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Dellenbaugh, The Romance of the Colorado River (1902)
+# ref: F. S. Dellenbaugh, The Romance of the Colorado River, New York, G. P. Putnam's Sons, 1902
+# lien: https://archive.org/details/romanceofcolorad00dell/page/{page}/mode/1up
+# recherche: https://archive.org/details/romanceofcolorad00dell/mode/1up?q={q}
+# Pages approximatives.
+Palma (Captain Palma) | Autochtones (nation non précisée) | Fort Yuma | 1775 | 89, 103 | Chef yuma qui aide le P. Garcés sur le bas Colorado et presse ensuite le gouvernement de fonder des missions chez lui.

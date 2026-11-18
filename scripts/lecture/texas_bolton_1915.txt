@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Bolton, Texas in the Middle Eighteenth Century (1915)
+# ref: H. E. Bolton, Texas in the Middle Eighteenth Century, Berkeley, University of California Press, 1915
+# lien: https://archive.org/details/TexasInTheMiddle18thC/page/{page}/mode/1up
+# recherche: https://archive.org/details/TexasInTheMiddle18thC/mode/1up?q={q}
+# Pages approximatives.
+Juan Rodríguez | Coahuiltèques et peuples du Texas | San Antonio | 1721 | 143 | Chef de la Ranchería Grande trouvé par le marquis d'Aguayo à San Antonio avec une bande des siens, demandant une mission.
+= Quatorze chefs | Caddos et Hasinais; Natchitoches | Natchitoches | 1737 | 38 | Irrités de l'arrestation du traiteur Legros, ils viennent se plaindre à Saint-Denis de l'entrave à leur commerce.
+Cabellos Colorados | Apaches | San Antonio | 1739 | 28 | L'un des principaux chefs lipans, capturé, gardé plusieurs mois en prison puis déporté au Mexique.
+Turnio | Apaches | Missions d'El Cañón (rivière Nueces) | 1762 | 94 | Chef lipan pour la bande duquel Rábago fonde la mission Nuestra Señora de la Candelaria.
+Eyasiquiche | Wichitas et Taovayas | Nacogdoches | 1765 | 92 | Grand chef taovaya qui escorte jusqu'à Nacogdoches Antonio Treviño, capturé près de San Sabá.

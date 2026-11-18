@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · McClintock, Arizona, vol. III (1916)
+# ref: J. H. McClintock, Arizona, Prehistoric, Aboriginal, Pioneer, Modern, vol. 3, Chicago, S. J. Clarke, 1916
+# lien: https://archive.org/details/arizonaprehistor03mcclrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/arizonaprehistor03mcclrich/mode/1up?q={q}
+# Pages approximatives.
+Cochise | Apaches | Apache Pass (Arizona) | 1862-07-14 | s. p. | Le célèbre chef apache attaque la colonne californienne avec environ quatre cent cinquante guerriers ; il est blessé et les siens avouent soixante-dix-sept morts.

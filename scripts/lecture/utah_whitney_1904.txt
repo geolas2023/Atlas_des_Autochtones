@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Whitney, History of Utah, vol. IV (1904)
+# ref: O. F. Whitney, History of Utah, vol. 4 (biographies), Salt Lake City, George Q. Cannon & Sons, 1904
+# lien: https://archive.org/details/historyofutahcom04whit/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofutahcom04whit/mode/1up?q={q}
+# Pages approximatives.
+Terakee | Shoshones | Weber River (Utah) | 1851 | 107 | Chef shoshone très ami des Blancs, tué accidentellement par le colon Urban Stewart, ce qui provoque des troubles sur la Weber.

@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Dixon, Men Who Made Texas Free (1924)
+# ref: Sam Houston Dixon, Men Who Made Texas Free, Houston, Texas Historical Publishing Co., 1924
+# lien: https://archive.org/details/menwhomadetexasf00dixo/page/{page}/mode/1up
+# recherche: https://archive.org/details/menwhomadetexasf00dixo/mode/1up?q={q}
+# Pages approximatives.
+Oolooteka (John Jolly) | Cherokees | Three Forks | 1829 | 157 | Vieux chef cherokee qui accueille comme un fils Sam Houston, exilé volontaire.
+Bowles (The Bowl) | Cherokees | Bataille de la Neches (Texas) | 1839-07 | 89, 185 | Chef cherokee que Houston avait dissuadé d'écouter Santa Anna ; tué dans la bataille contre les Texans, sa bande chassée du pays.

@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · Angel, History of Nevada (1881)
+# ref: M. Angel (dir.), History of Nevada, with Illustrations and Biographical Sketches, Oakland, Thompson & West, 1881
+# lien: https://archive.org/details/historyofnevada00ange/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofnevada00ange/mode/1up?q={q}
+# Pages approximatives.
+Qu-da-zo-bo-eat | Shoshones; Paiutes | Pyramid Lake | 1860 | 150 | Chef shoshone marié à une Paiute, partisan de la guerre au grand conseil.
+Sa-a-ba | Paiutes | Pyramid Lake | 1860 | 150 | Chef des Indiens de la Smoke Creek, pour la guerre.
+No-jo-mud | Paiutes | Honey Lake | 1860 | 150 | Chef de la bande du lac Honey, pour la guerre.
+Ha-za-bok | Paiutes | Antelope Valley (Nevada) | 1860 | 150 | Grand homme-médecine et chef d'Antelope Valley, pour la guerre.
+Se-quin-a-ta | Paiutes | Black Rock (Nevada) | 1860 | 150 | Chef du pays de Black Rock, impatient d'en découdre.
+Numaga (Young Winnemucca) | Paiutes | Pyramid Lake | 1860 | 151, 162 | Chef de guerre, homme hors du commun ; son cousin Captain John veut le faire démettre.
+Waz-adz-zo-bah-ago | Paiutes | Mono Lake (Californie) | 1860-12 | 165 | Chef-médecine de la bande du lac Mono, tué et brûlé par les siens.
+Sho-kup | Shoshones | Ruby Valley (Nevada) | 1861 | 178-179 | Chef ami des Blancs, mort de consomption chez Charles Stebbins ; il désigne Buck pour successeur et les siens veulent que sa femme l'accompagne dans la mort.

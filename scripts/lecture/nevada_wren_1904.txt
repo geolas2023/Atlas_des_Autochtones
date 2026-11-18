@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Wren, A History of the State of Nevada (1904)
+# ref: T. Wren (dir.), A History of the State of Nevada, Its Resources and People, New York, Lewis Publishing Company, 1904
+# lien: https://archive.org/details/historyofstateof00wren/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofstateof00wren/mode/1up?q={q}
+# Pages approximatives.
+No-jo-mud | Paiutes | Honey Lake | 1860 | 265 | Chef de la tribu du lac Honey, tué par les siens pour son hostilité persistante envers les Blancs.
+To-to-a | Shoshones | Reese River (Nevada) | 1862 | 298 | Chef shoshone rencontré sur la Reese River avec cent Shoshones.

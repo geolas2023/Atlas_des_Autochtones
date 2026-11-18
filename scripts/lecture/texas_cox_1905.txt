@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Cox (éd.), The Journeys of René Robert Cavelier, Sieur de La Salle (1905)
+# ref: I. J. Cox (éd.), The Journeys of René Robert Cavelier, Sieur de La Salle, vol. 2, New York, A. S. Barnes, 1905
+# lien: https://archive.org/details/journeysrnrober06coxgoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/journeysrnrober06coxgoog/mode/1up?q={q}
+# Pages approximatives.
+Tegantouki | Haudenosaunee (Iroquois) | Grand village des Illinois (Utica) | 1680 | 8 | Chef tsonnontouan qui veut faire brûler Tonty.
+Agoasto | Haudenosaunee (Iroquois) | Grand village des Illinois (Utica) | 1680 | 8 | Chef onontagué qui demande qu'on relâche Tonty, ami de Frontenac.
+Oumahouha | Illinois (Inoka) | Grand village des Illinois (Utica) | 1680 | 108 | Chef qui adopte Tonty comme son fils à la manière autochtone.
+= Frère du grand chef des Natchez | Natchez | Natchez | 1682 | 23 | Chef de village qui conduit les Français au village de son frère, sur le coteau près du fleuve.

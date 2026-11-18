@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Thrall, A Pictorial History of Texas (1879)
+# ref: Homer S. Thrall, A Pictorial History of Texas, St. Louis, N. D. Thompson, 1879
+# lien: https://archive.org/details/pictorialhistory01thra/page/{page}/mode/1up
+# recherche: https://archive.org/details/pictorialhistory01thra/mode/1up?q={q}
+# Pages approximatives.
+Richard Fields | Cherokees; Métis | Nacogdoches | 1826 | 161 | Métis, l'un des chefs les plus influents des tribus cherokees du Texas au moment de la rébellion de Fredonia.
+John Dunn Hunter | Cherokees; Métis | Nacogdoches | 1826 | 161 | Autre chef influent, métis lui aussi.
+= Shascahco et Ketumse | Comanches | Réserve comanche de la Clear Fork (Texas) | 1854 | 448 | Les deux principaux chefs de la bande comanche établie en réserve.

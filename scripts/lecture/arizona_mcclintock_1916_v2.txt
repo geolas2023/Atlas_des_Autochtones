@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · McClintock, Arizona, vol. II (1916)
+# ref: J. H. McClintock, Arizona, Prehistoric, Aboriginal, Pioneer, Modern, vol. 2, Chicago, S. J. Clarke, 1916
+# lien: https://archive.org/details/arizonaprehistor02mcclrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/arizonaprehistor02mcclrich/mode/1up?q={q}
+# Pages approximatives.
+Antonio Azul | Pimas et Tohono O'odham | New York | 1863-12 | 313 | Chef des Pimas embarqué avec l'agent Ammi White et l'interprète Francisco pour un voyage dans l'Est.
+Iretaba | Mojaves | New York | 1863 | 313 | Chef des Mojaves qui fit sensation à New York et à Washington.

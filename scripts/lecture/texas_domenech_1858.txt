@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Domenech, Missionary Adventures in Texas and Mexico (1858)
+# ref: Abbé Em. Domenech, Missionary Adventures in Texas and Mexico, Londres, Longman, 1858
+# lien: https://archive.org/details/missionaryadvent00dome/page/{page}/mode/1up
+# recherche: https://archive.org/details/missionaryadvent00dome/mode/1up?q={q}
+# Pages approximatives.
+Santa Anna | Comanches | San Antonio | 1849 | 118, 121 | Chef comanche, plus méfiant que les autres chefs invités à traiter à San Antonio, resté dans son camp ; mort du choléra en 1849.
+Buffalo Hump (Bufalo-Hunt) | Comanches | San Antonio | 184X | 118 | Chef comanche réputé pour ses cruautés.
+Castro | Apaches | San Antonio | 184X | 124 | Chef lipan dont le missionnaire souligne le caractère nullement sauvage.

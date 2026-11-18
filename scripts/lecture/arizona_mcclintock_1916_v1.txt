@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · McClintock, Arizona, vol. I (1916)
+# ref: J. H. McClintock, Arizona, Prehistoric, Aboriginal, Pioneer, Modern, vol. 1, Chicago, S. J. Clarke, 1916
+# lien: https://archive.org/details/arizonaprehistor01mcclrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/arizonaprehistor01mcclrich/mode/1up?q={q}
+# Pages approximatives.
+Antonio Azul | Pimas et Tohono O'odham | Villages pimas (Sacaton, Arizona) | 1854 | 113 | Les citoyens américains sont invités à respecter l'autorité d'Azul et de ses chefs.
+Pedro | Apaches | Cibecue (Arizona) | 1868 | s. p. | Chef des Apaches de White Mountain chez qui des traiteurs commercent sur la Cibecue.
+Eskiminzin (Es-kini-en-zin) | Apaches | Camp Grant (Arizona) | 1870 | s. p. | Chef des Apaches pinaleños qui se présente au camp.
+Del-shay | Apaches | Fort McDowell (Arizona) | 1871-09 | s. p. | Chef habile des Tontos, venu au fort avec quatre-vingts guerriers pour réclamer couvertures et vivres.

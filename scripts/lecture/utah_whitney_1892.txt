@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Whitney, History of Utah, vol. I (1892)
+# ref: O. F. Whitney, History of Utah, vol. 1, Salt Lake City, George Q. Cannon & Sons, 1892
+# lien: https://archive.org/details/historyofutahcom01whit/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofutahcom01whit/mode/1up?q={q}
+# Pages approximatives.
+Elk (Big Elk, Old Elk) | Utes | Utah Lake | 1849 | 422, 427 | Chef ute qui seconde Walker et pousse les Utes à attaquer les établissements de la vallée.
+Kone (Roman Nose) | Utes | Battle Creek (Pleasant Grove, Utah) | 1849 | 423 | Chef dont la bande, battue par le colonel John Scott, est refoulée dans le canyon de Battle Creek.
+Opecarry (Stick-on-the-Head) | Utes | Utah Lake | 1850 | 427 | Chef qui mène les Utes avec Elk, tout en restant, comme Sowiette, plutôt ami des Blancs.
+Walkara (Joseph Walker) | Utes | Utah Lake | 1853 | 508 | Chef remuant de la nation ute, à la tête des hostiles dans la guerre qui porte son nom.
+Tintic | Utes | Vallée de Tintic (Utah) | 1856 | 552 | Sous-chef ute meneur des hostiles des vallées de Tintic et de Cedar, à l'ouest du lac Utah.
