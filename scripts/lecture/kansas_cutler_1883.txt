@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Andreas et Cutler, History of the State of Kansas (1883)
+# ref: A. T. Andreas et W. G. Cutler, History of the State of Kansas (1883), Chicago, A. T. Andreas
+# lien: https://archive.org/details/historyofstateof00andr/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofstateof00andr/mode/1up?q={q}
+# Pages approximatives.
+= Chefs kansas | Kansas (Kaws) | Manhattan (Kansas) | 1819 | s. p. | Au village kansa visité par l'expédition Long : Na-he-da-ba (Long Neck), chef principal ; Ka-he-ga-wa-ta-ning-ga (Little Chief) ; Sheu-ga-ne-ga, ancien chef principal ; Wa-ha-che-ra (Big Knife), chef de guerre ; Wom-pa-wa-ra (White Plume).
+= Chef du village pawnee | Pawnees | Village pawnee de la Republican (Kansas) | 1806 | s. p. | Village formé par les partisans d'un guerrier dissident (lettre de Wilkinson).
+= Chefs wyandots | Wyandots (Hurons-Wendat) | Washington (D.C.) | 1855 | s. p. | Tauromee, Mathew Mudeater et d'autres signent le traité avec Manypenny.
+= Bande de Fish | Shawnees | Mission shawnee (Fairway) | 1828 | s. p. | Une centaine de Shawnees de la bande de Fish, nommée d'après son chef, déplacés depuis Cape Girardeau.
+= Chefs wyandots | Wyandots (Hurons-Wendat) | Wyandotte (Kansas) | 184X | s. p. | Divisent la ville de Wyandotte en lots d'une acre.
+Chetopah | Osages | Chetopa (Kansas) | 1870 | s. p. | Chef osage dont le bureau de poste prend le nom.

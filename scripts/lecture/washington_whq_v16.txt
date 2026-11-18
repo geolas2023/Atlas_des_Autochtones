@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. XVI (1925)
+# ref: The Washington Historical Quarterly, vol. XVI (1925), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor16wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor16wash/mode/1up?q={q}
+# Pages approximatives.
+= Chefs spokanes | Spokanes | Spokane House | 1825 | s. p. | Simpson recommande de les gagner par des présents lors du déménagement du fort à Kettle Falls.
+Seltice | Schitsu'umsh (Cœurs d'Alène) | Lac Cœur d'Alène | 1877 | s. p. | Chef principal des Cœurs d'Alène.

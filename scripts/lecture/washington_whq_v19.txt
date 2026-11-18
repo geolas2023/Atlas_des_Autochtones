@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. XIX (1928)
+# ref: The Washington Historical Quarterly, vol. XIX (1928), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor19wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor19wash/mode/1up?q={q}
+# Pages approximatives.
+Kaiete (Kiete) | Autochtones (nation non précisée) | Milbank Sound (Colombie-Britannique) | 1805 | s. p. | Chef qui saisit le capitaine Porter et tente de prendre le navire ; tué dans le combat.
+Calete | Autochtones (nation non précisée) | Milbank Sound (Colombie-Britannique) | 1805 | s. p. | Chef d'une des tribus, invite Porter à regarder ses peaux le 12 juin.
+Kamiakin | Yakamas | Walla Walla | 1855 | s. p. | Chef principal des Yakimas ; fait choisir la vallée de Walla Walla pour le conseil.
+Pu-pu-mox-mox | Walla Wallas | Walla Walla | 1855 | s. p. | Parle au conseil avant que Stevens n'appelle le chef des Yakimas.
+= Chefs signataires | Nisquallys | Nisqually | 1854 | s. p. | Soixante-deux chefs et principaux signent le traité le 26 décembre.
