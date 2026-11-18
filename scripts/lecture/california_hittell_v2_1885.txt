@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Hittell, History of California, vol. II (1885)
+# ref: T. H. Hittell, History of California, vol. II (1885)
+# lien: https://archive.org/details/historyofcalifor02hittuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofcalifor02hittuoft/mode/1up?q={q}
+# Pages approximatives.
+Pomponio | Autochtones (nation non précisée) | Monterey (Californie) | 1824-02 | 79 | Néophyte de San Francisco condamné pour plusieurs crimes, dont un meurtre, et fusillé à Monterey.
+Vicente Juan | Autochtones (nation non précisée) | Monterey (Californie) | 1827-06-06 | 91 | Vieux néophyte de Soledad, le premier dont la demande d'émancipation est accordée par Echeandía.
+Truckee | Paiutes | Truckee River | 1844 | 332 | Vieux chef qui se met au service des émigrants au pied de la Sierra ; ils donnent son nom à la rivière qu'ils remontent.
+Margarita | Autochtones (nation non précisée) | Monterey (Californie) | 1775 | 746 | Jeune baptisée de la mission San Carlos, épouse du soldat Manuel Butrón, à qui les pères attribuent un terrain près de la mission.

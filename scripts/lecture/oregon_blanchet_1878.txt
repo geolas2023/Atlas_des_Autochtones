@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Blanchet, Historical Sketches of the Catholic Church in Oregon (1878)
+# ref: Blanchet, F. N. (1878), Historical Sketches of the Catholic Church in Oregon during the Past Forty Years, Portland (Oregon)
+# lien: https://archive.org/details/historicalsketch00blan/page/{page}/mode/1up
+# recherche: https://archive.org/details/historicalsketch00blan/mode/1up?q={q}
+# Pages approximatives.
+= Chefs de cinq nations | Colvilles (Lacs, Sanpoils); Autochtones (nation non précisée) | Fort Colville | 1838-11 | 33 | Rassemblés pour l'arrivée des Robes noires, qui baptisent dix-neuf personnes et disent la messe devant eux.
+Tslalakum | Autochtones (nation non précisée) | Île Whidbey | 1839 | 84 | Chef de l'île Whidbey venu à la mission du Cowlitz avec une délégation ; il repart avec l'« échelle catholique » (Sahale stick).
+Witskalatche (le Français) | Snoqualmies et Snohomishs | Puget Sound | 1840 | 107-110 | Chef inférieur des Snohomish, vêtu à la française : pantalon, chemise, gilet, redingote garnie de piquants de porc-épic, chapeau et cravate.
+Pohpoh | Autochtones (nation non précisée) | Clackamas (Oregon) | 1841 | 119 | Chef des Clackamas qui vient demander un missionnaire pour sa tribu.

@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Hittell, History of California, vol. III (1897)
+# ref: T. H. Hittell, History of California, vol. III (1897)
+# lien: https://archive.org/details/historyofcalifor03hitt/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofcalifor03hitt/mode/1up?q={q}
+# Pages approximatives.
+Ponwatchee | Autochtones (nation non précisée) | Mariposa (comté) | 1851 | 842 | Chef des Nootchees dont la ranchería, à quinze ou vingt milles de Yosemite, est prise par le bataillon de Mariposa.
+Ten-ie-ya | Autochtones (nation non précisée) | Vallée de Yosemite (Californie) | 1851 | 841-853 | Chef des Yosemites, qui paraît à Ponwatchee, s'échappe par ruse puis est ramené au camp du capitaine Boling.
+Captain Jack | Autochtones (nation non précisée) | Lava Beds (Tule Lake, Californie) | 1873 | 960 | Il refuse le meurtre des commissaires ; la majorité le coiffe d'un chapeau et d'un châle de femme et le traite de lâche jusqu'à ce qu'il cède.

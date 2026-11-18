@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Walling, History of Southern Oregon (1884)
+# ref: Walling, A. G. (éd.) (1884), History of Southern Oregon, Portland (Oregon), A. G. Walling
+# lien: https://archive.org/details/historyofsouther00wall/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofsouther00wall/mode/1up?q={q}
+# Pages approximatives.
+= Chefs du pays du Klamath et de la Siskiyou | Autochtones (nation non précisée) | Yreka (Californie) | 1851 | 190 | Le vieux Tolo à Yreka, Tyee John dans la vallée de Scott, Tyee Jim dans celle de Shasta, Tyee Bill sur le Klamath, Tipsu dans les Siskiyous.
+Aps-er-ka-ha (Joe) | Autochtones (nation non précisée) | Table Rock (Oregon) | 1853 | 191 | Chef de la Rogue, signataire du traité de Table Rock avec To-gun-he-a (Sam) et Jim.
+Chucklehead | Autochtones (nation non précisée) | Vallée de la Rogue (Oregon) | 1851 | 195 | Chef d'un parti de la Rogue qui attaque des voyageurs au point du jour.

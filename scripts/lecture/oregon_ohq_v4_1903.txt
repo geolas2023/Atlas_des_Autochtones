@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · The Quarterly of the Oregon Historical Society, vol. IV (1903)
+# ref: The Quarterly of the Oregon Historical Society, vol. IV (1903)
+# lien: https://archive.org/details/quarterlyoforego04oreg/page/{page}/mode/1up
+# recherche: https://archive.org/details/quarterlyoforego04oreg/mode/1up?q={q}
+# Pages approximatives.
+Chucklehead | Autochtones (nation non précisée) | Vallée de la Rogue (Oregon) | 1851 | 231 | Chef dont la bande livre un dur combat à la compagnie de James McBride près de Willow Springs.
+= John et Limpy | Autochtones (nation non précisée) | Vallée de la Rogue (Oregon) | 1856 | 236 | Chefs qui, avec les guerriers les plus actifs, tiennent encore la basse Rogue et le comté de Curry.
+= Chefs utes tués à Santa Fe | Utes | Santa Fe | 1844 | 272 | Le chef principal et cinq autres chefs venus réclamer compensation sont tués ; le chef avait tiré la barbe du gouverneur.

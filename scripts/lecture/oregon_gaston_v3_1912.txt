@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Gaston, The Centennial History of Oregon, vol. III (1912)
+# ref: Gaston, Joseph (1912), The Centennial History of Oregon, 1811-1912, vol. III, Chicago, S. J. Clarke Publishing Company
+# lien: https://archive.org/details/centennialhistor03gast/page/{page}/mode/1up
+# recherche: https://archive.org/details/centennialhistor03gast/mode/1up?q={q}
+# Pages approximatives.
+= Fils d'un chef tête-plate | Salish (Têtes-Plates); Sioux (Dakotas, Lakotas, Nakotas); Haudenosaunee (Iroquois) | Ash Hollow | 183X | 574 | Les Sioux, ayant perdu un chef de guerre, proposent une trêve puis attaquent les jeunes gens de W. H. Gray : un Iroquois, un Snake et trois Têtes-Plates, dont le fils du chef, sont tués.

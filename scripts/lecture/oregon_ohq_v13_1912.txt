@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · The Quarterly of the Oregon Historical Society, vol. XIII (1912)
+# ref: The Quarterly of the Oregon Historical Society, vol. XIII (1912) : Holman, Clark, Slacum's Report on Oregon 1836-7, Barry
+# lien: https://archive.org/details/quarterlyoforego13oreg/page/{page}/mode/1up
+# recherche: https://archive.org/details/quarterlyoforego13oreg/mode/1up?q={q}
+# Pages approximatives.
+Chenamus | Chinooks | Astoria | 1835 | 182 | Chef principal des Chinooks, venu avec sa femme apporter du gibier d'eau au navire.
+Yeck-a-tap-am | Umatillas | Umatilla (Oregon) | 1812 | 238 | Chef qui recueille Crooks et John Day, puis les secourt à nouveau après qu'ils ont été dépouillés à l'embouchure de la John Day.

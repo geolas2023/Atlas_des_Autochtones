@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Bancroft, History of Oregon, vol. I (1886)
+# ref: Bancroft, H. H. [F. F. Victor] (1886), History of Oregon, vol. I (1834-1848), San Francisco, The History Company
+# lien: https://archive.org/details/historyoforegon01banc/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyoforegon01banc/mode/1up?q={q}
+# Pages approximatives.
+Garry | Spokanes | Spokane House | 1839 | s. p. | Chef des Spokanes, comparable par le caractère et l'influence à Lawyer chez les Nez-Percés.
+Tintinmitsi | Cayuses | Waiilatpu | 1848 | 654 | Chef cayuse sur la parole duquel une accusation contre les catholiques est publiée, bien qu'il dise ne pas y croire.
+Five Crows (Cinq Corneilles) | Cayuses | Waiilatpu | 1848 | 711 | Chef populaire au bras fracassé par une balle ; le chef Great Eagle est tué dans le même combat.
