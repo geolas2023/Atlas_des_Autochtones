@@ -1,0 +1,27 @@
+# corpus: Lecture intégrale · Robinson, A History of the Dakota or Sioux Indians (1904)
+# ref: Doane Robinson, A History of the Dakota or Sioux Indians, South Dakota Historical Collections, vol. II, Aberdeen, 1904
+# lien: https://archive.org/details/ahistorydakotao00robigoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/ahistorydakotao00robigoog/mode/1up?q={q}
+# Pages approximatives.
+Tioscate | Sioux (Dakotas, Lakotas, Nakotas) | Montréal | 1695 | 117 | Chef sioux accompagnant Le Sueur à Montréal ; meurt après trente-trois jours de maladie.
+Chingoouabe | Anishinaabés (Ojibwés, Saulteux) | Montréal | 1695 | 117 | Chef chippewa accompagnant Le Sueur à Montréal.
+Wazikute | Sioux (Dakotas, Lakotas, Nakotas) | Lac Pépin | 1680 | 40 | Chef principal qui dessine pour Duluth et Hennepin la route du Mississippi au Wisconsin.
+Wakantape | Sioux (Dakotas, Lakotas, Nakotas) | Fort L'Huillier | 1700 | 46 | Chef d'un parti de Dakotas qui visite Le Sueur dès le 3 octobre.
+Big Chippewa | Anishinaabés (Ojibwés, Saulteux) | Red Wing (Minnesota) | 1795 | 66 | Chef de guerre du lac du Flambeau, venu venger des parents chez les gens de Redwing.
+Little Crow (Chatan Wakoowamani) | Sioux (Dakotas, Lakotas, Nakotas) | Kaposia (Saint Paul) | 1806 | 108 | Chef des Mdewakantons, reconnu par Pike chef principal des Dakotas.
+Red Thunder | Sioux (Dakotas, Lakotas, Nakotas) | Prairie du Chien | 1806 | 86 | Chef yanktonais (Cut Head) de l'Elm River, visite Pike ; Dickson épouse sa sœur.
+Waneta | Sioux (Dakotas, Lakotas, Nakotas) | Lac Traverse (Minnesota) | 1812 | 24 | Fils de Red Thunder, parti à dix-sept ans avec les Dakotas au service anglais ; devient le plus célèbre chef sioux.
+Wapasha II | Sioux (Dakotas, Lakotas, Nakotas) | Winona (Minnesota) | 1819 | 122 | Chef des Wakpekutes, principal chef des Dakotas selon le major Forsyth.
+Black Buffalo | Sioux (Dakotas, Lakotas, Nakotas) | Villages arikaras | 1807 | 81 | Chef teton allié aux Rees contre Pryor et Chouteau ; grièvement blessé par un tireur.
+Redwing (Tatankamane) | Sioux (Dakotas, Lakotas, Nakotas) | Red Wing (Minnesota) | 1819 | 127 | Chef de Walking Buffalo, compagnon de Little Crow et Wapasha.
+Wazzacoota | Sioux (Dakotas, Lakotas, Nakotas) | Lac Pépin | 1817 | 130 | Second chef, accompagne le major Long sur le fleuve.
+= Chefs yanktons | Sioux (Dakotas, Lakotas, Nakotas) | Fort Lookout (Dakota du Sud) | 1825 | 150 | Smutty Bear (Mawtosabekia), Flying Medicine, Little Dish, Mosquito et d'autres signent le traité.
+Flatmouth | Anishinaabés (Ojibwés, Saulteux) | Fort Snelling | 1827 | 153 | Célèbre chef chippewa, arrive au fort à l'aube du 28 mai.
+Little Bear | Sioux (Dakotas, Lakotas, Nakotas) | Fort Pierre | 1832 | 166 | Chef hunkpapa peint par Catlin ; Shonka, chef sans-arc, provoque le drame.
+Kai-bo-kah | Sioux (Dakotas, Lakotas, Nakotas) | Fort Snelling | 1841 | 180 | Chef dakota mortellement blessé, son fils tué par des Chippewas.
+Thunderface (Itewakinyan) | Sioux (Dakotas, Lakotas, Nakotas) | Rivière James (Dakota) | 1840 | 194 | Chef que suivent les voyageurs jusqu'à la vallée de la James avant Fort Pierre.
+Red Fish | Sioux (Dakotas, Lakotas, Nakotas) | Fort Pierre | 1840~ | 207 | Chef d'un parti d'Oglalas rentrant battu d'une campagne contre les Crows.
+Little Thunder | Sioux (Dakotas, Lakotas, Nakotas) | Ash Hollow | 1855 | 224 | Chef des Brûlés ; demande un conseil avant le massacre de Blue Water.
+Bear's Rib | Sioux (Dakotas, Lakotas, Nakotas) | Fort Pierre | 1855 | 229 | Grand guerrier désigné premier chef par le traité de Harney.
+Two Bears | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1868 | 384 | À la tête de vingt-trois Yanktonais, dont Black Tomahawk, signataires du traité.
+Red Cloud | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1865 | 351 | Sous-chef désigné par Harney, considéré dès 1865 comme le chef principal de la nation oglala.
