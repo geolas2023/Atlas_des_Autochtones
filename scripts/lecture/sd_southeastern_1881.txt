@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · History of Southeastern Dakota (1881)
+# ref: History of Southeastern Dakota, its Settlement and Growth, Sioux City, Western Publishing Co., 1881
+# lien: https://archive.org/details/historyofsouthea00siou/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofsouthea00siou/mode/1up?q={q}
+# Pages approximatives.
+= Chefs yanktons | Sioux (Dakotas, Lakotas, Nakotas) | Calumet Bluff (Nebraska) | 1804 | 13 | Tiennent conseil avec Lewis et Clark sous un grand chêne près du drapeau américain.
+= Pa-la-ne-a-pa-pe (The man that was struck by the Ree), Ma-to-sa-be-che-a (The Smutty Bear), Ta-ton-ka-wete-co (The Crazy Bull), Pse-cha-wa-ke-a (The Jumping Thunder), Ma-ra-ha-ton (The Iron Horn) et autres | Sioux (Dakotas, Lakotas, Nakotas) | Washington (D.C.) | 1858 | 17-18 | Chefs yanktons signataires du traité de cession, conduits à Washington à l'hiver 1857 grâce à Charles F. Picotte (Eta-ke-cha), lui-même signataire.
+= Nom-be-kah-pah, Ta-ton-ke-e-yak-ka (The Fast Bull), A-ha-ka-na-zhe (The Standing Elk), Ma-ga-scha-che-ka (The Little White Swan), Oke-che-la-wash-ta (The Pretty Boy) et autres | Sioux (Dakotas, Lakotas, Nakotas) | Washington (D.C.) | 1858 | 18 | Autres chefs yanktons signataires du traité de 1858.

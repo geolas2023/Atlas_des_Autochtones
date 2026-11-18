@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Rosen, Pa-ha-sa-pah, or the Black Hills of South Dakota (1895)
+# ref: Peter Rosen, Pa-ha-sa-pah, or the Black Hills of South Dakota, St. Louis, Nixon-Jones, 1895
+# lien: https://archive.org/details/pahasapahorblack00rose/page/{page}/mode/1up
+# recherche: https://archive.org/details/pahasapahorblack00rose/mode/1up?q={q}
+# Pages approximatives.
+Stone Calf | Cheyennes | Fort Sill (Oklahoma) | 1875-03 | 25 | Chef sous lequel se rend le reste des Cheyennes du Sud, qui gagnent ensuite leur réserve du Territoire indien.
+= Dull Knife, Wild Hog et Little Wolf | Cheyennes | Fort Reno (Oklahoma) | 1878-09-09 | 25 | Chefs d'environ un tiers des Cheyennes du Nord qui s'échappent de Fort Reno pour regagner leur ancien pays.
+Big Face (Tjoliz-bitzay) | Salish (Têtes-Plates) | Flathead | 1840 | 209 | Grand chef qui accueille en triomphe le père De Smet au camp des Têtes-Plates et des Pend d'Oreilles.
+= Chefs yanktons | Sioux (Dakotas, Lakotas, Nakotas) | Calumet Bluff (Nebraska) | 1804 | 249 | Tiennent conseil avec Lewis et Clark sous un grand chêne près du drapeau américain.
+Red Cloud | Sioux (Dakotas, Lakotas, Nakotas) | Fort Phil Kearny | 1867 | 272 | Alors tenu pour chef principal, fait savoir aux commissaires de paix qu'il fait la guerre pour sauver la vallée de la Powder et les Black Hills.
+= Sitting Bull, Rain-in-the-Face et Crazy Horse | Sioux (Dakotas, Lakotas, Nakotas) | Little Bighorn | 1876 | 337 | Chefs qui tiennent conseil chaque jour avant la bataille contre Custer.
