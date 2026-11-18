@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. XVII (1926)
+# ref: The Washington Historical Quarterly, vol. XVII (1926), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor17wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor17wash/mode/1up?q={q}
+# Pages approximatives.
+Maquinna | Autochtones (nation non précisée) | Nootka (île de Vancouver) | 1803 | s. p. | Chef principal de Nootka ; monte à bord du Boston le 22 mars avec ses chefs et guerriers, puis s'en empare ; Jewitt reste trois ans son prisonnier.
+Machee Ulatilla (Utilla) | Autochtones (nation non précisée) | Nootka (île de Vancouver) | 1805 | s. p. | Chef qui s'intéresse à Jewitt et porte sa lettre.
+= Indiens classets | Autochtones (nation non précisée) | Neah Bay (Washington) | 1841 | 7 | Nombreux autour du cap Flattery, ils viennent à bord du navire de Wilkes pour troquer.
+Leschi | Nisquallys | Nisqually | 1855 | s. p. | Chef nisqually ; visite les Indiens à l'est des Cascades.
+Patkanim | Snoqualmies et Snohomishs | Tulalip | 1855 | s. p. | Chef des Snoqualmies, présent aux conseils de coalition, puis se range du côté des Blancs.

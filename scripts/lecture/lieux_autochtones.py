@@ -204,4 +204,5 @@ L = {
     'Washita (Oklahoma)': (-99.69, 35.62, 'h', 'Washita (Cheyenne, Oklahoma)'),
     'Nequassee (Nikwasi, Caroline du Nord)': (-83.38, 35.18, 'h', 'Nequassee (Nikwasi, Franklin, Caroline du Nord)'),
     "Bledsoe's Lick (Tennessee)": (-86.35, 36.38, 'h', "Bledsoe's Lick (Castalian Springs, Tennessee)"),
+    'Milbank Sound (Colombie-Britannique)': (-128.4, 52.3, 'h', 'Milbank Sound (Colombie-Britannique)'),
 }

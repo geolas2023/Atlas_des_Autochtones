@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. XV (1924)
+# ref: The Washington Historical Quarterly, vol. XV (1924), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor15wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor15wash/mode/1up?q={q}
+# Pages approximatives.
+Peu-Peu-Mox-Mox | Walla Wallas | Walla Walla | 1855 | s. p. | Chef principal des Walla Wallas, tué en tentant de fuir sa garde ; son corps est mutilé.
+Seattle | Autochtones (nation non précisée) | Seattle | 1852 | s. p. | Chef de cette tribu et des Duwamish.
+Snohodumtah (Grayhead) | Nisquallys | Olympia (Washington) | 1848 | s. p. | Chef des bandes de Tumwater ; résiste aux arguments du chef snoqualmie.
+= Quatre chefs signataires | Snoqualmies et Snohomishs ; Autochtones (nation non précisée) | Tulalip | 1855 | s. p. | Seattle (Suquamish), Patkanim (Snoqualmie), Chow-its-hoot (Lummi) et Goliah (Skagit) signent après le gouverneur Stevens, suivis de 78 sous-chefs.
+Patkanim | Snoqualmies et Snohomishs | Tulalip | 1855 | s. p. | Discours au conseil : « aujourd'hui j'ai compris ton cœur ».
