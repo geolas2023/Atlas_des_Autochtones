@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Compendium of History and Biography of Polk County, Minnesota (1916)
+# ref: R. I. Holcombe et William H. Bingham (dir.), Compendium of History and Biography of Polk County, Minnesota, Minneapolis, W. H. Bingham & Co., 1916
+# lien: https://archive.org/details/compendiumofhist00hol/page/{page}/mode/1up
+# recherche: https://archive.org/details/compendiumofhist00hol/mode/1up?q={q}
+# Pages approximatives.
+Flat Mouth | Anishinaabés (Ojibwés, Saulteux) | Leech Lake | 1806 | 25 | Fidèle à sa promesse faite à Pike en février, le chef des Pillagers repousse les présents que Dickson lui envoie par le Canadien St. Germain pour l'attirer dans les camps britanniques.
+Signataires de Red Lake | Anishinaabés (Ojibwés, Saulteux) | Old Crossing (rivière Red Lake) | 1863 | 55 | Moose Dung, Crooked Arm, Little Rock et Leading Feather, chefs de la bande de Red Lake, signent avec leurs principaux guerriers le traité de Ramsey et Morrill.
+Signataires de Pembina | Anishinaabés (Ojibwés, Saulteux); Métis | Old Crossing (rivière Red Lake) | 1863 | 55 | Les chefs Red Bear et Little Shell et les guerriers Wolverine, Joseph Gornore et Joseph Moutreuil, ces deux derniers métis, représentent la bande de Pembina.
+Famille Bellaire | Métis | East Grand Forks (Minnesota) | 1860-07 | 57 | Au recensement de Red River Junction, Antoine Bellaire, sa femme Katherine et leurs sept enfants sont inscrits comme métis.
+Jane Bruce et les Currier | Métis | East Grand Forks (Minnesota) | 1860-07 | 57 | Jane Bruce, Eliza et Moses Currier, nés dans le territoire de la Baie d'Hudson, sont recensés comme métis à Red River Junction.
