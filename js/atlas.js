@@ -59,6 +59,7 @@ async function charger() {
   lieux.features.forEach(f => {
     const k = f.properties.corpus;
     if (k && k.startsWith('archive.org') && !CORPUS[k]) { CORPUS[k] = { libelle: k.replace(/^archive\.org · /, ''), trait: '#5b6f8a' }; etat.corpus.add(k); }
+    if (k && k.startsWith('Lecture intégrale') && !CORPUS[k]) { CORPUS[k] = { libelle: k.replace(/^Lecture intégrale · /, ''), trait: '#a0522d' }; etat.corpus.add(k); }
   });
   // Un point par lieu : les fiches qui partagent exactement les mêmes coordonnées sont regroupées
   lieux.features.forEach(f => {
@@ -182,7 +183,9 @@ function construireFiltres() {
   const ranges = new Set(GROUPES_CORPUS.flatMap(g => g[1]));
   const archives = Object.keys(CORPUS).filter(k => k.startsWith('archive.org')).sort((a, b) => a.localeCompare(b, 'fr'));
   archives.forEach(k => ranges.add(k));
-  const groupes = [...GROUPES_CORPUS, ['Bibliothèque archive.org', archives], ['Autres sources', Object.keys(CORPUS).filter(k => !ranges.has(k))]]
+  const lectures = Object.keys(CORPUS).filter(k => k.startsWith('Lecture intégrale')).sort((a, b) => a.localeCompare(b, 'fr'));
+  lectures.forEach(k => ranges.add(k));
+  const groupes = [['Lecture intégrale des livres', lectures], ...GROUPES_CORPUS, ['Bibliothèque archive.org', archives], ['Autres sources', Object.keys(CORPUS).filter(k => !ranges.has(k))]]
     .map(([titre, ks]) => [titre, ks.filter(k => CORPUS[k])]).filter(([, ks]) => ks.length);
   $('#f-corpus').innerHTML = groupes.map(([titre, ks], g) =>
     `<details class="groupe"><summary><input type="checkbox" data-groupe="${g}" checked title="Tout le groupe"> ${esc(titre)} <span class="mini">(${ks.reduce((s, k) => s + nb('corpus', k), 0)})</span></summary>
