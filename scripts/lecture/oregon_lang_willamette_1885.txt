@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Lang, History of the Willamette Valley (1885)
+# ref: Lang, H. O. (dir.) (1885), History of the Willamette Valley, Portland (Oregon), Himes & Lang
+# lien: https://archive.org/details/historyofwillame00lang/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofwillame00lang/mode/1up?q={q}
+# Pages approximatives.
+Peopeomoxmox | Walla Wallas | Fort Vancouver | 1842 | 258 | Le grand chef walla walla se rend à Vancouver enquêter, tout en retenant ses jeunes gens.
+Cockstock | Autochtones (nation non précisée) | Oregon City | 1844 | s. p. | Sous-chef molalla au caractère indépendant et belliqueux.
+Tamsuky | Cayuses | Waiilatpu | 1847 | 306 | Chef influent de la Walla Walla, à la tête de la faction cayuse hostile à Whitman.
+Umhowlish | Cayuses | Pendleton (Oregon) | 1847 | 309 | Chef à l'époque du massacre, partisan fidèle de Whitman ; l'auteur l'interroge plus tard à Pendleton.
+Kamiakin | Yakamas; Palouses | Walla Walla | 1855 | 380 | Chef principal des quatorze tribus de la « nation yakima », Palouses compris, au traité de 1855.
+Timothy | Nimíipuu (Nez-Percés) | Embouchure de l'Alpowa (Washington) | 1858 | 470 | Chef nez-percé ami qui rejoint Steptoe avec trois guerriers au passage de la Snake.

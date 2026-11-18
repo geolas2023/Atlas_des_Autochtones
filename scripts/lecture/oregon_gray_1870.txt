@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Gray, A History of Oregon (1870)
+# ref: Gray, W. H. (1870), A History of Oregon, 1792-1849, Portland (Oregon), Harris & Holman
+# lien: https://archive.org/details/historyoforegon100gray/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyoforegon100gray/mode/1up?q={q}
+# Pages approximatives.
+= Splitted Lip, Red Cloak et Feather Cap | Cayuses | Waiilatpu | 1836 | 189 | Les trois chefs propriétaires des terres de Waiilatpu où s'établit la mission Whitman.
+Ellis | Nimíipuu (Nez-Percés) | Lapwai | 1842 | 285 | Nommé chef suprême des Nez-Percés ; il avait passé plusieurs années à la rivière Rouge et parlait un peu anglais.
+Young Chief (Tawatowe) | Cayuses | Waiilatpu | 1843 | 322 | Chef cayuse chez qui Perkins arrive avant la prière du matin ; frère de Five Crows.
+Elijah | Walla Wallas | Sutter's Fort (Nouvelle-Helvétie) | 1844 | 400, 508 | Fils de Peopeomoxmox, tué sans armes au fort de Sutter, ce qui soulève les tribus contre les Blancs.

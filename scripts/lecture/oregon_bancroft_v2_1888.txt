@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Bancroft, History of Oregon, vol. II (1888)
+# ref: Bancroft, H. H. [F. F. Victor] (1888), History of Oregon, vol. II (1848-1888), San Francisco, The History Company
+# lien: https://archive.org/details/historyoforegon02banc/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyoforegon02banc/mode/1up?q={q}
+# Pages approximatives.
+Chenamus | Chinooks | Astoria | 1842-04-02 | 16 | Chef des Chinooks dont le capitaine Couch donne le nom à son nouveau brick.
+= Tipso et Sullix | Autochtones (nation non précisée) | Jacksonville (Oregon) | 1852 | 239 | Deux chefs dont le pays est au pied nord des Siskiyous, au sud de Jacksonville : « le Velu » et « le Mauvais Caractère ».
+Lawyer | Nimíipuu (Nez-Percés) | Lapwai | 1855 | 365 | À la mort du chef principal Ellis, il brigue et obtient la haute chefferie des Nez-Percés.
+Howlack | Shoshones | Klamath Lake | 1860 | 477 | Chef d'une centaine de Snakes signalés près du lac Klamath.

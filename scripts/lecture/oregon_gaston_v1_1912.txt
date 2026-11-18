@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Gaston, The Centennial History of Oregon, vol. I (1912)
+# ref: Gaston, Joseph (1912), The Centennial History of Oregon, 1811-1912, vol. I, Chicago, S. J. Clarke Publishing Company
+# lien: https://archive.org/details/centennialhistor01gast/page/{page}/mode/1up
+# recherche: https://archive.org/details/centennialhistor01gast/mode/1up?q={q}
+# Pages approximatives.
+Kintpuash (Captain Jack) | Autochtones (nation non précisée) | Klamath Lake | 1870 | 68, 416 | Chef modoc qui quitte la réserve klamath, où s'était établi le vieux chef Schonchin, et refuse l'autorité des agents.

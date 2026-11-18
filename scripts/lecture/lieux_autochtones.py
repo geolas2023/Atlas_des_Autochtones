@@ -172,4 +172,6 @@ L = {
     "Knight's Ferry (Californie)": (-120.57, 37.82, 'c', "Knight's Ferry, sur la Stanislaus (Californie)"),
     'Clear Lake (Californie)': (-122.75, 39.0, 'c', 'Clear Lake (Californie)'),
     'Wolf Creek (Grass Valley, Californie)': (-121.06, 39.2, 'a', 'Wolf Creek, près de Grass Valley (Californie)'),
+    "Embouchure de l'Alpowa (Washington)": (-117.2, 46.42, 'a', "Embouchure de l'Alpowa, sur la Snake (Washington)"),
+    'Table Rock (Oregon)': (-122.9, 42.47, 'c', 'Table Rock, vallée de la Rogue (Oregon)'),
 }
