@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Publications of the Mississippi Historical Society, Centenary Series, vol. V (1925)
+# ref: Publications of the Mississippi Historical Society, série du centenaire, vol. 5 (1925), Mississippi Historical Society
+# lien: https://archive.org/details/publicationsofmi0005vari/page/{page}/mode/1up
+# recherche: https://archive.org/details/publicationsofmi0005vari/mode/1up?q={q}
+# Pages approximatives.
+= Chefs médaillés du congrès de Mobile | Choctaws (Chactas) | Mobile | 1765 | s. p. | Le surintendant remet de petites médailles à Mingo Poush Coush de Coosa, Mingo Ouma d'Ichillibitcha et Oppo Paye d'Olitacha.
+Mingo Taleua (Grand Chef, Aigle blanc) | Choctaws (Chactas); Chickasaws (Chicachas) | Pensacola | 1771~ | 80 | Le chef est invité à aller parler au gouverneur à Pensacola avec son nouvel allié Pitnataha, des Chicachas.

@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Shea, History of the Catholic Church in the United States, vol. IV (1892)
+# ref: John Gilmary Shea, A History of the Catholic Church in the United States, 1843-1866 (A History of the Catholic Church within the Limits of the United States, vol. 4), New York, 1892
+# lien: https://archive.org/details/historychurchusa04sheauoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/historychurchusa04sheauoft/mode/1up?q={q}
+# Pages approximatives.
+Tjolizhitzay | Salish (Têtes-Plates); Pend d'Oreilles et Kalispels | Green River rendezvous | 1840 | 313 | Grand chef des Têtes-Plates et des Pend d'Oreilles qui accueille De Smet dans son camp.
+Pohpoh | Autochtones (nation non précisée) | Clackamas (Oregon) | 1841 | 315 | Chef des Clackamas qui invite un missionnaire chez les siens.
+= Chefs cayuses et nez-percés | Cayuses; Nimíipuu (Nez-Percés) | Waiilatpu | 1847 | 327 | L'évêque Blanchet s'efforce avec eux de sauver les survivants de Waiilatpu.
+Loyola | Pend d'Oreilles et Kalispels | Mission Saint-Ignace (Kalispels) | 1852 | 698 | Chef des Kalispels qui fait beaucoup de bien par son exemple et son zèle.
+= Enfants sioux baptisés | Sioux (Dakotas, Lakotas, Nakotas) | Fort Pierre | 1847 | 246 | Le missionnaire y baptise treize enfants blancs et cinquante-cinq enfants sioux.

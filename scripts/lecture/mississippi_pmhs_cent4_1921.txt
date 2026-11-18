@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Publications of the Mississippi Historical Society, Centenary Series, vol. IV (1921)
+# ref: Publications of the Mississippi Historical Society, série du centenaire, vol. 4 (1921), Mississippi Historical Society
+# lien: https://archive.org/details/publicationsofmi04rowl/page/{page}/mode/1up
+# recherche: https://archive.org/details/publicationsofmi04rowl/mode/1up?q={q}
+# Pages approximatives.
+High Head (Jim Boy) | Muscogees (Creeks) | Pensacola | 1813 | s. p. | Chef revenu de Pensacola qui avoue que les Creeks veulent faire la guerre aux Américains, sans hostilité envers les Métis.
+Hopie Tustanuggee (Far Off Warrior) | Muscogees (Creeks) | Fort Mims (Alabama) | 1813-08-30 | s. p. | Chef tuskegee, le plus âgé et principal chef des Bâtons rouges, tué à Fort Mims.
+Peter McQueen | Muscogees (Creeks) | Fort Mims (Alabama) | 1813-08-30 | s. p. | Chef de guerre renommé à la tête des Tallassees, Atossees et Alibamons.
+Josiah Francis (Hillis Hadjo) | Muscogees (Creeks) | Fort Mims (Alabama) | 1813 | s. p. | Le Prophète, l'un des chefs réunis à la Tallewassee pour boire la boisson noire.
+William Weatherford | Muscogees (Creeks); Métis | Fort Mims (Alabama) | 1813 | s. p. | De retour d'un commerce de bétail avec Sam Moniac, il est sommé par les chefs assemblés de se joindre à eux sous peine de mort.

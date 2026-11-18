@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Monette, History of the Discovery and Settlement of the Valley of the Mississippi, vol. II (1846)
+# ref: John W. Monette, History of the Discovery and Settlement of the Valley of the Mississippi, vol. II, New York, Harper & Brothers, 1846
+# lien: https://archive.org/details/cihm_38029/page/{page}/mode/1up
+# recherche: https://archive.org/details/cihm_38029/mode/1up?q={q}
+# Pages approximatives.
+Black Fish (Poisson noir) | Shawnees | Georgetown (Kentucky) | 1776-12-29 | 83 | Chef shawnee renommé qui mène quarante-sept guerriers à l'attaque imprévue de la station de McClellan, sur la fourche nord de l'Elkhorn.
+Tala-bola | Muscogees (Creeks); Choctaws (Chactas) | Black Warrior River (Alabama) | 1813 | s. p. | Fait chef par les Muskhogees ; trente guerriers chactas de Yanubbee le rejoignent sur la Black Warrior pour préparer l'attaque des frontières.

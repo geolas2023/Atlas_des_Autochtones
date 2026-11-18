@@ -119,4 +119,12 @@ L = {
     'Hopewell (Caroline du Sud)': (-82.88, 34.7, 'a', 'Hopewell, sur la Keowee (Caroline du Sud)'),
     'Kittamaquindi (Piscataway, Maryland)': (-77.03, 38.7, 'a', 'Kittamaquindi, capitale des Piscataways (Maryland)'),
     'Dolores (Sonora)': (-110.6, 30.7, 'a', 'Mission Nuestra Señora de los Dolores (Sonora)'),
+    "L'Arbre Croche (Michigan)": (-84.95, 45.43, 'a', "L'Arbre Croche (Waganakisi), Harbor Springs (Michigan)"),
+    'Village de Pokagon (Michigan)': (-86.25, 41.8, 'a', 'Village de Pokagon, près de Niles (Michigan)'),
+    'Yanubbee (Mississippi)': (-88.65, 32.75, 'h', 'Yanubbee, ville chacta (Mississippi)'),
+    'Malmaison (comté de Carroll, Mississippi)': (-90.04, 33.53, 'a', 'Malmaison, demeure de Greenwood LeFlore (Mississippi)'),
+    "Colbert's Ferry (Alabama)": (-87.8, 34.83, 'a', "Colbert's Ferry, sur le Tennessee (Alabama)"),
+    'Garlandsville (Mississippi)': (-89.17, 32.23, 'c', 'Garlandsville, comté de Jasper (Mississippi)'),
+    'Iuka (Mississippi)': (-88.19, 34.81, 'c', 'Iuka (Mississippi)'),
+    'Black Warrior River (Alabama)': (-87.6, 33.3, 'h', 'Rivière Black Warrior (Alabama)'),
 }

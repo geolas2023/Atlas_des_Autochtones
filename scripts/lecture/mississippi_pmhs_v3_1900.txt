@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Publications of the Mississippi Historical Society, vol. III (1900)
+# ref: Publications of the Mississippi Historical Society, vol. 3 (1900), Mississippi Historical Society
+# lien: https://archive.org/details/publicationsofmi3190unse/page/{page}/mode/1up
+# recherche: https://archive.org/details/publicationsofmi3190unse/mode/1up?q={q}
+# Pages approximatives.
+= Chef chacta et ses guerriers | Choctaws (Chactas) | Yanubbee (Mississippi) | 1831 | 73 | Le chef arrive au jour fixé à Yanubbee avec ses guerriers.

@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Shea, History of the Catholic Church in the United States, vol. III (1890)
+# ref: John Gilmary Shea, History of the Catholic Church in the United States, 1808-1843 (A History of the Catholic Church within the Limits of the United States, vol. 3), New York, 1890
+# lien: https://archive.org/details/historychurchusa03sheauoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/historychurchusa03sheauoft/mode/1up?q={q}
+# Pages approximatives.
+= Chefs outaouais de l'Arbre Croche | Odawas (Outaouais) | L'Arbre Croche (Michigan) | 1824 | 347 | Chefs et chefs de famille qui adressent une pétition au gouvernement fédéral pour obtenir un prêtre catholique.
+Assakinac | Odawas (Outaouais) | L'Arbre Croche (Michigan) | 1825 | 354 | Chef qui reçoit l'évêque Fenwick en grande pompe avec sa tribu.
+= Délégation de sept chefs osages | Osages | Saint-Louis | 1820 | 370 | Ils demandent formellement une mission dans leur tribu ; La Croix les visite deux fois et baptise quarante personnes.
+Pokagon | Potawatomis | Village de Pokagon (Michigan) | 1831 | 613, 644 | Chef potawatomi catholique chez qui vit le vénérable Badin.

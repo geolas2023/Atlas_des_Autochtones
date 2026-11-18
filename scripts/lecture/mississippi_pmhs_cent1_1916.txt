@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Publications of the Mississippi Historical Society, Centenary Series, vol. I (1916)
+# ref: Publications of the Mississippi Historical Society, série du centenaire, vol. 1 (1916), Mississippi Historical Society
+# lien: https://archive.org/details/publicationsofmi12rowl/page/{page}/mode/1up
+# recherche: https://archive.org/details/publicationsofmi12rowl/mode/1up?q={q}
+# Pages approximatives.
+George Colbert | Chickasaws (Chicachas) | Colbert's Ferry (Alabama) | 1812 | s. p. | Chef des Chicachas au bac qui porte son nom, prié de faciliter le passage des marchandises du comptoir chacta.
+Pushmataha | Choctaws (Chactas); Muscogees (Creeks) | Mobile | 1813 | s. p. | Apprenant le massacre de Fort Mims, il offre ses services et ses guerriers ; présenté par Gaines au général Flournoy, d'abord éconduit puis accepté.
