@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Acta et Dicta, vol. I (1907-1908)
+# ref: Acta et Dicta, vol. I, St. Paul Catholic Historical Society, Saint Paul, 1907-1908
+# lien: https://archive.org/details/actaetdicta01cathuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/actaetdicta01cathuoft/mode/1up?q={q}
+# Pages approximatives.
+Chippewas et Sioux | Anishinaabés (Ojibwés, Saulteux); Sioux (Dakotas, Lakotas, Nakotas) | Mendota | 1839 | 21 | Mgr Loras craint que les Chippewas, enragés par le massacre des leurs, n'attaquent les Sioux; il baptise de nombreux enfants.
+Métis de Saint-Joseph | Métis | Leroy (Dakota du Nord) | 1861 | 177-178 | Deux cents cavaliers métis en ceinture fléchée accueillent l'évêque Grace; le village compte environ mille âmes, toutes métisses canadiennes.
+Indiens et Métis de Pembina | Métis; Anishinaabés (Ojibwés, Saulteux); Cris | Pembina | 1861 | 175-176 | La rive grouille d'Indiens et de Métis logés sous tipis et loges d'écorce; la congrégation parle cri, chippewa et un français corrompu.
