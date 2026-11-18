@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Brower, Itasca State Park (1904)
+# ref: J. V. Brower, Itasca State Park, an Illustrated History (Collections of the Minnesota Historical Society, vol. XI), Saint Paul, 1904
+# lien: https://archive.org/details/collectionsofmin11minn/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofmin11minn/mode/1up?q={q}
+# Pages approximatives.
+Bandes du traiteur Sayers | Anishinaabés (Ojibwés, Saulteux) | Fond du Lac (lac Supérieur) | 1780~ | 47 | Au retour de Mackinac, le traiteur Sayers trouve ses bandes indiennes décimées par la variole.
