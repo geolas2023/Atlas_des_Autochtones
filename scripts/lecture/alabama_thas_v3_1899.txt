@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Transactions of the Alabama Historical Society, vol. III (1899)
+# ref: Transactions of the Alabama Historical Society, vol. III, 1898-1899 (Tuscaloosa, 1899)
+# lien: https://archive.org/details/transactionsofal03alab/page/{page}/mode/1up
+# recherche: https://archive.org/details/transactionsofal03alab/mode/1up?q={q}
+# Pages approximatives.
+Nittakechi | Choctaws (Chactas) | Daleville (Mississippi) | 1830 | 4 | Chef de la division sud-est des Chactas, qui réside près de l'actuelle Daleville.

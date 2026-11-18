@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Haines, History of New Mexico (1891)
+# ref: Helen Haines, History of New Mexico from the Spanish Conquest to the Present Time, 1530-1890, New York, New Mexico Historical Publishing Co., 1891
+# lien: https://archive.org/details/cu31924105349660/page/{page}/mode/1up
+# recherche: https://archive.org/details/cu31924105349660/mode/1up?q={q}
+# Pages approximatives.
+Zutucapan | Pueblos | Acoma (Nouveau-Mexique) | 1598 | 77 | Chef d'Acoma absent de la junta de San Juan, qui pousse son peuple à secouer le joug des Castillans.
+= Popé et ses compagnons | Pueblos | Taos | 1680 | 85-89 | Popé, avec Catiti de Santo Domingo, Tupatu de Picuris, Jaca de Taos et Francisco de San Ildefonso, soulève tous les pueblos sauf ceux des Piros ; les chefs s'installent au palais de Santa Fe.

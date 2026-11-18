@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Connelley, A Standard History of Kansas and Kansans, vol. I (1918)
+# ref: William E. Connelley, A Standard History of Kansas and Kansans, vol. I, Chicago, Lewis Publishing Co., 1918
+# lien: https://archive.org/details/standardhistoryo01conn/page/{page}/mode/1up
+# recherche: https://archive.org/details/standardhistoryo01conn/mode/1up?q={q}
+# Pages approximatives.
+= Chefs des Kansas | Kansas (Kaws) | Dry Turkey Creek (McPherson, Kansas) | 1825-08-16 | 111 | Les commissaires qui arpentent la piste de Santa Fe les rencontrent en conseil sur la Dry Turkey Creek.
+Sa-ni-tsa-rish | Pawnees | Villages panis (Platte) | 1834 | 153 | Chef des Grands Pawnees sur lequel les missionnaires comptent le plus pour leur protection.
+American Chief | Kansas (Kaws) | Mission Creek (Kansas) | 1830 | 213 | Chef kaw dont le village est sur la crique qui porte son nom (aujourd'hui Mission Creek), où Frederick Chouteau promet de bâtir un comptoir.

@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Twitchell, The History of the Military Occupation of the Territory of New Mexico (1909)
+# ref: R. E. Twitchell, The History of the Military Occupation of the Territory of New Mexico from 1846 to 1851, Denver, Smith-Brooks, 1909
+# lien: https://archive.org/details/historyofmilitar00twit/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofmilitar00twit/mode/1up?q={q}
+# Pages approximatives.
+= Chefs pueblos au palais | Pueblos | Santa Fe | 1846-08 | 74 | Le lendemain de l'entrée de Kearny, les principaux chefs de plusieurs pueblos viennent au palais faire leur soumission.
+Sarcilla Largo | Navajos (Diné) | Ojo del Oso (Nouveau-Mexique) | 1846-11 | 98-100 | Jeune chef navajo de premier plan qui répond aux Américains ; le traité est conclu et les chefs promettent de cesser les déprédations.
+Mangas Coloradas | Apaches | Pinos Altos (Nouveau-Mexique) | 1863 | 303-304 | Grand chef des Apaches du Sud, très vieux, aux cheveux blancs, capturé à la sortie de sa tente, fusil à la main.

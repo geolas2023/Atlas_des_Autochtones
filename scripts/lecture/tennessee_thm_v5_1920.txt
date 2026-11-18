@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Tennessee Historical Magazine, vol. V (1920)
+# ref: Tennessee Historical Magazine, vol. V (1919-1920), Nashville, Tennessee Historical Society
+# lien: https://archive.org/details/tennesseehistori05tennuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/tennesseehistori05tennuoft/mode/1up?q={q}
+# Pages approximatives.
+= Douze cents Cherokees à Sycamore Shoals | Cherokees | Sycamore Shoals (Tennessee) | 1775-03-17 | 10-11 | Ils traitent par leurs chefs Oconostota et Attakullakulla et cèdent à Henderson un immense territoire ; un chef prévient que le pays au sud du Kentucky sera une « terre sanglante ».
