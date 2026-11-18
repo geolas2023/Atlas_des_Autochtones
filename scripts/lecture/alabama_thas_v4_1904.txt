@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Transactions of the Alabama Historical Society, vol. IV (1904)
+# ref: Transactions of the Alabama Historical Society, vol. IV, 1899-1903 (Montgomery, 1904), dont G. Whitfield Jr., The French Grant in Alabama
+# lien: https://archive.org/details/transactionsofal04alab/page/{page}/mode/1up
+# recherche: https://archive.org/details/transactionsofal04alab/mode/1up?q={q}
+# Pages approximatives.
+= Chefs, députés et guerriers creeks | Muscogees (Creeks) | Fort Toulouse (Alibamons) | 1814-08-09 | 142 | Jackson leur impose le traité de Fort Jackson, sur le site de l'ancien fort Toulouse.
+William McIntosh | Muscogees (Creeks); Métis | Indian Springs (Géorgie) | 1825 | s. p. | Chef principal des Cowetas qui signe avec cinquante autres chefs le traité d'Indian Springs, désavoué par la grande majorité des chefs et guerriers.

@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Clayton, History of Davidson County, Tennessee (1880)
+# ref: W. W. Clayton, History of Davidson County, Tennessee, Philadelphia, J. W. Lewis & Co., 1880
+# lien: https://archive.org/details/historyofdavidso00clay/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofdavidso00clay/mode/1up?q={q}
+# Pages approximatives.
+Oconostota | Cherokees | Sycamore Shoals (Tennessee) | 1775 | 14 | Orateur cherokee, chef guerrier et premier représentant de la nation, qui prononce un discours passionné contre la cession.
+John Watts | Cherokees | Nashville (Tennessee) | 1792 | 66 | Un autre chef le traite de femme et se vante de prendre le fort à lui seul.

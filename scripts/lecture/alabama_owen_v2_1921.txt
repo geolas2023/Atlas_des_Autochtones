@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Owen, History of Alabama and Dictionary of Alabama Biography, vol. II (1921)
+# ref: Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 2
+# lien: https://archive.org/details/historyofalabama02owen/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofalabama02owen/mode/1up?q={q}
+# Pages approximatives.
+Yoholomicco | Muscogees (Creeks) | Yufala (Tallapoosa, Alabama) | 1813 | 773 | Chef de la Yufala des Creeks d'en haut, sur la rive ouest de la Tallapoosa, deux milles sous Okfuskee.

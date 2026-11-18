@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Read, Illustrated History of New Mexico (1912)
+# ref: Benjamin M. Read, Illustrated History of New Mexico, Santa Fe, New Mexican Printing Company, 1912
+# lien: https://archive.org/details/illustratedhisto00readrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/illustratedhisto00readrich/mode/1up?q={q}
+# Pages approximatives.
+Tomás | Pueblos | Taos | 1847-02 | 448 | Chef de Taos livré avec les autres chefs à Price, qui n'accepte la reddition qu'à ce prix ; ils sont pendus.

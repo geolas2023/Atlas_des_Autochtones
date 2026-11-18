@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Putnam, History of Middle Tennessee (1859)
+# ref: A. W. Putnam, History of Middle Tennessee, or, Life and Times of Gen. James Robertson, Nashville, 1859
+# lien: https://archive.org/details/historymiddlete00putngoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/historymiddlete00putngoog/mode/1up?q={q}
+# Pages approximatives.
+= Ovarhill Cherokees | Cherokees | Long Island du Holston (Kingsport, Tennessee) | 1777-07-20 | 616 | Traité de Fort Henry, près du Long Island du Holston, signé par les chefs des Cherokees d'en haut.
+= Chefs cherokees à Hopewell | Cherokees | Hopewell (Caroline du Sud) | 1785-11-28 | s. p. | Traité de Hopewell sur la Keowee avec les commissaires des États-Unis.
+Piomingo | Chickasaws (Chicachas) | Hopewell (Caroline du Sud) | 1786-01-10 | 249 | Chef de guerre et ministre chicacha, signataire du traité de Hopewell avec Mingatuska, grand chef, et Latopoia, le bien-aimé.

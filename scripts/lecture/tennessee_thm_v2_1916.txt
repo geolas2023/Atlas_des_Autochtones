@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Tennessee Historical Magazine, vol. II (1916)
+# ref: Tennessee Historical Magazine, vol. II, Nashville, Tennessee Historical Society, 1916
+# lien: https://archive.org/details/tennesseehistori02tennuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/tennesseehistori02tennuoft/mode/1up?q={q}
+# Pages approximatives.
+= Chef ami déguisé | Muscogees (Creeks) | Fort Strother (Alabama) | 1813-11-07 | 277 | Chef ami échappé déguisé dans une peau de porc, qui atteint Fort Strother et demande un prompt secours.

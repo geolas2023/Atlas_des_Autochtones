@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Owen, History of Alabama and Dictionary of Alabama Biography, vol. I (1921)
+# ref: Thomas McAdory Owen, History of Alabama and Dictionary of Alabama Biography (Chicago, 1921), vol. 1
+# lien: https://archive.org/details/historyofalabama01owen/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofalabama01owen/mode/1up?q={q}
+# Pages approximatives.
+Little Prince | Muscogees (Creeks) | Fort Mitchell (Alabama) | 1825 | s. p. | Chef principal des Creeks qui permet aux prédicateurs d'enseigner le travail aux enfants autochtones.
+The Turkey (le Dindon) | Cherokees | Turkey Town (Alabama) | 177X | 236 | Chef cherokee renommé qui a donné son nom à Turkey Town.
+Chinnaby | Muscogees (Creeks) | Ten Islands (Coosa, Alabama) | 1813 | 251 | Chef creek ami des Américains, qui tient une sorte de fort aux Ten Islands de la Coosa.

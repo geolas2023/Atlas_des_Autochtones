@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Prince, A Concise History of New Mexico (1912)
+# ref: L. Bradford Prince, A Concise History of New Mexico, Cedar Rapids, Torch Press, 1912
+# lien: https://archive.org/details/aconcisehistory00pringoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/aconcisehistory00pringoog/mode/1up?q={q}
+# Pages approximatives.
+Luis Tupatu | Pueblos | Picuris (Nouveau-Mexique) | 1692 | 116-118 | Chef des Pueblos depuis la mort de Popé et de Catiti, dont la soumission à Vargas est l'événement décisif.
+= Chefs de la nation osage | Osages | Village osage (rivière Osage) | 1806-08 | s. p. | Pike tient conseil avec eux au Grand Osage du 20 août au 1er septembre.
+= Grand conseil pawnee | Pawnees | Village pawnee de la Republican (Kansas) | 1806-09-29 | s. p. | Pike tient un grand conseil avec les Pawnees.
