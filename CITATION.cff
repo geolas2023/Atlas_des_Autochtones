@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Pour citer cet atlas, utilisez les métadonnées ci-dessous."
+title: "Atlas des Autochtones — Premières Nations, Métis et Inuits dans les sources de l'Amérique française"
+authors:
+  - family-names: Caron
+    given-names: Olivier J.
+    affiliation: "Département de géographie, Université du Québec à Montréal"
+type: dataset
+date-released: 2026-11-17
+url: "https://geolas2023.github.io/Atlas_des_Autochtones/"

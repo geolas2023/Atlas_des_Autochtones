@@ -1,0 +1,244 @@
+{
+ "titre": {
+  "fr": "Atlas de l'Amérique française",
+  "en": "Atlas of French America"
+ },
+ "sous_titre": {
+  "fr": "Atlas géohistoriques des francophones d'Amérique du Nord",
+  "en": "Geohistorical atlases of French speakers in North America"
+ },
+ "auteur": "Olivier J. Caron, Département de géographie, UQAM",
+ "atlas": [
+  {
+   "id": "canadiens-francais",
+   "type": "thematique",
+   "statut": "en_ligne",
+   "titre": {
+    "fr": "Les Canadiens français de l'Ouest",
+    "en": "French Canadians of the West"
+   },
+   "sous_titre": {
+    "fr": "Voyageurs, montagnards, Illinois, Louisiane, Midwest, Nouvelle-Angleterre",
+    "en": "Voyageurs, mountain men, Illinois, Louisiana, Midwest, New England"
+   },
+   "description": {
+    "fr": "L'atlas carrefour du réseau, sur la carte ci-contre : carnets de Cragin, Tassé, Hafen, l'Illinois français, la Nouvelle-France, la Nouvelle-Angleterre, la piste de l'Oregon et une vingtaine d'autres sources, avec une salle de lecture par personnage.",
+    "en": "The network's crossroads atlas: Cragin's notebooks, Tassé, Hafen, French Illinois, New France, New England, the Oregon Trail and some twenty other sources, with a reading room per character."
+   },
+   "url": "https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/",
+   "url_en": null,
+   "donnees": "data/lieux.geojson",
+   "exclure_corpus": [
+    "Atlas Aubry"
+   ],
+   "lien_fiche": "index.html#{id}",
+   "couleur": "#8b2e1f",
+   "periode": "1562-2000",
+   "pages": [
+    {
+     "fr": "Salle de lecture",
+     "en": "Reading room",
+     "href": "salle.html"
+    },
+    {
+     "fr": "Les hommes des montagnes",
+     "en": "The Mountain Men",
+     "href": "montagnards.html",
+     "href_en": "montagnards-en.html"
+    },
+    {
+     "fr": "Les Canadiens de l'Ouest (Tassé)",
+     "en": "The Canadians of the West (Tassé)",
+     "href": "canadiens-ouest.html",
+     "href_en": "canadiens-ouest-en.html"
+    },
+    {
+     "fr": "L'Illinois français",
+     "en": "French Illinois",
+     "href": "illinois-francais.html",
+     "href_en": "illinois-francais-en.html"
+    },
+    {
+     "fr": "Étienne Provost",
+     "en": "Étienne Provost",
+     "href": "provost.html",
+     "href_en": "provost-en.html"
+    }
+   ]
+  },
+  {
+   "id": "autochtones",
+   "type": "thematique",
+   "statut": "en_ligne",
+   "ici": true,
+   "titre": {
+    "fr": "Atlas des Autochtones",
+    "en": "Atlas of Indigenous Peoples"
+   },
+   "sous_titre": {
+    "fr": "Premières Nations, Métis et Inuits dans les sources de l'Amérique française",
+    "en": "First Nations, Métis and Inuit in the sources of French America"
+   },
+   "description": {
+    "fr": "Toutes les sources du réseau relues du point de vue des peuples autochtones : villages, conseils, traités, guerres, missions, traite, alliances et personnes nommées, avec la nation, la source et le lien vers la page.",
+    "en": "All the network's sources reread from the standpoint of Indigenous peoples: villages, councils, treaties, wars, missions, trade, alliances and named people, with the nation, the source and a link to the page."
+   },
+   "url": "https://geolas2023.github.io/Atlas_des_Autochtones/",
+   "url_en": null,
+   "donnees": "data/lieux.geojson",
+   "lien_fiche": "index.html#{id}",
+   "couleur": "#a0522d",
+   "periode": "1615-1920",
+   "pages": []
+  },
+  {
+   "id": "aubry",
+   "type": "personnage",
+   "statut": "en_ligne",
+   "titre": {
+    "fr": "Atlas Aubry",
+    "en": "Aubry Atlas"
+   },
+   "sous_titre": {
+    "fr": "François-Xavier Aubry (1824-1854)",
+    "en": "François-Xavier Aubry (1824-1854)"
+   },
+   "description": {
+    "fr": "De Maskinongé à Santa Fe : le « Skimmer of the Plains », ses convois, ses records, ses lettres et son réseau, de Saint-Louis à la Californie.",
+    "en": "From Maskinongé to Santa Fe: the “Skimmer of the Plains,” his caravans, records, letters and network, from St. Louis to California."
+   },
+   "url": "https://geolas2023.github.io/Atlas-Aubry/",
+   "url_en": "https://geolas2023.github.io/Atlas-Aubry/index-en.html",
+   "donnees": "data/lieux.geojson",
+   "exclure_corpus": [],
+   "lien_fiche": "index.html#lieu={id}",
+   "couleur": "#3e5f7a",
+   "periode": "1824-1854",
+   "pages": [
+    {
+     "fr": "Lettres à Magdeleine Aubry",
+     "en": "Letters to Magdeleine Aubry",
+     "href": "lettres.html",
+     "href_en": "lettres-en.html"
+    },
+    {
+     "fr": "La grande course de 1848",
+     "en": "The great ride of 1848",
+     "href": "grande-course.html",
+     "href_en": "grande-course-en.html"
+    },
+    {
+     "fr": "Le réseau francophone",
+     "en": "The French-speaking network",
+     "href": "reseau.html",
+     "href_en": "reseau-en.html"
+    },
+    {
+     "fr": "Bibliographie",
+     "en": "Bibliography",
+     "href": "bibliographie.html",
+     "href_en": "bibliographie-en.html"
+    }
+   ]
+  },
+  {
+   "id": "iberville",
+   "type": "personnage",
+   "statut": "en_ligne",
+   "titre": {
+    "fr": "Atlas Iberville",
+    "en": "Iberville Atlas"
+   },
+   "sous_titre": {
+    "fr": "Pierre Le Moyne d'Iberville (1661-1706)",
+    "en": "Pierre Le Moyne d'Iberville (1661-1706)"
+   },
+   "description": {
+    "fr": "De la baie d'Hudson à Terre-Neuve et au golfe du Mexique : les campagnes du marin montréalais et la fondation de la Louisiane, d'après Guy Frégault (Iberville le conquérant, 1944), sur un fond de carte marine ancienne.",
+    "en": "From Hudson Bay to Newfoundland and the Gulf of Mexico: the campaigns of the Montreal-born sailor and the founding of Louisiana, after Guy Frégault (Iberville le conquérant, 1944), on an old sea-chart basemap."
+   },
+   "url": "https://geolas2023.github.io/Atlas-Iberville/",
+   "url_en": null,
+   "donnees": "data/lieux.geojson",
+   "exclure_corpus": [],
+   "lien_fiche": "index.html#lieu={id}",
+   "couleur": "#2a7f7a",
+   "periode": "1661-1706",
+   "pages": []
+  },
+  {
+   "id": "jolliet",
+   "type": "personnage",
+   "statut": "en_ligne",
+   "titre": {
+    "fr": "Atlas Jolliet",
+    "en": "Jolliet Atlas"
+   },
+   "sous_titre": {
+    "fr": "Louis Jolliet (1645-1700)",
+    "en": "Louis Jolliet (1645-1700)"
+   },
+   "description": {
+    "fr": "Le Mississipi avec le père Marquette (1673), la baie d'Hudson par le Saguenay (1679), Anticosti, Mingan et la côte du Labrador (1694) : la vie du découvreur québécois d'après Ernest Gagnon (Louis Jolliet, 1913), le Récit du père Marquette et les documents de BAnQ.",
+    "en": "The Mississippi with Father Marquette (1673), Hudson Bay by the Saguenay (1679), Anticosti, Mingan and the Labrador coast (1694): the life of the Quebec-born explorer after Ernest Gagnon (Louis Jolliet, 1913), Marquette's narrative and BAnQ documents."
+   },
+   "url": "https://geolas2023.github.io/Atlas-Jolliett/",
+   "url_en": null,
+   "donnees": "data/lieux.geojson",
+   "exclure_corpus": [],
+   "lien_fiche": "index.html#lieu={id}",
+   "couleur": "#7a4f1d",
+   "periode": "1645-1700",
+   "pages": []
+  },
+  {
+   "id": "robidoux",
+   "type": "famille",
+   "statut": "en_ligne",
+   "titre": {
+    "fr": "Atlas Robidoux",
+    "en": "Robidoux Atlas"
+   },
+   "sous_titre": {
+    "fr": "La famille Robidoux (1720-1876)",
+    "en": "The Robidoux family (1720-1876)"
+   },
+   "description": {
+    "fr": "De Montréal à Saint-Louis, puis de Saint-Joseph (Missouri) à Santa Fe, Taos, aux forts Uncompahgre et Uintah et à la Californie : quatre générations de traiteurs canadiens-français, d'après Billon, Houck, Tassé, Chittenden, Hafen et les carnets de Cragin.",
+    "en": "From Montreal to St. Louis, then from St. Joseph (Missouri) to Santa Fe, Taos, Forts Uncompahgre and Uintah and California: four generations of French-Canadian traders, after Billon, Houck, Tassé, Chittenden, Hafen and the Cragin notebooks."
+   },
+   "url": "https://geolas2023.github.io/Les-Robidoux/",
+   "url_en": null,
+   "donnees": "data/lieux.geojson",
+   "exclure_corpus": [],
+   "lien_fiche": "index.html#lieu={id}",
+   "couleur": "#2f4d63",
+   "periode": "1720-1876",
+   "pages": []
+  },
+  {
+   "id": "provost",
+   "type": "personnage",
+   "statut": "en_preparation",
+   "titre": {
+    "fr": "Atlas Provost",
+    "en": "Provost Atlas"
+   },
+   "sous_titre": {
+    "fr": "Étienne Provost (v. 1785-1850)",
+    "en": "Étienne Provost (c. 1785-1850)"
+   },
+   "description": {
+    "fr": "Le trappeur de Chambly, pionnier du bassin du Grand Lac Salé. En attendant son atlas, son dossier est dans l'atlas des Canadiens français.",
+    "en": "The Chambly trapper, pioneer of the Great Salt Lake basin. Until his atlas is ready, his file is in the French-Canadian atlas."
+   },
+   "url": "https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/provost.html",
+   "url_en": "https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/provost-en.html",
+   "donnees": null,
+   "couleur": "#6b7a2f",
+   "periode": "1785-1850",
+   "pages": []
+  }
+ ],
+ "note": "Registre du réseau Atlas de l'Amérique française. L'accueil du réseau est l'atlas des Canadiens français (index.html) ; pour ajouter un atlas, une entrée ici suffit."
+}

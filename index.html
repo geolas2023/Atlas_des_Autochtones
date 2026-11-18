@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Atlas des Autochtones — Premières Nations, Métis et Inuits dans les sources de l'Amérique française</title>
+  <meta name="author" content="Olivier J. Caron, Département de géographie, UQAM">
+  <meta name="description" content="Atlas géohistorique interactif des Premières Nations, des Métis et des Inuits dans les sources de l'Amérique française : villages, événements, personnes et nations géolocalisés, avec la source et le lien vers la page.">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap">
+  <link rel="stylesheet" href="css/style.css?v=202611230000">
+</head>
+<body>
+  <header class="barre">
+    <svg class="embleme" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 84" width="64" height="42" style="width:64px;height:42px;flex:none" role="img" aria-labelledby="embleme-titre"><title id="embleme-titre">Plume d'aigle</title>
+    <g transform="rotate(-28 64 42)" fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M30 42 C42 27 78 25 116 40 C78 57 42 57 30 42 Z"/>
+    <path d="M94 31 C103 33 110 36 116 40 C110 44 103 47 94 50 C98 44 98 37 94 31 Z" class="pointe"/>
+    <path d="M8 42 L116 40" fill="none" stroke-width="1.6" class="tige"/>
+    <path d="M52 33 L58 41 M66 31 L71 40 M78 31 L82 40 M58 51 L63 43 M71 52 L75 43" fill="none" stroke-width="1.4" class="encoche"/>
+    <rect x="20" y="38.5" width="10" height="7" rx="1.5" class="rouge"/>
+    <path d="M24 45 C22 54 20 60 15 66 M27 45 C27 55 26 61 23 69" fill="none" stroke-width="1.2" class="rouge"/>
+    <circle cx="15" cy="67" r="2" class="rouge"/><circle cx="23" cy="70" r="2" class="rouge"/>
+    </g>
+    </svg>
+    <h1><a href="./" id="titre-accueil" title="Accueil">Atlas des Autochtones</a> <span>Premières Nations, Métis et Inuits dans les sources de l'Amérique française</span></h1>
+    <p class="credit"><a href="https://professeurs.uqam.ca/professeur/caron.olivier/" target="_blank" rel="noopener">Olivier J. Caron</a> · <a href="https://geo.uqam.ca/" target="_blank" rel="noopener">Département de géographie</a> <img class="logo-uqam" src="images/uqam-logo.svg" alt="UQAM"></p>
+        <button type="button" id="btn-atlas" class="lien-salle" title="Les atlas du réseau Atlas de l'Amérique française">⚜ Les atlas</button>
+    <a class="lien-salle" href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/" title="Atlas des Canadiens français de l'Ouest, d'où viennent les fiches">↔ Atlas des Canadiens français</a>
+    <a class="lien-salle" href="https://geolas2023.github.io/Atlas-Aubry/" title="Atlas Aubry : François-Xavier Aubry (1824-1854) et son entourage">↔ Atlas Aubry</a>
+    <a class="lien-salle" href="https://geolas2023.github.io/Atlas-Jolliett/" title="Atlas Jolliet : Louis Jolliet (1645-1700)">↔ Atlas Jolliet</a>
+    <a class="lien-salle" href="https://geolas2023.github.io/Les-Robidoux/" title="Atlas Robidoux : la famille Robidoux (1720-1876)">↔ Atlas Robidoux</a>
+    <button type="button" id="btn-apropos" class="lien-salle">À propos</button>
+  </header>
+
+  <main class="contenu">
+    <section id="outils" aria-label="Recherche et filtres">
+      <div class="bloc">
+        <label for="recherche" class="titre-bloc">Rechercher</label>
+        <input type="search" id="recherche" placeholder="Nom, lieu, personnage…" autocomplete="off">
+      </div>
+      <details class="bloc">
+        <summary class="titre-bloc">Corpus <span class="mini" id="corpus-resume"></span></summary>
+        <div id="f-corpus"></div>
+        <p class="mini"><a href="#" id="corpus-tous">tous</a> · <a href="#" id="corpus-aucun">aucun</a></p>
+      </details>
+      <details class="bloc" open>
+        <summary class="titre-bloc">Thèmes</summary>
+        <div id="f-themes"></div>
+        <p class="mini"><a href="#" id="themes-tous">tous</a> · <a href="#" id="themes-aucun">aucun</a></p>
+      </details>
+      <details class="bloc" open>
+        <summary class="titre-bloc">Nations <span class="mini" id="nations-resume"></span></summary>
+        <input type="search" id="recherche-nation" placeholder="Filtrer les nations…" autocomplete="off">
+        <div id="f-nations"></div>
+        <p class="mini"><a href="#" id="nations-tous">toutes</a> · <a href="#" id="nations-aucun">aucune</a></p>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">Certitude de la localisation</summary>
+        <div id="f-certitude"></div>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">Personnes autochtones nommées <span id="nb-pers" class="mini"></span></summary>
+        <input type="search" id="recherche-pers" placeholder="Filtrer la liste…" autocomplete="off">
+        <ul id="liste-pers" class="liste-pers"></ul>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">Fond de carte et contexte</summary>
+        <div class="choix-fond" role="radiogroup" aria-label="Fond de carte">
+          <label><input type="radio" name="fond" value="plan"> Plan</label>
+          <label><input type="radio" name="fond" value="arpenteur" checked> Arpenteur</label>
+          <label><input type="radio" name="fond" value="western"> Western</label>
+          <label><input type="radio" name="fond" value="relief"> Relief</label>
+          <label><input type="radio" name="fond" value="satellite"> Satellite</label>
+        </div>
+        <label><input type="checkbox" id="c-piste"> Piste de Santa Fe (relevé de l'Atlas Aubry)</label>
+      </details>
+      <p id="compteur" class="compteur" aria-live="polite"></p>
+    </section>
+
+    <div id="carte" aria-label="Carte interactive"></div>
+
+    <aside id="panneau" aria-live="polite">
+      <div class="vide">
+        <h2>Atlas des Autochtones</h2>
+        <div class="filet" aria-hidden="true">✦</div>
+        <p class="chapeau-accueil">Les récits des voyageurs, des missionnaires, des traiteurs et des colons de l'Amérique française parlent sans cesse des peuples chez qui ils vivaient, commerçaient, se mariaient ou se battaient. Cet atlas relit toutes les sources de l'<a href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/">Atlas de l'Amérique française</a> du point de vue des Premières Nations, des Métis et des Inuits : villages, conseils, traités, guerres, alliances et personnes nommées, chaque fiche avec sa date, son lieu, sa nation, sa source et le lien vers la page.</p>
+        <p>Cliquez sur un point pour ouvrir sa fiche ; le filtre <strong>Nations</strong> regroupe les nations par grande aire culturelle.</p>
+        <h3 class="titre-reseau">Les atlas du réseau</h3>
+        <div id="atlas-reseau"></div>
+        <details class="section-accueil">
+          <summary class="titre-reseau">À lire avant de consulter</summary>
+          <p class="avertissement">Les sources sont presque toutes écrites par des Européens et des Euro-Américains, du XVIIe au XXe siècle. Elles emploient des noms de nations et des termes d'époque (« sauvages », « squaw », « half-breed »…) qui sont souvent péjoratifs ; l'atlas les cite tels quels pour rester fidèle aux textes, et donne pour chaque nation le nom en usage aujourd'hui. Le regard porté sur les Autochtones est celui des auteurs, pas celui des nations elles-mêmes.</p>
+          <p>Les nations et les noms de personnes ont été repérés dans le texte des fiches ; aucun nom n'est ajouté. Quand le texte ne nomme pas la nation, la fiche est classée « Autochtones (nation non précisée) ».</p>
+        </details>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="timeline">
+    <button type="button" id="lecture" title="Animer la chronologie" aria-label="Animer">▶</button>
+    <div class="curseurs">
+      <div class="double">
+        <input type="range" id="t-debut" min="1560" max="2010" step="1" value="1560" aria-label="Début de la période">
+        <input type="range" id="t-fin" min="1560" max="2010" step="1" value="2010" aria-label="Fin de la période">
+      </div>
+      <div id="graduation"></div>
+    </div>
+    <span id="periode"></span>
+    <label class="mini"><input type="checkbox" id="t-tout" checked> toute la période</label>
+  </footer>
+
+  <dialog id="apropos">
+    <h2>À propos de l'atlas</h2>
+    <p>Atlas géohistorique des Premières Nations, des Métis et des Inuits tels qu'ils apparaissent dans les sources de l'Amérique française, de la Nouvelle-France au XXe siècle : villages et territoires, conseils, traités et conflits, missions, traite, alliances et mariages, guides et interprètes, et les personnes autochtones nommées par les textes.</p>
+    <h3>Sources</h3>
+    <p>Toutes les fiches de l'<a href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/">Atlas des Canadiens français de l'Ouest</a> (carnets de Cragin, Tassé, Hafen, l'Illinois français, la Nouvelle-France, la Louisiane, la bibliothèque archive.org de plus de deux cents livres, etc.) et des atlas Aubry, Iberville, Jolliet et Robidoux ont été relues. Chaque fiche garde la référence et le lien de sa source (page du livre sur archive.org, PDF du numéro, article) et renvoie à la fiche d'origine.</p>
+    <h3>Lecture des fiches</h3>
+    <p>La nation est donnée sous son nom actuel, avec les noms d'époque entre parenthèses (Sioux, Chicachas, Têtes-Plates…) ; une fiche peut concerner plusieurs nations. Les dates sont exprimées en années décimales pour le filtrage et en EDTF ; la certitude qualifie la localisation. Les descriptions sont celles des fiches d'origine.</p>
+    <p class="avertissement">Les termes d'époque employés par les sources sont reproduits tels quels ; ils peuvent être blessants.</p>
+    <p>Données : <code>data/lieux.geojson</code> (EPSG:4326), produit par <code>scripts/extraire.py</code>.</p>
+    <form method="dialog"><button class="btn">Fermer</button></form>
+  </dialog>
+
+  <script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"></script>
+  <script src="js/fonds.js?v=202611230000"></script>
+  <script src="js/atlas.js?v=202611230000"></script>
+</body>
+</html>
