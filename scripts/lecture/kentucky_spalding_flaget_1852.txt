@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Spalding, Sketches of the Life, Times, and Character of Bishop Flaget (1852)
+# ref: M. J. Spalding, Sketches of the Life, Times, and Character of the Rt. Rev. Benedict Joseph Flaget (1852)
+# lien: https://archive.org/details/SketchesOfTheLifeTimes/page/{page}/mode/1up
+# recherche: https://archive.org/details/SketchesOfTheLifeTimes/mode/1up?q={q}
+# Pages approximatives.
+Louis (le vieux chef de la prière) | Miamis; Weas et Piankashaws | Vincennes | 1792 | 117 | Vieux chef baptisé sous le nom de Louis, surnommé « le vieux priant », loué par le P. Rivet.

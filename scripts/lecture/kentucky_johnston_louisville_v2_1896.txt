@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Johnston, Memorial History of Louisville, vol. II (1896)
+# ref: J. Stoddard Johnston, Memorial History of Louisville, vol. II (1896)
+# lien: https://archive.org/details/memorialhistoryo02john/page/{page}/mode/1up
+# recherche: https://archive.org/details/memorialhistoryo02john/mode/1up?q={q}
+# Pages approximatives.
+= Between-the-Logs et Menoncue | Wyandots (Hurons-Wendat) | Sandusky | 1825 | 215 | Chefs wyandots convertis par le missionnaire noir John Stewart, devenus prédicateurs locaux.

@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Elliott, History of Monterey County, California (1881)
+# ref: History of Monterey County (Elliott & Moore, 1881)
+# lien: https://archive.org/details/historyofmontere00elli/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofmontere00elli/mode/1up?q={q}
+# Pages approximatives.
+Juan Bautista | Autochtones (nation non précisée) | San Juan Bautista (Californie) | 1797-07-11 | 146 | Orphelin de dix ans de la tribu des Ausaymas, premier baptisé de la mission, qui reçoit le nom du saint patron.
