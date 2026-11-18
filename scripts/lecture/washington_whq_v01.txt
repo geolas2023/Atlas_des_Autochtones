@@ -1,0 +1,12 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. I (1906)
+# ref: The Washington Historical Quarterly, vol. I (1906), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor01wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor01wash/mode/1up?q={q}
+# Pages approximatives.
+Koquilton | Autochtones (nation non précisée) | Nisqually | 1841 | 88 | Chef de Muckleshoot, seul survivant connu de la fête donnée par Wilkes au fort Nisqually ; son témoignage est rapporté.
+Schunawa | Autochtones (nation non précisée) | Fort Langley | 1828 | 20 | Chef indien porteur d'une lettre, tué en chemin.
+Little Chief | Klallams | Port Townsend | 1828 | 28 | Chef du village visé par l'expédition punitive de la Compagnie ; tué et scalpé par les Iroquois.
+The Frenchman | Snoqualmies et Snohomishs | Port Townsend | 1828 | 26 | Chef snohomish venu voir l'expédition avec quelques partisans.
+Leschi | Nisquallys | Nisqually | 185X | 58 | Deux documents sur le chef Leschi (shérif du comté de Pierce).
+Kitsap | Autochtones (nation non précisée) | Réserve de Port Madison (Washington) | 185X | s. p. | Document : renseignements défavorables sur le chef Kitsap.
+Kamiakin (Kam-i-ah-kan) | Yakamas | Walla Walla | 1855 | 253 | Chef principal des Yakimas ; fait choisir la vallée de Walla Walla, lieu des anciens conseils, pour le grand conseil.

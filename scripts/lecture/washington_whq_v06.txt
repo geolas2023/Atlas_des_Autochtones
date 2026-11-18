@@ -1,0 +1,12 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. VI (1915)
+# ref: The Washington Historical Quarterly, vol. VI (1915), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor06wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor06wash/mode/1up?q={q}
+# Pages approximatives.
+Comcomly | Chinooks | Chinook (Washington) | 1828 | 25 | Chef des Chinooks établi en face d'Astoria ; grand-père du jeune Ranald MacDonald, dont il a la garde.
+Charlie | Autochtones (nation non précisée) | Walla Walla | 1818 | 31 | Chef indien qui accompagne l'expédition partie du fort Nez Percés ; querelle avec l'interprète.
+Colatouche | Palouses | Rivière Lewis (Nez-Percés) | 1818 | 31 | Chef d'un camp de Palouses ; offre des chevaux à prix trop élevé.
+Alunn | Nimíipuu (Nez-Percés) | Lewiston (Idaho) | 1818 | 33 | L'un des deux chefs principaux de quelque deux cents Indiens aux Fourches (Snake et Clearwater).
+Towishpal | Nimíipuu (Nez-Percés) | Lewiston (Idaho) | 1818 | 33 | Second chef principal aux Fourches ; seul à ne pas chercher à tirer profit de la querelle.
+Seattle | Autochtones (nation non précisée) | Seattle | 1859 | 104 | Chef dont la ville porte le nom, à la voix de trompette.
+= Signataires du traité | Snoqualmies et Snohomishs | Tulalip | 1855 | 108 | Seattle, Pat Kanim, Chow-its-hoot, Goliah et d'autres chefs signent le traité ; leurs descendants vivent à Tulalip.

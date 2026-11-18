@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. IX (1918)
+# ref: The Washington Historical Quarterly, vol. IX (1918), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor09wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor09wash/mode/1up?q={q}
+# Pages approximatives.
+= Quatre chefs skeetshoo et chef shawpatin | Schitsu'umsh (Cœurs d'Alène) ; Nimíipuu (Nez-Percés) | Spokane House | 1811 | 12 | David Thompson leur envoie du tabac pour qu'ils cessent la guerre contre les Kootenais et se préparent contre les Piégans.
+Clisseet | Autochtones (nation non précisée) | Neah Bay (Washington) | 1852 | 36 | Chef principal des Makahs selon George Davidson.
+Princess Raven | Chinooks | Astoria | 1823 | 97 | Fille de Comcomly, épouse Archibald McDonald ; meurt en 1824 après la naissance de Ranald.
+Se-at-tlh (Seattle) | Autochtones (nation non précisée) | Réserve de Port Madison (Washington) | 1866 | 230 | Chef ami des Blancs, témoin des premiers navires du Sound ; vécut, mourut et fut enterré à Suquamish.

@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. II (1907)
+# ref: The Washington Historical Quarterly, vol. II (1907), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor02wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor02wash/mode/1up?q={q}
+# Pages approximatives.
+= Délégation tête-plate et nez-percée | Salish (Têtes-Plates) ; Nimíipuu (Nez-Percés) | Saint-Louis | 1832 | 204 | Quatre envoyés, dont un chef, reçus par le général Clark ; trois tombent malades, le chef prononce sa dernière plainte et meurt.
+Walker | Wyandots (Hurons-Wendat) | Wyandotte (Kansas) | 1853 | 223 | Chef wyandot élu gouverneur provisoire du territoire (Nebraska).

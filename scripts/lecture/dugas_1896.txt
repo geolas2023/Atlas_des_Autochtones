@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Dugas (1896)
+# ref: Dugas, Georges (1896), L'Ouest canadien : sa découverte par le sieur de La Vérendrye, son exploitation par les compagnies de traiteurs jusqu'à l'année 1822, Montréal, Cadieux et Derome
+# lien: https://archive.org/details/cihm_30150/page/{page}/mode/1up
+# recherche: https://archive.org/details/cihm_30150/mode/1up?q={q}
+# Pages approximatives.
+= Chefs cristinaux | Cris | Michilimackinac | 1753 | 145 | Invités à un conseil à Michillimakinac ; trois d'entre eux accompagnent Legardeur de Saint-Pierre.
+= Chefs indiens | Autochtones (nation non précisée) | Grand Portage | 175X | 406 | Saint-Pierre revient au Grand-Portage avec des chefs indiens.
+Cuthbert Grant | Métis | Qu'Appelle | 1816 | 927 | Métis, commis de la Compagnie du Nord-Ouest et chef principal des Métis, écrit de Qu'Appelle.

@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. III (1912)
+# ref: The Washington Historical Quarterly, vol. III (1912), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor03wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor03wash/mode/1up?q={q}
+# Pages approximatives.
+= Chefs cayuses | Cayuses | Walla Walla | 1847 | 26 | Discours d'Ogden aux chefs et leurs réponses sur les causes du massacre de Whitman.
+= Cinq chefs pendus | Cayuses | Oregon City | 1850 | 181 | Pendus à Oregon City comme instigateurs du massacre de Whitman.
+= Fils du chef scaadchet | Autochtones (nation non précisée) | Fraser River | 1824 | 215 | Engagé comme guide et interprète de l'expédition ; le chef déserte de nuit.
+= Chef des Cahotitt | Autochtones (nation non précisée) | Fraser River | 1824 | 222 | Principal chef de la tribu, avec un second chef, rencontré dans quatre canots.
+Yugher | Autochtones (nation non précisée) | Oak Point | 1824 | 232 | Chef du village d'Oak Point.
+Keisno | Autochtones (nation non précisée) | Oak Point | 1824 | 233 | Le plus haut chef du fleuve, campé près de Tawallish.

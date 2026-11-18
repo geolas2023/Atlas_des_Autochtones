@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. VII (1916)
+# ref: The Washington Historical Quarterly, vol. VII (1916), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor07wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor07wash/mode/1up?q={q}
+# Pages approximatives.
+Garry | Spokanes | Spokane House | 1853 | 9 | Chef spokane que le gouverneur Stevens et McClellan accompagnent depuis la mission de Tshimakain.
+Leschi | Nisquallys | Nisqually | 184X | 44 | Chef nisqually, de mère yakima, plus combatif que ses gens ; souvent en visite chez les colons.
+Quiemuth | Nisquallys | Nisqually | 184X | 44 | Frère de Leschi, chef.
+Pat Kanim | Snoqualmies et Snohomishs | Olympia (Washington) | 1849 | 44 | Chef des Snoqualmies ; débarque à Olympia avec une flotte de canots de guerre.
+= Chef oh-qua-mish | Autochtones (nation non précisée) | Nisqually | 1834 | 74 | Perd un fils (journal de Nisqually).
+Saltese | Schitsu'umsh (Cœurs d'Alène) | Mission du Sacré-Cœur (Cataldo) | 1854 | 195 | Chef du camp des Cœurs d'Alène.

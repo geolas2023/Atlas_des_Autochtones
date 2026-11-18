@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. VIII (1917)
+# ref: The Washington Historical Quarterly, vol. VIII (1917), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor08wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor08wash/mode/1up?q={q}
+# Pages approximatives.
+= Chef principal des Walla Wallas | Walla Wallas | Walla Walla | 1847 | 26 | Accompagne et traite bien les voyageurs, monté sur un grand rouan américain.
+Owhi | Yakamas | Yakima (comté, Washington) | 1847 | 26 | Chef propriétaire du beau site de la vallée de la Wenas.
+Joseph | Nimíipuu (Nez-Percés) | Lapwai | 1847 | 66 | Chef des Nez-Percés (mission Spalding).
+= Grands chefs au conseil | Yakamas ; Nimíipuu (Nez-Percés) ; Walla Wallas ; Cayuses | Walla Walla | 1855 | 95 | Convoqués par le gouverneur Stevens (récit du chef Sluskin).
+Kamiakin | Yakamas | Walla Walla | 1855 | 228 | Chef principal des Yakimas, à la tête de l'opposition aux Américains.
