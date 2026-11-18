@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Goodrich, History of Anoka County (1905)
+# ref: Albert M. Goodrich, History of Anoka County and the Towns of Champlin and Dayton in Hennepin County, Minnesota, Minneapolis, Hennepin Publishing Co., 1905
+# lien: https://archive.org/details/historyofanokaco00good/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofanokaco00good/mode/1up?q={q}
+# Pages approximatives.
+Trois Ojibwés du bac de la Rum | Anishinaabés (Ojibwés, Saulteux) | Anoka (Minnesota) | 1850 | 46 | À l'automne, trois Ojibwés ivres refusent de payer le passage sur le bac d'Antoine Robert; l'un d'eux, qui le menace, est tué d'un coup de pagaie, les deux autres gagnent la rive à la nage près d'un grand campement.
+Marche entre Dakotas et Ojibwés | Sioux (Dakotas, Lakotas, Nakotas); Anishinaabés (Ojibwés, Saulteux) | Centerville (Minnesota) | 1851~ | 88 | Les ruisseaux Coon et Rice, où chassent Pierre Bottineau et Henry C. Miller, forment une zone frontière giboyeuse entre les deux grandes nations.
