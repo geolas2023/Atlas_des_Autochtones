@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Dugas, La première Canadienne du Nord-Ouest (1883)
+# ref: Dugas, Georges (1883), La première Canadienne du Nord-Ouest, ou biographie de Marie-Anne Gaboury, Montréal, Librairie Saint-Joseph
+# lien: https://archive.org/details/lapremirecanadi00duga/page/{page}/mode/1up
+# recherche: https://archive.org/details/lapremirecanadi00duga/mode/1up?q={q}
+# Pages approximatives.
+= Chef assiniboine | Assiniboines (Nakodas) | Fort Augustus | 1810 | 64 | Il offre à Mme Lagimodière son plus beau cheval en échange de son enfant de deux ans.

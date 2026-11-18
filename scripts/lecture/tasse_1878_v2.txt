@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Tassé, Les Canadiens de l'Ouest, t. I (1878)
+# ref: Tassé, Joseph (1878), Les Canadiens de l'Ouest, Montréal, Compagnie d'imprimerie canadienne, 2 tomes
+# lien: https://archive.org/details/lescanadiensdelo01tassuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/lescanadiensdelo01tassuoft/mode/1up?q={q}
+# Pages approximatives.
+Nissaouakouad (La Fourche) | Odawas (Outaouais) | Michilimackinac | 1727 | 5 | Chef principal des Outaouais, dont la sœur Domitilde épouse Augustin Langlade.
+Nissaouakouad (La Fourche) | Odawas (Outaouais) | Michilimackinac | 1736 | 5 | Le grand chef voit en songe que l'ennemi sera mis en déroute si le jeune Charles Langlade accompagne l'expédition.
+Souligny | Menominees (Folles-Avoines) | Green Bay | 1745 | 8 | Chef menomini, appelé « M. de Souligny » par les Canadiens, établi auprès des Langlade.
+Tepakénéni | Menominees (Folles-Avoines) | Village des Folles-Avoines (Menominee) | 1745 | 8 | Chef d'une tribu à quelques milles de là, qui menace parfois de piller les magasins de Langlade pour obtenir des présents.
+Matchékoui | Anishinaabés (Ojibwés, Saulteux) | Michilimackinac | 1763 | 46-47 | Chef farouche, renommé pour sa bravoure, que De Peyster tient pour le véritable chef du complot contre le fort.

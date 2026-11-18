@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Houck, A History of Missouri, vol. III (1908)
+# ref: Houck, Louis (1908), A History of Missouri from the Earliest Explorations and Settlements until the Admission of the State into the Union, Chicago, R. R. Donnelley, vol. 3
+# lien: https://archive.org/details/historyofmissour03houc/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofmissour03houc/mode/1up?q={q}
+# Pages approximatives.
+Nessotinaineg | Sauks | Loutre Island | 1810 | 99 | Chef de guerre qui vole des chevaux aux colons de Loutre Island, ce qui provoque la levée d'une compagnie de volontaires.
+LaBurdash (l'Efféminé) | Mesquakies (Renards) | Sink-hole (Cap au Gris) | 1816 | 135 | Chef renard qui affirme en 1816 avoir commandé au combat du Sink-hole.

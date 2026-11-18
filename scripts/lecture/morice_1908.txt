@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Morice, Dictionnaire historique des Canadiens et des Métis français de l'Ouest (1908)
+# ref: Morice, Adrien-Gabriel (1908), Dictionnaire historique des Canadiens et des Métis français de l'Ouest, Québec, J.-P. Garneau
+# lien: https://archive.org/details/dictionnairehist00mori/page/{page}/mode/1up
+# recherche: https://archive.org/details/dictionnairehist00mori/mode/1up?q={q}
+# Pages approximatives.
+Le Borgne | Gros-Ventres (Aaniiih) | Villages de la Knife | 1805 | 163 | Chef des Hidatsas qui explique au chef des Corbeaux le sens de la poignée de main que lui tend Larocque.
+Veau Rouge | Crows (Apsáalooke) | Villages de la Knife | 1805 | 163 | Chef des Corbeaux nouveaux venus, qui présente les deux mains à Larocque, accepte qu'il les accompagne jusqu'aux Rocheuses et l'adopte comme son père.
+François Beaulieu | Métis; Dénés (Porteurs, Sékanis, Chipewyans) | Rivière au Sel | 1872-11 | 15 | Chef d'une bande de Couteaux-Jaunes, établi depuis longtemps à la rivière au Sel, où il meurt en novembre 1872.

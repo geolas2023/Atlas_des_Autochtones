@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Larpenteur, Forty Years a Fur Trader on the Upper Missouri, vol. I (1898)
+# ref: Larpenteur, Charles (1898), Forty Years a Fur Trader on the Upper Missouri, éd. Elliott Coues, New York, F. P. Harper, 2 vol.
+# lien: https://archive.org/details/fortyyearsfurtra01larpiala/page/{page}/mode/1up
+# recherche: https://archive.org/details/fortyyearsfurtra01larpiala/mode/1up?q={q}
+# Pages approximatives.
+Gauche (Tchatka, Left Hand) | Assiniboines (Nakodas) | Fort Union | 183X | 55 | Grand chef des Assiniboines, terreur des tribus voisines, qui vient traiter avec deux cents robes ; il refuse de suivre l'interprète du fort Union, « le plus grand menteur du pays ».
+Co-han (Gauche) | Assiniboines (Nakodas) | Fort Union | 1837 | 133 | Le célèbre vieux chef arrive avec une quarantaine des siens en pleine épidémie de petite vérole.
+Wan-hee-manza (Pointe de flèche en fer) | Assiniboines (Nakodas) | Fort Union | 1832 | 409 | Chef de la bande des Roches, père de l'Assiniboine qui alla à Washington.

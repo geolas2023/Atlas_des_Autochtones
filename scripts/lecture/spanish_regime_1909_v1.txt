@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Houck, The Spanish Regime in Missouri, vol. I (1909)
+# ref: Houck, Louis (1909), The Spanish Regime in Missouri: A Collection of Papers and Documents Relating to Upper Louisiana, Chicago, R. R. Donnelley, vol. 1
+# lien: https://archive.org/details/spanishregimeinm01houc/page/{page}/mode/1up
+# recherche: https://archive.org/details/spanishregimeinm01houc/mode/1up?q={q}
+# Pages approximatives.
+= Chefs sauks et renards | Sauks; Mesquakies (Renards); Otoes-Missourias; Osages | Saint-Louis | 1777 | 135 | Les deux chefs font dire qu'ils ne rendent pas les prisonniers, les Missouris et les Petits Osages voulant venir les chercher eux-mêmes pour sceller la paix.
+Balafré | Osages | Saint-Louis | 1777 | 142 | Chef principal des Petits Osages selon le recensement espagnol des tribus du Missouri.
+Brucaigais | Autochtones (nation non précisée); Caddos et Hasinais | Natchitoches | 1787 | 254 | Chef qui, pour amener le Caddo à la paix, lui rappelle que son père a été tué par lui ou les siens presque à la porte de sa cabane.

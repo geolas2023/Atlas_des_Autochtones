@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Billon, Annals of St. Louis in its Early Days (1886)
+# ref: Billon, Frederic L. (1886), Annals of St. Louis in its Early Days under the French and Spanish Dominations, Saint-Louis
+# lien: https://archive.org/details/cihm_00427/page/{page}/mode/1up
+# recherche: https://archive.org/details/cihm_00427/mode/1up?q={q}
+# Pages approximatives.
+Charley | Kickapous | Saint-Louis | 1780 | 192 | Interprète autochtone, fils du chef kickapou le Loup.

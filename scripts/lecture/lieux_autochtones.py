@@ -180,4 +180,6 @@ L = {
     'Réserve de Port Madison (Washington)': (-122.55, 47.73, 'a', 'Réserve de Port Madison (Suquamish, Washington)'),
     'Gull River (lac Nipigon)': (-88.9, 49.4, 'h', 'Gull River, près du lac Nipigon (Ontario)'),
     'Sandy Hills (Saskatchewan)': (-106.5, 51.2, 'h', 'Sandy Hills, près de la branche sud de la Saskatchewan'),
+    'Clarksville (Missouri)': (-90.9, 39.37, 'c', 'Clarksville (Missouri)'),
+    'Rivière Saint-François (Missouri)': (-90.3, 37.0, 'h', 'Rivière Saint-François (Missouri)'),
 }
