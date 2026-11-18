@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · Bancroft, History of Utah (1889)
+# ref: H. H. Bancroft, History of Utah, 1540-1886, San Francisco, The History Company, 1889
+# lien: https://archive.org/details/historyofutah00bancrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofutah00bancrich/mode/1up?q={q}
+# Pages approximatives.
+= Chef des Delawares | Lenapes (Delawares, Loups) | Réserve delaware (Kansas) | 1831 | 79 | Sachem de dix tribus, il accepte d'entendre les missionnaires mormons ; Cowdery lui laisse un exemplaire du Livre de Mormon.
+Pied Riche | Potawatomis | Council Bluffs (Iowa) | 1846 | 235 | Chef potawatomi qui rappelle aux Mormons que son peuple, chassé de son beau pays, est arrivé triste et las dans ces terres basses du Missouri.
+Big Elk (Grand Élan) | Omahas | Cutler's Park (Nebraska) | 1846 | 235 | Chef des Omahas, d'accord pour que les Mormons s'arrêtent dans son pays mais inquiet du Grand Père de Washington.
+Walker (Wakara) | Utes | Salt Lake City | 1848-09 | 294 | Chef ute en visite à la ville avec Soweite, chef des Utahs, et plusieurs centaines de personnes.
+Soweite | Utes | Salt Lake City | 1848-09 | 294 | Chef des Utahs qui accompagne Walker.
+Walker (Wakara) | Utes | Salt Lake City | 1849-06-14 | 313 | Présent avec douze des siens au conseil de Salt Lake City.
+Kanosh | Utes | Nephi (Utah) | 1854 | 493 | Chef jugé à Nephi avec sept autres accusés ; le jury ne retient l'homicide involontaire que contre trois d'entre eux.
+Touche | Paiutes | Mountain Meadows (Utah) | 1857 | 560 | Chef paiute, vivant plus tard sur la Virgin, témoin des ordres relatifs au massacre des émigrants.

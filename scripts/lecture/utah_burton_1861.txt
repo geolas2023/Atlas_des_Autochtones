@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Burton, The City of the Saints (1861)
+# ref: R. F. Burton, The City of the Saints, and Across the Rocky Mountains to California, Londres, Longman, Green, 1861
+# lien: https://archive.org/details/cityofsaintsacro00burtuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/cityofsaintsacro00burtuoft/mode/1up?q={q}
+# Pages approximatives.
+Little Thunder (Petit Tonnerre) | Sioux (Dakotas, Lakotas, Nakotas) | Ash Hollow | 1855 | 70, 89 | Chef des Brûlés qui veut parlementer ; Harney charge, tue cent cinquante des siens et capture soixante femmes et enfants.

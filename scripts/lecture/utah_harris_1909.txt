@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Harris, The Catholic Church in Utah (1909)
+# ref: W. R. Harris, The Catholic Church in Utah, Salt Lake City, Intermountain Catholic Press, 1909
+# lien: https://archive.org/details/catholicchurchin0000harr_k0t3/page/{page}/mode/1up
+# recherche: https://archive.org/details/catholicchurchin0000harr_k0t3/mode/1up?q={q}
+# Pages approximatives.
+Turuñianchi | Utes | Utah Lake | 1776-09 | 179, 182 | Grand chef des Timpanogos figuré, le plus couvert de sang pour ses blessures contre les Comanches, sur le signe peint remis aux PP. Domínguez et Escalante.
+Cuitzapununchi | Utes | Utah Lake | 1776-09 | 182 | Second chef figuré sur le même signe peint.
+Panchuecumquibiran (Silvestre) | Utes | Utah Lake | 1776-09 | 182 | Guide des pères, « porte-parole » et frère du grand chef, troisième figure du signe.

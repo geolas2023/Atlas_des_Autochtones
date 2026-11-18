@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Stansbury, Exploration and Survey of the Valley of the Great Salt Lake (1852)
+# ref: H. Stansbury, Exploration and Survey of the Valley of the Great Salt Lake of Utah, Philadelphie, Lippincott, Grambo, 1852 (éd. 1853)
+# lien: https://archive.org/details/explorationsurve001853stan/page/{page}/mode/1up
+# recherche: https://archive.org/details/explorationsurve001853stan/mode/1up?q={q}
+# Pages approximatives.
+Buffalo Dung (Bouse de bison) | Sioux (Dakotas, Lakotas, Nakotas) | North Platte (haute) | 1850 | 253 | Chef principal du village sioux, qui présente des certificats de bonne conduite de Fort Laramie et invite Stansbury.
+Iron Heart (Cœur de fer) | Sioux (Dakotas, Lakotas, Nakotas) | North Platte (haute) | 1850 | 254 | Chef qui reçoit les voyageurs à festin dans la plus grande loge du village.
+= Vieux chef cheyenne | Cheyennes | North Platte (haute) | 1850 | 253 | Seul Cheyenne parmi les Sioux, vêtu d'une tunique de major d'artillerie boutonnée jusqu'au cou.

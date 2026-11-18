@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Clark, The Beginnings of Texas (1907)
+# ref: Robert Carlton Clark, The Beginnings of Texas, 1684-1718, Austin, University of Texas, 1907
+# lien: https://archive.org/details/beginningsoftexa00clar/page/{page}/mode/1up
+# recherche: https://archive.org/details/beginningsoftexa00clar/mode/1up?q={q}
+# Pages approximatives.
+= Chef des Jumanos | Coahuiltèques et peuples du Texas | El Paso | 1683 | s. p. | Envoie un messager à El Paso demander des missionnaires et vanter les Tejas.
+= Chef des Nabedoches | Caddos et Hasinais | Fort Saint-Louis (Texas) | 1689-05-03 | s. p. | Ramené par León jusqu'à la Guadalupe ; il accepte que des prêtres viennent dans son village et repart le 3 mai.
+= Grand chef des Tejas | Caddos et Hasinais | Villages tejas (Hasinai) | 1693 | s. p. | Annonce au P. Massanet que les Autochtones, las des Espagnols, sont résolus à les chasser.
+= Chef des Tonicas | Tunicas | Village des Tunicas | 1713 | s. p. | Saint-Denis l'engage à accompagner l'expédition vers l'ouest avec plusieurs des siens.

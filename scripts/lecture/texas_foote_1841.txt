@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Foote, Texas and the Texans (1841)
+# ref: Henry Stuart Foote, Texas and the Texans, 2 vol., Philadelphie, Thomas, Cowperthwait & Co., 1841
+# lien: https://archive.org/details/texastexansoradv01foot/page/{page}/mode/1up
+# recherche: https://archive.org/details/texastexansoradv01foot/mode/1up?q={q}
+# Pages approximatives.
+Richard Fields | Cherokees; Métis | Nacogdoches | 1826-12-20 | 238-254 | Célèbre chef cherokee qui avait vainement sollicité une concession à Mexico ; il revient à Nacogdoches avec Hunter et d'autres chefs pour traiter avec les Frédoniens.
+John Dunn Hunter | Cherokees; Métis | Nacogdoches | 1826-12-20 | 253 | Rentre à Nacogdoches avec Fields et divers chefs pour conclure le traité frédonien.

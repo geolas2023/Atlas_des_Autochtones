@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Salpointe, Soldiers of the Cross (1898)
+# ref: J. B. Salpointe, Soldiers of the Cross: Notes on the Ecclesiastical History of New-Mexico, Arizona and Colorado, Banning, St. Boniface's Industrial School, 1898
+# lien: https://archive.org/details/soldiersofcrossn00salp/page/{page}/mode/1up
+# recherche: https://archive.org/details/soldiersofcrossn00salp/mode/1up?q={q}
+# Pages approximatives.
+Bolsas | Pueblos | Santa Fe | 1693 | s. p. | Chef des rebelles retranchés, à qui Vargas conseille de se soumettre.
+Antonio Azul | Pimas et Tohono O'odham | Villages pimas (Sacaton, Arizona) | 1866 | s. p. | Chef pima de grande autorité qui demande instamment un prêtre au missionnaire de l'Arizona.
