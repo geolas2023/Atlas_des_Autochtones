@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. XI (1920)
+# ref: The Washington Historical Quarterly, vol. XI (1920), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor11wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor11wash/mode/1up?q={q}
+# Pages approximatives.
+Cow | Autochtones (nation non précisée) | Haida Gwaii (îles de la Reine-Charlotte) | 179X | 9 | Chef haïda reconnu par deux marins d'Ingraham ; dédaigne les marchandises, déjà obtenues d'autres capitaines.
+Cunneyah | Autochtones (nation non précisée) | Haida Gwaii (îles de la Reine-Charlotte) | 179X | 22 | Vieux chef voisin, invité à bord.
+Skidegate | Autochtones (nation non précisée) | Haida Gwaii (îles de la Reine-Charlotte) | 179X | 22 | Chef arrivé avec dix grands canots et quelque deux cent cinquante hommes armés pour la guerre.

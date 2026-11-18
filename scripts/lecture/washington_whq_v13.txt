@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. XIII (1922)
+# ref: The Washington Historical Quarterly, vol. XIII (1922), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor13wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor13wash/mode/1up?q={q}
+# Pages approximatives.
+Utramaka | Autochtones (nation non précisée) | Neah Bay (Washington) | 1809 | 30 | Chef qui emmène le Russe Tarakanov captif à ses quartiers d'hiver près du cap Flattery.
+= Chef pris en otage | Autochtones (nation non précisée) | Neah Bay (Washington) | 1811 | 30 | Saisi par le capitaine Brown jusqu'à la remise des derniers captifs russes.
+Seattle | Autochtones (nation non précisée) | Nisqually | 183X | 44 | Chef des Suquamish, successeur de son père Schweabe, souvent cité dans le journal de Nisqually.
+Illim-spokanee | Spokanes | Spokane House | 1812 | 213 | Chef principal des Spokanes rencontré par Ross Cox (« fils du soleil »).

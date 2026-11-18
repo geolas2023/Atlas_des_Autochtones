@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Blackmar, Kansas: A Cyclopedia, vol. III, 2e partie (1912)
+# ref: Frank W. Blackmar (éd.), Kansas: A Cyclopedia of State History, Chicago, Standard Publishing Company, 1912, vol. III, 2e partie
+# lien: https://archive.org/details/kansascyclopedia32blac/page/{page}/mode/1up
+# recherche: https://archive.org/details/kansascyclopedia32blac/mode/1up?q={q}
+# Pages approximatives.
+Black Kettle | Cheyennes | Washita (Oklahoma) | 1868 | s. p. | Célèbre chef cheyenne visé par le raid de Custer.

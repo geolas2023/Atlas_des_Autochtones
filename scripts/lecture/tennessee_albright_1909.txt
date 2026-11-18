@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Albright, Early History of Middle Tennessee (1909)
+# ref: Edward Albright, Early History of Middle Tennessee, Nashville, Brandon Printing Company, 1909
+# lien: https://archive.org/details/earlyhistoryofmi00albr/page/{page}/mode/1up
+# recherche: https://archive.org/details/earlyhistoryofmi00albr/mode/1up?q={q}
+# Pages approximatives.
+Piomingo (Mountain Leader) | Chickasaws (Chicachas) | Bledsoe's Lick (Tennessee) | 1788 | 10 | Célèbre chef chickasaw, ami des Blancs, venu de son village près de Memphis ; raconte l'expulsion des Shawnees.
+Oconostota | Cherokees | Sycamore Shoals (Tennessee) | 1775 | 39 | Signe le traité avec The Raven et The Carpenter ; prédit des difficultés aux colons.
+Hanging Maw | Cherokees | Bledsoe's Lick (Tennessee) | 1786 | 117 | Chef cherokee à la tête d'une soixantaine de guerriers qui attaquent le camp de John Peyton.
+= Chefs des quatre nations | Cherokees ; Muscogees (Creeks) ; Choctaws (Chactas) ; Chickasaws (Chicachas) | Nashville (Tennessee) | 1783 | s. p. | Grand conseil avec les colons du Cumberland.

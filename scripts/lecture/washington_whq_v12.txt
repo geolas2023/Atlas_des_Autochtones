@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. XII (1921)
+# ref: The Washington Historical Quarterly, vol. XII (1921), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor12wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor12wash/mode/1up?q={q}
+# Pages approximatives.
+Hannah (Cleaskinah) | Autochtones (nation non précisée) | Baie de Clayoquot (île de Vancouver) | 1791 | 8 | Chef du village d'Ahousat, monte à bord, amical ; avait pris le nom du capitaine James Hanna.
+Wickananish | Autochtones (nation non précisée) | Baie de Clayoquot (île de Vancouver) | 1792 | 20 | Chef guerrier d'Opitsatah, le plus puissant vu sur la côte.
+= Chef de l'île Tatoosh | Autochtones (nation non précisée) | Île Tatoosh (cap Flattery) | 179X | 11 | Offre de vendre de jeunes enfants pris à la guerre.
+Cumswah (Cumshewa) | Autochtones (nation non précisée) | Haida Gwaii (îles de la Reine-Charlotte) | 179X | 13 | Chef haïda qui apporte de belles peaux de loutre.
+Polack | Chinooks | Chinook (Washington) | 1792 | 34 | Chef du village chinook en face duquel mouille le navire de Gray.
+Skamakewea | Autochtones (nation non précisée) | Cathlamet (Washington) | 1841 | 119 | Chef propriétaire de la grande maison palissadée de Waikaikum (expédition Wilkes).
