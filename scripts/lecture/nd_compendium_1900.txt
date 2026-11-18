@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Compendium of History and Biography of North Dakota (1900)
+# ref: Compendium of History and Biography of North Dakota, Chicago, George A. Ogle & Co., 1900
+# lien: https://archive.org/details/compendiumhistor00chic/page/{page}/mode/1up
+# recherche: https://archive.org/details/compendiumhistor00chic/mode/1up?q={q}
+= Autochtones de Pembina | Anishinaabés; Métis | Pembina | 1840 | s. p. | L'abbé Georges-Antoine Belcourt, missionnaire chez les Autochtones au nord de la frontière depuis neuf ans, bâtit une église au confluent de la rivière Rouge et de la Pembina.
+Little Six (Shakopee), Medicine Bottle | Sioux | Fort Pembina (Dakota du Nord) | 1864-01 | 1002 | Après la guerre dakota de 1862, les chefs Little Six (Shakopee) et Medicine Bottle, réfugiés au fort Garry, sont ramenés en état d'arrestation aux États-Unis par l'expédition du général Hatch.
+= Métis de Walhalla | Métis | Walhalla (Dakota du Nord) | 1859 | s. p. | La famille Alager, en route vers le fort Garry par les montagnes de Pembina, traverse Walhalla, alors peuplée de Métis et réputée pour sa beauté.
+= Élèves métis de Turtle Mountain | Métis; Anishinaabés | Belcourt (Dakota du Nord) | 1890 | 1406 | Le père Malo fonde à la mission Sainte-Anne l'école-pensionnat Sainte-Marie pour les enfants métis et autochtones, grâce à un don de 10 000 $ de Catherine McAuley.
+= Chinooks | Chinooks | Saint-Paul (Oregon) | 1859 | 1406 | Le père Jean-F. Malo, envoyé en Oregon, travaille dix ans chez les Chinooks et les quelques colons établis sur leurs terres.
