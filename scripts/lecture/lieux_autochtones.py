@@ -242,4 +242,6 @@ L = {
     'White Stone Hill (Dakota du Nord)': (-98.85, 46.17, 'h', 'White Stone Hill (Dakota du Nord)'),
     'Coteau des Prairies': (-97.2, 45.0, 'c', 'Coteau des Prairies'),
     'Bordache Creek (Dakota du Nord)': (-100.55, 46.3, 'c', 'Bordache ou Bourbeuse Creek (Dakota du Nord)'),
+    'Elm River (comté de Brown, Dakota du Sud)': (-98.6, 45.75, 'c', 'Elm River (comté de Brown, Dakota du Sud)'),
+    "Beaver Creek (comté d'Emmons, Dakota du Nord)": (-100.55, 46.3, 'c', "Beaver Creek (comté d'Emmons, Dakota du Nord)"),
 }

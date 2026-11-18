@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · Robinson, A Brief History of South Dakota (1905)
+# ref: Doane Robinson, A Brief History of South Dakota, New York, American Book Company, 1905
+# lien: https://archive.org/details/briefhistoryofso00robi/page/{page}/mode/1up
+# recherche: https://archive.org/details/briefhistoryofso00robi/mode/1up?q={q}
+# Pages approximatives.
+= Shake Hand, White Crane et Struck by the Pawnee | Sioux (Dakotas, Lakotas, Nakotas) | Calumet Bluff (Nebraska) | 1804 | 34 | Principaux chefs yanktons rencontrés par Lewis et Clark ; Shake Hand est appelé « le Libérateur » par les Français.
+= Red Thunder et Waneta | Sioux (Dakotas, Lakotas, Nakotas) | Elm River (comté de Brown, Dakota du Sud) | 1812 | 216 | Chef yanktonais (Flathead) de l'Elm River qui, avec son fils Waneta et vingt-deux Sissetons, s'enrôle au service des Anglais.
+Black Buffalo | Sioux (Dakotas, Lakotas, Nakotas) | Portage des Sioux | 1815-07-14 | 216 | Chef teton mort à Portage des Sioux lors du traité d'amitié, inhumé avec les honneurs militaires.
+Wamdesapa | Sioux (Dakotas, Lakotas, Nakotas) | Vermillion (Dakota du Sud) | 1825 | 217 | Chef wahpekute qui tue son frère Tasagi, est chassé de sa tribu et s'établit sur la rivière Vermillion.
+Inkpaduta | Sioux (Dakotas, Lakotas, Nakotas) | Vermillion (Dakota du Sud) | 1849 | 218 | Fils du renégat Wamdesapa, massacre son cousin Wamundiyakapi et dix-sept autres Wahpekutes.
+Inkpaduta | Sioux (Dakotas, Lakotas, Nakotas) | Spirit Lake (Iowa) | 1857 | 218 | Massacre quarante-deux colons à Spirit Lake puis se retire au Dakota du Sud avec trois captives.
+Smutty Bear | Sioux (Dakotas, Lakotas, Nakotas) | Medary (Dakota du Sud) | 1858 | 219 | Chef yankton qui détruit l'établissement de Medary.
+= Jeunes Sioux sauveteurs des captives | Sioux (Dakotas, Lakotas, Nakotas) | Fort Pierre | 1862~ | 128 | Jeunes Sioux qui ramènent des captives blanches jusqu'à Fort Pierre, échangeant en route leurs fusils contre un cheval et une charrette avec des Yanktonais.
