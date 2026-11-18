@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Prosser, A History of the Puget Sound Country (1903)
+# ref: Prosser, W. F., A History of the Puget Sound Country, 2 vol., Lewis Publishing Co., 1903 (archive.org : historyofpugetso01pros, historyofpugetso02pros)
+# lien: https://archive.org/details/historyofpugetso01pros/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofpugetso01pros/mode/1up?q={q}
+# Pages approximatives.
+Suc-quardle (Curley) | Snoqualmies et Snohomishs | Seattle | 1855 | 105 | Chef héréditaire qui se soumet à Seattle et vit en bons termes avec les « Bostons ».
+= Owhi, Leschi et Coquilton | Yakamas; Nisquallys | Seattle | 1856-01-26 | 172 | Chefs réunis avec Tecumseh, Curley, Yark-eke-e-man et d'autres pour arrêter le plan d'attaque de Seattle.

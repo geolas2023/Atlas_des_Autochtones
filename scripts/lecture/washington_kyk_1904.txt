@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · An Illustrated History of Klickitat, Yakima and Kittitas Counties (1904)
+# ref: An Illustrated History of Klickitat, Yakima and Kittitas Counties, Interstate Publishing Co., 1904 (archive.org : illustratedhistorkykc00inte)
+# lien: https://archive.org/details/illustratedhistorkykc00inte/page/{page}/mode/1up
+# recherche: https://archive.org/details/illustratedhistorkykc00inte/mode/1up?q={q}
+# Pages approximatives.
+Patkanim | Snoqualmies et Snohomishs | Île Whidbey | 1848 | 57 | Chef des Snoqualmies qui réunit un conseil où les Autochtones décident de ne pas laisser les colons s'établir sur l'île.

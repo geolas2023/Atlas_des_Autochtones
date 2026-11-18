@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Durham, History of the City of Spokane and Spokane Country (1912)
+# ref: Durham, N. W., History of the City of Spokane and Spokane Country, 3 vol., S. J. Clarke, 1912 (archive.org : historyofcityofs01durh, historyofcityofs02indurh, historyofcityofs03durh)
+# lien: https://archive.org/details/historyofcityofs01durh/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofcityofs01durh/mode/1up?q={q}
+# Pages approximatives.
+Wi-ti-my-hoy-she | Palouses | Embouchure de la Palouse (Washington) | 1805 | 163 | Chef palouse qui montre plus tard une médaille de Jefferson datée de 1801, donnée à son grand-père par Lewis et Clark à leur passage.

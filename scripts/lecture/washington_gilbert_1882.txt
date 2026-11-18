@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Gilbert, Historic Sketches of Walla Walla, Whitman, Columbia and Garfield Counties (1882)
+# ref: Gilbert, F. T., Historic Sketches of Walla Walla, Whitman, Columbia and Garfield Counties, W. T., and Umatilla County, Oregon, Portland, A. G. Walling, 1882 (archive.org : historicsketches00gilb)
+# lien: https://archive.org/details/historicsketches00gilb/page/{page}/mode/1up
+# recherche: https://archive.org/details/historicsketches00gilb/mode/1up?q={q}
+# Pages approximatives.
+We-lap-tu-lekt | Cayuses | Waiilatpu | 184X | 73 | Chef cayuse venu à la mission pour faire instruire sa famille ; deux de ses enfants y meurent et il s'enfuit, épouvanté.
+Timothy | Nimíipuu (Nez-Percés) | Embouchure de l'Alpowa (Washington) | 1858 | 215 | Chef dont la demeure est à l'embouchure de l'Alpowa, sur le chemin de Steptoe ; il y vit encore avec le reste de sa bande.

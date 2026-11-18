@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Lyman, History of Oregon, vol. I (1918)
+# ref: Lyman, W. D., Lyman's History of Old Walla Walla County, 2 vol., Chicago, S. J. Clarke, 1918 (archive.org : lymanshistoryofo01lyma, lymanshistoryofo02lyma)
+# lien: https://archive.org/details/lymanshistoryofo01lyma/page/{page}/mode/1up
+# recherche: https://archive.org/details/lymanshistoryofo01lyma/mode/1up?q={q}
+# Pages approximatives.
+Grey Eagle | Cayuses | Waiilatpu | 1848 | 482 | Chef cayuse hautain qui menace Tom McKay de son fusil ; McKay tire le premier et le tue.

@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Snowden, History of Washington, vol. II (1909)
+# ref: Snowden, Clinton A., History of Washington: the Rise and Progress of an American State, 5 vol., Century History Co., 1909 (archive.org : historyofwashing01snow à 05snow)
+# lien: https://archive.org/details/historyofwashing02snow/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofwashing02snow/mode/1up?q={q}
+# Pages approximatives.
+= Trois chefs têtes-plates à Saint-Louis | Salish (Têtes-Plates); Nimíipuu (Nez-Percés) | Saint-Louis | 1831 | 88 | Malades dans la maison de Clark, l'un des quatre venait de mourir.
+Five Crows (Cinq Corneilles) | Cayuses | Waiilatpu | 1842 | 256 | Nommé chef des Cayuses après la démission impopulaire du chef désigné par White.

@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Edwards, An Illustrated History of Spokane County (1900)
+# ref: Edwards, J., An Illustrated History of Spokane County, State of Washington, W. H. Lever, 1900 (archive.org : illustratedhisto00edwa)
+# lien: https://archive.org/details/illustratedhisto00edwa/page/{page}/mode/1up
+# recherche: https://archive.org/details/illustratedhisto00edwa/mode/1up?q={q}
+# Pages approximatives.
+Illum-Spokanee (Fils du Soleil) | Spokanes | Spokane House | 1814 | s. p. | Chef des Spokanes, vieillard inoffensif selon Ross Cox.

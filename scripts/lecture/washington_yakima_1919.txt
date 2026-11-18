@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Lyman, History of the Yakima Valley (1919)
+# ref: Lyman, W. D., History of the Yakima Valley, Washington, Comprising Yakima, Kittitas and Benton Counties, 2 vol., S. J. Clarke, 1919 (archive.org : historyofyakimav01lyma, historyofyakimav02lyma)
+# lien: https://archive.org/details/historyofyakimav01lyma/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofyakimav01lyma/mode/1up?q={q}
+# Pages approximatives.
+Kamiakin | Yakamas | Walla Walla | 1854 | 237 | Le chef yakima accepte le projet de conseil et désigne Pasha, ancien lieu de conseil où s'élève aujourd'hui Walla Walla.

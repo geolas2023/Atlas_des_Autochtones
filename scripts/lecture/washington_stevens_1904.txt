@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Steele, An Illustrated History of Stevens, Ferry, Okanogan and Chelan Counties (1904)
+# ref: Steele, R. F. (dir.), An Illustrated History of Stevens, Ferry, Okanogan and Chelan Counties, Spokane, Western Historical Publishing Co., 1904 (archive.org : illustratedhisto00stee)
+# lien: https://archive.org/details/illustratedhisto00stee/page/{page}/mode/1up
+# recherche: https://archive.org/details/illustratedhisto00stee/mode/1up?q={q}
+# Pages approximatives.
+Twisted Hair | Nimíipuu (Nez-Percés) | Clearwater (Idaho) | 1805 | s. p. | Sur une peau d'élan blanc, il trace pour Lewis et Clark une carte du pays à l'ouest.
+Vincent | Schitsu'umsh (Cœurs d'Alène); Palouses | Pine Creek (Rosalia, Washington) | 1858 | 49 | Chef cœur d'alène qui tente de parlementer avec Steptoe avant que les Palouses n'ouvrent le feu.

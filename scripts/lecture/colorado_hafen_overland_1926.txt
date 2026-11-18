@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Hafen, The Overland Mail, 1849-1869 (1926)
+# ref: Hafen, LeRoy R., The Overland Mail, 1849-1869, A. H. Clark, 1926 (archive.org : hafen-overland-mail-1926)
+# lien: https://archive.org/details/hafen-overland-mail-1926/page/{page}/mode/1up
+# recherche: https://archive.org/details/hafen-overland-mail-1926/mode/1up?q={q}
+# Pages approximatives.
+= Sept chefs utes à Camp Weld | Utes | Denver (Colorado) | 1863-02 | 249-250 | Selon le Rocky Mountain News, les chefs logent sous une tente Sibley près du magasin du vivandier de Camp Weld.
+Black Kettle (Chaudron noir) | Cheyennes | Fort Lyon (Colorado) | 1864-08-29 | 261 | Lettre de « Black Kettle et autres chefs » portant une ouverture de paix.
