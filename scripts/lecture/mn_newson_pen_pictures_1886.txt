@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Newson, Pen Pictures of St. Paul, vol. I (1886)
+# ref: T. M. Newson, Pen Pictures of St. Paul, Minnesota, and Biographical Sketches of Old Settlers, vol. I, Saint Paul, publié par l'auteur, 1886
+# lien: https://archive.org/details/penpicturesofstp01news/page/{page}/mode/1up
+# recherche: https://archive.org/details/penpicturesofstp01news/mode/1up?q={q}
+# Pages approximatives.
+Épouse de Joseph Rondo | Métis; Kootenais (Ktunaxa) | Fort Garry | 1827 | 20 | Joseph Rondo, voyageur canadien, épouse une Métisse kootenaie dans la colonie de la rivière Rouge avant de se réfugier à Fort Snelling en 1835.
+Aza-ya-man-ka-wan, « Old Bets » | Sioux (Dakotas, Lakotas, Nakotas) | Saint-Paul (Minnesota) | 1850 | 197 | La « cueilleuse de baies », née près de Mendota en 1788 et épouse d'Iron Sword, devient une figure familière de Saint-Paul; elle meurt à Mendota en 1873.
