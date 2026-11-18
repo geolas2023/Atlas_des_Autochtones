@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Bancroft, History of Washington, Idaho and Montana (1890)
+# ref: Hubert Howe Bancroft, History of Washington, Idaho, and Montana, 1845-1889 (1890)
+# lien: https://archive.org/details/historyofwashing31banc/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofwashing31banc/mode/1up?q={q}
+# Pages approximatives.
+= Seattle, ville nommée d'après un chef | Snoqualmies et Snohomishs | Seattle | 1852 | 22 | Les colons fondent sur la rive est de la baie une ville qu'ils nomment Seattle, d'après un chef de la région.
+Tecumseh | Autochtones (nation non précisée) | Seattle | 1856 | 127 | Chef du district des lacs à l'est de Seattle qui vient en ville avec tout son monde demander protection contre les hostiles.
+Patkanim | Snoqualmies et Snohomishs | Seattle | 1856 | 10, 134 | Chef des Snoqualmies, avec quatre-vingts guerriers snoqualmies et skokomishs aux côtés des Américains, assisté du chef John Taylor.
+= Chefs cayuses | Cayuses | Walla Walla | 1856 | s. p. | Howlish Wampo, Tintinmetse et Stickas représentent les Cayuses au conseil.
+Eagle-from-the-Light | Nimíipuu (Nez-Percés) | Lapwai | 1861 | 482 | Jeune chef ambitieux qui veut succéder au vieux chef de guerre Looking Glass.

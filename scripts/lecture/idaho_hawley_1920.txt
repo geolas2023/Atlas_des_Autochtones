@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Hawley, History of Idaho, vol. I (1920)
+# ref: James H. Hawley (dir.), History of Idaho: The Gem of the Mountains, vol. 1 (1920)
+# lien: https://archive.org/details/historyofidahoge01hawl/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofidahoge01hawl/mode/1up?q={q}
+# Pages approximatives.
+Cameahwait | Shoshones | Vallée de la Lemhi | 1805-08-17 | 56 | Sacagawea, interprète au conseil, reconnaît dans ce chef shoshone son frère, perdu de vue depuis cinq ans.
+= Joseph, Eagle-of-the-Light et Big Thunder | Nimíipuu (Nez-Percés) | Lapwai | 1863 | 523 | Opposés à un nouveau traité, les trois chefs se présentent à la conférence avec environ douze cents guerriers.
+Hein-mot Hi-hi (White Thunder, Yellow Wolf) | Nimíipuu (Nez-Percés) | Vallée de la Wallowa (Oregon) | 1877 | 524 | Neveu de Joseph et l'un de ses guerriers et éclaireurs les plus sûrs ; élu plus tard chef du reste de la bande à Colville.
+Too-Lah | Nimíipuu (Nez-Percés) | Florence (Idaho) | 1877 | 531 | Femme nez-percée amie qui accepte d'aller chercher du secours à Florence, à vingt-cinq milles.

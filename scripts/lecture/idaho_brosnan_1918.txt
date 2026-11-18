@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Brosnan, History of the State of Idaho (1918)
+# ref: Cornelius J. Brosnan, History of the State of Idaho (1918)
+# lien: https://archive.org/details/historyofstateof00bros/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofstateof00bros/mode/1up?q={q}
+# Pages approximatives.
+Cameahwait | Shoshones | Vallée de la Lemhi | 1805-08 | 29 | Chef shoshone qui tient conseil avec Lewis et Clark ; Sacagawea reconnaît en lui son propre frère.
+Twisted-Hair | Nimíipuu (Nez-Percés) | Clearwater (Idaho) | 1805-09 | 33 | Chef nez-percé qui offre l'hospitalité aux explorateurs au Canoe Camp, « toujours gai et sincère » selon Clark.
+Tendoy | Shoshones; Bannocks | Vallée de la Lemhi | 1863 | 25 | Chef shoshone sous la protection duquel se placent des Shoshones, Bannocks et Mangeurs de moutons, connus comme la bande de Tendoy.
+Old Joseph | Nimíipuu (Nez-Percés) | Vallée de la Wallowa (Oregon) | 1863 | 133 | Le vieux Joseph demande au surintendant des Affaires indiennes l'expulsion des intrus.

@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Bartlett, History of Wyoming, vol. I (1918)
+# ref: I. S. Bartlett (dir.), History of Wyoming, vol. 1 (1918)
+# lien: https://archive.org/details/historyofwyoming01bart/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofwyoming01bart/mode/1up?q={q}
+# Pages approximatives.
+Washakie | Shoshones | Fort Bridger | 1857 | 66 | Devient chef principal des Shoshones vers l'âge de quarante ans.
+Washakie | Shoshones | Fort Washakie | 1876 | 66-67 | Reçoit du président Grant un cheval et une selle ; sa réponse sur la reconnaissance qui vient du cœur.
+= Chefs du traité de Fort Laramie | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1868 | 72, 312 | Red Cloud, Medicine Eagle, Black Tiger, Man-Afraid-of-His-Horses et des chefs mineurs signent le traité.
+= Chefs crows | Crows (Apsáalooke) | Fort Laramie | 1868-05-07 | 72-73 | Traité par lequel les Crows cèdent la plus grande partie de leurs terres du Wyoming.
+= Chefs shoshones et bannocks | Shoshones; Bannocks | Fort Bridger | 1868 | 73 | Conseil de Fort Bridger avec les généraux Sherman, Terry, Augur et Harney.
