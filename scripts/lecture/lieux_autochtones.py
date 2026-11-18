@@ -205,4 +205,10 @@ L = {
     'Nequassee (Nikwasi, Caroline du Nord)': (-83.38, 35.18, 'h', 'Nequassee (Nikwasi, Franklin, Caroline du Nord)'),
     "Bledsoe's Lick (Tennessee)": (-86.35, 36.38, 'h', "Bledsoe's Lick (Castalian Springs, Tennessee)"),
     'Milbank Sound (Colombie-Britannique)': (-128.4, 52.3, 'h', 'Milbank Sound (Colombie-Britannique)'),
+    'Warbonnet Creek (Nebraska)': (-103.6, 42.85, 'h', 'Warbonnet Creek (Hat Creek, comté de Sioux, Nebraska)'),
+    'El Morro (Inscription Rock, Nouveau-Mexique)': (-108.35, 35.04, 'h', 'El Morro (Inscription Rock, Nouveau-Mexique)'),
+    'Hardyville (Arizona)': (-114.58, 35.2, 'h', 'Hardyville (Arizona)'),
+    'Monts Cerbat (Arizona)': (-114.15, 35.3, 'h', 'Monts Cerbat (Arizona)'),
+    'Canyon Havasu (Supai, Arizona)': (-112.7, 36.24, 'h', 'Canyon Havasu (Supai, Arizona)'),
+    'Fort Apache (Arizona)': (-109.99, 33.79, 'h', 'Fort Apache (Camp Ord, Arizona)'),
 }

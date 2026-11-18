@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Farish, History of Arizona, vol. 4
+# ref: T. E. Farish, History of Arizona, vol. 4, Phoenix, Filmer Brothers, 1916-1918
+# lien: https://archive.org/details/historyofarizona04faririch/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofarizona04faririch/mode/1up?q={q}
+# Pages approximatives.
+Iretaba | Mojaves | Rivière Colorado (Mohave) | 1864 | 12 | Chef des Mohaves ; sa visite à New York et Washington (1863-1864) l'incite à prôner la paix avec les Blancs.
+= Capitaines mohaves | Mojaves | Rivière Colorado (Mohave) | 1863 | 315 | Iritaba, chef principal ; Quat-ho-co-rowa, son fils ; Mockneal, Moqutta, Tomaspa, Athe-he-malya et Jose Chappo.
+Antonio Azul | Pimas et Tohono O'odham | Villages pimas | 1865 | 96 | Chef pima, premier lieutenant de la compagnie d'Indiens pimas.
+Juan Chiavria | Autochtones (nation non précisée) | Villages pimas | 1865 | 124 | Chef des Maricopas, prêt à fournir cent hommes ; demande à visiter San Francisco.
+Pasqual | Autochtones (nation non précisée) | Fort Yuma | 1866 | 252 | Chef des Yumas.

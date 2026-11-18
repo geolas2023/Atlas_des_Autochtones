@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Farish, History of Arizona, vol. 3
+# ref: T. E. Farish, History of Arizona, vol. 3, Phoenix, Filmer Brothers, 1916-1918
+# lien: https://archive.org/details/historyofarizona03faririch/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofarizona03faririch/mode/1up?q={q}
+# Pages approximatives.
+Nannelity | Navajos (Diné) | El Morro (Inscription Rock, Nouveau-Mexique) | 1863 | 42 | Chef d'une bande navajo qui refuse encore de se soumettre ; vol de chevaux près d'Inscription Rock.
+Iretaba | Mojaves | Rivière Colorado (Mohave) | 186X | 176 | Grand chef des Mohaves, revenu d'une visite au président à Washington.

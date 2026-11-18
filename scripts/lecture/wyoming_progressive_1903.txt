@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Progressive Men of the State of Wyoming (1903)
+# ref: Progressive Men of the State of Wyoming (1903), Chicago, A. W. Bowen & Co.
+# lien: https://archive.org/details/progressivemen00awbo/page/{page}/mode/1up
+# recherche: https://archive.org/details/progressivemen00awbo/mode/1up?q={q}
+# Pages approximatives.
+Yellow Hand | Cheyennes | Warbonnet Creek (Nebraska) | 1876 | 84 | L'un des chefs cheyennes les plus redoutés, tué en combat singulier par le scout.
+Washakie | Shoshones | Fort Washakie | 1900 | 252 | Le « Nestor » indien de la région, ami fidèle du scout Lowe jusqu'à sa mort en 1900.

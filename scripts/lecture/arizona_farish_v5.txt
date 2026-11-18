@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Farish, History of Arizona, vol. 5
+# ref: T. E. Farish, History of Arizona, vol. 5, Phoenix, Filmer Brothers, 1916-1918
+# lien: https://archive.org/details/historyofarizona05faririch/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofarizona05faririch/mode/1up?q={q}
+# Pages approximatives.
+Waba Yuma | Autochtones (nation non précisée) | Hardyville (Arizona) | 1866 | 192 | Chef principal des Hualapais, tué par des Blancs sur la route de Hardyville à Prescott.
+Cherum | Autochtones (nation non précisée) | Monts Cerbat (Arizona) | 1867 | 222 | Chef de guerre de la bande la plus hostile, dans la chaîne Cerbat.
+Red Sleeve (Mangas Coloradas) | Apaches | Santa Rita (Nouveau-Mexique) | 1846 | 226 | Chef apache venu au-devant du général Kearny ; un chef l'exhorte à prendre aussi Chihuahua, Durango et Sonora.
+Pan Coyer | Autochtones (nation non précisée) | Rivière Colorado (Mohave) | 1867 | 244 | Chef principal des Chemehuevis ; signe la paix avec les Mohaves.
+Iretaba | Mojaves | Rivière Colorado (Mohave) | 1867 | 245 | Chef principal des Mohaves, signataire du traité avec les Chemehuevis.
+Pedro | Apaches | Cibecue (Arizona) | 1868 | 324 | Chef des Indiens de White Mountain chez qui des Mexicains vont traiter sur le Cibicu.

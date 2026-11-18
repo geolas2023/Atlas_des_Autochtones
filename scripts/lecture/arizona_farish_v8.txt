@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Farish, History of Arizona, vol. 8
+# ref: T. E. Farish, History of Arizona, vol. 8, Phoenix, Filmer Brothers, 1916-1918
+# lien: https://archive.org/details/historyofarizona08faririch/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofarizona08faririch/mode/1up?q={q}
+# Pages approximatives.
+Es-cah-pah | Apaches | Fort Apache (Arizona) | 1869 | 46 | Chef ; conduit, avec son frère El Diablo, un « parti de paix » au camp du capitaine Barry.
+Es-kim-in-zin | Apaches | Camp Grant (Arizona) | 1871 | 155 | Chef de la bande massacrée à Camp Grant ; premier à demander la paix au poste.
+Es-cet-e-cela | Apaches | Fort Apache (Arizona) | 1871 | 224 | Chef des quelque six cents Apaches pacifiques de White Mountain, qui fuient après le massacre de Camp Grant.
+= Chefs pimas | Pimas et Tohono O'odham | Villages pimas | 1871 | 250 | Antonio Azul, chef principal ; Swa-mas-kor-si et Ki-o-sot (Ki-ki-mi) ; Ki-co-chin-cane (Shu-uk) ; Miguel (Staw-to-nik) ; Candela et d'autres, en conseil le 22 septembre.
