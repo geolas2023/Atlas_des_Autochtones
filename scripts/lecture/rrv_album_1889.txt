@@ -1,0 +1,15 @@
+# corpus: Lecture intégrale · Illustrated Album of Biography, Red River Valley (1889)
+# ref: Illustrated Album of Biography of the Famous Valley of the Red River of the North and the Park Regions, Chicago, Alden, Ogle & Co., 1889
+# lien: https://archive.org/details/illustratedalbum00alde_0/page/{page}/mode/1up
+# recherche: https://archive.org/details/illustratedalbum00alde_0/mode/1up?q={q}
+# Pages d'après la table du livre ; « s. p. » pour l'histoire du Minnesota placée en tête du volume.
+= Sissetons et Wahpetons | Sioux | Traverse des Sioux | 1851-07-23 | s. p. | Traité de Traverse des Sioux : 275 000 dollars doivent être versés à leurs chefs et 30 000 dollars consacrés à des améliorations.
+Inkpaduta (Inkpadutah) | Sioux | Spirit Lake (Iowa) | 1857 | s. p. | Massacre de Spirit Lake ; les « Sioux des annuités » désavouent ce hors-la-loi, mais le gouvernement suspend un temps les annuités.
+= Sioux | Sioux | Manannah (Minnesota) | 1858-11 | s. p. | Une bande de Sioux plante environ vingt-cinq tipis sur le site de la ville de Manannah.
+= Soldiers' Lodge | Sioux | Village de Little Crow (agence sioux inférieure) | 1862-06 | s. p. | Les jeunes hommes et soldats des Sioux inférieurs fondent une société secrète, la « Soldiers' Lodge », pour empêcher les traiteurs de se présenter aux tables de paiement.
+Little Crow | Sioux | Village de Little Crow (agence sioux inférieure) | 1862-08-03 | s. p. | Grand conseil tenu au village de Little Crow, « Indien fermier », deux semaines avant les tueries d'Acton ; il est donné comme l'âme du soulèvement.
+Little Crow | Sioux | Wood Lake (Minnesota) | 1862 | s. p. | Défaite décisive de Little Crow à Wood Lake ; il se retire vers Big Stone Lake avec ceux qui lui restent.
+= Bande wahpeton | Sioux | Camp Release (Minnesota) | 1862 | s. p. | Après Wood Lake, la bande wahpeton se rend et remet au colonel Sibley les captifs, 107 Blancs et 162 Métis ; le lieu prend le nom de Camp Release.
+= Bande de Little Crow | Sioux | Fort Garry | 1863~ | 479 | Hiver 1863-1864 : le capitaine Mix, envoyé de Pembina, confère à Fort Garry avec la bande de Little Crow ; environ 150 d'entre eux se rendent et sont envoyés à Rock Island.
+Pierre Bottineau | Métis | Saint-Paul (Minnesota) | 1841 | 771 | Né en Dakota près de Grand Forks, fils de Charles Bottineau et de Margaret Clear Sky ; guide dès l'enfance, éclaireur du gouvernement et guide de l'expédition Sibley ; prend une terre sur le site de Saint-Paul.
+= Cinq Indiens | Autochtones (nation non précisée) | Otter Tail Lake (Minnesota) | 1871-01 | 500-501 | Cinq Indiens ivres forcent la porte de Mme Laschapelle ; les deux plus jeunes, fils d'une vieille Indienne qu'elle avait secourue, s'interposent et font retirer les autres, puis l'escortent.
