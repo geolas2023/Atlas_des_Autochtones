@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Andreas (1884)
+# ref: Andreas, A. T. (1884), History of Chicago from the Earliest Period to the Present Time, Chicago, vol. 1
+# lien: https://archive.org/details/historyofchicago01andr/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofchicago01andr/mode/1up?q={q}
+# Pages approximatives.
+= Chefs potawatomis | Potawatomis | Chicago | 1833 | 123 | Grand conseil des chefs et principaux à Chicago pour la cession des terres et le déplacement des Indiens.

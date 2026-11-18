@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Contributions Montana I (1876)
+# ref: Contributions to the Historical Society of Montana, vol. 1 (1876)
+# lien: https://archive.org/details/contributionstohvol1hist1876rich/page/{page}/mode/1up
+# recherche: https://archive.org/details/contributionstohvol1hist1876rich/mode/1up?q={q}
+# Pages approximatives.
+Good-woman | Pieds-Noirs (Niitsitapis) | Belly River | 183X | 85 | Chef qui empêche les siens de tuer les Blancs ; ceux-ci hivernent au camp pied-noir de la Belly.
+Red Bear | Crows (Apsáalooke) | Yellowstone | 1863 | 172 | L'un des principaux chefs de la nation crow, porteur d'un certificat.
+Little Dog | Pieds-Noirs (Niitsitapis) | Great Falls (Montana) | 1862 | 311 | Chef résidant près des Grandes Chutes.

@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Annals of Wyoming (1923-1928), vol. 1
+# ref: Annals of Wyoming, vol. 1 à 5 (1923-1928)
+# lien: https://archive.org/details/annalsofwyom114192324wyom/page/{page}/mode/1up
+# recherche: https://archive.org/details/annalsofwyom114192324wyom/mode/1up?q={q}
+# Pages approximatives.
+Washakie | Shoshones | Fort Washakie | 1878 | 10 | Chef des Shoshones (mi-Snake, mi-Tête-Plate) dont le poste prend le nom.
+Ute Jack | Utes | Fort Washakie | 1882 | 10 | Chef des Utes de White River ; détachement envoyé pour l'arrêter.
+Bull Bear | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 183X | 12 | Ramène cent loges d'Oglalas au fort.
+= Chef tête-plate | Salish (Têtes-Plates) | Pierre's Hole | 1832 | s. p. | Avance avec Antoine Godin à la rencontre du chef pied-noir.
+= Chef pied-noir | Pieds-Noirs (Niitsitapis) | Pierre's Hole | 1832 | s. p. | S'avance au-devant de Godin ; la mêlée déclenche la bataille.

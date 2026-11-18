@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Annals of Wyoming (1923-1928), vol. 2
+# ref: Annals of Wyoming, vol. 1 à 5 (1923-1928)
+# lien: https://archive.org/details/annalsofwyom214192425wyom/page/{page}/mode/1up
+# recherche: https://archive.org/details/annalsofwyom214192425wyom/mode/1up?q={q}
+# Pages approximatives.
+Black Bear | Arapahos | Wind River | 1870 | s. p. | Chef tué avec tous les hommes adultes de son camp par la troupe de Bill Smith.
+Friday | Arapahos | Wind River | 1870 | s. p. | Sous-chef ; camp d'une vingtaine de loges à côté du camp principal de Medicine Man.
+Little Shield | Arapahos | Sweetwater (Independence Rock) | 1870 | s. p. | Jeune chef de guerre parti chasser le bison sur la Sweetwater.
+Bull Bear | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 183X | 44 | Chef des cent loges d'Oglalas ramenées par les émissaires.
+Washakie | Shoshones | Fort Washakie | 1873 | 13 | Le poste déménagé sur la Little Wind River reçoit son nom.

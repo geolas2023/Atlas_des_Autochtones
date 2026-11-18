@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Kankakee (1892)
+# ref: Portrait and Biographical Record of Kankakee County, Illinois (1892), Chicago, Lake City Publishing Co.
+# lien: https://archive.org/details/portraitbiographica00lake/page/{page}/mode/1up
+# recherche: https://archive.org/details/portraitbiographica00lake/mode/1up?q={q}
+# Pages approximatives.
+Shabbonee | Potawatomis | Kankakee | 1832 | 249 | Chef potawatomi, ami de Hubbard et Le Vasseur ; contribue à tenir sa nation hors de la guerre de Black Hawk.
+Shawanasee | Potawatomis | Kankakee | 1832 | 249 | Second chef potawatomi ami de Hubbard et Le Vasseur.

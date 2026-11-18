@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Hebard et Brininstool (1922), vol. 2
+# ref: Grace Raymond Hebard et E. A. Brininstool, The Bozeman Trail (1922), 2 vol.
+# lien: https://archive.org/details/bozemantrailhist02heba/page/{page}/mode/1up
+# recherche: https://archive.org/details/bozemantrailhist02heba/mode/1up?q={q}
+# Pages approximatives.
+Red Cloud (Makh-pi-ya-luta) | Sioux (Dakotas, Lakotas, Nakotas) | Fourches de la Platte | 1822 | 174 | Né, croit-on, aux fourches de la Platte vers 1822.
+Red Cloud (Makh-pi-ya-luta) | Sioux (Dakotas, Lakotas, Nakotas) | Fort Phil Kearny | 1867 | 65 | Commande depuis la grande colline ; on l'entend haranguer les guerriers.
+Red Cloud (Makh-pi-ya-luta) | Sioux (Dakotas, Lakotas, Nakotas) | Pine Ridge | 1909 | 174 | Meurt à la réserve de Pine Ridge le 10 décembre 1909.
+Rain-in-the-Face | Sioux (Dakotas, Lakotas, Nakotas) | Agence de Standing Rock | 1895 | 70 | Refuse, par interprète, de parler du combat du Wagon Box.

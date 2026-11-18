@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · Ross et Catlin (1898)
+# ref: Ross, Robert B., et George B. Catlin (1898), Landmarks of Detroit: a History of the City, Détroit, Evening News Association
+# lien: https://archive.org/details/landmarksofdetr00ross/page/{page}/mode/1up
+# recherche: https://archive.org/details/landmarksofdetr00ross/mode/1up?q={q}
+# Pages approximatives.
+Le Pesant | Odawas (Outaouais) | Fort Pontchartrain (Détroit) | 1706 | 77 | Grand chef outaouais ; son coup de feu tue le récollet à la porte du fort.
+Le Pesant | Odawas (Outaouais) | Detroit | 170X | 80 | Amené en canot à Détroit sous la garde de trois chefs et de dix parents.
+Sasteratsi | Wyandots (Hurons-Wendat) | Detroit | 1721 | 124 | Appelé « roi des Hurons » par les Français, chef héréditaire des Tionontatés ; mineur, gouverné par son oncle régent.
+= Chefs hurons | Wyandots (Hurons-Wendat) | Detroit | 1747 | 145 | Convoqués et réprimandés par le commandant de Longueuil pour leur trahison projetée.
+= Chefs indiens | Autochtones (nation non précisée) | Detroit | 1781 | 229 | Conseil devant De Peyster sur les missionnaires moraves ; Girty les accuse.
+Walk-in-the-Water | Wyandots (Hurons-Wendat) | Detroit | 1809 | 297 | Chef principal ; demande au général Hull d'expulser les squatteurs des terres indiennes.
+Walk-in-the-Water | Wyandots (Hurons-Wendat) | Monguagon | 1812 | 309 | Grand village wyandot sous les chefs Walk-in-the-Water, Lame Hand et Splitlog.
+Kishkauken | Anishinaabés (Ojibwés, Saulteux) | Detroit | 1826 | 368 | Chef des Indiens de Saginaw ; avec Big Beaver, tue le chef Wawasson à Détroit.
