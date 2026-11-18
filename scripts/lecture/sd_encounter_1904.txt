@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Encounter between Sioux Indians of the Pine Ridge Agency (1904)
+# ref: Encounter between Sioux Indians of the Pine Ridge Agency, S. Dak., and a Sheriff's Posse of Wyoming, Washington, Government Printing Office, 1904
+# lien: https://archive.org/details/encounterbetween00unit/page/{page}/mode/1up
+# recherche: https://archive.org/details/encounterbetween00unit/mode/1up?q={q}
+# Pages approximatives.
+= Charlie Smith, Black Feather, Chief Eagle, Last Bear, White Elk, Iron Shield, High Dog, He Crow et Fool Heart | Sioux (Dakotas, Lakotas, Nakotas) | Lightning Creek (Wyoming) | 1903-10 | 2-110 | Bande de Pine Ridge partie chasser au Wyoming et attaquée par le shérif et sa troupe ; deux Blancs et quatre Autochtones tués.
+Blue Horse | Sioux (Dakotas, Lakotas, Nakotas) | Pine Ridge | 1903 | 54 | Dit avoir signé le traité de 1868, qu'il comprenait comme permettant de chasser partout où se trouvait du gibier.
