@@ -1,0 +1,31 @@
+# corpus: Lecture intégrale · The Colorado Magazine, vol. I-VI (1923-1929)
+# ref: The Colorado Magazine, vol. I-VI, Denver, State Historical and Natural History Society of Colorado, 1923-1929 (PDF : historycolorado.org)
+# lien: https://www.historycolorado.org/back-issues
+# recherche: https://www.historycolorado.org/back-issues
+# Référence de page : volume et page imprimée.
+= Guerriers de Taos | Pueblos | Taos | 1720 | I, 292 | L'expédition Villasur quitte Taos avec quelque six cents hommes, dont des guerriers indiens.
+= Interprète pawnee de Villasur | Pawnees | Villages panis (Platte) | 1720 | I, 296 | Villasur l'envoie de l'autre côté de la rivière s'informer des Français.
+= Cheyennes et Arapahos | Cheyennes ; Arapahos | Sand Creek (Colorado) | 1864 | I, 310 | Quelque 500 Indiens tués à Sand Creek.
+Ouray | Utes | Ignacio (Colorado) | 1880 | I, 314 | « Grand chef » des Utes, mort à Ignacio en 1880 et enterré dans les rochers près de la ville selon Buckskin Charlie.
+Buckskin Charlie | Utes | Ignacio (Colorado) | 1924 | I, 316 | Chef des Utes du Sud, successeur d'Ouray ; raconte la mort et la sépulture d'Ouray et de Suvi-tah-ah, chef des Capotas.
+Chipeta | Utes | Ignacio (Colorado) | 1880 | I, 314 | Venue à Ignacio avec Ouray et son frère le chef McCook pour conférer avec les commissaires de Washington.
+Left Hand | Arapahos | Denver (Colorado) | 1860 | II, s. p. | Vieux chef arapaho dont la fille est engagée comme aide par une famille de pionniers.
+Bloody Knife | Arikaras | Little Bighorn | 1876 | III, 140 | Éclaireur de Custer qui l'avait averti du nombre des ennemis.
+Colorow | Utes | Agence de White River (Meeker, Colorado) | 1880 | IV, 14 | Discours rapporté lors de la commission de paix après le massacre de Meeker.
+Tierra Blanca | Utes | Pueblo (Colorado) | 1854 | IV, 50 | Chef des Utes Mohuaches ; reconnu et admis au fort Pueblo, avant le massacre de Noël.
+Tierra Blanca | Utes | Abiquiu (Nouveau-Mexique) | 1855 | IV, 56 | Parmi les quinze noms indiens du traité de paix avec les Utes.
+= Apaches jicarillas | Apaches | Abiquiu (Nouveau-Mexique) | 1855 | IV, 56 | Traité leur accordant une réserve de 160 000 acres et 36 000 dollars.
+= Utes | Utes | Conejos (Colorado) | 1863 | IV, 58 | Nouveau traité négocié par le gouverneur Evans à Conejos.
+= Cheyennes et Arapahos | Cheyennes ; Arapahos | Fort Lyon (Colorado) | 1861 | IV, 152 | Traité de Fort Wise du 18 février.
+Paruanarimuco | Comanches | San Carlos de los Jupes (Colorado) | 178X | V, 2 | Chef comanche aidé par les Espagnols à fonder l'établissement de San Carlos sur l'Arkansas.
+= Utes | Utes | Abiquiu (Nouveau-Mexique) | 1849 | V, 4 | Traité conclu par l'agent indien prévoyant la délimitation du pays ute.
+= Tabeguaches | Utes | Conejos (Colorado) | 1863 | V, 4 | Traité du 7 octobre désignant leur territoire.
+Roman Nose | Cheyennes | Beecher Island (Colorado) | 1868 | V, 50 | Grand guerrier, non chef, qui mène la charge cheyenne.
+Ouray | Utes | Conejos (Colorado) | 1863 | V, 165 | Chef des Utes Uncompahgres, né en 1820, connu publiquement à la signature du traité de Conejos.
+Buckskin Charley | Utes | Ignacio (Colorado) | 1880 | V, 166 | Sous-chef chargé des agences des Utes du Sud quand Ouray vient à Ignacio.
+McCook | Utes | Ignacio (Colorado) | 1926 | V, 170 | Frère de Chipeta ; témoigne sous serment de la mort et de la sépulture d'Ouray.
+= Fort Laramie | Sioux (Dakotas, Lakotas, Nakotas) ; Cheyennes ; Arapahos | Fort Laramie | 1851 | VI, 58 | Grand conseil : dix mille Indiens réunis par Fitzpatrick et Mitchell.
+= Comanches, Kiowas et Apaches | Comanches ; Kiowas ; Apaches | Fort Atkinson (Kansas) | 1853 | VI, 60 | Traité négocié par Fitzpatrick ; les Kiowas représentés par leurs principaux chefs.
+Ecueracapa | Comanches | Santa Fe | 1786 | VI, 80 | Les chefs comanches signent la paix avec Anza ; il reçoit le titre de général en chef des Comanches.
+Tall Bull | Cheyennes | Summit Springs (Colorado) | 1869 | VI, 214 | Chef des Dog Soldiers, tué le 11 juillet ; dernière grande bataille des Indiens des Plaines au Colorado.
+Traveling Bear | Pawnees | Massacre Canyon (Nebraska) | 1873 | VI, 214 | Tué par les Sioux à Massacre Canyon le 6 août.

@@ -1,0 +1,25 @@
+# corpus: Lecture intégrale · The Colorado Magazine, vol. VII-XII (1930-1935)
+# ref: The Colorado Magazine, vol. VII-XII, Denver, State Historical Society of Colorado, 1930-1935 (PDF : historycolorado.org)
+# lien: https://www.historycolorado.org/back-issues
+# recherche: https://www.historycolorado.org/back-issues
+# Référence de page : volume et page imprimée.
+Cinemo | Cheyennes | Bent's Fort (Colorado) | 1844 | VII, 48 | Vieux chef cheyenne qui cède la moitié de sa loge à la compagnie de Bent pour y garder ses marchandises.
+= Conseil cheyenne-delaware | Cheyennes ; Lenapes (Delawares, Loups) | Bent's Fort (Colorado) | 1845 | VII, 48 | Conseil entre Cheyennes et Delawares au fort Bent en août.
+= Insurgés de Taos | Pueblos | Taos | 1847 | VII, 58 | Menés par leurs chefs, ils pillent la ville après le massacre du gouverneur Bent et marchent sur Santa Fe.
+= Utes | Utes | Agence de Los Pinos (Colorado) | 1873 | VII, s. p. | Traité Brunot de septembre : les Utes cèdent la région minière des San Juan.
+= Cheyennes et Arapahos | Cheyennes ; Arapahos | Battle Creek (Colorado-Wyoming) | 1841 | VII, s. p. | Attaquent les trappeurs de Fraeb ; huit à dix guerriers tués, Fraeb et quatre hommes tués.
+Ochinee | Cheyennes | Fort Lyon (Colorado) | 1861 | VII, s. p. | Chef cheyenne dont la fille Amy épouse John W. Prowers.
+Ouray | Utes | Ignacio (Colorado) | 1880 | VII, 188 | Chef des Utes confédérés, arrivé malade à l'agence des Utes du Sud pour la conférence des traités ; y meurt.
+Wakara (Walker) | Utes | Fort Uintah | 1849 | VII, 198 | Chef ute réputé rencontré sur la Duchesne.
+Colorow | Utes | Leadville (Colorado) | 187X | VIII, s. p. | Chef d'une bande ute à l'époque de California Gulch.
+= Chef pawnee | Pawnees | Village pawnee de la Republican (Kansas) | 1806 | VIII, 134 | Tente de dissuader Pike d'aller plus à l'ouest, menace d'employer la force.
+Cuerno Verde | Comanches | Greenhorn (Colorado) | 1779 | IX, 152 | « Fléau » comanche, tué par Anza avec son fils aîné, ses quatre principaux chefs et un homme-médecine.
+= Chefs utes et comanches | Utes ; Comanches | Taos | 1786 | IX, 152 | Paix entre Utes et Comanches, conclue notamment par les chefs Sunlo et Yugopampe à Taos ; Anza remet la médaille du roi au chef comanche.
+= Chefs osages | Osages | Village pawnee de la Republican (Kansas) | 1806 | IX, 154 | Pike échange présents et cérémonies avec les chefs de trois cents Osages.
+Ouray | Utes | Washington (D.C.) | 1868 | IX, s. p. | Nommé chef principal des Utes confédérés du Colorado lors du traité de 1868 (1 000 dollars par an).
+Ouray | Utes | Washington (D.C.) | 1880 | IX, 72 | Conduit la délégation ute qui négocie la nouvelle réduction de la réserve.
+= Chefs des Indiens des Plaines | Cheyennes ; Arapahos | Denver (Colorado) | 1864 | XI, s. p. | Conseil de Camp Weld du 29 septembre avec le gouverneur Evans.
+Ouray | Utes | Agence de Los Pinos (Colorado) | 1879 | XI, s. p. | Négocie avec le général Adams la libération des femmes et enfants captifs après le massacre de Meeker.
+Colorow | Utes | Agence de White River (Meeker, Colorado) | 1887 | X, s. p. | Chef ute ; en conflit avec la milice du Colorado, exige le départ des Blancs (« dernière guerre indienne » du Colorado).
+Friday | Arapahos | Fort Collins (Colorado) | 1865 | XII, s. p. | Chef des Arapahos voisins des colons.
+Washington | Utes | Denver (Colorado) | 1870 | XII, s. p. | Vieux chef ute campé avec sa tribu sur le Cherry Creek.
