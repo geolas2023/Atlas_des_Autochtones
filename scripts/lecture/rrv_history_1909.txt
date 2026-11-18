@@ -1,0 +1,24 @@
+# corpus: Lecture intégrale · History of the Red River Valley, vol. I (1909)
+# ref: History of the Red River Valley, Past and Present, vol. I, Grand Forks, Herald / Chicago, C. F. Cooper, 1909
+# lien: https://archive.org/details/historyofredrive01chicuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofredrive01chicuoft/mode/1up?q={q}
+# Pages approximatives.
+= Famille Tily | Sioux | Grand Forks (Dakota du Nord) | 1824 | 549 | Une bande de Sioux tue la famille Tily, en route de Pembina à Fort Snelling, et emmène deux garçons en captivité ; ils sont délivrés en 1826 par une patrouille du fort.
+Robert McKenzie | Cris | Georgetown (Minnesota) | 1859-12 | 141 | Premier responsable du poste de Georgetown, « en partie cri » ; parti chercher des vivres à Pembina pour un convoi de la Baie d'Hudson, il meurt gelé à dix-sept milles au sud de Pembina.
+= Chippewas | Anishinaabés (Ojibwés, Saulteux) | Georgetown (Minnesota) | 1860 | 152 | Un petit groupe de Chippewas tire sur le bateau de George Northrop : « il ne faut pas parler la langue de notre ennemi » (le sioux).
+= Sioux | Sioux | Fort Abercrombie (Dakota du Nord) | 1862-08-23 | 286 | Une bande de 500 Sioux franchit l'Otter Tail pour couper le convoi du traité avec les Chippewas de Red Lake ; le convoi se réfugie dans le fort.
+= Sioux | Sioux | Old Crossing (rivière Otter Tail) | 1862 | 154 | Une famille d'Old Crossing est attaquée ; un garçon d'environ douze ans est emmené en captivité, puis racheté par l'entremise d'un prêtre catholique.
+= Métis chippewa | Métis | Fort Abercrombie (Dakota du Nord) | 1862 | 155 | Un Métis chippewa, parti avec un groupe ramener du bétail, pousse un cri de guerre compris des Sioux et est tué.
+= Sioux | Sioux | Fort Abercrombie (Dakota du Nord) | 1862-09-26 | 290 | Un parti sioux embusqué tire sur la compagnie du capitaine Freeman qui abreuve ses chevaux ; un charretier est mortellement blessé.
+= Chippewas de Grand Forks | Anishinaabés (Ojibwés, Saulteux) | Grand Forks (Dakota du Nord) | 1862 | 146 | Plusieurs centaines de Chippewas affamés attendent le gouverneur Ramsey pour traiter ; ils arrêtent l'expédition de Probstfield, prennent des vivres et ne font de mal à personne.
+Marceau | Autochtones (nation non précisée) | Georgetown (Minnesota) | 1862 | 146 | « Un Indien nommé Marceau » et sa femme restent à Georgetown avec Probstfield pendant le soulèvement.
+= Sioux pendus à Mankato | Sioux | Mankato (Minnesota) | 1862-12-26 | 401 | Trente-huit Sioux sont pendus ; l'abbé Ravoux en a instruit, baptisé et assisté trente-trois sur l'échafaud.
+= Métis chippewas du père André | Métis | Camp Atchison (Dakota du Nord) | 1863 | 408 | Quelque 300 Métis chippewas, conduits par le père André, rendent visite au général Sibley et l'informent du mouvement des Sioux vers l'ouest du Missouri.
+Jagmani | Sioux | Traverse des Sioux | 1867 | 281 | Dans les conseils tenus devant le major Prichette, le chef Jagmani rappelle les sommes promises au traité de Traverse des Sioux et jamais reçues.
+= Sissetons et Wahpetons | Sioux | Comté de Cass (Dakota du Nord) | 187X | 467 | Au début des années 1870, le comté de Cass est encore une réserve des bandes sisseton et wahpeton ; aucun titre ne peut y être acquis.
+= Sioux de Cut Head | Sioux | Fort Totten (Dakota du Nord) | 1892 | 274 | Le rôle de 1892 pour la distribution des terres de la réserve de Fort Totten compte 1 145 hommes, femmes et enfants ; ils deviennent citoyens après l'allotissement.
+Wanita | Sioux | Fort Totten (Dakota du Nord) | 1898~ | 275 | Grand chef des Sioux de Cut Head, mort une dizaine d'années avant 1908 ; un monument lui est élevé dans le cimetière indien de Fort Totten.
+Little Fish (Tiawashti, « Pretty Lodge ») | Sioux | Fort Ransom (Dakota du Nord) | 1862 | 276 | Hiver 1862 : campe près du vieux fort Ransom avec une petite bande de chasseurs ; apprenant le soulèvement, il conseille la paix.
+Little Fish (Tiawashti, « Pretty Lodge ») | Sioux | Fort Totten (Dakota du Nord) | 1908 | 274-279 | Dernier chef des Sioux de Cut Head, près de 84 ans ; de sang mêlé, sisseton et français selon un vieux traiteur ; reconnu chef au début des années 1860 par le commandant de Fort Totten, il signe les traités de la fin des années 1860.
+= Enfants sioux et chippewas | Sioux; Anishinaabés (Ojibwés, Saulteux) | Fort Totten (Dakota du Nord) | 1908 | 272 | Les enfants sioux, presque tous de sang pur, vont à la mission des Sœurs grises ; les enfants chippewas, surtout métis de la réserve de Turtle Mountain, à l'école de la poste.
+Martin Good Bear, Joseph Packinaw | Mandans | Fort Berthold | 1909 | 411 | Baptisés enfants par le père De Smet lors d'un passage chez les Mandans ; en 1909, commerçants en vue à Fort Berthold.

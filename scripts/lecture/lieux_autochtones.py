@@ -43,4 +43,10 @@ L = {
     'Mahnomen (Minnesota)': (-95.97, 47.32, 'a', "Mahnomen, Minnesota (réserve de White Earth)"),
     'Massacre Rock (Idaho)': (-112.99, 42.67, 'c', "Massacre Rocks, rivière Snake, Idaho"),
     'Bear River (massacre de 1863)': (-111.93, 42.18, 'c', "Massacre de la Bear River, près de Preston, Idaho"),
+    'Camp Release (Minnesota)': (-95.97, 44.98, 'a', 'Camp Release, près de Montevideo, Minnesota'),
+    'Spirit Lake (Iowa)': (-95.12, 43.42, 'a', 'Spirit Lake, Iowa (massacre de 1857)'),
+    'Manannah (Minnesota)': (-94.62, 45.25, 'c', 'Manannah, comté de Meeker, Minnesota'),
+    'Village de Little Crow (agence sioux inférieure)': (-94.98, 44.53, 'a', "Village de Little Crow, près de l'agence sioux inférieure, Minnesota"),
+    'Wood Lake (Minnesota)': (-95.54, 44.65, 'a', 'Wood Lake, Minnesota (bataille de 1862)'),
+    'Old Crossing (rivière Otter Tail)': (-96.4, 46.3, 'h', "Old Crossing, sur l'Otter Tail, à seize milles de Breckenridge"),
 }
