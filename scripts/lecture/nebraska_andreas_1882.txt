@@ -2,7 +2,7 @@
 # ref: A. T. Andreas, History of the State of Nebraska, Chicago, Western Historical Company, 1882 (édition kancoll.org : « Early History » et « Military History »)
 # lien: https://www.kancoll.org/books/andreas_ne/hon_tabl.html
 # recherche: https://www.kancoll.org/books/andreas_ne/hon_tabl.html
-# Texte en ligne sans pagination. Chapitres de comtés non relus.
+# Texte en ligne sans pagination. Chapitres de comtés relus : Blackbird, Dakota, Douglas, Gage, Hitchcock, Knox, Lincoln, Nance, Otoe, Platte, Richardson, Sarpy.
 Tartarrax | Pawnees | Villages panis (Platte) | 1541 | s. p. | Vieux souverain de la Quivira, que l'auteur situe sur la Platte, rencontré par Coronado.
 The Turk | Pueblos | Villages panis (Platte) | 1541 | s. p. | Guide indien de la région de Pecos, pendu par Coronado à la Quivira pour avoir égaré l'expédition.
 = Indiens du village mascouten | Mascoutens | Villages mascoutens (rivière Fox) | 1673 | s. p. | Fournissent le 7 juin deux guides à Jolliet et Marquette pour gagner le Wisconsin.
@@ -23,3 +23,24 @@ Logan Fontenelle | Omahas | Bellevue | 1855 | s. p. | Inhumé à Bellevue le 1er
 = Sioux, Cheyennes et Arapahos | Sioux (Dakotas, Lakotas, Nakotas) ; Cheyennes ; Arapahos | Julesburg | 1865 | s. p. | Environ 500 guerriers détruisent les stations le 6 janvier.
 = Sioux, Cheyennes et Arapahos | Sioux (Dakotas, Lakotas, Nakotas) ; Cheyennes ; Arapahos | Platte Bridge (Casper) | 1865 | s. p. | Environ un millier attaquent la station le 25 juillet ; le lieutenant Collins et 26 soldats tués.
 = Éclaireurs pawnees | Pawnees | Fort Reno (Wyoming) | 1865 | s. p. | Les éclaireurs de North tuent 26 Cheyennes près du fort Connor vers le 8 août.
+Henry Fontenelle | Omahas | Réserve omaha (Macy) | 1873 | s. p. | Frère de Logan, ami éclairé des Omahas ; propose le plan de distribution d'instruments agricoles (comté de Blackbird).
+= Omahas | Omahas | Réserve omaha (Macy) | 1855 | s. p. | Installés sur leur réserve des Blackbird Hills après le traité de 1854.
+= Winnebagos | Autochtones (nation non précisée) | Agence winnebago (Nebraska) | 1865 | s. p. | Arrivés de Crow Creek en 1864, achètent 97 000 acres aux Omahas.
+= Pawnees | Pawnees | Genoa (agence pawnee, Nebraska) | 1860 | s. p. | Prennent possession de leur réserve de la Loup (traité de 1857) ; luttes répétées avec les Sioux jusqu'en 1863.
+= Pawnees | Pawnees | Genoa (agence pawnee, Nebraska) | 1875 | s. p. | Déplacés au Territoire indien selon le traité.
+= Omahas, Otoes, Pawnees | Omahas ; Otoes-Missourias ; Pawnees | Bellevue | 1823 | s. p. | L'agence indienne de Council Bluffs est transférée à Bellevue.
+Michel Sayre | Poncas | Village ponca | 1856 | s. p. | « Chef des Poncas » ; signe l'avis enjoignant aux colons de ne pas s'établir à l'ouest de l'Aoway Creek.
+= Poncas | Poncas | Village ponca | 1858 | s. p. | S'installent en mai au nord de la Niobrara selon le traité de mars.
+Artemas Ehnamani | Sioux (Dakotas, Lakotas, Nakotas) | Agence santee (Nebraska) | 1866 | s. p. | Pasteur indien de l'église presbytérienne Pilgrim, organisée à Niobrara.
+= Santees | Sioux (Dakotas, Lakotas, Nakotas) | Agence santee (Nebraska) | 1866 | s. p. | Quelque 1 350 Santees s'établissent sur la réserve ; gouvernement républicain à quatre conseillers en 1874.
+Ar-ke-kee-tah | Otoes-Missourias | Réserve otoe (Gage) | 1854 | s. p. | « Le grand chef », principal artisan du traité avec Manypenny.
+= Cheyennes | Cheyennes | Réserve otoe (Gage) | 1863 | s. p. | Cinq cents Cheyennes venus de la Republican pour intimider les Otoes et leur prendre du bétail.
+= Otoes et Missouris | Otoes-Missourias | Réserve otoe (Gage) | 1881 | s. p. | Partent en juillet pour leur nouvelle réserve du Territoire indien.
+White Cloud | Iowas | Rulo | 1855 | s. p. | Célèbre chef iowa récemment décédé, exposé dans le cimetière au nord-ouest de Rulo ; sa veuve épouse F. X. Dupuis.
+= Trois Poncas | Poncas | Fort Randall (Dakota du Sud) | 1855 | s. p. | Livrés par leur tribu au général Harney, jugés et exécutés pour le meurtre de Mme Benners.
+Logan Fontenelle | Omahas | Bellevue | 1854 | s. p. | Choisi par les tribus comme chef principal pour négocier le traité ; conduit la délégation à Washington après le conseil de février à Bellevue.
+= Arikaras | Arikaras | Cottonwood Springs | 1835 | s. p. | Conseil du 5 juillet avec le colonel Dodge, à dix milles au sud-ouest de North Platte.
+Little Thunder | Sioux (Dakotas, Lakotas, Nakotas) | Cottonwood Springs | 1864 | s. p. | Chef des Brûlés ; avertit les colons d'un soulèvement cheyenne.
+Spotted Tail | Sioux (Dakotas, Lakotas, Nakotas) | Fort McPherson | 1864 | s. p. | Signalé parmi les assaillants de l'escouade du capitaine Mitchell en septembre.
+= Chefs indiens | Sioux (Dakotas, Lakotas, Nakotas) ; Cheyennes | North Platte (Nebraska) | 1867 | s. p. | Traité de paix de septembre avec Sherman, Harney et Sanborn.
+= Pawnees et Sioux | Pawnees ; Sioux (Dakotas, Lakotas, Nakotas) | Massacre Canyon (Nebraska) | 1873 | s. p. | À huit milles à l'ouest de Culbertson, les Sioux attaquent un camp de chasse pawnee, presque anéanti.
