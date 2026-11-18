@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · Coues (1897), vol. 2
+# ref: Coues, Elliott (dir.) (1897), New Light on the Early History of the Greater Northwest. The Manuscript Journals of Alexander Henry and of David Thompson, New York, F. P. Harper, vol. 2
+# lien: https://archive.org/details/newlightonearlyh02henr/page/{page}/mode/1up
+# recherche: https://archive.org/details/newlightonearlyh02henr/mode/1up?q={q}
+# Pages approximatives.
+Chatique (Pelican) | Cris | Le Pas (village de la Pasquia) | 1775 | 32 | Chef du village de la Pasquia (30 tentes de cuir), qui obtient du rhum par la force.
+Le Boeuf qui Boit | Pieds-Noirs (Niitsitapis) | Fort Vermilion (Saskatchewan) | 180X | s. p. | Chef des Gens du Sang, personnage de conséquence.
+Little Broken Knife | Autochtones (nation non précisée) | Fort Vermilion (Saskatchewan) | 180X | 546 | Chef d'une bande de Sarcis venue au fort.
+Old Star | Assiniboines (Nakodas) | Fort Vermilion (Saskatchewan) | 180X | 550 | Vieux chef des Assiniboines des Bois, jadis influent.
+Comcomly | Chinooks | Astoria | 1814 | 757 | Chef chinook ; après son départ, l'interprète Laframboise est envoyé au cap Disappointment en costume chinook.
+Coalpo (Calpo) | Clatsops | Astoria | 1814 | 781 | Chef clatsop souvent nommé dans le journal d'Henry.
+Comowool (Coone) | Clatsops | Pointe Clatsop (Oregon) | 1814 | 913 | Chef (tia) des Clatsops, voisin du fort, en visite avec six Clatsops.
+= Chef des Clowewallas | Autochtones (nation non précisée) | Willamette | 1814 | s. p. | Bon vieux chef très respecté ; nation nombreuse et bien disposée envers les Blancs.

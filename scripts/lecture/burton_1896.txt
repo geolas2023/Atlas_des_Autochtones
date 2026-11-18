@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Burton (1896)
+# ref: Burton, Clarence Monroe (1896), Cadillac's Village, or Detroit under Cadillac, with List of Property Owners, 1701 to 1710, Détroit
+# lien: https://archive.org/details/cadillacsvillage00burt/page/{page}/mode/1up
+# recherche: https://archive.org/details/cadillacsvillage00burt/mode/1up?q={q}
+# Pages approximatives.
+Louis Antoine (Quarante Sols) | Wyandots (Hurons-Wendat) | Detroit | 1707 | 21 | Chef de la nation huronne, baptisé avec Cadillac pour parrain.
+Old Wolf | Comanches | Bent's Fort (Colorado) | 183X | 14 | Grand chef comanche venu avec plusieurs centaines de guerriers visiter les frères Bent.
+Pontiac | Odawas (Outaouais) | Michilimackinac | 1763 | 32 | Dit « chef célèbre des Miamis » dans le texte ; ses Indiens surprennent et prennent Michilimackinac.

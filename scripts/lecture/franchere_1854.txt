@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Franchère (1854)
+# ref: Franchère, Gabriel (1854), Narrative of a Voyage to the Northwest Coast of America in the Years 1811, 1812, 1813 and 1814, trad. J. V. Huntington, New York, Redfield
+# lien: https://archive.org/details/cihm_35175/page/{page}/mode/1up
+# recherche: https://archive.org/details/cihm_35175/mode/1up?q={q}
+# Pages approximatives.
+Comcomly | Chinooks | Chinook (Washington) | 1811 | 99 | Chef chinook ; tente de retenir les hommes de M'Dougal à la pointe Chinook, puis les accueille avec hospitalité dans son village.
+Comcomly | Chinooks | Astoria | 1811 | 125 | Les Astoriens vont soigner le chef des Chinooks.
+Comcomly | Chinooks | Astoria | 1811 | 179 | Le vieux chef borgne vient avertir les Astoriens d'une nouvelle apportée par un Indien de Gray's Harbor.
+= Fils de Comcomly | Chinooks | Astoria | 181X | 161 | Un jeune garçon, fils du chef, fait partie de l'équipage du schooner.
+= Fils de Comcomly | Chinooks | Astoria | 181X | 257 | Jeune homme intelligent que Franchère interroge sur les croyances religieuses des Chinooks.
+= Chef cathlanaminim | Autochtones (nation non précisée) | Willamette | 181X | 185 | Chef d'une tribu de la Willamette qui fait prisonniers des déserteurs d'Astoria.

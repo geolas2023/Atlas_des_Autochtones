@@ -182,4 +182,7 @@ L = {
     'Sandy Hills (Saskatchewan)': (-106.5, 51.2, 'h', 'Sandy Hills, près de la branche sud de la Saskatchewan'),
     'Clarksville (Missouri)': (-90.9, 39.37, 'c', 'Clarksville (Missouri)'),
     'Rivière Saint-François (Missouri)': (-90.3, 37.0, 'h', 'Rivière Saint-François (Missouri)'),
+    'Grand lac des Esclaves': (-114.0, 61.5, 'h', 'Grand lac des Esclaves (fort du Lac aux Esclaves)'),
+    'Le Pas (village de la Pasquia)': (-101.25, 53.82, 'h', 'Le Pas (village de la Pasquia, Saskatchewan)'),
+    'Pointe Clatsop (Oregon)': (-123.92, 46.12, 'h', 'Pointe Clatsop (Oregon)'),
 }

@@ -1,0 +1,12 @@
+# corpus: Lecture intégrale · Chittenden (1902), vol. 2-3
+# ref: Chittenden, Hiram Martin (1902), The American Fur Trade of the Far West, New York, Francis P. Harper, vol. 2-3
+# lien: https://archive.org/details/americanfurtrade00chit_0/page/{page}/mode/1up
+# recherche: https://archive.org/details/americanfurtrade00chit_0/mode/1up?q={q}
+# Pages approximatives.
+Big Elk | Omahas | Portage des Sioux | 1815 | 557 | Chef omaha ; discours au grand conseil des chefs des nations du Mississippi et du Missouri à Portage des Sioux.
+= Chefs sioux | Sioux (Dakotas, Lakotas, Nakotas) | Saint-Louis | 1817 | 558 | Délégation de quarante-trois chefs et principaux des bandes sioux à Saint-Louis.
+= Chefs des Grands Pawnees | Pawnees | Villages panis (Platte) | 1820 | 574 | Refusent d'accueillir l'expédition (Long) dans leur camp.
+Grey Eyes | Arikaras | Villages arikaras | 1823 | 592 | Chef arikara tué lors de l'attaque de Leavenworth.
+Fire Heart | Arikaras | Villages arikaras | 1823 | 597 | Chef arikara au rôle équivoque, retiré dans les collines avec un grand parti.
+Little Soldier | Arikaras | Villages arikaras | 1823 | 597 | Chef arikara venu parlementer avec Leavenworth.
+= Chefs têtes-plates | Salish (Têtes-Plates) | Saint-Louis | 183X | 644 | Trois chefs têtes-plates malades chez le général Clark ; un quatrième venait de mourir.

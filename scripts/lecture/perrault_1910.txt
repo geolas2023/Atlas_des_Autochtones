@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Perrault (1910)
+# ref: Perrault, Jean-Baptiste (1909-1910), « Narrative of the Travels and Adventures of a Merchant Voyageur… 1783-1820 », éd. J. S. Fox, Michigan Pioneer and Historical Collections, vol. 37
+# lien: https://archive.org/details/michiganhistoric37michuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/michiganhistoric37michuoft/mode/1up?q={q}
+# Pages approximatives.
+Yellow Hair | Anishinaabés (Ojibwés, Saulteux) | Lac au Cèdre Rouge (Cass Lake) | 1833 | 206 | Chef du lac Cass ; remercie pour l'équipement de traite envoyé dans le pays de ses jeunes gens.

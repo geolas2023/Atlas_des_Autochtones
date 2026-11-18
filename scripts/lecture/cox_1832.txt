@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Cox (1832)
+# ref: Cox, Ross (1832), Adventures on the Columbia River, New York, J. & J. Harper
+# lien: https://archive.org/details/adventuresoncolu00coxr/page/{page}/mode/1up
+# recherche: https://archive.org/details/adventuresoncolu00coxr/mode/1up?q={q}
+# Pages approximatives.
+Comcomly | Chinooks | Astoria | 1812 | 54 | Vieux chef borgne, principal chef de la nation chinook, très attaché aux Blancs, venu au-devant du navire.
+= Chefs têtes-plates | Salish (Têtes-Plates) | Flathead | 1812 | 110 | Hivernage de Cox chez les Têtes-Plates : chefs de paix et chefs de guerre, prisonniers pieds-noirs maltraités.
+= Prisonniers pieds-noirs | Pieds-Noirs (Niitsitapis) | Flathead | 1812 | 110 | Captifs torturés par les Têtes-Plates ; le bison est la cause de la guerre entre les deux nations.
+= Chef des Indiens de la Chaudière | Autochtones (nation non précisée) | Kettle Falls | 181X | s. p. | Surprise des Indiens de la Chaudière à la vue des Blancs ; récit d'un chef « hermaphrodite ».

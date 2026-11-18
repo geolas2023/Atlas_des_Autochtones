@@ -1,0 +1,12 @@
+# corpus: Lecture intégrale · Cadillac Papers (1904)
+# ref: Burton, C. M. (éd.) (1904), « Cadillac Papers », Michigan Pioneer and Historical Collections, vol. 33, Lansing
+# lien: https://archive.org/details/michiganhistoric33michuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/michiganhistoric33michuoft/mode/1up?q={q}
+# Pages approximatives.
+Onaskin | Odawas (Outaouais) | Montréal | 1706 | 419 | Chef des Outaouais ; pourparlers avec le marquis de Vaudreuil.
+Kinongé (Le Brochet) | Odawas (Outaouais) | Detroit | 1706 | 777 | Chef outaouais qui accepte de livrer Le Pesant ; en conseil à Détroit.
+Le Talon | Odawas (Outaouais) | Detroit | 1706 | 781 | Chef outaouais.
+Ouaguescau | Odawas (Outaouais) | Detroit | 170X | 55 | Chef de la tribu du Sable ; au conseil, veut prévenir les Français avant toute attaque.
+Meaouana | Odawas (Outaouais) | Detroit | 170X | 55 | Chef sinago ; même avis au conseil.
+Outchipouak | Odawas (Outaouais) | Detroit | 170X | 789 | Chef de guerre sinago ; pourparlers avec Cadillac.
+Pemoussa | Mesquakies (Renards) | Montréal | 1717 | 587 | Grand chef de guerre des Renards, otage, meurt de la maladie.
