@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Frémont, Report of the Exploring Expedition (1845)
+# ref: John Charles Frémont, Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to Oregon and North California in the Years 1843-'44, Washington, Gales & Seaton, 1845
+# lien: https://archive.org/details/reportoftheexplor1845eng/page/{page}/mode/1up
+# recherche: https://archive.org/details/reportoftheexplor1845eng/mode/1up?q={q}
+# Pages approximatives.
+= Chefs sioux en conseil | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1842 | s. p. | Les chefs réunis avertissent Frémont de ne pas partir avant le retour d'un parti de jeunes guerriers.
+Stiletsi | Autochtones (nation non précisée) | The Dalles | 1843 | s. p. | Chef qui accompagne l'expédition jusqu'ici avec la Grue blanche avant de prendre congé.
+White Crane (la Grue blanche) | Autochtones (nation non précisée) | The Dalles | 1843 | s. p. | Second chef compagnon de route de Frémont.
+= Chef tlamath | Autochtones (nation non précisée) | Klamath Lake | 1843-12 | s. p. | Chef au visage avenant et à la voix d'une douceur remarquable, qui rejoint ensuite l'expédition.

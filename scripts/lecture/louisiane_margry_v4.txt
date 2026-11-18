@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Margry, Découvertes et établissements des Français, t. IV (1880)
+# ref: Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. IV, Paris, Maisonneuve, 1880
+# lien: https://archive.org/details/mmoiresetdocum04marg/page/{page}/mode/1up
+# recherche: https://archive.org/details/mmoiresetdocum04marg/mode/1up?q={q}
+# Pages approximatives.
+= Chef des Bayogoulas | Bayogoulas et Mougoulachas | Village des Bayogoulas | 1699-03 | s. p. | Chante le calumet à Iberville avec un présent de couvertes de rat musqué, l'alliant aux Mougoulachas, Ouachas, Chitimachas et Yagueneschitos ; il le guide ensuite vers les Oumas.
+= Chef des Mougoulachas | Bayogoulas et Mougoulachas | Village des Bayogoulas | 1699 | 120, 124 | Porte un capot de serge bleue reçu de Tonty et garde la lettre que Tonty avait laissée pour La Salle ; Bienville l'échange contre une hache.
+= Quinipissas et Bayogoulas | Quinipissas; Bayogoulas et Mougoulachas | Village des Bayogoulas | 1699 | s. p. | Les deux nations ne se fréquentent plus à la suite d'une brouille entre leurs chefs.
+= Chef des Oumas | Houmas | Village des Oumas | 1699-03 | 184 | Homme de cinq pieds dix pouces, âgé d'environ soixante-dix ans, qui vient avec plus de cent cinquante des siens apporter pain de maïs, citrouilles et volailles.

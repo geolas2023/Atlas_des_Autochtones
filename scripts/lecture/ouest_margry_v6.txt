@@ -1,0 +1,14 @@
+# corpus: Lecture intégrale · Margry, Découvertes et établissements des Français, t. VI (1886)
+# ref: Pierre Margry, Découvertes et établissements des Français dans l'ouest et dans le sud de l'Amérique septentrionale, t. VI, Paris, Maisonneuve, 1886
+# lien: https://archive.org/details/cihm_09946/page/{page}/mode/1up
+# recherche: https://archive.org/details/cihm_09946/mode/1up?q={q}
+# Pages approximatives.
+= Fils d'Achiganaga | Anishinaabés (Ojibwés, Saulteux) | Michilimackinac | 1683-11 | 42-49 | Duluth réunit chefs et anciens de toutes les nations pour juger les deux meurtriers de Français à Kiaonan ; le Folle-Avoine soutient la partie lésée.
+Oumamins | Anishinaabés (Ojibwés, Saulteux) | Michilimackinac | 1683-11 | 43 | Chef des Amikois présent au conseil de Duluth.
+= Chef des Sioux devant Callières | Sioux (Dakotas, Lakotas, Nakotas) | Montréal | 1695 | 56 | Le chef sioux étale une robe de castor et pleure en implorant la pitié du gouverneur.
+= Femme d'un chef sioux | Sioux (Dakotas, Lakotas, Nakotas) | Michilimackinac | 1695 | 97 | Femme d'un chef très considérable, rachetée par Le Sueur à Michilimakinac.
+Ouacantanpaye | Sioux (Dakotas, Lakotas, Nakotas) | Fort L'Huillier | 1700 | 79, 95 | Chef de village reçu au fort de Le Sueur ; il fait fumer les siens dans le calumet d'acier.
+= Chef de guerre des Natchitoches | Natchitoches | Natchitoches | 1719-03 | 294 | Sert de guide à La Harpe avec douze de ses guerriers.
+= Chef des Nassonites | Caddos et Hasinais | Poste des Nassonites | 1719 | 261 | Âgé de plus de soixante-dix ans, il attend La Harpe avec les chefs des Cadodaquious, Nadsoos et Natchitoches autour d'un festin.
+= Chef des Cadodaquious | Caddos et Hasinais | Poste des Nassonites | 1719 | 261 | Vieillard de près de quatre-vingts ans, le plus éloquent orateur de ces nations ; il les exhorte à changer de conduite.
+Angélique | Caddos et Hasinais | Villages tejas (Hasinai) | 1721 | 344 | Femme assinaïe baptisée par des prêtres espagnols, qui sert d'interprète ; les Assinais partent en guerre contre les Sadamons.

@@ -75,4 +75,10 @@ L = {
     'Baie de Clayoquot (île de Vancouver)': (-125.9, 49.2, 'a', 'Baie de Clayoquot, île de Vancouver'),
     'Blackbird Hill (Nebraska)': (-96.25, 42.05, 'a', 'Blackbird Hill, sur le Missouri (Nebraska)'),
     'Pays des Crows (Wind River)': (-108.8, 43.3, 'h', 'Pays des Crows, vers la Wind River (Wyoming)'),
+    'Village des Koroas (Mississippi)': (-91.2, 31.75, 'h', 'Principal village des Koroas, sur le bas Mississippi'),
+    'Sault Saint-Louis (Kahnawake)': (-73.68, 45.41, 'c', 'Sault Saint-Louis (Kahnawake), près de Montréal'),
+    'Bataille de la Neches (Texas)': (-95.55, 32.45, 'a', 'Site de la bataille de la Neches, comté de Van Zandt (Texas)'),
+    'Chutes de la Brazos (Marlin, Texas)': (-96.95, 31.2, 'a', 'Chutes de la Brazos, près de Marlin (Texas)'),
+    'Wichita Falls (Texas)': (-98.49, 33.91, 'c', 'Wichita Falls (Texas)'),
+    'Rivière Pease (Texas)': (-99.6, 34.3, 'a', 'Rivière Pease (Texas)'),
 }
