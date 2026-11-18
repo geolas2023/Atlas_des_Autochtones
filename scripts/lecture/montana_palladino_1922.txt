@@ -1,0 +1,17 @@
+# corpus: Lecture intégrale · Palladino, Indian and White in the Northwest (1922)
+# ref: Lawrence B. Palladino, Indian and White in the Northwest: A History of Catholicity in Montana, 1831 to 1891, 2e éd., Lancaster (Pennsylvanie), Wickersham, 1922
+# lien: https://archive.org/details/IndianAndWhiteInTheNW/page/{page}/mode/1up
+# recherche: https://archive.org/details/IndianAndWhiteInTheNW/mode/1up?q={q}
+# Pages approximatives.
+Michel Insula (Petit Chef et Grand Guerrier) | Salish (Têtes-Plates); Nimíipuu (Nez-Percés) | Bitterroot (vallée) | 1835 | 21, 83 | Chef tête-plate parti à la rencontre des « Robes noires » attendues ; il n'est pas satisfait des missionnaires protestants que des chefs nez-percés accueillent mieux.
+= Têtes-Plates, Pend d'Oreilles et Kootenais | Salish (Têtes-Plates); Pend d'Oreilles et Kalispels; Kootenais (Ktunaxa) | Hell Gate (Montana) | 1855 | 175 | Les trois nations confédérées désignées par le traité de Hell Gate.
+= Pieds-Noirs | Pieds-Noirs (Niitsitapis) | Mission Saint-Pierre (Montana) | 1859-04 | 191 | Deux missionnaires arrivent chez les Pieds-Noirs et suivent les camps tout l'été pour choisir le site d'une mission.
+Victor | Salish (Têtes-Plates) | Bitterroot (vallée) | 1870 | 81 | Chef des Têtes-Plates ; à sa mort, le capitaine John Mullan adresse une lettre de condoléances à la tribu et De Smet appuie l'hommage.
+Charlot (Chariot) | Salish (Têtes-Plates) | Bitterroot (vallée) | 1872 | 86-87 | Premier chef des Têtes-Plates, fils de Victor ; il refuse de signer l'accord Garfield de déplacement vers la Jocko.
+Arlee (Alee) | Salish (Têtes-Plates) | Bitterroot (vallée) | 1872 | 87 | Deuxième chef ; signe l'accord Garfield avec Adolf, troisième chef.
+Adolf | Salish (Têtes-Plates) | Bitterroot (vallée) | 1872 | 83, 87 | Troisième chef des Têtes-Plates ; signe l'accord Garfield.
+Joseph | Nimíipuu (Nez-Percés); Salish (Têtes-Plates) | Bitterroot (vallée) | 1877 | 85 | Le chef nez-percé, de passage dans la vallée, demande à voir Charlot, qui refuse et lui enjoint de ne pas toucher aux colons.
+= Pensionnaires de la mission cheyenne | Cheyennes | Mission Saint-Labre (Montana) | 1883-10-20 | 237 | Trente ursulines se portent volontaires pour la mission cheyenne.
+= Gros-Ventres et Assiniboines | Gros-Ventres (Aaniiih); Assiniboines (Nakodas) | Little Rockies (Montana) | 1886-01 | 231 | Par traité, les Indiens cèdent leur pays sauf une réserve près des Little Rockies ; le P. Eberschweiler y cherche un site de mission au printemps.
+Arlee (Alee) | Salish (Têtes-Plates) | Vallée de la Jocko | 1889-08-08 | 84 | Dernier chef de guerre de la tribu, mort à son ranch près de l'agence et inhumé près de l'église.
+Charlot (Chariot) | Salish (Têtes-Plates) | Vallée de la Jocko | 1891 | 76 | Les derniers Têtes-Plates de la Bitterroot, Charlot et les siens, rejoignent enfin la Jocko.

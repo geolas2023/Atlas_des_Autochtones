@@ -1,0 +1,15 @@
+# corpus: Lecture intégrale · Le Page du Pratz, The History of Louisiana (1774)
+# ref: Antoine-Simon Le Page du Pratz, The History of Louisiana, or of the Western Parts of Virginia and Carolina, Londres, Becket, 1774
+# lien: https://archive.org/details/historyoflouisia00lepa/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyoflouisia00lepa/mode/1up?q={q}
+# Pages approximatives.
+= Natchez du grand village | Natchez | Natchez | 1720 | 298 | À l'arrivée de l'auteur, la nation est établie sur une petite rivière ; le village principal du Grand Soleil est bordé des autres villages.
+Serpent Piqué (Stung Serpent) | Natchez | Natchez | 172X | 40, 311 | Frère du Grand Soleil et chef des guerriers des Natchez, ami intime de l'auteur.
+= Missouris, Osages et Kansas de Bourgmont | Otoes-Missourias; Osages; Kansas (Kaws) | Grand village des Kansas (Doniphan) | 1724 | 59-60 | Bourgmont, accompagné de cent Missouris et de soixante-quatre Osages avec leurs chefs, est reçu au calumet par les Kansas ; le 24 juillet, trois cents guerriers se mettent en route avec lui.
+= Grand chef des Padoucas | Apaches | Pays des Padoucahs | 1724 | 65 | Bourgmont fait venir le grand chef et deux cents chefs et guerriers padoucas pour la distribution des présents.
+Serpent Piqué (Stung Serpent) | Natchez | Natchez | 1725 | 335 | Sa maladie ; le chef des gardiens du temple supplie l'auteur de sauver le Grand Soleil, lié par serment à son frère.
+Moncacht-Apé (l'Interprète) | Yazous et Koroas | Rivière Yazoo (Mississippi) | 172X | 285 | Yazou surnommé l'Interprète par les Français parce qu'il entendait plusieurs langues ; son nom signifie « tueur de peine et de fatigue ».
+= Grand Soleil des Natchez | Natchez | Fort Rosalie (Natchez) | 1729 | 82 | Le jeune Grand Soleil dissimule devant l'interprète du commandant avant le soulèvement contre le fort.
+= Grand chef des Tunicas | Tunicas; Natchez | Village des Tunicas | 173X | 44, 84-85 | Allié des Français, blessé d'une balle ; il est ensuite assassiné par des Natchez venus lui porter le calumet de paix.
+= Grand chef des Chactas | Choctaws (Chactas); Chickasaws (Chicachas) | Mobile | 173X | 88 | Attend Bienville au fort de la Mobile pour joindre ses guerriers à la guerre contre les Chicachas.
+= Grand chef de la nation chacta | Choctaws (Chactas) | Villages chactas | 174X | 95 | Vaudreuil lui fait demander s'il est, comme Soulier Rouge, mécontent des Français.
