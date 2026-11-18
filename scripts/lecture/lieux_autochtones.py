@@ -233,4 +233,10 @@ L = {
     'Agence santee (Nebraska)': (-97.85, 42.83, 'h', 'Agence santee (comté de Knox, Nebraska)'),
     'Agence winnebago (Nebraska)': (-96.47, 42.24, 'h', 'Agence winnebago (comté de Thurston, Nebraska)'),
     'Genoa (agence pawnee, Nebraska)': (-97.73, 41.45, 'h', 'Genoa (agence pawnee, comté de Nance, Nebraska)'),
+    'Wounded Knee (Dakota du Sud)': (-102.16, 43.14, 'h', 'Wounded Knee (Dakota du Sud)'),
+    'Slim Buttes (Dakota du Sud)': (-103.3, 45.5, 'h', 'Slim Buttes (Dakota du Sud)'),
+    'Fort Reno (Oklahoma)': (-98.04, 35.56, 'h', 'Fort Reno (Territoire indien)'),
+    'Huron (Dakota du Sud)': (-98.21, 44.36, 'h', 'Huron (Dakota du Sud)'),
+    "Mission de l'Immaculée-Conception (Stephan, Dakota du Sud)": (-99.45, 44.24, 'h', "Mission de l'Immaculée-Conception (Stephan, Dakota du Sud)"),
+    'Waterbury (Dakota du Sud)': (-98.6, 44.0, 'h', 'Waterbury (comté de Jerauld, Dakota du Sud)'),
 }

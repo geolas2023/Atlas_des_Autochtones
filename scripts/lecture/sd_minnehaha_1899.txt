@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Bailey, History of Minnehaha County (1899)
+# ref: Dana R. Bailey, History of Minnehaha County, South Dakota, Sioux Falls, Brown & Saenger, 1899
+# lien: https://archive.org/details/historyofminneha01bail/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofminneha01bail/mode/1up?q={q}
+# Pages approximatives.
+Yanktonais | Sioux (Dakotas, Lakotas, Nakotas) | Sioux Falls (Dakota du Sud) | 1858 | 15 | Bandes qui refusent de reconnaître le traité yankton avant le premier paiement et menacent de tuer les chefs qui l'ont signé.
+Big Eagle | Sioux (Dakotas, Lakotas, Nakotas) | Sioux Falls (Dakota du Sud) | 1870 | 307 | Chef des Sioux santees, s'associe avec le trappeur Frank et Lewis Hulitt pour chasser et trapper dans les futurs comtés de Minnehaha et de Lake.

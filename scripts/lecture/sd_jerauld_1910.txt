@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Dunham, A History of Jerauld County (1910)
+# ref: N. J. Dunham, A History of Jerauld County, South Dakota, Wessington Springs, 1910
+# lien: https://archive.org/details/historyofjerauld00dunh/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofjerauld00dunh/mode/1up?q={q}
+# Pages approximatives.
+White Ghost | Sioux (Dakotas, Lakotas, Nakotas) | Waterbury (Dakota du Sud) | 1883 | 398 | Le vieux chef campe à l'automne avec environ quatre cents des siens dans la vallée entre Waterbury et Sulphur Springs, semant l'émoi chez les colons.
