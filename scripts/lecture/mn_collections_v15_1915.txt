@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Collections of the Minnesota Historical Society, vol. XV (1915)
+# ref: Collections of the Minnesota Historical Society, vol. XV, Saint Paul, 1915
+# lien: https://archive.org/details/collections15minnuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/collections15minnuoft/mode/1up?q={q}
+# Pages approximatives.
+Mar-pi-ya-ro-to-win | Sioux (Dakotas, Lakotas, Nakotas) | Winona (Minnesota) | 1783 | 371 | Sœur du chef Wabasha, née au village de son père sur le site de Winona, elle épouse vers 1783 le traiteur James Aird.
+Mar-pi-ya-ro-to-win | Sioux (Dakotas, Lakotas, Nakotas) | Village de Black Dog (Minnesota) | 1844 | 371 | Elle meurt au village de Black Dog (ou Grey Iron) et est inhumée dans un cimetière indien voisin.
+Villages de Centerville | Anishinaabés (Ojibwés, Saulteux); Sioux (Dakotas, Lakotas, Nakotas) | Centerville (Minnesota) | 1852~ | 314-322 | Des Métis et des Ojibwés forment le noyau du village, où la langue des traiteurs canadiens-français mariés à des Ojibwées est aussi courante que l'anglais.
