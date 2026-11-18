@@ -230,4 +230,7 @@ L = {
     'Little Castle Valley (Utah)': (-109.4, 38.64, 'h', 'Little Castle Valley (près de Moab, Utah)'),
     'Rangely (Colorado)': (-108.8, 40.09, 'h', 'Rangely (comté de Rio Blanco, Colorado)'),
     'Fort Garland (Colorado)': (-105.43, 37.42, 'h', 'Fort Garland (Colorado)'),
+    'Agence santee (Nebraska)': (-97.85, 42.83, 'h', 'Agence santee (comté de Knox, Nebraska)'),
+    'Agence winnebago (Nebraska)': (-96.47, 42.24, 'h', 'Agence winnebago (comté de Thurston, Nebraska)'),
+    'Genoa (agence pawnee, Nebraska)': (-97.73, 41.45, 'h', 'Genoa (agence pawnee, comté de Nance, Nebraska)'),
 }
