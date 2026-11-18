@@ -173,7 +173,9 @@ def lecture_integrale(G_fr):
             else: debut = fin = int(m.group(1) + m.group(2))
             if m.group(3) and m.group(2) != 'X': debut = fin = debut + (int(m.group(3)) - 0.5) / 12
             p1 = re.match(r"\d+", page).group(0)
-            noms = [n.strip() for n in qui.split(',') if n.strip() and not est_nation(n.strip()) and not re.match(r"^(?:[A-ZÉ][a-zé]+s|Indiens|Osages|Chefs?|Bande|Gendres)\b", n.strip())]
+            groupe = qui.startswith('=')
+            qui = qui.lstrip('= ')
+            noms = [] if groupe else [n.strip() for n in qui.split(',') if n.strip() and not est_nation(n.strip()) and not re.match(r"^(?:[A-ZÉ][a-zé]+s|Indiens|Osages|Chefs?|Bande|Gendres)\b", n.strip())]
             base = slug(libelle.split(' (')[0] + '-' + str(int(debut)))
             vus[base] += 1
             ident = 'L-' + slug(os.path.basename(chemin)[:-4])[:10] + '-' + base + (f'-{vus[base]}' if vus[base] > 1 else '')
