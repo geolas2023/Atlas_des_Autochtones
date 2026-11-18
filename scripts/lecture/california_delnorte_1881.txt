@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Bledsoe, History of Del Norte County, California (1881)
+# ref: A. J. Bledsoe, History of Del Norte County (1881)
+# lien: https://archive.org/details/historyofdelnort00bled/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofdelnort00bled/mode/1up?q={q}
+# Pages approximatives.
+Has | Autochtones (nation non précisée) | Crescent City (Californie) | 1859 | 62 | Chef de la tribu d'un Autochtone assassiné, qui fait pendre le meurtrier à Battery Point, là où les meurtriers de French avaient été exécutés.

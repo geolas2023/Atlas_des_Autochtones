@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · An Illustrated History of San Joaquin County, California (Lewis, 1890)
+# ref: An Illustrated History of San Joaquin County (Lewis, 1890)
+# lien: https://archive.org/details/illustratedhisto00chic/page/{page}/mode/1up
+# recherche: https://archive.org/details/illustratedhisto00chic/mode/1up?q={q}
+# Pages approximatives.
+Estanislao | Autochtones (nation non précisée) | Rivière Stanislaus (Californie) | 1829 | 25 | Chef qui défait sur ses bords les forces réunies de San José et de San Francisco ; les Espagnols donnent son nom à la rivière.
+José Jesús | Autochtones (nation non précisée) | Knight's Ferry (Californie) | 1843 | 25, 443 | Successeur d'Estanislao à la tête des Siyakumnas, dont la ranchería de Chapaircy est à Knight's Ferry ; il conseille l'emplacement de Stockton.

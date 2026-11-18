@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Palmer, History of Napa and Lake Counties, California (1881)
+# ref: L. L. Palmer, History of Napa and Lake Counties (1881)
+# lien: https://archive.org/details/historyofnapalak00palm/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofnapalak00palm/mode/1up?q={q}
+# Pages approximatives.
+Augustine | Autochtones (nation non précisée) | Clear Lake (Californie) | 1881 | 3 | Chef des Hoolanapos, homme très intelligent d'une cinquantaine d'années, versé dans les traditions, informateur des auteurs ; successeur de Savodino.
+Prieto | Autochtones (nation non précisée) | Clear Lake (Californie) | 1851 | s. p. | Chef de la principale bande du lac, les Habinapos, surnommé pour sa peau très sombre.
