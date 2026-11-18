@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Annals of Wyoming (1923-1928), vol. 3
+# ref: Annals of Wyoming, vol. 1 à 5 (1923-1928)
+# lien: https://archive.org/details/annalsofwyom314192526wyom/page/{page}/mode/1up
+# recherche: https://archive.org/details/annalsofwyom314192526wyom/mode/1up?q={q}
+# Pages approximatives.
+Black Bear | Arapahos | Dayton (Tongue River) | 1865 | 105 | Avec Old David, mène le siège de quatorze jours sur la Tongue.
+Old David | Arapahos | Dayton (Tongue River) | 1865 | 105 | Chef arapaho du siège de la Tongue.
+Washakie | Shoshones | Thermopolis (sources chaudes) | 1896 | 190 | Signe l'acte qui confie les sources chaudes de Thermopolis aux Blancs.
+Washakie | Shoshones | Fort Washakie | 1876 | 223 | Permet à Woodruff de faire paître ses troupeaux sur la réserve.

@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Remy et Brenchley, A Journey to Great-Salt-Lake City (1861), vol. 2
+# ref: J. Remy et J. Brenchley, A Journey to Great-Salt-Lake City, Londres, W. Jeffs, 1861, 2 vol.
+# lien: https://archive.org/details/ajourneytogreat00remygoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/ajourneytogreat00remygoog/mode/1up?q={q}
+# Pages approximatives.
+Wakara | Utes | Fort Uintah | 1845~ | 345 | Célèbre chef ute, tombé malade parmi des trappeurs canadiens dans la vallée de l'Uintah (récit rapporté).
+Wakara | Utes | Meadow Creek (Utah) | 1855 | 334 | Meurt le 29 janvier 1855.
+Arapine (Sen-a-rock) | Utes | Manti (vallée de la Sanpete) | 1855 | 346 | Frère et successeur de Wakara ; chef redouté, irascible et éloquent.
+Thomas | Paiutes | Muddy River (Nevada) | 1855 | 406 | Chef de la Muddy, baptisé mormon, porteur d'un certificat.
+Isaac | Paiutes | Rio Virgin | 1855 | 406 | Chef du Rio Virgen, baptisé mormon, porteur d'un certificat.

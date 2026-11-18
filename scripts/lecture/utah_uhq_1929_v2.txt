@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Utah Historical Quarterly (1929-1930), vol. 2
+# ref: Utah Historical Quarterly, vol. 2 et 3, 1929-1930
+# lien: https://archive.org/details/utah-historical-quarterly_1930-01_3_1/page/{page}/mode/1up
+# recherche: https://archive.org/details/utah-historical-quarterly_1930-01_3_1/mode/1up?q={q}
+# Pages approximatives.
+= Sabuaganas | Utes | Gunnison (Colorado) | 1776 | s. p. | Chez les Sabuaganas du haut Gunnison, l'interprète Andrés Muñiz déforme le discours du padre.
+Cuerno Verde (Green Horn) | Comanches | Greenhorn (Colorado) | 1779 | s. p. | Chef comanche qui veut venger la mort de son père, tué par les Espagnols.

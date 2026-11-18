@@ -185,4 +185,11 @@ L = {
     'Grand lac des Esclaves': (-114.0, 61.5, 'h', 'Grand lac des Esclaves (fort du Lac aux Esclaves)'),
     'Le Pas (village de la Pasquia)': (-101.25, 53.82, 'h', 'Le Pas (village de la Pasquia, Saskatchewan)'),
     'Pointe Clatsop (Oregon)': (-123.92, 46.12, 'h', 'Pointe Clatsop (Oregon)'),
+    'Thermopolis (sources chaudes)': (-108.2, 43.65, 'h', 'Thermopolis (sources chaudes, Wyoming)'),
+    'Manti (vallée de la Sanpete)': (-111.64, 39.27, 'h', 'Manti (vallée de la Sanpete, Utah)'),
+    'Meadow Creek (Utah)': (-112.31, 38.87, 'h', 'Meadow Creek (comté de Millard, Utah)'),
+    'Muddy River (Nevada)': (-114.55, 36.6, 'h', 'Muddy River (Moapa, Nevada)'),
+    'Nauvoo (Illinois)': (-91.38, 40.55, 'h', 'Nauvoo (Illinois)'),
+    'Corn Creek (Kanosh, Utah)': (-112.43, 38.8, 'h', 'Corn Creek (Kanosh, comté de Millard, Utah)'),
+    'Fourche sud de la rivière Rouge (Texas)': (-100.3, 34.6, 'h', 'Fourche sud de la rivière Rouge (Texas)'),
 }

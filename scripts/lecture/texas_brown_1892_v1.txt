@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Brown, History of Texas (1892-1893), vol. 1
+# ref: John Henry Brown, History of Texas from 1685 to 1892, 2 vol., St. Louis, L. E. Daniell, 1892-1893
+# lien: https://archive.org/details/historyoftexasfr02brow/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyoftexasfr02brow/mode/1up?q={q}
+# Pages approximatives.
+Bowles | Cherokees | Nacogdoches | 1838 | 157 | Chef principal des Cherokees ; les volontaires marchent sur son village, croyant y trouver Cordova.
+Bowles | Cherokees | Bataille de la Neches (Texas) | 1839 | 163 | Chef principal, tué ; ses gens se dispersent dans les fourrés de la Neches.
+John Bowles | Cherokees | San Saba (Texas) | 1839 | 163 | Fils du chef ; tué avec Egg près de l'embouchure de la San Saba le jour de Noël.
+Placido | Wichitas et Taovayas | Canadian River | 1858 | 375 | Chef des Tonkawas parmi les auxiliaires de l'expédition Ford.
+Jim Pock-mark | Caddos et Hasinais | Canadian River | 1858 | 375 | Chef des Anadarkos parmi les auxiliaires.
+Pro-he-bits Quash-o (Iron Jacket) | Comanches | Canadian River | 1858 | 375 | Célèbre chef comanche à la cotte de mailles ; son village est attaqué par Ford.

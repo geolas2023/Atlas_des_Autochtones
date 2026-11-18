@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Yoakum, History of Texas (1855), vol. 1
+# ref: H. Yoakum, History of Texas from its first settlement in 1685 to its annexation to the United States in 1846, 2 vol., New York, Redfield, 1855
+# lien: https://archive.org/details/historyoftexasfr01yoak/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyoftexasfr01yoak/mode/1up?q={q}
+# Pages approximatives.
+Necoroco | Comanches | Fourche sud de la rivière Rouge (Texas) | 1798 | 112 | Chef comanche ; deux cents Comanches invitent les compagnons de Nolan à son village.

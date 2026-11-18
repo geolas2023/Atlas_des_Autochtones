@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Annals of Wyoming (1929-1931), vol. 2
+# ref: Annals of Wyoming, vol. 6 et 7 (1929-1931)
+# lien: https://archive.org/details/annalsofwyom714193031wyom/page/{page}/mode/1up
+# recherche: https://archive.org/details/annalsofwyom714193031wyom/mode/1up?q={q}
+# Pages approximatives.
+Washakie | Shoshones | Fort Bridger | 186X | 360 | Chef des Shoshones établi à Fort Bridger, au sujet duquel s'informe Little Owl.
+= Deux chefs pendus | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1865~ | 380 | Deux chefs indiens pendus, vus à l'arrivée au fort.

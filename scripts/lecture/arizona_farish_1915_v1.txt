@@ -1,0 +1,12 @@
+# corpus: Lecture intégrale · Farish, History of Arizona (1915-1916), vol. 1
+# ref: T. E. Farish, History of Arizona, vol. 1 et 2, Phoenix, Filmer Brothers, 1915-1916
+# lien: https://archive.org/details/historyofarizona01faririch/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofarizona01faririch/mode/1up?q={q}
+# Pages approximatives.
+= Sept chefs | Pueblos | Santo Domingo (Nouveau-Mexique) | 1598 | 41 | Représentant trente-quatre pueblos, ils reconnaissent la souveraineté espagnole le 7 juillet.
+Coro | Pimas et Tohono O'odham | Rivière San Pedro (Arizona) | 1697 | 59 | Chef sobaipuri ; se joint à l'expédition avec trente guerriers.
+Palma | Autochtones (nation non précisée) | Yuma (Colorado) | 1779 | 72 | Chef des Yumas, christianisé, qui a visité Mexico ; à sa demande, Garcés part pour sa dernière entrada.
+Juan José | Apaches | Santa Rita (Nouveau-Mexique) | 183X | 116 | Chef mimbreño élevé chez les Mexicains.
+Juan Antonio | Pimas et Tohono O'odham | Villages pimas | 1846 | 142 | Principal chef des Pimas ; refuse de livrer au commandant de Tucson les mules laissées par Cooke.
+Mangas Colorado | Apaches | Santa Rita (Nouveau-Mexique) | 1851 | 211 | Avec Delgadito, propose de racheter les jeunes captifs évadés.
+Delgadito | Apaches | Santa Rita (Nouveau-Mexique) | 1851 | 211 | Chef apache présent avec Mangas Colorado.

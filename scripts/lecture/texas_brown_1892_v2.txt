@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Brown, History of Texas (1892-1893), vol. 2
+# ref: John Henry Brown, History of Texas from 1685 to 1892, 2 vol., St. Louis, L. E. Daniell, 1892-1893
+# lien: https://archive.org/details/historyoftexasfr01brow/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyoftexasfr01brow/mode/1up?q={q}
+# Pages approximatives.
+= Chefs natchez | Natchez | Natchitoches | 1729 | 2 | Après le massacre des Français, envoient une délégation au « grand chef » (Saint-Denis) pour obtenir la paix.
+Charles Rollins | Autochtones (nation non précisée) | Rivière Trinity (Navasota) | 1812 | 57 | Chef métis de trente Coushattas de la Trinity enrôlés avec Gaines.
+Fields | Cherokees | Nacogdoches | 1826 | 136 | Avec Hunter et d'autres chefs, scelle le 20 décembre l'alliance des Cherokees et tribus associées avec les Fredoniens.

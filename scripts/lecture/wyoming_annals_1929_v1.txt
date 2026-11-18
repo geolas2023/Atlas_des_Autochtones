@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Annals of Wyoming (1929-1931), vol. 1
+# ref: Annals of Wyoming, vol. 6 et 7 (1929-1931)
+# lien: https://archive.org/details/annalsofwyom614192930wyom/page/{page}/mode/1up
+# recherche: https://archive.org/details/annalsofwyom614192930wyom/mode/1up?q={q}
+# Pages approximatives.
+Red Cloud | Sioux (Dakotas, Lakotas, Nakotas) | Agence Red Cloud | 1874 | 179 | Avec ses sous-chefs American Horse, Slow Bull et d'autres, vient en aide aux livreurs.
+Jack | Utes | Agence de White River (Meeker, Colorado) | 1879 | 201 | Chef d'un camp ute sur le Jack Creek, qui porte son nom.
+Douglas | Utes | Agence de White River (Meeker, Colorado) | 1879 | 208 | Chef du second camp ; propose un conseil à Thornburg sans soldats ; six à huit cents Indiens sous ses ordres.

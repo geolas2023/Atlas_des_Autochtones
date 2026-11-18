@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Bancroft, North Mexican States and Texas (1884-1889), vol. 1
+# ref: H. H. Bancroft, History of the North Mexican States and Texas, 2 vol., San Francisco, 1884-1889
+# lien: https://archive.org/details/thenorthmexivol115bancmiss/page/{page}/mode/1up
+# recherche: https://archive.org/details/thenorthmexivol115bancmiss/mode/1up?q={q}
+# Pages approximatives.
+= Chef de San Dionisio | Autochtones (nation non précisée) | Yuma (Colorado) | 1700 | 271 | Kino, invité par les Yumas du Colorado, nomme San Dionisio leur rancheria principale au confluent du Gila.
