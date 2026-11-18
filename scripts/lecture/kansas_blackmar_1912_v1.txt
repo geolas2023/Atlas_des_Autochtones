@@ -1,0 +1,16 @@
+# corpus: Lecture intégrale · Blackmar, Kansas: A Cyclopedia, vol. I (1912)
+# ref: Frank W. Blackmar (éd.), Kansas: A Cyclopedia of State History, Chicago, Standard Publishing Company, 1912, vol. I
+# lien: https://archive.org/details/kansascyclopedia01blac/page/{page}/mode/1up
+# recherche: https://archive.org/details/kansascyclopedia01blac/mode/1up?q={q}
+# Pages approximatives.
+Quanah Parker | Comanches | Adobe Walls (Texas) | 1874 | 30 | Chef de guerre des Comanches ; mène la première charge contre les chasseurs de bisons et est blessé.
+= Arapahos, Cheyennes, Comanches et Kiowas | Arapahos ; Cheyennes ; Comanches ; Kiowas | Adobe Walls (Texas) | 1874 | 30 | Quelque 900 guerriers attaquent le 27 juin après un conseil contre le massacre des bisons.
+Pitalesharu | Pawnees | Villages panis (Platte) | 1819 | s. p. | Jeune chef de guerre qui fait cesser le sacrifice humain chez les Pawnees.
+Fool Chief | Kansas (Kaws) | Village de Fool Chief (North Topeka) | 1835 | 42 | Village où le gouvernement a clôturé et labouré des champs (rapport McCoy).
+Kah-he-ga-wa-ti-an-gah (Fool Chief le jeune) | Kansas (Kaws) | Village de Fool Chief (North Topeka) | 182X | 630 | Hérite du rang de chef de son père.
+Roman Nose | Cheyennes | Beecher Island (Colorado) | 1868 | 97 | Célèbre chef qui prend le commandement après la mort de plusieurs chefs.
+Abraham Burnett | Potawatomis | Chicago | 1821 | 257 | Chef potawatomi, neveu du chef principal ; reçoit une section de terre au traité de Chicago.
+Chetopa | Osages | Chetopa (Kansas) | 1863 | 324 | Chef de guerre osage vivant dans les environs ; la ville porte son nom.
+Ietan (Ju-tan) | Otoes-Missourias | Village otoe (Platte) | 1835 | 525 | Chef principal des Otoes au conseil du 11 juin.
+Big Track | Osages | Village de Clermont (Osages de l'Arkansas) | 1802 | 904 | Mène la moitié des Grands Osages sur l'Arkansas (bande Santsukhdi).
+Chtoka (Wet Stone) | Osages | Osage villages | 1806 | 904 | Chef des Petits Osages ; renseigne le lieutenant (Wilkinson).

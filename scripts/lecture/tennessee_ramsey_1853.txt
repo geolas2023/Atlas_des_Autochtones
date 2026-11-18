@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Ramsey, Annals of Tennessee (1853)
+# ref: J. G. M. Ramsey, The Annals of Tennessee to the End of the Eighteenth Century, Charleston, J. Russell, 1853
+# lien: https://archive.org/details/annalsoftennesse00rams/page/{page}/mode/1up
+# recherche: https://archive.org/details/annalsoftennesse00rams/mode/1up?q={q}
+# Pages approximatives.
+= Chefs cherokees | Cherokees | Nequassee (Nikwasi, Caroline du Nord) | 1730 | 46 | Chefs de toutes les villes cherokees réunis par sir Alexander Cuming ; reconnaissent le roi George.
+Moytoy | Cherokees | Nequassee (Nikwasi, Caroline du Nord) | 1730 | 47 | Nommé commandant et chef de la nation cherokee ; présente la couronne apportée de Tenassee ; six chefs vont à Londres.
+= Chefs des villes d'Over-hill | Cherokees | Long Island du Holston (Kingsport, Tennessee) | 1777~ | 172 | Conférence avec le colonel Christian à Long Island.

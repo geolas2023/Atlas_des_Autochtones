@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Blackmar, Kansas: A Cyclopedia, vol. II (1912)
+# ref: Frank W. Blackmar (éd.), Kansas: A Cyclopedia of State History, Chicago, Standard Publishing Company, 1912, vol. II
+# lien: https://archive.org/details/kansascyclopedia02blac/page/{page}/mode/1up
+# recherche: https://archive.org/details/kansascyclopedia02blac/mode/1up?q={q}
+# Pages approximatives.
+White Hair | Osages | Oswego (Kansas) | 1865 | 420 | Chef osage dont le village donne son nom au lieu ; consent à l'établissement de Dickerman au sud d'Oswego.
+= Chefs delawares | Lenapes (Delawares, Loups) | Leavenworth | 1854 | 121 | Laissent les fondateurs de Leavenworth rester contre l'assurance du paiement du prix fixé.
+= Chefs des Grands et Petits Osages | Osages | Council Grove | 1825 | 646 | Traité conclu à Council Grove sur la Neosho.

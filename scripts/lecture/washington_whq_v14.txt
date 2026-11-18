@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Washington Historical Quarterly, vol. XIV (1923)
+# ref: The Washington Historical Quarterly, vol. XIV (1923), Seattle, Washington University State Historical Society
+# lien: https://archive.org/details/washingtonhistor14wash/page/{page}/mode/1up
+# recherche: https://archive.org/details/washingtonhistor14wash/mode/1up?q={q}
+# Pages approximatives.
+Toke | Autochtones (nation non précisée) | Baie Willapa (Washington) | 1857 | 46 | Chef jadis important, décrit par James Swan ; la pointe Toke porte son nom.
+Yellepit | Walla Wallas | Walla Walla | 1805 | 221 | Grand chef walla walla, reçoit de Lewis et Clark une médaille de Jefferson.
