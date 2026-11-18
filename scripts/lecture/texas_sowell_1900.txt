@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Sowell, Early Settlers and Indian Fighters of Southwest Texas (1900)
+# ref: Andrew Jackson Sowell, Early Settlers and Indian Fighters of Southwest Texas, Austin, Ben C. Jones, 1900
+# lien: https://archive.org/details/earlysettlersind00sowe/page/{page}/mode/1up
+# recherche: https://archive.org/details/earlysettlersind00sowe/mode/1up?q={q}
+# Pages approximatives.
+Bowles | Cherokees | Bataille de la Neches (Texas) | 1839 | 14 | Un des deux chefs qui commandent les Autochtones ; tué dans le combat.
+Big Mush | Cherokees | Bataille de la Neches (Texas) | 1839 | 14 | Second chef des Autochtones, tué lui aussi.
+= Chefs lipans | Apaches | San Antonio | 185X | 208 | Quatre chefs lipans contraints de guider une expédition sur la piste des leurs s'enfuient pour avertir leur bande, qui passe au Mexique.
+Castile | Coahuiltèques et peuples du Texas | San Antonio | 1871 | s. p. | Chef tonkawa qui accompagne une poursuite avec son guerrier Bill.

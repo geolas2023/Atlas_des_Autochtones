@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · Brown, Indian Wars and Pioneers of Texas (1896)
+# ref: John Henry Brown, Indian Wars and Pioneers of Texas, Austin, Daniell, 1896
+# lien: https://archive.org/details/indianwarspionee00brow/page/{page}/mode/1up
+# recherche: https://archive.org/details/indianwarspionee00brow/mode/1up?q={q}
+# Pages approximatives.
+= Bowles, Fields et Nicollet | Cherokees | Mexico (ville) | 1822 | 11 | Trois chefs cherokees à Mexico, en quête d'une concession pour le district où ils s'étaient établis.
+Isaonie | Comanches; Wichitas et Taovayas | San Saba (presidio) | 1831 | 20 | Chef comanche qui envoie un captif mexicain avertir la troupe de Bowie qu'elle est suivie par des Tawakonis et des Wacos ; le messager présente sa médaille d'argent.
+Canoma | Caddos et Hasinais | Chutes de la Brazos (Marlin, Texas) | 1833 | 25 | Chef d'une petite bande caddo, fidèle et amical, qui vit près des Américains aux chutes.
+The Bowl (Bowles) | Cherokees; Coahuiltèques et peuples du Texas | Bataille de la Neches (Texas) | 1838 | 56, 63 | Chef principal des Cherokees, chez qui Cordova cherche en vain une alliance ; quelques Cherokees et Coushattas le rejoignent.
+Muke-war-rah | Comanches | San Antonio | 1840 | 77 | Chef comanche qui avait promis de ramener les captifs ; il n'en amène qu'un au conseil.
+Mohee | Comanches | Rivière Pease (Texas) | 1860 | 42 | Chef de la bande rejoint par Ross après deux milles de poursuite.
+Quanah Parker | Comanches | Wichita Falls (Texas) | 1854 | s. p. | Né à Wichita Falls en 1854 selon ce qu'il dit à l'auteur ; chef populaire et digne de confiance de la réserve comanche.
+Cow-leach | Shawnees | Clarksville (Texas) | 183X | 206 | Chef shawnee qui vivait sur une prairie à quatre milles de Clarksville, qui porte encore son nom.
