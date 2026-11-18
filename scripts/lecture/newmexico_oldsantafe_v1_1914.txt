@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Old Santa Fe, vol. I (1914)
+# ref: Old Santa Fe: A Magazine of History, Archaeology, Genealogy and Biography, vol. I, Santa Fe, Old Santa Fe Press, 1913-1914
+# lien: https://archive.org/details/oldsantafemagazi01unse_1/page/{page}/mode/1up
+# recherche: https://archive.org/details/oldsantafemagazi01unse_1/mode/1up?q={q}
+# Pages approximatives.
+= Dix-huit chefs navajos | Navajos (Diné) | Santa Fe | 1862 | 385 | Députation venue demander à Carleton, nouvellement arrivé, s'il veut faire un traité.
+= Chefs mescaleros à Fort Stanton | Apaches | Fort Stanton (Nouveau-Mexique) | 1863 | 399 | Carson signale l'arrivée de cent Mescaleros sous les chefs Ojo Blanco, Janero Viejo, Janero Pablo, Janero Francisco, José La Paz, Mancos, Son et Schat-hi.

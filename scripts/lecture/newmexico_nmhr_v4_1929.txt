@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · New Mexico Historical Review, vol. IV (1929)
+# ref: New Mexico Historical Review, vol. IV (1929)
+# lien: https://archive.org/details/newmexicohistori04univrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/newmexicohistori04univrich/mode/1up?q={q}
+# Pages approximatives.
+Es-kim-in-zin | Apaches | Camp Grant (Arizona) | 1871 | 18-20 | Premier chef à venir au poste de Camp Grant au printemps 1871 demander à vivre en paix ; le général Howard garde confiance en lui.
+Tah-zay | Apaches | Washington (D.C.) | 1876 | 7-11 | Jeune chef chiricahua, aîné des fils de Cochise (mort en 1874), qui accompagne l'agent dans l'Est et meurt à Washington.
+Dis-a-lin | Apaches | San Carlos (Arizona) | 1875-12-22 | 207 | Chef très en vue qui, pris de colère, tire deux coups de feu sur l'agent.

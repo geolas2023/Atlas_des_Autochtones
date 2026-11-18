@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Twitchell, The Spanish Archives of New Mexico, vol. II (1914)
+# ref: R. E. Twitchell, The Spanish Archives of New Mexico, vol. II, Cedar Rapids, Torch Press, 1914
+# lien: https://archive.org/details/spanisharchiveso02twituoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/spanisharchiveso02twituoft/mode/1up?q={q}
+# Pages approximatives.
+Alonso Catiti | Pueblos; Métis | Santo Domingo (Nouveau-Mexique) | 1680 | 25, 54 | Métis de la nation queres qui conduit les Autochtones dans la révolte et à qui l'on obéit beaucoup depuis.
+Luis Tupatu | Pueblos | Picuris (Nouveau-Mexique) | 1681 | 54 | Chef de Picuris, dont le beau-frère est cité comme témoin des chefs de la révolte.

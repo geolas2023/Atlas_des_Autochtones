@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · History of New Mexico, Its Resources and People (Pacific States, 1907)
+# ref: History of New Mexico, Its Resources and People, Pacific States Publishing Co., 1907
+# lien: https://archive.org/details/historyofnewmexi01paci/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofnewmexi01paci/mode/1up?q={q}
+# Pages approximatives.
+Zutucapan | Pueblos | Acoma (Nouveau-Mexique) | 1598-10-27 | 14 | Cacique d'Acoma, l'un des derniers à se plier à la demande d'Oñate ; il prête serment à contrecœur.
+Nana | Apaches | Chloride (Nouveau-Mexique) | 1881-01-18 | 393 | Chef apache dont la troupe fond sur Chloride, tue deux hommes et enlève chevaux et bétail.

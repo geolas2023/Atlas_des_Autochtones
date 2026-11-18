@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Hall, History of the State of Colorado, vol. IV (1895)
+# ref: Frank Hall, History of the State of Colorado, vol. IV (1895)
+# lien: https://archive.org/details/historyofstateof04hall/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofstateof04hall/mode/1up?q={q}
+# Pages approximatives.
+Bald Wolf (Loup chauve) | Arapahos | Cache la Poudre (Colorado) | 1858 | 181 | Chef qui tient conseil avec ses guerriers et cède aux colons les terres du pied des montagnes jusqu'à l'embouchure de la Box Elder.
+= Chefs utes signataires | Utes | Agence de Los Pinos (Colorado) | 1873 | 62 | Ignacio, Chavaneaux et d'autres chefs signent l'accord.
+= Chefs de White River à Washington | Utes | Washington (D.C.) | 1880-06-15 | 61 | Après le massacre de l'agent Meeker, chefs et hommes principaux s'engagent à vendre leur réserve aux États-Unis.
+Ochinee | Cheyennes | Sand Creek (Colorado) | 1864 | 280 | Chef de guerre cheyenne tué à la bataille de Sand Creek ; sa fille épouse un Blanc en 1868.

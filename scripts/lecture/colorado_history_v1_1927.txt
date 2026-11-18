@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · History of Colorado, vol. I (State Historical and Natural History Society, 1927)
+# ref: History of Colorado, vol. I (1927), State Historical and Natural History Society of Colorado
+# lien: https://archive.org/details/historycolorad01stat/page/{page}/mode/1up
+# recherche: https://archive.org/details/historycolorad01stat/mode/1up?q={q}
+# Pages approximatives.
+Cuerno Verde (Greenhorn) | Comanches | Greenhorn (Colorado) | 1779 | 278 | Chef comanche dont les raids meurtriers motivent l'expédition punitive espagnole ; les monts Greenhorn portent son nom.
+= Chef pawnee devant Pike | Pawnees | Village pawnee de la Republican (Kansas) | 1806 | 281 | Le chef affirme avoir fait rebrousser chemin aux Espagnols et promis de faire de même avec les Américains.

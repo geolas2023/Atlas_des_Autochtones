@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Hall, History of the State of Colorado, vol. I (1889)
+# ref: Frank Hall, History of the State of Colorado, vol. I (1889)
+# lien: https://archive.org/details/historyofstateof01hall/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofstateof01hall/mode/1up?q={q}
+# Pages approximatives.
+Left Hand (Main gauche) | Arapahos | Boulder (Colorado) | 1858 | 15 | Chef arapaho qui consent à l'installation des chercheurs d'or.
+Bear Head (Tête d'ours) | Arapahos | Boulder (Colorado) | 1858 | 15 | Autre chef qui désavoue l'accord de Left Hand et vient au campement de Red Rock se plaindre des intrus en invoquant la comète.
