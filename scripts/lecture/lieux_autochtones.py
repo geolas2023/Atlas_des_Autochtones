@@ -50,4 +50,6 @@ L = {
     'Wood Lake (Minnesota)': (-95.54, 44.65, 'a', 'Wood Lake, Minnesota (bataille de 1862)'),
     'Old Crossing (rivière Otter Tail)': (-96.4, 46.3, 'h', "Old Crossing, sur l'Otter Tail, à seize milles de Breckenridge"),
     'Comté de Spink (Dakota du Sud)': (-98.35, 44.95, 'a', "Comté de Spink, vallée de la James (Dakota du Sud)"),
+    'Montagne du Chef (rivière Sheyenne, Dakota du Nord)': (-98.9, 47.6, 'h', "Chief's Mountain, près de la Sheyenne (Dakota du Nord)"),
+    'Lac Dauphin (Manitoba)': (-99.75, 51.25, 'c', "Lac Dauphin (Manitoba)"),
 }

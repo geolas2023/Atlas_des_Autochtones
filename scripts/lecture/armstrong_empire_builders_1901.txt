@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Armstrong, Early Empire Builders of the Great West (1901)
+# ref: Moses K. Armstrong, The Early Empire Builders of the Great West, Saint Paul, 1901
+# lien: https://archive.org/details/empirebuildersof00arms/page/{page}/mode/1up
+# recherche: https://archive.org/details/empirebuildersof00arms/mode/1up?q={q}
+# Pages approximatives.
+Bone-Necklace | Sioux | Fort Sully (Dakota du Sud) | 1866-06 | 164 | Grand chef des Yanktonnais, prononce un discours éloquent au conseil des annuités ; les vingt-trois chefs qui parlent affirment que terres et routes sont encore à eux.
