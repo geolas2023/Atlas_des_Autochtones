@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Collections of the Kansas State Historical Society, vol. XII (1912)
+# ref: Collections of the Kansas State Historical Society, vol. XII (1911-1912), Topeka, 1912
+# lien: https://archive.org/details/collectionsofkan12kans_0/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofkan12kans_0/mode/1up?q={q}
+# Pages approximatives.
+Ketchum | Lenapes (Delawares, Loups) | Réserve delaware (Kansas) | 1861 | 188 | Chef malade à qui l'on rend visite en buggy, à six milles.
+Ed Black | Illinois (Inoka) | Osawatomie (Kansas) | 185X | 346 | Chef des Peorias qui surnomme John Brown « Osawatomie Brown » le jour de la fondation de la ville.

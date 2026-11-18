@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Collections of the Kansas State Historical Society, vol. XVII (1928)
+# ref: Collections of the Kansas State Historical Society, vol. XVII (1926-1928), Topeka, 1928
+# lien: https://archive.org/details/collectionsofkan1719kans/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofkan1719kans/mode/1up?q={q}
+# Pages approximatives.
+= Village cheyenne de la Pawnee Fork | Cheyennes | Fort Larned (Kansas) | 1867-04-19 | 212 | Village incendié sur ordre du général Hancock, à une trentaine de milles à l'ouest de Fort Larned.
+Roman Nose | Cheyennes | Fort Wallace (Kansas) | 1867 | 209 | Chef qui attaque une station à deux milles de Fort Wallace et enlève le bétail de la compagnie de diligences.
+Horseback | Comanches | Fort Sill (Oklahoma) | 1873 | 637 | Chef principal des Comanches, dont le fils Pe-ah-rite aborde l'auteur.
+Tosh-a-way (Broche d'argent) | Comanches | Agence wichita (Anadarko) | 1874-08-23 | 634, 648 | Chef des Penatekas qui, au plus fort de la fusillade, vient demander aux soldats d'épargner son camp.
+Big Red Food | Comanches | Agence wichita (Anadarko) | 1874-08-23 | 647 | Chef mineur dont la bande campée à l'agence réclame des vivres quand arrive le général Davidson.

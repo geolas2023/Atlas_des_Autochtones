@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Bossu, Travels through that Part of North America formerly called Louisiana, vol. I (1771)
+# ref: Jean-Bernard Bossu, Travels through that Part of North America formerly called Louisiana, vol. I, Londres, T. Davies, 1771
+# lien: https://archive.org/details/travelsthroughth01boss/page/{page}/mode/1up
+# recherche: https://archive.org/details/travelsthroughth01boss/mode/1up?q={q}
+# Pages approximatives.
+Papapé-changouhias | Illinois (Inoka) | Village de la Kaskaskia (Illinois) | 1754 | 184 | Grand chef des Illinois, apparenté à plusieurs Français de distinction établis parmi eux ; successeur de Chikagou.
+Chikagou | Illinois (Inoka) | Village de la Kaskaskia (Illinois) | 1754 | 184 | Prince des Tamaroas, prédécesseur de Papapé-changouhias, mort en 1754.
+Wolf (le Loup) | Cherokees | Fort Loudoun (Tennessee) | 1760 | 329 | Chef de guerre cherokee dont le parti s'empare du fort Loudon des Britanniques.

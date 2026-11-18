@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Collections of the Kansas State Historical Society, vol. IX (1906)
+# ref: Transactions of the Kansas State Historical Society, vol. IX (1905-1906), Topeka, 1906
+# lien: https://archive.org/details/collectionsofkan09kans/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofkan09kans/mode/1up?q={q}
+# Pages approximatives.
+= Chef principal de la nation osage | Osages | Mission osage (Neosho) | 1827 | s. p. | Il réside sur la Neosho, dans une maison bâtie sur l'Auguste Creek, au milieu des villages des deux divisions de la Neosho et du Verdigris.
+Weh-yah-pih-ehr-sehn-wah (Bluejacket) | Shawnees | Kekionga (Kiskakon) | 1790 | 182 | Célèbre chef de guerre shawnee présent à la bataille où le général Harmar est défait.
+Kennekuk | Kickapous | Réserve kickapoo (Horton) | 1833 | 207 | Chef kickapou dont l'ancienne agence, devenue le village de Kennekuk, porte le nom.

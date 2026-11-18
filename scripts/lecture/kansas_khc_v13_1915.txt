@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Collections of the Kansas State Historical Society, vol. XIII (1915)
+# ref: Collections of the Kansas State Historical Society, vol. XIII (1913-1914), Topeka, 1915
+# lien: https://archive.org/details/collectionsofkan13kans/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofkan13kans/mode/1up?q={q}
+# Pages approximatives.
+Ah-ho-appa | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1866 | s. p. | Fille du chef Spotted Tail (Shan-tag-a-lisk), dont Ware raconte l'histoire touchante.
+Pas-tee (John Wilson) | Odawas (Outaouais) | Osage Mission (St. Paul, Kansas) | 186X | 583 | Chef des Outaouais du Kansas, mort à Osage Mission en conduisant sa tribu vers le Territoire indien.
+Theh-con-a-gah (Davis) | Shawnees; Odawas (Outaouais) | Ottawa (Kansas) | 186X | 377 | Chef des Shawnees avec qui John Wilson passe contrat pour protéger l'argent des Outaouais.

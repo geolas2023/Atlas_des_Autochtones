@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Hempstead, A Pictorial History of Arkansas (1890)
+# ref: Fay Hempstead, A Pictorial History of Arkansas, from Earliest Times to the Year 1890, St. Louis, N. D. Thompson, 1890
+# lien: https://archive.org/details/pictorialhistory00hemp/page/{page}/mode/1up
+# recherche: https://archive.org/details/pictorialhistory00hemp/mode/1up?q={q}
+# Pages approximatives.
+Ta-kah-to-kuh | Cherokees; Osages | Fort Smith (Arkansas) | 1823 | 13 | Chef de guerre des Cherokees de l'Arkansas (John Jolly étant chef civil), qui déclare la guerre aux Osages et refuse obstinément de paraître aux conseils de paix de Fort Smith.
+John Jolly | Cherokees | Dardanelle (Arkansas) | 1821 | 13 | Chef civil des Cherokees de l'Arkansas pendant la guerre contre les Osages.

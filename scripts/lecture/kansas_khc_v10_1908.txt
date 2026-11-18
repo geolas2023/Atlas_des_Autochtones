@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Collections of the Kansas State Historical Society, vol. X (1908)
+# ref: Transactions of the Kansas State Historical Society, vol. X (1907-1908), Topeka, 1908
+# lien: https://archive.org/details/collectionsofkan10kans_0/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofkan10kans_0/mode/1up?q={q}
+# Pages approximatives.
+= Black Kettle, Seven Bulls, Little Raven et Storm | Cheyennes; Arapahos | Embouchure de la Little Arkansas (Wichita) | 1865 | 11 | Chefs et hommes principaux qui représentent leurs nations au traité de la Little Arkansas.
+White Cloud (Mo-has-ka) | Iowas | Agence de la Grande Nemaha (Highland) | 1837 | 323 | Chef principal des Iowas à leur arrivée au Kansas ; sa femme s'appelle Raut-che-wai-me, « pigeon voyageur femelle ».
+No-heart (Nan-chee-nin-ga) | Iowas; Sioux (Dakotas, Lakotas, Nakotas) | Agence de la Grande Nemaha (Highland) | 1838 | 323 | Chef principal des Iowas qui se vante, un 4 juillet à Highland, d'avoir tué sept Sioux dans une seule bataille.
+Ne-sour-quoit (Bear) | Otoes-Missourias | Agence de la Grande Nemaha (Highland) | 1837 | 323 | Chef principal de la bande missouri venue au Kansas avec les Iowas.
+Kah-he-gah-wa-ti-an-gah (Fool Chief) | Kansas (Kaws) | Village du Fool Chief (Menoken) | 1830 | 348 | Son village, le plus grand de la tribu, se trouve d'environ 1830 à 1846 au nord de la rivière Kansas, près de Menoken.
+Al-le-ga-wa-ho | Kansas (Kaws) | Council Grove | 1847~ | 353 | Élu chef principal après la destitution du jeune Fool Chief, qui avait tué sans raison un guerrier réputé ; orateur éloquent.

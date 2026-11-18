@@ -127,4 +127,12 @@ L = {
     'Garlandsville (Mississippi)': (-89.17, 32.23, 'c', 'Garlandsville, comté de Jasper (Mississippi)'),
     'Iuka (Mississippi)': (-88.19, 34.81, 'c', 'Iuka (Mississippi)'),
     'Black Warrior River (Alabama)': (-87.6, 33.3, 'h', 'Rivière Black Warrior (Alabama)'),
+    'Chickalah (Arkansas)': (-93.3, 35.2, 'a', 'Chickalah, comté de Yell (Arkansas)'),
+    'The Galley (Arkansas)': (-93.13, 35.28, 'h', "The Galley, village cherokee sur l'Arkansas (Arkansas)"),
+    'Fort Loudoun (Tennessee)': (-84.2, 35.6, 'c', 'Fort Loudoun, sur la Little Tennessee'),
+    'Embouchure de la Little Arkansas (Wichita)': (-97.34, 37.69, 'a', 'Embouchure de la Little Arkansas, site de Wichita (Kansas)'),
+    'Osage Mission (St. Paul, Kansas)': (-95.17, 37.52, 'c', "Osage Mission, aujourd'hui St. Paul (Kansas)"),
+    'Agence wichita (Anadarko)': (-98.24, 35.07, 'a', 'Agence wichita, Anadarko (Oklahoma)'),
+    'Fort Sill (Oklahoma)': (-98.4, 34.65, 'c', 'Fort Sill (Oklahoma)'),
+    'Osawatomie (Kansas)': (-94.95, 38.5, 'c', 'Osawatomie (Kansas)'),
 }

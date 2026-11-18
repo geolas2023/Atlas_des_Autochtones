@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Biographical and Historical Memoirs of Western Arkansas (Goodspeed, 1891)
+# ref: Biographical and Historical Memoirs of Western Arkansas, Chicago, Southern Publishing Co., 1891
+# lien: https://archive.org/details/biographicalhist00sout_0/page/{page}/mode/1up
+# recherche: https://archive.org/details/biographicalhist00sout_0/mode/1up?q={q}
+# Pages approximatives.
+Rogers | Cherokees | Dardanelle (Arkansas) | 1790~ | 117 | Chef cherokee établi vers 1790 près de l'actuelle Dardanelle avec une bande de chasseurs et de guerriers.
+Chickalah | Cherokees | Chickalah (Arkansas) | 179X | 117 | Autre chef cherokee, établi ensuite sur le site du village qui porte son nom.

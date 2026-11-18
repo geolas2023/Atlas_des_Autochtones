@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Biographical and Historical Memoirs of Central Arkansas (Goodspeed, 1889)
+# ref: Biographical and Historical Memoirs of Pulaski, Jefferson, Lonoke, Faulkner, Grant, Saline, Perry, Garland and Hot Spring Counties, Arkansas, Chicago, Goodspeed, 1889
+# lien: https://archive.org/details/biographicalhistpjlf00good/page/{page}/mode/1up
+# recherche: https://archive.org/details/biographicalhistpjlf00good/mode/1up?q={q}
+# Pages approximatives.
+= Fusil des chefs quapaws | Quapaws (Arkansas) | Poste des Arkansas | 1818 | 127 | Fusil transmis de chef en chef pendant cent neuf ans, remis à un commissaire au traité de 1818 en gage d'amitié, aujourd'hui au Smithsonian.
