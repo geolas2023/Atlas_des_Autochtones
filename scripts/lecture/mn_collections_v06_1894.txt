@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · Collections of the Minnesota Historical Society, vol. VI (1894)
+# ref: Collections of the Minnesota Historical Society, vol. VI, Saint Paul, The Pioneer Press Company, 1894
+# lien: https://archive.org/details/collections06minnuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/collections06minnuoft/mode/1up?q={q}
+# Pages approximatives.
+Bande de Wabasha | Sioux (Dakotas, Lakotas, Nakotas) | Black River (Wisconsin) | 1822 | 200 | La bande de Wabasha chasse de son poste le traiteur indépendant Augustin Grignon; l'agent Taliaferro accuse Rolette de l'avoir poussée.
+Délégation sioux et chippewa | Sioux (Dakotas, Lakotas, Nakotas); Anishinaabés (Ojibwés, Saulteux) | Prairie du Chien | 1825 | 206 | Trois cent quatre-vingt-cinq Sioux (dont ceux du lac qui Parle et de Big Stone) et Chippewas descendent ensemble au grand conseil de Prairie du Chien; Flat Mouth, d'Otter Tail, se dit malade.
+Nancy McClure | Sioux (Dakotas, Lakotas, Nakotas) | Mendota | 1836 | 439 | Naissance, à Saint-Pierre (Mendota), de la future captive métisse, élevée ensuite par sa grand-mère dakota.
+Signataires du traité | Sioux (Dakotas, Lakotas, Nakotas) | Traverse des Sioux | 1851 | 446 | Grand traité de Traverse des Sioux entre le gouvernement et les Sioux, raconté par Nancy McClure, élève de l'école de la mission.
+Soulèvement dakota | Sioux (Dakotas, Lakotas, Nakotas) | Redwood (Minnesota) | 1862 | 448 | Le 18 août, les Dakotas tuent les Blancs de l'agence inférieure; les Faribault, métis, sont faits prisonniers et conduits au camp de Little Crow.
+Wamdetonka (Jerome Big Eagle) | Sioux (Dakotas, Lakotas, Nakotas) | New Ulm (Minnesota) | 1862 | 391 | Sous-chef dakota, il combat au second assaut de New Ulm et à la seconde attaque du fort Ridgely; récit recueilli en 1894.
+Mankato et guerriers dakotas | Sioux (Dakotas, Lakotas, Nakotas) | Birch Coulee (Minnesota) | 1862 | 395 | Siège du détachement de Birch Coulee; Mankato veut charger dès la première heure.
+Little Crow | Sioux (Dakotas, Lakotas, Nakotas) | Redwood (Minnesota) | 1862 | 453 | Il tient un conseil d'où sont exclus les Dakotas ayant des parents métis; les captifs métis craignent d'être tués.

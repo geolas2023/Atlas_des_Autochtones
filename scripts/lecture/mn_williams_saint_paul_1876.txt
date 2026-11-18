@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Williams, History of the City of Saint Paul (1876)
+# ref: J. Fletcher Williams, A History of the City of Saint Paul, and of the County of Ramsey, Minnesota (Collections of the Minnesota Historical Society, vol. IV), Saint Paul, 1876
+# lien: https://archive.org/details/collections04minnuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/collections04minnuoft/mode/1up?q={q}
+# Pages approximatives.
+= Fils de Little Crow | Sioux (Dakotas, Lakotas, Nakotas) | Stillwater | 1841~ | 122 | Lors d'une expédition de vengeance de Kaposia contre les Ojibwés, deux des fils de Little Crow sont tués près des chutes de la Sainte-Croix.
+= Parti de guerre ojibwé de Fond du Lac, de Mille Lacs et de la Sainte-Croix | Anishinaabés (Ojibwés, Saulteux) | Pig's Eye (Saint Paul) | 1842 | 122-123 | Une centaine de guerriers attaquent le village de Little Crow à Kaposia depuis Pine Coulie et tuent la femme de Francis Gammel au Grand Marais.
+Josephine Boileau | Kootenais (Ktunaxa) | Red River | 1827~ | 98 | Métisse kootenaie, épouse de Joseph Rondo à la colonie de la rivière Rouge ; ils viennent à Fort Snelling avec les réfugiés.
