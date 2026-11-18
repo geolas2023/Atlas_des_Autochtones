@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Coutant, The History of Wyoming (1899)
+# ref: C. G. Coutant, The History of Wyoming from the Earliest Known Discoveries, vol. 1 (1899)
+# lien: https://archive.org/details/historyofwyoming00cout/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofwyoming00cout/mode/1up?q={q}
+# Pages approximatives.
+Big Face (Grand Visage) | Salish (Têtes-Plates) | Green River rendezvous | 1840 | s. p. | Grand chef qui accueille le P. De Smet entouré des principaux des deux tribus.
+Mat-to-i-o-way (Conquering Bear) | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie (Grattan) | 1854-08 | s. p. | Chef qui vient lui-même signaler au fort qu'un chasseur de sa bande a tué la vache d'un Mormon, prélude à l'affaire Grattan.

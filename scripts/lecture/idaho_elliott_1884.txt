@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · History of Idaho Territory (Elliott, 1884)
+# ref: H. N. Elliott (éd.), History of Idaho Territory (1884), San Francisco, Wallace W. Elliott & Co.
+# lien: https://archive.org/details/historyidaho1884/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyidaho1884/mode/1up?q={q}
+# Pages approximatives.
+Yellept | Walla Wallas | Rivière Walla Walla | 1806-04 | 26-27 | Chef principal des Walla Wallas, qui reçoit Lewis et Clark à bras ouverts ; Clark lui donne son épée.
+Lawyer | Nimíipuu (Nez-Percés) | Green River rendezvous | 1835 | 35 | Jeune chef nez-percé surnommé Lawyer par les Blancs pour son talent dans la discussion.
+White Bird | Nimíipuu (Nez-Percés) | White Bird | 1877 | 156 | Principal chef des non-signataires, qui disputait souvent à Joseph le commandement.

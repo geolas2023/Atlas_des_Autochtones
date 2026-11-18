@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Collection of Nebraska Pioneer Reminiscences (1916)
+# ref: Nebraska Society of the Daughters of the American Revolution, Collection of Nebraska Pioneer Reminiscences (1916)
+# lien: https://archive.org/details/collectionofnebr00daug/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionofnebr00daug/mode/1up?q={q}
+# Pages approximatives.
+Prairie Chicken | Omahas | Réserve omaha (Macy) | 1867 | 97, 100 | Chef omaha qui, avec ses frères Sammy et Luke White et dix-sept autres, demande refuge à un colon par crainte d'être renvoyé à la réserve.
+Medicine Horse | Otoes-Missourias | Réserve otoe (Gage) | 1869 | 116, 120 | Vieux chef otoe ; l'agent le fait chef principal à la place d'Arkeketah.
+Arkeketah | Otoes-Missourias | Réserve otoe (Gage) | 1869 | 120 | Chef principal des Otoes, déposé par l'agent qui le juge réfractaire.
+Eagle (l'Aigle) | Otoes-Missourias | Réserve otoe (Gage) | 1869 | 119 | Vieux chef de guerre héréditaire, seul chef des Missouris, maître de la chasse au bison.
+= Chefs convoqués par les commissaires | Sioux (Dakotas, Lakotas, Nakotas); Cheyennes | North Platte (Nebraska) | 1867-09 | 192 | Tous les chefs sont appelés à North Platte devant les commissaires chargés de traiter avec eux.

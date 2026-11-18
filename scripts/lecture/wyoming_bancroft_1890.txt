@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Bancroft, History of Nevada, Colorado, and Wyoming (1890)
+# ref: H. H. Bancroft, History of Nevada, Colorado, and Wyoming, 1540-1888, San Francisco, The History Company, 1890
+# lien: https://archive.org/details/nevcolandwyom00bancroft/page/{page}/mode/1up
+# recherche: https://archive.org/details/nevcolandwyom00bancroft/mode/1up?q={q}
+# Pages approximatives.
+Poito (Old Winnemucca) | Paiutes | Honey Lake | 1860 | 207-208 | Chef principal des Paiutes, résidant sur la Smoke Creek près du lac Honey ; il soutient la guerre en secret sans se compromettre.
+Numaga (Young Winnemucca) | Paiutes | Pyramid Lake | 1860 | 208 | Seul chef du conseil opposé à la guerre, connaissant le nombre et la force des Blancs.
+Mogoannoga (Captain Soo) | Paiutes | Humboldt Meadows (Nevada) | 1860 | 208 | Chef des gens de Humboldt Meadows qui quitte le conseil avec neuf guerriers.
+Sequinata (Chiquito Winnemucca, Black Rock Tom) | Paiutes | Black Rock (Nevada) | 1860 | 210 | Chef de Black Rock qui refoule les volontaires.
+Friday | Arapahos | Fort Collins (Colorado) | 186X | 404 | Chef d'une bande de 175 Arapahos établie à Fort Collins.
+Left Hand (Main gauche) | Arapahos | Fort Lyon (Colorado) | 186X | 404 | Chef d'une autre bande arapaho qui se rend à Fort Lyon sans y rester longtemps.

@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Transactions and Reports of the Nebraska State Historical Society, vol. I (1885)
+# ref: Transactions and Reports of the Nebraska State Historical Society, vol. 1 (1885)
+# lien: https://archive.org/details/transactionsrepo00nebr/page/{page}/mode/1up
+# recherche: https://archive.org/details/transactionsrepo00nebr/mode/1up?q={q}
+# Pages approximatives.
+Artakeeta | Otoes-Missourias | Plattsmouth | 1854 | 41 | Chef principal qui signe pour la nation otoe le traité préliminaire près de l'embouchure de la Platte avant le voyage des chefs à Washington.
+= Chefs de bandes otoes | Otoes-Missourias | Plattsmouth | 1854 | 41 | Big Buffalo, White Water et Kickapoo signent avec Artakeeta.
+Wa-ging-a-sa-by (Blackbird) | Omahas | Saint-Louis | 1794 | 49 | Brevet espagnol de « chef principal de la nation des Ma-has ».
+Wash-com-ma-nii | Omahas | Saint-Louis | 1806-07-27 | 56 | Commission de chef des Omahas signée par James Wilkinson.
+The-ro-chy (Deux côtés d'une vache) | Omahas | Saint-Louis | 1815-07-27 | 56 | Commission de « chef soldat » de la nation omaha donnée par William Clark.
+Wash-ca-ma-nee (le Marcheur dur) | Omahas | Saint-Louis | 1815-07-27 | 56 | Commission de second chef de la nation omaha.

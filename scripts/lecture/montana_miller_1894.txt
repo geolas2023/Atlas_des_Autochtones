@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · An Illustrated History of the State of Montana (Miller, 1894)
+# ref: Joaquin Miller (dir.), An Illustrated History of the State of Montana (1894)
+# lien: https://archive.org/details/illustratedhisto00mill/page/{page}/mode/1up
+# recherche: https://archive.org/details/illustratedhisto00mill/mode/1up?q={q}
+# Pages approximatives.
+Kagohweto (Brave Raven) | Arikaras | Villages arikaras | 1805-04 | s. p. | Chef arikara qui apporte à Lewis et Clark une lettre de Tabeau sur le désir des grands chefs ricaras de visiter le président.
