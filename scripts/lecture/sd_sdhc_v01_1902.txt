@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · South Dakota Historical Collections, vol. I (1902)
+# ref: South Dakota Historical Collections, vol. I, Pierre, State Historical Society, 1902
+# lien: https://archive.org/details/reporthistorical01soutuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/reporthistorical01soutuoft/mode/1up?q={q}
+# Pages approximatives.
+Tahama (Le Borgne) | Sioux (Dakotas, Lakotas, Nakotas) | Rivière James (Dakota) | 1814 | 103 | Sioux borgne resté fidèle aux Américains en 1812 ; revient avec Manuel Lisa et, à l'embouchure de la James, part porter des dépêches à Prairie du Chien.
+Little Soldier | Arikaras | Villages arikaras | 1823-08 | 225 | Premier chef arikara ; parlemente avec le colonel Leavenworth, reçoit les officiers dans ses loges et demande à retirer sa famille avant l'assaut.
+Struck-by-the-Ree | Sioux (Dakotas, Lakotas, Nakotas) | Fort Randall (Dakota du Sud) | 1857 | 46-47 | Chef principal des Yanktons ; d'abord rabroué par les officiers, il part pour Fort Pierre puis revient conférer avec le capitaine Todd, qui l'emmène à Washington en décembre.
+= Femme de Charles Reulo et ses deux sœurs | Sioux (Dakotas, Lakotas, Nakotas) | Agence yanktonne (Greenwood, Dakota du Sud) | 1858 | 449 | Métisses yanktonnes, épouses de Charles Reulo, Eli Bedaud et Augustus Traverse, dotées chacune d'une demi-section par le traité yankton.

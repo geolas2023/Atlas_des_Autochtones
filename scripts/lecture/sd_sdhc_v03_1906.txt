@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · South Dakota Historical Collections, vol. III (1906)
+# ref: South Dakota Historical Collections, vol. III, Pierre, State Historical Society, 1906
+# lien: https://archive.org/details/reporthistorical03soutuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/reporthistorical03soutuoft/mode/1up?q={q}
+# Pages approximatives.
+Swift Bird | Autochtones (nation non précisée) | Embouchure du ruisseau Chapelle (Dakota du Sud) | 1829 | 285 | Fils métis du traiteur Chapelle, né à l'embouchure du ruisseau ; son grand-père maternel joua un rôle dans la guerre des Arikaras ; témoin de la tradition sur la conquête des Arikaras par les Tetons.
+Ka-gohweto (Brave Raven) | Arikaras | Fort Mandan | 1805-04-07 | 398 | Chef arikara venu au quartier de Lewis et Clark avec une lettre de Tabeau annonçant le souhait des grands chefs de visiter le président.
+= Le Gauche et Big Man | Arikaras | Villages arikaras | 1811 | 442-446 | Chef principal (gaucher) et chef de guerre arikaras qui viennent en canot au-devant des expéditions de Hunt et de Lisa ; Le Gauche préside le calumet et accueille les marchandises de Lisa dans sa loge.
+Bande d'Inkpaduta | Sioux (Dakotas, Lakotas, Nakotas) | Comté d'Union (Dakota du Sud) | 1865 | 71 | Parti qui tue Eduard La Moure et blesse d'une flèche Thomas C. Watson, fermier du ruisseau Brule.
