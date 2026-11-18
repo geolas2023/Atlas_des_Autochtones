@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Cadillac Papers (1905)
+# ref: Burton, C. M. (éd.) (1905), « Cadillac Papers » (suite), « Cadillac's Records » et « Detroit Rulers », Michigan Pioneer and Historical Collections, vol. 34, Lansing
+# lien: https://archive.org/details/michiganhistoric34michuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/michiganhistoric34michuoft/mode/1up?q={q}
+# Pages approximatives.
+= Chefs hurons | Wyandots (Hurons-Wendat) | Montréal | 172X | 47 | Descendus à Montréal, ils demandent que la traite soit libre pour tous les Français ; les autres nations nient y avoir pris part.
+Maudoche | Potawatomis | Detroit | 1712~ | 68 | Grand chef des Poux ; répond aux Renards que ce sont eux qui serviront de nourriture à toutes les nations.
+= Chefs hurons, outaouais et potawatomis | Wyandots (Hurons-Wendat) ; Odawas (Outaouais) ; Potawatomis | Detroit | 1732 | 104 | Récit fait par tous les chefs des trois nations.
+Jean Baptiste Kicharville | Miamis | Kekionga (Kiskakon) | 1796 | 735 | Métis, chef de village de la nation miamie.

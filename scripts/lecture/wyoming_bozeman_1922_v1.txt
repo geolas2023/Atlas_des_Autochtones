@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Hebard et Brininstool (1922), vol. 1
+# ref: Grace Raymond Hebard et E. A. Brininstool, The Bozeman Trail (1922), 2 vol.
+# lien: https://archive.org/details/bozemantrailhist01heba/page/{page}/mode/1up
+# recherche: https://archive.org/details/bozemantrailhist01heba/mode/1up?q={q}
+# Pages approximatives.
+Red Cloud | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1866 | 17 | Grand chef de guerre oglala ; rompt avec défi les pourparlers avec les représentants du Grand-Père.
+Spotted Tail | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1866 | 17 | Chef de la bande brûlée, grand rival de Red Cloud.
+= Chef pied-noir | Pieds-Noirs (Niitsitapis) | Marias River | 1806 | 30 | Tué par Meriwether Lewis aux sources de la Marias ; les Pieds-Noirs restent dès lors hostiles aux Blancs.
+= Otter Hat, Breaker-of-Arrows, Black Night, Bull's Tail | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1842 | 105 | Chefs qui avertissent Frémont que poursuivre sur la piste de l'Oregon serait sa perte.
+= Chefs cheyennes | Cheyennes | Fort Phil Kearny | 1866~ | 277 | Black Horse, Pretty Bear, Dull Knife, Red Arm, Little Moon, Man-that-Stands-on-the-Ground, Wolf-That-Lies-Down, Rabbit-That-Jumps, Bob Tail, Dead White Leg et The Brave Soldier représentent 167 loges.

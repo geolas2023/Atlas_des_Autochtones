@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Contributions Montana II (1896)
+# ref: Contributions to the Historical Society of Montana, vol. 2 (1896)
+# lien: https://archive.org/details/contributionstohvol2hist1896rich/page/{page}/mode/1up
+# recherche: https://archive.org/details/contributionstohvol2hist1896rich/mode/1up?q={q}
+# Pages approximatives.
+Moise | Salish (Têtes-Plates) | Bitterroot (vallée) | 1805 | 89 | Second chef des Têtes-Plates ; enfant au passage de Lewis et Clark, il s'en souvient.
+Quilt-ta-mina | Okanagans | Okanogan (comté, Washington) | 1858 | 338 | Chef okanagan tué dans un combat contre des mineurs en route vers le Fraser.

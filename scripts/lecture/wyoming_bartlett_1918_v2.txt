@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Bartlett, vol. 2 (1918)
+# ref: I. S. Bartlett (dir.), History of Wyoming, vol. 2 (1918)
+# lien: https://archive.org/details/historyofwyoming02bart/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofwyoming02bart/mode/1up?q={q}
+# Pages approximatives.
+Red Cloud | Sioux (Dakotas, Lakotas, Nakotas) | Fort Laramie | 1866 | 147 | Chef des jeunes guerriers sioux du Nord, opposé à la nouvelle route ; conférence de juin 1866.
+Black Bear | Arapahos | Wind River | 1870 | 176 | Chef des Arapahos, tué.

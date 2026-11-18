@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Sanders (1913), vol. 1
+# ref: Helen Fitzgerald Sanders, A History of Montana (1913), 3 vol.
+# lien: https://archive.org/details/historyofmontana11sand/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofmontana11sand/mode/1up?q={q}
+# Pages approximatives.
+La Colle | Cris | Île au Massacre | 1736 | 40 | Chef cité par La Vérendrye : il pleure son fils et les Français, le lac est encore rouge de leur sang.
+Stem-oo (Grizzly-Bear-Standing) | Salish (Têtes-Plates) | Bitterroot (vallée) | 1805 | 105 | Grand chef des Salish au passage de Lewis et Clark.
+Sitting Bull | Sioux (Dakotas, Lakotas, Nakotas) | Agence de Standing Rock | 1890 | 274 | Vingt-huit policiers indiens postés près de son camp pour son arrestation.
