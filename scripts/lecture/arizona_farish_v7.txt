@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Farish, History of Arizona, vol. 7
+# ref: T. E. Farish, History of Arizona, vol. 7, Phoenix, Filmer Brothers, 1916-1918
+# lien: https://archive.org/details/historyofarizona07faririch/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofarizona07faririch/mode/1up?q={q}
+# Pages approximatives.
+Ko-hot | Autochtones (nation non précisée) | Canyon Havasu (Supai, Arizona) | 1882 | 98 | Chef principal des Havasupais, surnommé Navajo ; cumule fonctions civiles et religieuses.

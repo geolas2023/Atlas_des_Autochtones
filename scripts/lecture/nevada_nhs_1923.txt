@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Nevada Historical Society Papers (1923-1924)
+# ref: Nevada Historical Society Papers, 1923-1924
+# lien: https://archive.org/details/sim_nevada-historical-society-papers_1923-1924/page/{page}/mode/1up
+# recherche: https://archive.org/details/sim_nevada-historical-society-papers_1923-1924/mode/1up?q={q}
+# Pages approximatives.
+Winnemucca | Paiutes | Pyramid Lake | 1860 | 6 | Chef principal des Paiutes ; refuse de livrer les meurtriers réclamés par Roop.
+Young Winnemucca | Paiutes | Pyramid Lake | 1860 | 26 | Chef de guerre, distinct de Chiquita Winnemucca, à la tête du gros des Indiens contre Ormsby.
+= Chefs de Honey Lake et de Mason Valley | Paiutes | Honey Lake | 1860 | 6 | Deux chefs de Honey Lake et un de Mason Valley sont pour la guerre immédiate.

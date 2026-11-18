@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Farish, History of Arizona, vol. 6
+# ref: T. E. Farish, History of Arizona, vol. 6, Phoenix, Filmer Brothers, 1916-1918
+# lien: https://archive.org/details/historyofarizona06faririch/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofarizona06faririch/mode/1up?q={q}
+# Pages approximatives.
+Juan Chiavria | Pimas et Tohono O'odham | Villages pimas | 1872 | 151 | Chef notable des Pimas et Maricopas ; un canal porte son nom.

@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Nevada Historical Society Papers (1925-1926)
+# ref: Nevada Historical Society Papers, 1925-1926
+# lien: https://archive.org/details/sim_nevada-historical-society-papers_1925-1926/page/{page}/mode/1up
+# recherche: https://archive.org/details/sim_nevada-historical-society-papers_1925-1926/mode/1up?q={q}
+# Pages approximatives.
+Antunip | Paiutes | Las Vegas | 1855 | 170 | Chef principal ; demande aux mormons de lui imposer les mains pour sa guérison.
+Toshearump | Paiutes | Las Vegas | 1855 | 181 | Chef invité à la réunion de la mission.
+Patsearump (Joshua) | Paiutes | Las Vegas | 1856 | 199 | Chef ; guide les missionnaires, fait tracer une ferme indienne au nord de Las Vegas, ordonné « Teacher ».
+Owntump (Alma) | Paiutes | Las Vegas | 1856 | 200 | Chef ordonné « Teacher » avec Joshua.
+Toshooh | Paiutes | Las Vegas | 1856 | 237 | Chef venu de la Muddy, annonce des troubles entre Indiens de Santa Clara et Utes.
+Patsearump | Paiutes | Las Vegas | 1858 | 279 | Entoure le fort avec environ 90 guerriers.
