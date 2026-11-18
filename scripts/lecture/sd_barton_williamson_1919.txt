@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Barton, John P. Williamson, a Brother to the Sioux (1919)
+# ref: Winifred Williamson Barton, John P. Williamson, a Brother to the Sioux, New York, Fleming H. Revell, 1919
+# lien: https://archive.org/details/johnpwilliamsonb00bart/page/{page}/mode/1up
+# recherche: https://archive.org/details/johnpwilliamsonb00bart/mode/1up?q={q}
+# Pages approximatives.
+Julia La Framboise | Sioux (Dakotas, Lakotas, Nakotas) | Agence Santee (Nebraska) | 1869 | 122 | Jeune femme métisse instruite qui enseigne à l'école de la mission de Santee.

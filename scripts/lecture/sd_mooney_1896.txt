@@ -1,0 +1,16 @@
+# corpus: Lecture intégrale · Mooney, The Ghost-Dance Religion and the Sioux Outbreak of 1890 (1896)
+# ref: James Mooney, The Ghost-Dance Religion and the Sioux Outbreak of 1890, Fourteenth Annual Report of the Bureau of Ethnology, Washington, 1896
+# lien: https://archive.org/details/ghostdancesioux00moonrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/ghostdancesioux00moonrich/mode/1up?q={q}
+# Pages approximatives.
+= Red Cloud, Young Man Afraid, Little Wound et American Horse | Sioux (Dakotas, Lakotas, Nakotas) | Pine Ridge | 1889 | 820 | Chefs réunis en conseil à l'automne, qui désignent une délégation chargée d'aller dans l'Ouest s'informer du nouveau messie.
+= Good Thunder, Flat Iron, Yellow Breast, Broken Arm, Short Bull et Kicking Bear | Sioux (Dakotas, Lakotas, Nakotas) | Pine Ridge | 1889 | 820 | Délégués de Pine Ridge, de Rosebud et de Cheyenne River partis tout l'hiver vers l'ouest ; leurs lettres confirment l'avènement d'un rédempteur.
+Red Cloud | Sioux (Dakotas, Lakotas, Nakotas) | Pine Ridge | 1890 | 821 | Le grand chef oglala déclare son adhésion à la nouvelle doctrine.
+= Hump et Big Foot | Sioux (Dakotas, Lakotas, Nakotas) | Cheyenne River | 1890-09 | 846 | La danse des Esprits commence vers la mi-septembre dans leurs camps de la Cheyenne.
+Kicking Bear | Sioux (Dakotas, Lakotas, Nakotas) | Grand River (Dakota du Sud) | 1890-10 | 846 | Grand prêtre de la danse des Esprits chez les Sioux, l'inaugure au camp de Sitting Bull sur l'invitation de celui-ci.
+Sitting Bull | Sioux (Dakotas, Lakotas, Nakotas) | Grand River (Dakota du Sud) | 1890-12-15 | 858-859 | Tué lors de son arrestation ; Mooney rappelle son rôle à la bataille de Little Bighorn le 25 juin 1876.
+Big Foot | Sioux (Dakotas, Lakotas, Nakotas) | Wounded Knee (Dakota du Sud) | 1890-12-29 | 869-870 | Sa bande, quelque 106 guerriers, se rend aux troupes ; le médecin Yellow Bird pousse à la résistance et le massacre des femmes et des enfants suit.
+= Kicking Bear et Short Bull | Sioux (Dakotas, Lakotas, Nakotas) | Pine Ridge | 1890-12 | 869 | Chefs déjà en route vers l'agence avec leurs partisans au moment de Wounded Knee.
+= Young Man Afraid, Little Wound, Fast Thunder, John Grass et Jack Red Cloud | Sioux (Dakotas, Lakotas, Nakotas) | Pine Ridge | 1891-01 | 880 | Pacificateurs qui ramènent à l'agence une partie des fugitifs de Rosebud.
+Zitkala-noni (Lost Bird) | Sioux (Dakotas, Lakotas, Nakotas) | Wounded Knee (Dakota du Sud) | 1891 | 879 | Fillette survivante de Wounded Knee, nommée « Oiseau perdu » par les femmes du camp, adoptée et baptisée Marguerite.
+= American Horse, George Sword, Big Road, He Dog, White Bird, Turning Hawk, Little No Heart, Straight Head, John Grass et Mad Bear | Sioux (Dakotas, Lakotas, Nakotas) | Washington (D.C.) | 1891 | 887 | Principaux orateurs de la délégation sioux envoyée à Washington après les troubles pour exposer les griefs de leur peuple.

@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Fiske, The Taming of the Sioux (1917)
+# ref: Frank Bennett Fiske, The Taming of the Sioux, Bismarck, Bismarck Tribune, 1917
+# lien: https://archive.org/details/tamingofsioux00fiskfr/page/{page}/mode/1up
+# recherche: https://archive.org/details/tamingofsioux00fiskfr/mode/1up?q={q}
+# Pages approximatives.
+Paints Brown | Sioux (Dakotas, Lakotas, Nakotas) | Little Bighorn | 1876-06-25 | 118 | Témoin sioux de la bataille contre Custer, dont Fiske recueille le récit par interprète.
+= Gall, Crazy Horse, Inkpaduta et Sitting Bull | Sioux (Dakotas, Lakotas, Nakotas) | Little Bighorn | 1876-06 | 97, 109 | Chefs des sept tribus du grand camp ; Inkpaduta mène des Santees et des Yanktonais.
+Little Thunder | Sioux (Dakotas, Lakotas, Nakotas) | Ash Hollow (Nebraska) | 1855 | s. p. | Chef brûlé venu parler de paix au général Harney, qui lui répond qu'il est venu se battre.

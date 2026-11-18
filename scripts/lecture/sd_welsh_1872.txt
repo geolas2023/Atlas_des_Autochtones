@@ -1,0 +1,15 @@
+# corpus: Lecture intégrale · W. Welsh, Report of a Visit to the Sioux and Ponka Indians (1872)
+# ref: William Welsh, Report of a Visit to the Sioux and Ponka Indians of the Missouri River, Washington, Government Printing Office, 1872
+# lien: https://archive.org/details/reportofvisittos02wels/page/{page}/mode/1up
+# recherche: https://archive.org/details/reportofvisittos02wels/mode/1up?q={q}
+# Pages approximatives.
+Burnt Face | Sioux (Dakotas, Lakotas, Nakotas) | Agence de Cheyenne River (Dakota du Sud) | 1872 | 8 | Chef principal qui répond au discours d'ouverture de Welsh au conseil de l'agence.
+Bull Eagle | Sioux (Dakotas, Lakotas, Nakotas) | Agence de Cheyenne River (Dakota du Sud) | 1872 | 8 | Jeune homme qui se lève sans attendre les chefs et parle avec insolence au conseil.
+Little Swan | Sioux (Dakotas, Lakotas, Nakotas) | Agence de Cheyenne River (Dakota du Sud) | 1872 | 10 | Ancien chef hostile dont le camp avait tiré sur un vapeur, devenu cultivateur ; désavoue Bull Eagle.
+White Ghost | Sioux (Dakotas, Lakotas, Nakotas) | Crow Creek | 1872 | 12 | Fils et successeur d'un noble vieux chef yanktonais récemment décédé ; offre à Welsh le calumet du conseil.
+Little Pheasant | Sioux (Dakotas, Lakotas, Nakotas) | Crow Creek | 1872 | 12 | Chef yanktonais qui loge les visiteurs dans son tipi avec sa famille.
+White Swan | Sioux (Dakotas, Lakotas, Nakotas) | Agence yanktonne (Greenwood, Dakota du Sud) | 1872 | 14 | Chef autrefois réputé à la guerre, accueille les visiteurs à la porte de la chapelle qu'il a aidé à bâtir.
+= Strike-the-Ree et Deloria | Sioux (Dakotas, Lakotas, Nakotas) | Agence yanktonne (Greenwood, Dakota du Sud) | 1872 | 15 | Le chef principal yankton et Deloria, chef des Métis, assistent aux deux offices du dimanche.
+Mad Bull | Sioux (Dakotas, Lakotas, Nakotas) | Agence yanktonne (Greenwood, Dakota du Sud) | 1872 | 17 | Chef autrefois impétueux qui attend les visiteurs à la chapelle de sa bande, qu'il a aidé à construire.
+Andrew Botin | Sioux (Dakotas, Lakotas, Nakotas) | Agence yanktonne (Greenwood, Dakota du Sud) | 1872 | 17 | Premier adulte baptisé par le missionnaire des Yanktons, vient au-devant des visiteurs avec ses voisins.
+Joseph Wabasha | Sioux (Dakotas, Lakotas, Nakotas) | Agence Santee (Nebraska) | 1872 | s. p. | Fils et héritier du chef principal santee, chrétien, mécanicien et agriculteur, porte-parole des catéchistes.

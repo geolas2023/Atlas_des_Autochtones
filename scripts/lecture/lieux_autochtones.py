@@ -244,4 +244,6 @@ L = {
     'Bordache Creek (Dakota du Nord)': (-100.55, 46.3, 'c', 'Bordache ou Bourbeuse Creek (Dakota du Nord)'),
     'Elm River (comté de Brown, Dakota du Sud)': (-98.6, 45.75, 'c', 'Elm River (comté de Brown, Dakota du Sud)'),
     "Beaver Creek (comté d'Emmons, Dakota du Nord)": (-100.55, 46.3, 'c', "Beaver Creek (comté d'Emmons, Dakota du Nord)"),
+    'Lightning Creek (Wyoming)': (-104.6, 43.3, 'c', 'Lightning Creek (comté de Converse, Wyoming)'),
+    'Ash Hollow (Nebraska)': (-102.12, 41.29, 'h', 'Ash Hollow (Blue Water, Nebraska)'),
 }

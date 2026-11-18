@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · H. Welsh, Report of a Visit to the Great Sioux Reserve (1883)
+# ref: Herbert Welsh, Report of a Visit to the Great Sioux Reserve, Dakota, made during the Months of May and June, 1883, Philadelphia, Indian Rights Association, 1883
+# lien: https://archive.org/details/cu31924028759391/page/{page}/mode/1up
+# recherche: https://archive.org/details/cu31924028759391/mode/1up?q={q}
+# Pages approximatives.
+White Thunder | Sioux (Dakotas, Lakotas, Nakotas) | Agence de Rosebud | 1883-06-12 | 26 | Un des principaux chefs des Brûlés de Spotted Tail, s'entretient longuement avec Herbert Welsh.
+Red Cloud | Sioux (Dakotas, Lakotas, Nakotas) | Pine Ridge | 1882 | 35-37 | Chef oglala qui conteste l'agent McGillycuddy sur l'origine des approvisionnements ; les autres chefs désavouent son action en conseil.
+Black War Bonnet | Sioux (Dakotas, Lakotas, Nakotas) | Pine Ridge | 1883 | 37 | Chef oglala dont le camp sur le Big White Clay Creek est visité avec l'agent.
+= Red Dog et Captain Sword | Sioux (Dakotas, Lakotas, Nakotas) | Pine Ridge | 1883 | 38, 45 | Témoignent que l'interprète de la commission sioux a fait signer l'accord par des enfants.
