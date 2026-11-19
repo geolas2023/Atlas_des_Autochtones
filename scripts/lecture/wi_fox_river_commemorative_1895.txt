@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Commemorative Biographical Record of the Fox River Valley (1895)
+# ref: Commemorative Biographical Record of the Fox River Valley Counties of Brown, Outagamie and Winnebago, J. H. Beers, Chicago, 1895
+# lien: https://archive.org/details/commemorativebio01chic/page/{page}/mode/1up
+# recherche: https://archive.org/details/commemorativebio01chic/mode/1up?q={q}
+# Pages approximatives.
+Yaumetau | Menominees (Folles-Avoines) | Kaukauna | 1839~ | 544 | Chef ménomine qui fournit cinquante hommes à George W. Lawe pour ouvrir la première route de Kaukauna vers Green Bay et Appleton.
