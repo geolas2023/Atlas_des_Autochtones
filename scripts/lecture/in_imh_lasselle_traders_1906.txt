@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Lasselle, « The Old Indian Traders of Indiana », Indiana Magazine of History (1906)
+# ref: Charles B. Lasselle, The Old Indian Traders of Indiana, Indiana Magazine of History, vol. II, n° 1, mars 1906
+# lien: https://archive.org/details/indianaquarterly02indi/page/{page}/mode/1up
+# recherche: https://archive.org/details/indianaquarterly02indi/mode/1up?q={q}
+# Pages approximatives.
+Village miami de l'Eel River | Miamis | Logansport (Indiana) | 1791 | 5 | Le vieux village miami de Ke-na-pe-ka-me-kong-a, sur l'Eel River à six milles en amont de Logansport, où traitait James Godfrey, est détruit par le général Wilkinson.
+Ouias de Terre Haute | Weas et Piankashaws | Terre Haute (Indiana) | 1801 | 11 | Le village de Terre Haute, où Harrison licencie des traiteurs pour les « Miamis », est habité par la branche ouia des Miamis ; la ville actuelle en tient son nom.
+Jose Renard | Kickapous | Rivière Vermillon (Indiana) | 1812 | 11 | Chef du principal village kickapou de la Vermillon, appelé Jose Renard par les traiteurs, il mène l'attaque contre le fort Harrison.
+Spur's Defeat | Autochtones (nation non précisée) | Wildcat Creek (Indiana) | 1812 | 12 | Environ cinq cents Autochtones tendent une embuscade à soixante-dix cavaliers de l'expédition Hopkins dans les ravins du Wildcat ; ils capturent le traiteur Benoit Besayon et s'apprêtent à le brûler quand un jeune guerrier l'abat.
+Départ des Potawatomis et des Miamis | Potawatomis; Miamis | Logansport (Indiana) | 1838 | 10 | Le gros des Potawatomis est déplacé à l'ouest du Mississippi en 1838, et la majeure partie des Miamis en 1845 ; seuls restent des Miamis sur leurs réserves entre Peru et Fort Wayne.

@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Oakey, Greater Terre Haute and Vigo County, vol. I (1908)
+# ref: Charles C. Oakey, Greater Terre Haute and Vigo County, vol. I, 1908
+# lien: https://archive.org/details/greaterterrehaut01oake/page/{page}/mode/1up
+# recherche: https://archive.org/details/greaterterrehaut01oake/mode/1up?q={q}
+# Pages approximatives.
+Village miami de Terre Haute | Miamis | Terre Haute (Indiana) | 1801-11-20 | 24-25 | Harrison licencie Ambrose Dagenet, puis d'autres traiteurs, pour commercer avec les Miamis à leur village de Terre Haute.
+Traite du fort Harrison | Lenapes (Delawares, Loups); Potawatomis; Shawnees; Kickapous | Terre Haute (Indiana) | 1815 | 25 | Après la guerre, la traite reprend au fort Harrison avec les Delawares, les Potawatomis, les Shawnees et les Kickapous, jusque vers 1820.
