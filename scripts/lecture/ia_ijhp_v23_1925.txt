@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Iowa Journal of History and Politics, vol. XXIII (1925)
+# ref: Iowa Journal of History and Politics, vol. XXIII, Iowa City, State Historical Society of Iowa, 1925
+# lien: https://archive.org/details/iowajournalofhis23stat/page/{page}/mode/1up
+# recherche: https://archive.org/details/iowajournalofhis23stat/mode/1up?q={q}
+# Pages approximatives.
+Familles métisses chez les Potawatomis de Council Bluffs | Potawatomis; Métis | Council Bluffs (Iowa) | 1838 | 198-205 | En 1838, une trentaine de familles métisses d'ascendance française vivent parmi les quelque 2 000 Potawatomis réunis autour de Council Bluffs.

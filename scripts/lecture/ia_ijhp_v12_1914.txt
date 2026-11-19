@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Iowa Journal of History and Politics, vol. XII (1914)
+# ref: Iowa Journal of History and Politics, vol. XII, Iowa City, State Historical Society of Iowa, 1914
+# lien: https://archive.org/details/iowajournalofhis12iowa/page/{page}/mode/1up
+# recherche: https://archive.org/details/iowajournalofhis12iowa/mode/1up?q={q}
+# Pages approximatives.
+Capture de Boucherville sur la rivière Iowa | Kickapous; Mascoutens | Rivière Iowa | 1728-10-16 | 346-348 | Le 16 octobre 1728, des Kicapous et des Mascoutens capturent Pierre Boucher de Boucherville, onze Français et le père Guignas dans un village de la rivière Iowa.
+Mort d'un chasseur français chez les Petits Osages | Osages | Rivière Des Moines | 1749 | 353 | À l'automne 1749, des Petits Osages tuent le Français Giguiere, qui chassait sur le haut de la Des Moines.
