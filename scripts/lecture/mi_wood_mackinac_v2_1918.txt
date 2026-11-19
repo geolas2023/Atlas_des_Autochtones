@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Wood, Historic Mackinac, vol. II (1918)
+# ref: Edwin O. Wood, Historic Mackinac, vol. II, New York, The Macmillan Company, 1918
+# lien: https://archive.org/details/historicmackina01woodgoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/historicmackina01woodgoog/mode/1up?q={q}
+# Pages approximatives.
+Meurtre de Joseph Laframboise | Autochtones (nation non précisée) | Grand Haven (Michigan) | 1809 | 125-126 | Le traiteur Joseph Laframboise est tué dans sa tente par un Indien à qui il avait refusé de l'eau-de-vie ; capturé, le meurtrier est amené à sa veuve, qui lui pardonne.
+Madame Laframboise, traiteuse métisse | Métis | Île Mackinac | 1834 | 125-130, 181 | Fille de Jean-Baptiste Marcotte, veuve de Joseph Laframboise, elle traite chaque hiver sur la Grand River et revient en juin à Mackinac avec ses fourrures ; Schoolcraft la décrit en 1834 comme une vieille dame métisse.
+Charles Cloutier, guide métis | Métis | Île Mackinac | 1835-09-07 | 208-209 | Charles Cloutier, vieux métis voyageur depuis trente-cinq ans sur le lac, est engagé comme guide du canot qui part de Mackinac pour le lac Supérieur.
