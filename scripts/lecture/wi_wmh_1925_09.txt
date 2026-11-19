@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Wisconsin Magazine of History, vol. IX, n° 1 (septembre 1925)
+# ref: The Wisconsin Magazine of History, vol. IX, n° 1, State Historical Society of Wisconsin, Madison, septembre 1925
+# lien: https://archive.org/details/sim_wisconsin-magazine-of-history_1925-09_9_1/page/{page}/mode/1up
+# recherche: https://archive.org/details/sim_wisconsin-magazine-of-history_1925-09_9_1/mode/1up?q={q}
+# Pages approximatives.
+Joseph Crelie | Métis | Dodgeville (Wisconsin) | 1828 | 47 | Métis porteur du courrier, il livre le premier courrier à Dodgeville, avant le service postal de 1829.

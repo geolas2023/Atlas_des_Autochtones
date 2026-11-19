@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Wisconsin Magazine of History, vol. II, n° 3 (mars 1919)
+# ref: The Wisconsin Magazine of History, vol. II, n° 3, State Historical Society of Wisconsin, Madison, mars 1919
+# lien: https://archive.org/details/sim_wisconsin-magazine-of-history_1919-03_2_3/page/{page}/mode/1up
+# recherche: https://archive.org/details/sim_wisconsin-magazine-of-history_1919-03_2_3/mode/1up?q={q}
+# Pages approximatives.
+Mère d'Emilie Grignon | Menominees (Folles-Avoines) | Milwaukee | 1827 | 362 | Femme ménominee, épouse du traiteur Paul Grignon, mère d'Emilie Grignon, née près de Milwaukee et morte à Green Bay en 1918.
