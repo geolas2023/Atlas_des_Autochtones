@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Collections of the State Historical Society of Wisconsin, vol. XIX (1910)
+# ref: Collections of the State Historical Society of Wisconsin, vol. XIX, éd. Reuben G. Thwaites, Madison, 1910
+# lien: https://archive.org/details/collectionsstate19stat/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsstate19stat/mode/1up?q={q}
+# Pages approximatives.
+Ménomines de l'agence de Green Bay | Menominees (Folles-Avoines) | Green Bay | 1817-08-11 | 470-471 | Recensement de l'agent Bowyer : environ 500 guerriers, l'été sur la rivière des Folles-Avoines, à Green Bay, aux deux Kakalins, au lac Winnebago, à la rivière du Loup, à la Butte des Morts et dans les îles de la baie.
+Winnebagos de l'agence de Green Bay | Ho-Chunks (Winnebagos) | Portage (Wisconsin) | 1817-08-11 | 471 | Sept à huit cents guerriers, villages au lac Winnebago, sur la rivière Fox, au lac Green, au portage du Wisconsin et sur la rivière aux Pins.
+Bandes mêlées de Milwaukee | Sauks; Mesquakies (Renards); Anishinaabés (Ojibwés, Saulteux); Menominees (Folles-Avoines); Odawas (Outaouais); Ho-Chunks (Winnebagos); Potawatomis | Milwaukee | 1817-08-11 | 471 | Environ 300 guerriers venus de toutes les nations voisines, selon Bowyer.
+Winnebagos hostiles de la rivière Fox | Ho-Chunks (Winnebagos) | Chicago | 1817-04-29 | 455-456 | Selon l'agent Jouett, un petit parti winnebago a dansé la danse de guerre pour venger des parents tués pendant la guerre; les Potawatomis de Milwaukee confirment.
