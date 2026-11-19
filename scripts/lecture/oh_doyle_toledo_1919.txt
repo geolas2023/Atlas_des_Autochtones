@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Doyle, A Story of Early Toledo (1919)
+# ref: John Hardy Doyle, A Story of Early Toledo, Bowling Green, C. S. Van Tassel, 1919
+# lien: https://archive.org/details/storyofearlytole00doyl/page/{page}/mode/1up
+# recherche: https://archive.org/details/storyofearlytole00doyl/mode/1up?q={q}
+# Pages approximatives.
+Le village outaouais de Tishqua-gwun | Odawas (Outaouais) | Embouchure de la Maumee | 1807 | 27 | À partir de 1807, le village outaouais de l'embouchure de la Maumee est gouverné par le chef Tishqua-gwun, descendant de Pontiac ; la veuve de Pontiac, Kan-tuck-ee-gum, et leur fils Otussa vivent tout près.

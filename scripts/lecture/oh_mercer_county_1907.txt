@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Scranton, History of Mercer County (1907)
+# ref: S. S. Scranton, History of Mercer County, Ohio, and Representative Citizens, Chicago, Biographical Pub. Co., 1907
+# lien: https://archive.org/details/historyofmercerc00scra/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofmercerc00scra/mode/1up?q={q}
+# Pages approximatives.
+Le village d'Old-town sur la Saint-Marys | Autochtones (nation non précisée); Métis | Shanesville (Ohio) | 1812 | 140 | Pendant la guerre de 1812, un village indien appelé Old-town se tient sur la Saint-Marys près de l'actuel Rockford ; Anthony Shane, Louis Godfrey, le Crescent, Labadie et Rushville, amis des Américains, y ont leurs loges, et plusieurs reçoivent ensuite des terres près de Rockford.
