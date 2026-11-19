@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Wisconsin Magazine of History, vol. VIII, n° 1 (septembre 1924)
+# ref: The Wisconsin Magazine of History, vol. VIII, n° 1, State Historical Society of Wisconsin, Madison, septembre 1924
+# lien: https://archive.org/details/sim_wisconsin-magazine-of-history_1924-09_8_1/page/{page}/mode/1up
+# recherche: https://archive.org/details/sim_wisconsin-magazine-of-history_1924-09_8_1/mode/1up?q={q}
+# Pages approximatives.
+Alliés autochtones de Beaubassin | Autochtones (nation non précisée) | La Pointe | 1756 | 5 | Le dernier commandant français de La Pointe quitte le poste avec sa garnison et ses alliés autochtones pour la guerre contre l'Angleterre.

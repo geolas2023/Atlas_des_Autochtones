@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Wisconsin Magazine of History, vol. II, n° 2 (décembre 1918)
+# ref: The Wisconsin Magazine of History, vol. II, n° 2, State Historical Society of Wisconsin, Madison, décembre 1918
+# lien: https://archive.org/details/sim_wisconsin-magazine-of-history_1918-12_2_2/page/{page}/mode/1up
+# recherche: https://archive.org/details/sim_wisconsin-magazine-of-history_1918-12_2_2/mode/1up?q={q}
+# Pages approximatives.
+Rassemblement de guerriers au portage | Autochtones (nation non précisée) | Portage (Wisconsin) | 1780 | 239 | Le portage sert de point de ralliement aux forces autochtones pendant la Révolution américaine ; l'expédition de mai 1780 contre Saint-Louis s'y forme.
