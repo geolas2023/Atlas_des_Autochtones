@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Esarey, A History of Indiana from its Exploration to 1850 (1915)
+# ref: Logan Esarey, A History of Indiana from its Exploration to 1850, W. K. Stewart Co., Indianapolis, 1915
+# lien: https://archive.org/details/historyofindiana00esaruoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofindiana00esaruoft/mode/1up?q={q}
+# Pages approximatives.
+Coldfoot et Hedgehog | Miamis | Fort Wayne (Indiana) | 1748 | 29 | Les chefs miamis Coldfoot et Hedgehog, conduits vers Montréal par l'enseigne Douville, sont arrêtés à Niagara par un parti d'Agniers.
+Ouias de La Peyrode | Weas et Piankashaws | Ouabache (Ouiatanon) | 1748-08 | 29 | Un grand parti de Ouias part de Ouiatanon pour Montréal avec le commandant La Peyrode, mais les Hurons, alors amis des Anglais, le repoussent.
