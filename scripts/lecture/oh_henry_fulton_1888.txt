@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Aldrich, History of Henry and Fulton Counties (1888)
+# ref: Lewis Cass Aldrich (éd.), History of Henry and Fulton Counties, Ohio, Syracuse (New York), D. Mason & Co., 1888
+# lien: https://archive.org/details/historyofhenryfu00aldr/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofhenryfu00aldr/mode/1up?q={q}
+# Pages approximatives.
+Le village outaouais de Grand Rapids | Odawas (Outaouais) | Grand Rapids (Ohio) | 1823-03 | 582-583 | En mars 1823, quand la famille Howard s'installe à la tête des rapides de la Maumee, un village outaouais de mille à deux mille personnes se tient sur l'autre rive ; le jeune Dresden Howard y apprend la langue et dort souvent dans les wigwams.
