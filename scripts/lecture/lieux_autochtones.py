@@ -251,4 +251,6 @@ L = {
     'Île Doty (lac Winnebago)': (-88.45, 44.19, 'h', 'île Doty, entrée du lac Winnebago (Neenah-Menasha)'),
     'Fort King (Floride)': (-82.09, 29.19, 'h', "Fort King, près d'Ocala (Floride)"),
     'Savanes d\'Alachua (Floride)': (-82.33, 29.6, 'h', "Savanes d'Alachua (Paynes Prairie, Floride)"),
+    'Hillabee (Creeks)': (-85.9, 33.15, 'h', 'Villages des Hillabees, Creeks supérieurs (Alabama)'),
+    'Tuckabatchee (Creeks)': (-85.8, 32.54, 'h', 'Tuckabatchee, sur la Tallapoosa (Alabama)'),
 }
