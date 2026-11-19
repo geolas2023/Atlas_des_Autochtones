@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Leeson, History of Allen County (1885)
+# ref: M. A. Leeson, History of Allen County, Ohio, Chicago, Warner, Beers & Co., 1885
+# lien: https://archive.org/details/historyallencou00leesgoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyallencou00leesgoog/mode/1up?q={q}
+# Pages approximatives.
+Les Shawnees de Wapakoneta en 1817 | Shawnees | Wapakoneta (Ohio) | 1817 | 206 | Le traité des rapides de la Maumee de 1817 recense 126 hommes shawnees à Wapakoneta, chacun recevant environ cinq cents acres de la réserve.
+La réserve shawnee de Hog Creek | Shawnees; Métis | Wapakoneta (Ohio) | 1817 | 206 | La réserve de Hog Creek est assignée en 1817 à une vingtaine d'hommes shawnees, dont Joseph Parks et Billy Parks.
+Le départ des Shawnees d'Ohio | Shawnees | Wapakoneta (Ohio) | 1832 | 206 | En 1832, les Shawnees de Wapakoneta et de Hog Creek quittent l'Ohio pour l'Ouest.

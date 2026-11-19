@@ -1,0 +1,16 @@
+# corpus: Lecture intégrale · Slocum, History of the Maumee River Basin, vol. 1 (1905)
+# ref: Charles Elihu Slocum, History of the Maumee River Basin from the Earliest Account to its Organization into Counties, vol. 1, Indianapolis et Toledo, Bowen & Slocum, 1905
+# lien: https://archive.org/details/historyofmaumeer01sloc/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofmaumeer01sloc/mode/1up?q={q}
+# Pages approximatives.
+La conspiration de Nicolas | Wyandots (Hurons-Wendat) | Sandusky | 1747 | 90-92 | En 1747, le chef wyandot Nicolas, établi à Sandusky, ourdit une conspiration contre les Français ; à l'automne, des Miamis pillent le fort des Miamis.
+Le pillage du fort des Miamis | Miamis | Fort des Miamis (Maumee) | 1747 | 90-92 | À l'automne 1747, gagnés à la conspiration de Nicolas, des Miamis pillent le poste français sur la Maumee.
+La Demoiselle à Pickawillany | Miamis | Pickawillany (Demoiselle) | 1749 | 95 | En 1749, le chef miami La Demoiselle, dit Old Britain par les Anglais, tient village à Pickawillany et y accueille les traiteurs anglais.
+La destruction de Pickawillany | Miamis; Odawas (Outaouais); Anishinaabés (Ojibwés, Saulteux) | Pickawillany (Demoiselle) | 1752-06-21 | 99-100 | Le 21 juin 1752, un parti venu du nord attaque Pickawillany ; La Demoiselle est tué.
+Jean-Baptiste Richardville, chef de village | Miamis; Métis | Fort Wayne (Indiana) | 1795-01 | 222 | En janvier 1795, Jean-Baptiste Richardville, à demi Blanc, est chef de village des Miamis à Fort Wayne.
+Richardville, chef national des Miamis | Miamis; Métis | Fort Wayne (Indiana) | 1812/1841 | 451-452 | Richardville est chef national des Miamis de 1812 à sa mort en 1841.
+Francis LaFontaine succède à Richardville | Miamis; Métis | Fort Wayne (Indiana) | 1841 | 451-452 | En 1841, Francis LaFontaine (To-pe-ah), Métis, succède à Richardville comme chef des Miamis.
+Les réserves outaouaises de 1833 | Odawas (Outaouais) | Embouchure de la Maumee | 1833-02 | 415-417 | Le traité de février 1833 laisse aux chefs outaouais Au-to-kee, Way-say-on, Petau et Cheno des réserves à l'embouchure de la Maumee.
+Le village d'Otussa | Odawas (Outaouais) | Embouchure de la Maumee | 1806 | 454-455 | En 1806, le village outaouais de l'embouchure de la Maumee est mené par Otussa ; Kan-tuck-e-gun y figure aussi.
+La pendaison de George Porter | Mohicans (Mahingans); Métis | Fort Meigs (Ohio) | 1830-11-05 | 521 | Le 5 novembre 1830, George Porter, Métis mohican, est pendu près de Fort Meigs.
+Anthony Shane à Shanesville | Métis; Shawnees | Shanesville (Ohio) | 1820 | 555 | En 1820, le Métis Anthony Shane tient un poste à Shanesville, sur la Saint-Marys.
