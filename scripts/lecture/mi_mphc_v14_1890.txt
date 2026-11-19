@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Michigan Pioneer and Historical Collections, vol. XIV (1890)
+# ref: Michigan Pioneer and Historical Collections, vol. XIV, 1890
+# lien: https://archive.org/details/michiganhistoric14mich/page/{page}/mode/1up
+# recherche: https://archive.org/details/michiganhistoric14mich/mode/1up?q={q}
+# Pages approximatives.
+Repentigny reçu au Sault | Anishinaabés (Ojibwés, Saulteux) | Sault-Sainte-Marie | 1751 | 646 | Arrivé trop tard dans l'été pour bien se fortifier, le chevalier de Repentigny est bien reçu par les Indiens du Sault et achève avant l'hiver un petit fort où il accueille les traiteurs de Mackinac.
