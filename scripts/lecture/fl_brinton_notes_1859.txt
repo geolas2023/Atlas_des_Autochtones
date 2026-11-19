@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Brinton, Notes on the Floridian Peninsula (1859)
+# ref: Daniel G. Brinton, Notes on the Floridian Peninsula : its Literary History, Indian Tribes and Antiquities, Philadelphia, Joseph Sabin, 1859
+# lien: https://archive.org/details/notesonfloridian00brinrich/page/{page}/mode/1up
+# recherche: https://archive.org/details/notesonfloridian00brinrich/mode/1up?q={q}
+# Pages approximatives.
+Secoffee mène une bande creek aux savanes d'Alachua | Séminoles; Muscogees (Creeks) | Savanes d'Alachua (Floride) | 1750 | 145 | Selon Brinton, une bande de Creeks quitte en 1750 les bords de l'Apalachicola sous la conduite de Secoffee et s'établit dans les savanes fertiles d'Alachua, une des incursions par lesquelles se forment les Séminoles.
+La bande de Micco Hadjo près de Tallahassee | Séminoles; Muscogees (Creeks) | Tallahassee (Floride) | 1808 | 145 | En 1808, une autre bande suit Micco Hadjo jusqu'aux environs de Tallahassee, autre étape de la venue des Creeks en Floride d'où sortent les Séminoles.
