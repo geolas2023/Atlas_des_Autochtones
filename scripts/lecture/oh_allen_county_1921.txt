@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Rusler, Standard History of Allen County, vol. 1 (1921)
+# ref: William Rusler, A Standard History of Allen County, Ohio, vol. 1, Chicago et New York, The American Historical Society, 1921
+# lien: https://archive.org/details/standardhistoryo01rusl/page/{page}/mode/1up
+# recherche: https://archive.org/details/standardhistoryo01rusl/mode/1up?q={q}
+# Pages approximatives.
+Le départ des derniers Outaouais de la Maumee | Odawas (Outaouais); Métis | Embouchure de la Maumee | 1838 | 158 | En 1838, le dernier reste des Outaouais de la vallée part pour l'ouest du Mississippi ; la cession avait réservé des quarts de section au Métis outaouais Himar Thebault, à William Ottawa et au Métis William McNabb.

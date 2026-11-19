@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Van Tassel, Story of the Maumee Valley, vol. 1 (1929)
+# ref: Charles Sumner Van Tassel, Story of the Maumee Valley, Toledo and the Sandusky Region, vol. 1, Chicago, The S. J. Clarke Publishing Company, 1929
+# lien: https://archive.org/details/storyofmaumeeval0000char/page/{page}/mode/1up
+# recherche: https://archive.org/details/storyofmaumeeval0000char/mode/1up?q={q}
+# Pages approximatives.
+Langlade contre Pickawillany | Odawas (Outaouais); Anishinaabés (Ojibwés, Saulteux); Métis | Pickawillany (Demoiselle) | 1752 | 91-92 | En 1752, Charles Langlade, Métis fils d'un officier français, part de Détroit avec quelques Français et Canadiens et 250 guerriers outaouais et ojibwés, remonte la Maumee et attaque Pickawillany.

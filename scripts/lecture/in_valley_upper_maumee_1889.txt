@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Valley of the Upper Maumee River, vol. 1 (1889)
+# ref: Valley of the Upper Maumee River, with Historical Account of Allen County and the City of Fort Wayne, Indiana, vol. 1, Madison, Brant & Fuller, 1889
+# lien: https://archive.org/details/valleyofuppermau01madi/page/{page}/mode/1up
+# recherche: https://archive.org/details/valleyofuppermau01madi/mode/1up?q={q}
+# Pages approximatives.
+Le traité de Saint-Marys et les réserves miamies | Miamis; Métis | Fort Wayne (Indiana) | 1818 | 190 | Au traité conclu à Saint-Marys en 1818, les Miamis cèdent une grande partie de leurs terres ; Richardville garde neuf sections, Francois et Louis Godfrey douze, sur quarante-huit sections réservées.
+Francis Godfroy, chef de guerre des Miamis | Miamis; Métis | Fort Wayne (Indiana) | 1812 | 213 | En 1812, Francis Godfroy, fils d'un Français et d'une Miamie, succède à Little Turtle comme chef de guerre des Miamis ; il vit ensuite sur le Wabash près de Peru.
+La mort de Francis La Fontaine | Miamis; Métis | Fort Wayne (Indiana) | 1847-04-13 | 37-38 | Le 13 avril 1847 meurt Francis La Fontaine (To-pe-ah), successeur de Richardville, au retour d'un voyage avec sa nation partie vers l'Ouest à l'automne 1846.
