@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Collections of the State Historical Society of Wisconsin, vol. XVII (1906)
+# ref: Collections of the State Historical Society of Wisconsin, vol. XVII, éd. Reuben G. Thwaites, Madison, 1906
+# lien: https://archive.org/details/collectionsstate17stat/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsstate17stat/mode/1up?q={q}
+# Pages approximatives.
+Sioux du pays concédé à la Compagnie des Sioux | Sioux (Dakotas, Lakotas, Nakotas) | Lac Pépin | 1727-06-06 | 10-13 | Le gouverneur accorde à une compagnie montréalaise la traite exclusive du pays des Sioux, avec un fort, une chapelle et deux missionnaires jésuites.
+Winnebagos assiégés par les Renards | Ho-Chunks (Winnebagos); Mesquakies (Renards) | Green Bay | 1730 | 88 | Marin secourt les Winnebagos attaqués par les Renards.
+Sauks défendant les Renards à La Baye | Sauks; Mesquakies (Renards) | Green Bay | 1733-09 | 188 | En septembre, au poste de La Baye, les Sauks prennent la défense des Renards; le commandant De Villiers est tué et son fils lui succède.
+Recensement des nations (1736) | Autochtones (nation non précisée) | Michilimackinac | 1736 | 244 | Dénombrement des nations des Grands Lacs et du Wisconsin établi pour le gouverneur.
