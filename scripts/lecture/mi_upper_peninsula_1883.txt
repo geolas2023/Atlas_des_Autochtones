@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · History of the Upper Peninsula of Michigan (1883)
+# ref: History of the Upper Peninsula of Michigan, 1883
+# lien: https://archive.org/details/arg9598.0001.001.umich.edu/page/{page}/mode/1up
+# recherche: https://archive.org/details/arg9598.0001.001.umich.edu/mode/1up?q={q}
+# Pages approximatives.
+Massacre du fort Michilimackinac | Anishinaabés (Ojibwés, Saulteux); Odawas (Outaouais) | Michilimackinac | 1763-06-02 | 95-96 | Les Ojibwés attirent la garnison à une partie de crosse et massacrent environ soixante-dix des quatre-vingt-dix Anglais ; les Outaouais, non consultés, recueillent ensuite les prisonniers, dont Alexander Henry, caché chez Langlade.
+Shing-gah-ba-wah-sin et le drapeau de Cass | Anishinaabés (Ojibwés, Saulteux) | Sault-Sainte-Marie | 1820-06 | 207-208 | Le chef Shing-gah-ba-wah-sin abat le drapeau américain hissé par Cass et remet le drapeau britannique ; Mme Johnston, Connor, Knaggs et Beaufait apaisent les habitants, et le traité du 16 juin cède seize milles carrés au Sault.
+Dons de terres du traité de 1826 aux femmes ojibwées | Anishinaabés (Ojibwés, Saulteux); Métis | Sault-Sainte-Marie | 1826-08-05 | 208 | Le traité attribue une section de terre à de nombreuses femmes ojibwées et à leurs enfants métis, épouses ou veuves de Cadotte, Côté, Cloutier, Bélanger, Roussain, Duvernay, Boileau, Corbeau, Brabant et d'autres traiteurs.
