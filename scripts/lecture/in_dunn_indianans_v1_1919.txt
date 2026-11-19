@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Dunn, Indiana and Indianans, vol. I (1919)
+# ref: Jacob Piatt Dunn, Indiana and Indianans : A History of Aboriginal and Territorial Indiana and the Century of Statehood, vol. I, The American Historical Society, Chicago et New York, 1919
+# lien: https://archive.org/details/indianaindianans01dunn/page/{page}/mode/1up
+# recherche: https://archive.org/details/indianaindianans01dunn/mode/1up?q={q}
+# Pages approximatives.
+Force des Miamis en 1718 | Miamis; Weas et Piankashaws | Fort Wayne (Indiana) | 1718 | 84 | Vaudreuil évalue les Miamis, Ouiatanons, Piankashaws et Pepikokias, qui forment alors la nation miamie, à quatorze ou seize cents guerriers.
+Destruction du fort de Kekionga | Miamis | Fort Wayne (Indiana) | 1747 | 120 | Lors du complot contre les Français, des Miamis hostiles surprennent le fort de Kekionga, le brûlent et font prisonniers ses huit soldats, relâchés ensuite.
+Mort de Little Turtle | Miamis | Fort Wayne (Indiana) | 1812-07-14 | 270-271 | Le chef miami Little Turtle, ami des États-Unis, meurt à Fort Wayne, où il était venu se faire soigner, et y est inhumé avec les honneurs militaires.
+Jean Baptiste Richardville (Pin-ji-wa) | Métis; Miamis | Fort Wayne (Indiana) | 1812 | 84 | Neveu de Little Turtle, il devient chef principal des Miamis à sa mort et le reste jusqu'en 1841 ; son gendre Francis LaFontaine lui succède.
