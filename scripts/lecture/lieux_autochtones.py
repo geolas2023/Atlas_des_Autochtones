@@ -249,4 +249,5 @@ L = {
     'Acton (Minnesota)': (-94.66, 45.10, 'h', 'Acton (comté de Meeker)'),
     'Village de Black Dog (Minnesota)': (-93.20, 44.81, 'h', "village de Black Dog (Grey Iron), canton d'Eagan"),
     'Île Doty (lac Winnebago)': (-88.45, 44.19, 'h', 'île Doty, entrée du lac Winnebago (Neenah-Menasha)'),
+    'Fort King (Floride)': (-82.09, 29.19, 'h', "Fort King, près d'Ocala (Floride)"),
 }

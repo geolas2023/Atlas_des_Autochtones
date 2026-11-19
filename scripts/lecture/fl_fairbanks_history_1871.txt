@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Fairbanks, History of Florida (1871)
+# ref: George R. Fairbanks, History of Florida from its Discovery by Ponce de Leon, in 1512, to the Close of the Florida War, in 1842, Philadelphia, J. B. Lippincott & Co. ; Jacksonville, C. Drew, 1871
+# lien: https://archive.org/details/historyofflorida00fair/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofflorida00fair/mode/1up?q={q}
+# Pages approximatives.
+Le territoire assigné aux Séminoles (1833) | Séminoles; Muscogees (Creeks) | Fort Gibson | 1833-03 | 281 | Par une lettre de mars 1833, les délégués séminoles se déclarent satisfaits du pays qui leur est assigné ; en vertu du traité conclu avec les Creeks le 14 février 1833, les commissaires désignent ce territoire comme résidence séparée de la tribu séminole.
+Osceola au conseil de Fort King | Séminoles; Muscogees (Creeks) | Fort King (Floride) | 1834~ | 283, 315 | Au conseil réuni par le général Wiley Thompson après octobre 1834, Osceola plante son couteau dans la table en déclarant que c'est le seul traité qu'il signera. Fairbanks le présente comme le meneur de la guerre : de son vrai nom As-se-se-ha-ho-lar (Black Drink), dit Powell, Creek de la tribu des Red Sticks et sang-mêlé, venu enfant en Floride avec sa mère et établi près de Fort King.
