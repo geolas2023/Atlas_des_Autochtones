@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · History of Polk County (1880)
+# ref: The History of Polk County, Iowa, Des Moines, Union Historical Company, 1880
+# lien: https://archive.org/details/historyofpolkcou00unio_0/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofpolkcou00unio_0/mode/1up?q={q}
+# Pages approximatives.
+Red Bird et le verger de Montrose | Métis | Montrose (Iowa) | 1795/1798 | 143 | Le Métis Red Bird, connu des Blancs sous le nom de Thomas Abbott, vit à la tête des rapides des Moines ; selon Kilbourne, il plante près de son wigwam une vingtaine de pommiers reçus à Saint-Charles, origine du « vieux verger » de Montrose.
