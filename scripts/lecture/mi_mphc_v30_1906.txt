@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Michigan Pioneer and Historical Collections, vol. XXX (1903-1904)
+# ref: Michigan Pioneer and Historical Collections, vol. XXX (communications de 1903-1904)
+# lien: https://archive.org/details/michiganhistoric30mich/page/{page}/mode/1up
+# recherche: https://archive.org/details/michiganhistoric30mich/mode/1up?q={q}
+# Pages approximatives.
+Kakima épouse William Burnett | Autochtones (nation non précisée) | Niles (Michigan) | 1782~ | 90-91 | Kakima, fille du chef Aniquiba, épouse le traiteur William Burnett devant le missionnaire catholique La Vi Deaux, ce qui assure au traiteur sa place auprès des nations de la Saint-Joseph.
+Cession des terres au nord de la rivière Grand | Odawas (Outaouais); Anishinaabés (Ojibwés, Saulteux) | Washington | 1836-03 | 185-188 | Par le traité de Washington, les Odawas et les Ojibwés cèdent les terres au nord de la rivière Grand en gardant des réserves sur la Pere Marquette, à Little Traverse et à Grand Traverse ; Louis Moran, Augustus Hamelin fils et Henry Levake sont parmi les témoins.
