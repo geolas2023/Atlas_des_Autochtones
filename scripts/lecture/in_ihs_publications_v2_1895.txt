@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Indiana Historical Society Publications, vol. II (1895)
+# ref: Indiana Historical Society Publications, vol. II (Oscar J. Craig, Ouiatanon ; Jacob Piatt Dunn, French Settlements on the Wabash), Bowen-Merrill, Indianapolis, 1895
+# lien: https://archive.org/details/indianahistorica2112indi/page/{page}/mode/1up
+# recherche: https://archive.org/details/indianahistorica2112indi/mode/1up?q={q}
+# Pages approximatives.
+Prise de Ouiatanon | Weas et Piankashaws | Ouabache (Ouiatanon) | 1763-06-01 | 331 | Le matin du 1er juin, les Autochtones de Ouiatanon s'emparent du lieutenant Jenkins et de sa garnison, dans le soulèvement de Pontiac.
+Nations de la Ouabache selon Abbott | Weas et Piankashaws | Vincennes | 1777-05-26 | 440-441 | Le lieutenant-gouverneur Abbott écrit que le plus grand village de la Ouabache est celui des Ouias, avec mille guerriers, si nombreux et si démunis qu'il doit leur faire de grands présents.
