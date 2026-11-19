@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Past and Present of Tippecanoe County, vol. I (1909)
+# ref: Past and Present of Tippecanoe County, Indiana, vol. I, 1909
+# lien: https://archive.org/details/pastpresentoftip01indeha/page/{page}/mode/1up
+# recherche: https://archive.org/details/pastpresentoftip01indeha/mode/1up?q={q}
+# Pages approximatives.
+Weas et Kickapous de Ouiatanon | Weas et Piankashaws; Kickapous; Miamis | Ouabache (Ouiatanon) | 1790 | 51 | Les Miamis et les Kickapous réunis à Ouiatanon repoussent les paroles de paix portées de Vincennes par Antoine Gamelin au nom du gouverneur St. Clair.
+Destruction de Kethtippecanunk et de Ouiatanon | Weas et Piankashaws; Kickapous | Ouabache (Ouiatanon) | 1791 | 51-52 | Les expéditions du général Scott (juin) et du colonel Wilkinson détruisent les villages weas et kickapous de la Ouabache, dont la grande ville de Kethtippecanunk, et les maisons et les champs de maïs de Ouiatanon.
