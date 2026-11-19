@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Jones, The History of Georgia, vol. 1 (1883)
+# ref: Charles C. Jones, The History of Georgia, vol. 1, Boston, Houghton, 1883
+# lien: https://archive.org/details/historyofgeorgia01joneuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofgeorgia01joneuoft/mode/1up?q={q}
+# Pages approximatives.
+Tomochichi et Mary Musgrove accueillent Oglethorpe | Muscogees (Creeks) | Savannah (Géorgie) | 1733 | 119 | Arrivé en 1733, Oglethorpe visite le village de Yamacraw et obtient une entrevue avec Tomochichi ; Mary Musgrove, qui parle assez bien l'anglais, sert d'interprète et contribue à obtenir des Indiens des promesses d'amitié.
+Le congrès de Coweta | Muscogees (Creeks) | Coweta (Creeks) | 1739 | 313-317 | Oglethorpe, escorté par une députation de chefs, gagne Coweta, principale ville des Creeks, où il est accueilli avec une grande joie ; conférence et traité avec les Indiens.
+La mort de Tomochichi | Muscogees (Creeks) | Savannah (Géorgie) | 1739 | 320 | La colonie pleure Tomochichi, Creek et grand guerrier dans sa jeunesse, mort après une longue maladie en pleine possession de ses facultés ; il est enterré au centre de la ville, où un monument doit honorer son amitié pour les colons.
