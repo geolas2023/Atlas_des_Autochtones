@@ -1,0 +1,10 @@
+# corpus: Lecture intégrale · Thwaites, Wisconsin : The Americanization of a French Settlement (1908)
+# ref: Reuben Gold Thwaites, Wisconsin : The Americanization of a French Settlement, Houghton Mifflin, Boston et New York, 1908
+# lien: https://archive.org/details/wisconsinamerica01thwa/page/{page}/mode/1up
+# recherche: https://archive.org/details/wisconsinamerica01thwa/mode/1up?q={q}
+# Pages approximatives.
+Hurons de la rivière Noire | Wyandots (Hurons-Wendat) | Black River (Wisconsin) | 1660 | 45 | Des Hurons établis sur la rivière Noire, venus traiter dans la colonie, repartent vers le 1er septembre en emmenant le père René Ménard et sept Français.
+Peuplement de La Baye | Ho-Chunks (Winnebagos); Menominees (Folles-Avoines) | Green Bay | 1718 | 104 | Un mémoire de 1718 dit La Baye habitée par les Puants et les Folles-Avoines, avec quelques Français.
+Soulèvement ménominee à La Baye | Menominees (Folles-Avoines) | Green Bay | 1758 | 101 | Des Ménominees se soulèvent à La Baye, tuent plusieurs Français et pillent le poste.
+Alliés ojibwés de Beaubassin | Anishinaabés (Ojibwés, Saulteux) | La Pointe | 1758~ | 124 | Hertel de Beaubassin, dernier commandant français de La Pointe, est rappelé au Bas-Canada avec ses alliés ojibwés pour combattre les Anglais.
+Épouse de Michel Cadotte | Anishinaabés (Ojibwés, Saulteux) | La Pointe | 1800 | 167 | Fille du chef ojibwé du village de La Pointe, elle épouse le traiteur Michel Cadotte, qui y établit son quartier général.
