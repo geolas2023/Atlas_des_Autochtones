@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Weesner, History of Wabash County, vol. I (1914)
+# ref: Clarkson W. Weesner, History of Wabash County, Indiana, vol. I, 1914
+# lien: https://archive.org/details/historyofwabashc01wees/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofwabashc01wees/mode/1up?q={q}
+# Pages approximatives.
+Francis La Fontaine (Topeah) | Miamis | Huntington (Indiana) | 1841 | 66 | Fils d'un père français et d'une mère miamie, gendre du chef Jean-Baptiste Richardville, Topeah est élu principal chef des Miamis à la mort de celui-ci et s'établit aux Fourches de la Wabash.
+Francis La Fontaine (Topeah) | Miamis | Lafayette (Indiana) | 1847-04-13 | 66 | Après avoir accompagné une partie de sa nation vers la réserve de l'Ouest à l'automne 1846, il meurt sur le chemin du retour à Lafayette, à trente-sept ans ; il est inhumé à Huntington.
