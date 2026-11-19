@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Wing, History of Monroe County (1890)
+# ref: Talcott E. Wing (éd.), History of Monroe County, Michigan, New York, Munsell & Company, 1890
+# lien: https://archive.org/details/historyofmonroec00wing/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofmonroec00wing/mode/1up?q={q}
+# Pages approximatives.
+Concession du Détroit au conseil privé de 1795 | Anishinaabés (Ojibwés, Saulteux); Odawas (Outaouais); Potawatomis | Detroit | 1795-07-01 | 34 | Pendant le traité de Greenville, des chefs ojibwés, outaouais et potawatomis réunis en conseil privé au Détroit cèdent à Schieffelin, Visger, Patterson et Jones, pour vingt-cinq livres, un immense territoire de la péninsule inférieure.
+Pillage de Frenchtown avant la guerre | Autochtones (nation non précisée) | Rivière aux Raisins | 1812 | 39 | Des bandes de guerriers descendent sur Frenchtown, pillent les provisions des habitants français, abattent le bétail et détruisent les ruches, sans un mot aux occupants.
+Mme Anderson et les guerriers après le Raisin | Autochtones (nation non précisée) | Rivière aux Raisins | 1813-01 | 39-40 | Après la capture de Winchester, des guerriers ivres envahissent le magasin du colonel Anderson ; sa femme, sœur de James Knaggs, qui parle leurs langues, les fait reculer.
