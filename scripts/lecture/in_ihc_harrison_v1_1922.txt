@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Messages and Letters of William Henry Harrison, vol. I (Indiana Historical Collections, vol. VII, 1922)
+# ref: Logan Esarey (éd.), Messages and Letters of William Henry Harrison, vol. I (Indiana Historical Collections, vol. VII), Indiana Historical Commission, 1922
+# lien: https://archive.org/details/indianahistorica07indiuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/indianahistorica07indiuoft/mode/1up?q={q}
+# Pages approximatives.
+Conseil des nations à Greenville et aux villages kickapous | Lenapes (Delawares, Loups); Miamis | Fort Wayne (Indiana) | 1807-08-20 | 239-240 | William Wells écrit de Fort Wayne que plus de deux cents Delawares se rendent au conseil du village kickapou de la prairie, où treize nations sont attendues ; les Miamis de la Mississinewa refusent presque tous d'y aller.
+Meurtre d'un Kaskaskia | Illinois (Inoka); Kickapous | Kaskaskia | 1807-05-19 | 214-215 | Après le meurtre d'un Autochtone kaskaskia, Harrison ordonne à Pierre Menard de protéger les Kaskaskias et adresse un message aux Kickapous de l'Illinois par leur chef de la Vermillon.
