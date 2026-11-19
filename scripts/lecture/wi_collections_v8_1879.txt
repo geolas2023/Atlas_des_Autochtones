@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Collections of the State Historical Society of Wisconsin, vol. VIII (1879)
+# ref: Collections of the State Historical Society of Wisconsin, vol. VIII, Madison, 1879
+# lien: https://archive.org/details/collectionsofsta0008lyma/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofsta0008lyma/mode/1up?q={q}
+# Pages approximatives.
+Peter Pauquette | Ho-Chunks (Winnebagos); Métis | Portage (Wisconsin) | 1836-10-17 | 316-318 | Né en 1800 d'un père français et d'une mère winnebago, enterrée devant la vieille maison de l'agence; interprète et traiteur au portage, tué en octobre 1836.
+Nations de La Baye au conseil de 1726 | Mesquakies (Renards); Sauks; Ho-Chunks (Winnebagos) | Green Bay | 1726-06-07 | 244 | De Lignery tient conseil à Green Bay avec les Renards, les Sauks et les Winnebagos.

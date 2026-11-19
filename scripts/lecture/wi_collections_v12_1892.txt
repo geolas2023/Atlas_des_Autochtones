@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Collections of the State Historical Society of Wisconsin, vol. XII (1892)
+# ref: Collections of the State Historical Society of Wisconsin, vol. XII, éd. Reuben G. Thwaites, Madison, 1892
+# lien: https://archive.org/details/collectionsofsta0012reub/page/{page}/mode/1up
+# recherche: https://archive.org/details/collectionsofsta0012reub/mode/1up?q={q}
+# Pages approximatives.
+Délégués de l'Ouest à Québec | Sioux (Dakotas, Lakotas, Nakotas); Menominees (Folles-Avoines); Ho-Chunks (Winnebagos) | Montréal | 1814 | 151-152 | L'hiver 1813-1814, Wabasha et Little Crow pour les Sioux, Tomah pour les Ménomines et Lassammic pour les Winnebagos sont reçus par Prevost; Wabasha et Tomah louent Dickson.
+Guerriers de Dickson à Mackinac | Ho-Chunks (Winnebagos); Menominees (Folles-Avoines); Sioux (Dakotas, Lakotas, Nakotas) | Île Mackinac | 1814 | 152 | Dickson part pour Mackinac avec 85 Winnebagos, 120 Ménomines et 100 Sioux; les Ménomines de Tomah décident de la défaite de Croghan.
+Déprédations autochtones à Green Bay | Autochtones (nation non précisée) | Green Bay | 1814-11-13 | 126-131 | La cour d'enquête évalue à 2 303 livres les pertes de bétail des habitants et à 2 710 dollars les dégâts aux récoltes.
+Mauzemoneka (Iron Walker) | Ho-Chunks (Winnebagos) | Portage (Wisconsin) | 1836-10 | 400 | Fils du chef Whirling Thunder, il tue Pierre Paquette près de la rivière Wisconsin.
