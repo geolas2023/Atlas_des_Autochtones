@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Iowa Journal of History and Politics, vol. XIV (1916)
+# ref: Iowa Journal of History and Politics, vol. XIV, Iowa City, State Historical Society of Iowa, 1916
+# lien: https://archive.org/details/iowajournalofhis14iowa/page/{page}/mode/1up
+# recherche: https://archive.org/details/iowajournalofhis14iowa/mode/1up?q={q}
+# Pages approximatives.
+Boucherville captif des Kicapous et des Mascoutens | Kickapous; Mascoutens | Rivière Iowa | 1728-10-16 | 96-117 | Récit de la capture de Pierre Boucher de Boucherville et de ses compagnons, le 16 octobre 1728, par des Kicapous et des Mascoutens ; les frères Montbrun s'échappent (p. 105).

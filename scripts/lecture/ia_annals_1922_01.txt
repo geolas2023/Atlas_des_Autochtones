@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Annals of Iowa, vol. 13, n° 3 (janvier 1922)
+# ref: Annals of Iowa, vol. 13, n° 3 (janvier 1922)
+# lien: https://archive.org/details/annals-of-iowa_1922-01_13_3/page/{page}/mode/1up
+# recherche: https://archive.org/details/annals-of-iowa_1922-01_13_3/mode/1up?q={q}
+# Pages approximatives.
+Lewis et Clark envoient chercher les Otoes | Otoes-Missourias | Fort Atkinson (Council Bluff) | 1804-07 | 175-176 | Au camp de Council Bluff, en juillet 1804, l'expédition attend les Otoes ; le Français Liberty, envoyé à leur village, ne revient pas.
