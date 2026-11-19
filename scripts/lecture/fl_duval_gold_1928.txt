@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Gold, History of Duval County (1928)
+# ref: Pleasant Daniel Gold, History of Duval County, Florida, St. Augustine, Record Co., 1928
+# lien: https://archive.org/details/historyofduvalco00gold/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofduvalco00gold/mode/1up?q={q}
+# Pages approximatives.
+Les Timucuas Saturiwa de la rivière de Mai | Timucuas | Village de la Rivière-Saint-Jean (Floride) | 1564 | 8-11 | Sous-groupe des Timucuas du bas Saint-Johns, nommé d'après les chefs qui les gouvernaient sous l'occupation française ; Jacques Le Moyne présente le roi Saturiona comme un chef puissant en 1564 et dessine leurs façons de sécher le poisson et de cultiver la terre.
+Saturiba et l'expédition de Gourgues | Timucuas | Village de la Rivière-Saint-Jean (Floride) | 1568 | 35-36 | Gourgues traite avec Saturiba et d'autres chefs indiens, que le Français Peter Bren, resté auprès de Saturiba depuis 1565, excitait contre les Espagnols, avant d'attaquer les forts espagnols de la rivière.
