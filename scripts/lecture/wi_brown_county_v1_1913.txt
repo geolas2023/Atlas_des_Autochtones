@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · History of Brown County, Wisconsin, vol. I (1913)
+# ref: History of Brown County, Wisconsin, Past and Present, éd. Deborah Beaumont Martin, vol. I, S. J. Clarke, Chicago, 1913
+# lien: https://archive.org/details/HistoryOfBrownCountyWisconsinVol.1/page/{page}/mode/1up
+# recherche: https://archive.org/details/HistoryOfBrownCountyWisconsinVol.1/mode/1up?q={q}
+# Pages approximatives.
+Repli des Sauks de La Baye | Sauks | Green Bay | 1733-09-16 | 51-52 | La garnison sauk repousse les Français de Villiers à La Baye; le courage des Autochtones stupéfie Français et alliés.
+Révolte ménomine | Menominees (Folles-Avoines) | Green Bay | 1758-05 | 58 | Les Ménomines de La Baye se soulèvent, tuent onze Canadiens, manquent le commandant et pillent un magasin.
+Chakachokama (le Vieux Roi) | Menominees (Folles-Avoines) | Green Bay | 1778-08-17 | 70 | Il reçoit de Haldimand une médaille de grand chef en suivant Langlade à Montréal; son village se trouve à un demi-mille au sud du fort.
+Cession ménomine à Jacob Franks | Menominees (Folles-Avoines) | Green Bay | 1794 | 84 | Acte cédant un terrain sur la rivière du Diable pour un moulin.
+No-No-So-bi-Ma | Odawas (Outaouais) | Green Bay | 1824-01-01 | 94 | Tué par le soldat Aruba J. Joice du fort Howard; premier procès de la cour de circuit américaine.
+Oneidas à Little Rapids | Haudenosaunee (Iroquois) | Green Bay | 1822~ | 110 | Les Oneidas campent à Little Rapids pendant l'hiver 1822-1823, sans accepter le traité de 1822.
+École de la mission de Cadle | Menominees (Folles-Avoines); Anishinaabés (Ojibwés, Saulteux); Sauks | Green Bay | 1832 | 128 | Vingt-deux enfants autochtones « de sang pur » ménomines, ojibwés et des nations de New York, plus un Sauk, parmi 109 élèves.
+Four Legs et Oshkosh | Ho-Chunks (Winnebagos); Menominees (Folles-Avoines) | Green Bay | 1830 | 121 | Au conseil, les chefs winnebago et ménomine répudient tout traité antérieur à celui de 1827.
