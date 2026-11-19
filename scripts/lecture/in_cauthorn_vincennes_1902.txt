@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Cauthorn, A History of the City of Vincennes (1902)
+# ref: Henry S. Cauthorn, A History of the City of Vincennes, Indiana, from 1702 to 1901, M. C. Cauthorn, Terre Haute, 1902
+# lien: https://archive.org/details/historyofcityofv00caut/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofcityofv00caut/mode/1up?q={q}
+# Pages approximatives.
+Alliés autochtones de Hamilton | Autochtones (nation non précisée) | Vincennes | 1778 | 100 | Le gouverneur Hamilton reprend le fort de Vincennes avec quatre-vingts soldats et quatre cents alliés autochtones, et arrête le père Gibault.

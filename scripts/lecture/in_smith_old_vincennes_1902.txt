@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Smith, Historical Sketches of Old Vincennes (1902)
+# ref: Hubbard Madison Smith, Historical Sketches of Old Vincennes, Founded in 1732 : Its Institutions and Churches, Vincennes, 1902
+# lien: https://archive.org/details/historicalsketch00smi/page/{page}/mode/1up
+# recherche: https://archive.org/details/historicalsketch00smi/mode/1up?q={q}
+# Pages approximatives.
+Mascoutens à l'embouchure de l'Ohio | Mascoutens | Poste Juchereau (embouchure de l'Ohio) | 1702 | 13 | Une tribu de Mascoutens s'établit à l'embouchure de l'Ohio, près du fort de Juchereau.
