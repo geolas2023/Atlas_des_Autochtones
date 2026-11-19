@@ -1,0 +1,11 @@
+# corpus: Lecture intégrale · Greene, History of Old Vincennes and Knox County, vol. I (1911)
+# ref: George E. Greene, History of Old Vincennes and Knox County, Indiana, vol. I, S. J. Clarke Publishing Company, 1911
+# lien: https://archive.org/details/historyofoldvinc01gree/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofoldvinc01gree/mode/1up?q={q}
+# Pages approximatives.
+Village piankashaw de Chippecoke | Weas et Piankashaws | Vincennes | 1727~ | 72 | Vinsenne bâtit une petite palissade au village piankashaw de Chippecoke, le plus bas sur la Ouabache et le plus proche des Anglais.
+Prise des postes de l'Ouest par les alliés de Pontiac | Autochtones (nation non précisée) | Ouabache (Ouiatanon) | 1763-05 | 102 | Les attaques simultanées de mai 1763 livrent aux Autochtones Michilimackinac, la baie Verte, Saint-Joseph, Ouiatenon, les Miamis et d'autres postes.
+Conseil de guerre de Ouiatenon | Autochtones (nation non précisée) | Ouabache (Ouiatanon) | 1785-08 | 224 | Les représentants des Autochtones de la Ouabache hostiles aux traités tiennent un grand conseil de guerre à Ouiatenon.
+Cession des Delawares à Vincennes | Lenapes (Delawares, Loups) | Vincennes | 1804-08-18 | 284 | Les chefs delawares cèdent aux États-Unis leurs prétentions sur des terres, par traité signé à Vincennes.
+Traité de Grouseland | Autochtones (nation non précisée) | Vincennes | 1805-08-21 | 14 | Traité signé à Grouseland, près de Vincennes.
+Traité de Fort Wayne | Autochtones (nation non précisée) | Fort Wayne (Indiana) | 1809-09-30 | 14 | Traité signé à Fort Wayne.

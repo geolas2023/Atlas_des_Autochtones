@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Dillon, A History of Indiana (1859)
+# ref: John B. Dillon, A History of Indiana, from its Earliest Exploration by Europeans to the Close of the Territorial Government, in 1816, Bingham & Doughty, Indianapolis, 1859
+# lien: https://archive.org/details/ahistoryindiana00dillgoog/page/{page}/mode/1up
+# recherche: https://archive.org/details/ahistoryindiana00dillgoog/mode/1up?q={q}
+# Pages approximatives.
+Cession piankashaw à Viviat | Weas et Piankashaws | Vincennes | 1775-10-18 | 104 | Onze chefs piankashaws (Tabac, Montour, La Grand Couette, Ouaouaijao, Tabac fils, La Mouche Noire, Le Maringouin, Le Petit Castor, Kiesquibichias, Grelot père et fils) cèdent à Louis Viviat deux districts sur la Ouabache.
+Concession traditionnelle de 1742 | Autochtones (nation non précisée) | Vincennes | 1742 | 54 | Selon la tradition des descendants français, les Autochtones de la Ouabache concèdent une grande étendue de terre aux habitants du poste Vincennes.
+Échauffourée de Ouiatenon | Weas et Piankashaws | Ouiatanon | 1733~ | 402 | Une rixe de traite entre de jeunes Ouiatenons ivres et deux ou trois voyageurs français trouble les relations ; un détachement est envoyé contre eux.
+Mission de Gamelin aux villages de la Ouabache | Kickapous; Weas et Piankashaws; Miamis | Fort Wayne (Indiana) | 1790-04 | 226 | Antoine Gamelin porte les paroles de St. Clair au village kickapou de Les Jambes Croches, au village piankashaw du Vermillon et jusqu'à Kekionga, où il est reçu froidement.
