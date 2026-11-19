@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Randall, History of the Chippewa Valley (1875)
+# ref: Thomas E. Randall, History of the Chippewa Valley, Free Press Print, Eau Claire, 1875
+# lien: https://archive.org/details/historyofchippew00rand/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofchippew00rand/mode/1up?q={q}
+# Pages approximatives.
+Traité ojibwé de La Pointe | Anishinaabés (Ojibwés, Saulteux) | La Pointe | 1842-10-04 | 15 | Po-go-ne-ge-shik et quarante autres chefs et guerriers cèdent à Robert Stuart toutes les terres ojibwées du Wisconsin.
+Mme Demarie | Métis; Anishinaabés (Ojibwés, Saulteux) | Chippewa Falls (Wisconsin) | 1851 | 17-18, 75 | Métisse française et ojibwée née à Détroit, seule soignante de la vallée, elle remet l'auteur sur pied en six semaines.
+Meurtre du vieux Jack | Sioux (Dakotas, Lakotas, Nakotas) | Chippewa Falls (Wisconsin) | 1851 | 75 | Des guerriers sioux tuent derrière Frenchtown un vieil Autochtone qui vivait surtout chez les Demarie, puis s'enfuient.
+Représailles ojibwées | Anishinaabés (Ojibwés, Saulteux); Sioux (Dakotas, Lakotas, Nakotas) | Dunnville (Wisconsin) | 1857 | 75 | Des Ojibwés tuent deux guerriers sioux près de Rock Run et exposent leurs têtes sur des perches au bord de la route.

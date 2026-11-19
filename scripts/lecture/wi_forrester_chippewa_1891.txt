@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Forrester, Historical and Biographical Album of the Chippewa Valley (1891)
+# ref: George Forrester (éd.), Historical and Biographical Album of the Chippewa Valley, Wisconsin, A. Warner, Chicago, 1891-1892
+# lien: https://archive.org/details/historicalbiogra00forr/page/{page}/mode/1up
+# recherche: https://archive.org/details/historicalbiogra00forr/mode/1up?q={q}
+# Pages approximatives.
+Cheffe winnebago de l'île Doty | Ho-Chunks (Winnebagos) | Île Doty (lac Winnebago) | 1766 | 28 | À l'arrivée de Carver, la grande bourgade winnebago est dirigée par une veuve, épouse de De Kaury; ses descendants, les De Kaury, seront des chefs renommés.
