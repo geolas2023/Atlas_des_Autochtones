@@ -1,6 +1,14 @@
 // Atlas des Autochtones — Premières Nations, Métis et Inuits dans les sources de l'Amérique française : carte, filtres, chronologie, fiches.
 // Version lue dans l'adresse du script (index.html : js/atlas.js?v=…) : à changer à chaque publication pour vider les caches.
 const VERSION = (document.currentScript && new URL(document.currentScript.src).searchParams.get('v')) || '';
+// Langue de la page : <html lang="en"> (index-en.html) affiche l'interface en anglais ; les fiches traduites viennent de
+// data/traductions-en.json (fiches pas encore traduites : texte français). Vocabulaire et règles : js/traduction-en.js.
+const EN = document.documentElement.lang === 'en';
+const L = (fr, en) => EN ? en : fr;
+const TR = window.TRAD_EN || { NATIONS: {}, AIRES: {}, PRECISION: {}, CORPUS: {}, GROUPES: {}, sources: x => x, voir: x => x, url: x => x };
+const nomNation = n => EN ? (TR.NATIONS[n] || n) : n;
+const nomAire = a => EN ? (TR.AIRES[a] || a) : a;
+const pl = (n, fr, en) => `${n} ${n > 1 ? L(fr + 's', en + 's') : L(fr, en)}`;
 // Données : data/lieux.geojson (points ; propriétés décrites dans le README).
 
 const COULEURS = {
@@ -30,9 +38,11 @@ const GROUPES_CORPUS = [
   ['Régions', ['Illinois français', 'Nouvelle-Angleterre', "Piste de l'Oregon"]],
   ['Atlas du réseau (renvois)', ['Atlas Aubry', 'Atlas Iberville', 'Atlas Jolliet', 'Atlas Robidoux']]
 ];
+if (EN) Object.entries(TR.CORPUS).forEach(([k, v]) => { if (CORPUS[k]) CORPUS[k].libelle = v; });
 // Vue d'ouverture de l'accueil du réseau : les États-Unis et le Canada (du Pacifique à l'Atlantique, du golfe du Mexique à la baie James)
 const VUE_ACCUEIL = [[-128, 24], [-62, 58]];
-const CERTITUDES = { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
+const CERTITUDES = EN ? { certaine: 'certain', approximative: 'approximate', hypothetique: 'hypothetical' }
+                      : { certaine: 'certaine', approximative: 'approximative', hypothetique: 'hypothétique' };
 const T_MIN = 1560, T_MAX = 2010;
 
 const etat = {
@@ -52,9 +62,13 @@ const anneeTxt = v => Math.floor(v);
 async function charger() {
   const [lieux, themes] = await Promise.all([
     fetch('data/lieux.geojson?v=' + VERSION).then(r => r.json()),
-    fetch('data/themes.json?v=' + VERSION).then(r => r.json())
+    fetch(`data/themes${L('', '-en')}.json?v=` + VERSION).then(r => r.json())
   ]);
   LIBELLES = themes;
+  if (EN) {
+    const tr = await fetch('data/traductions-en.json?v=' + VERSION).then(r => r.ok ? r.json() : {}).catch(() => ({}));
+    lieux.features.forEach(f => { const t = tr[f.properties.id]; if (t) Object.assign(f.properties, t); else f.properties.nonTraduit = true; });
+  }
   // Bibliothèque archive.org : un corpus par livre (« archive.org · Morice (1908) »), déclaré à la volée
   lieux.features.forEach(f => {
     const k = f.properties.corpus;
@@ -90,14 +104,14 @@ function correspond(f) {
 function filtrer() {
   const visibles = TOUTES.filter(correspond);
   carte.getSource('lieux')?.setData({ type: 'FeatureCollection', features: agreger(visibles) });
-  $('#compteur').textContent = `${visibles.length} fiche${visibles.length > 1 ? 's' : ''} affichée${visibles.length > 1 ? 's' : ''} sur ${TOUTES.length}`;
+  $('#compteur').textContent = L(`${visibles.length} fiche${visibles.length > 1 ? 's' : ''} affichée${visibles.length > 1 ? 's' : ''} sur ${TOUTES.length}`, `${visibles.length} of ${TOUTES.length} entries shown`);
   const bandeau = $('#bandeau-personne');
   if (etat.personne) {
     if (!bandeau) {
       const d = document.createElement('div'); d.id = 'bandeau-personne'; d.className = 'filtre-actif';
       $('#outils').prepend(d);
     }
-    $('#bandeau-personne').innerHTML = `Personnage : <strong>${esc(etat.personne)}</strong> — <a href="#" id="retirer-pers">retirer</a>`;
+    $('#bandeau-personne').innerHTML = `${L('Personnage', 'Person')} : <strong>${esc(etat.personne)}</strong> — <a href="#" id="retirer-pers">${L('retirer', 'remove')}</a>`;
     $('#retirer-pers').onclick = e => { e.preventDefault(); etat.personne = null; filtrer(); majListePers(); };
   } else bandeau?.remove();
   return visibles;
@@ -147,15 +161,15 @@ function afficherLieu(cle, idActif = null) {
   const parDecennie = new Map();
   fs.forEach(f => {
     const d = Number.isFinite(f.properties.debut) ? Math.floor(f.properties.debut / 10) * 10 : null;
-    const k = d === null ? 'Sans date' : `${d}-${d + 9}`;
+    const k = d === null ? L('Sans date', 'Undated') : `${d}-${d + 9}`;
     if (!parDecennie.has(k)) parDecennie.set(k, []);
     parDecennie.get(k).push(f);
   });
   const livres = new Set(fs.map(f => f.properties.corpus)).size;
   $('#panneau').innerHTML = `<h2>${esc(titre)}</h2>
-    <p class="meta">${fs.length} fiche${fs.length > 1 ? 's' : ''} · ${livres} source${livres > 1 ? 's' : ''} · selon les filtres et la période choisis</p>
-    ${vague ? '<p class="note"><strong>Localisation approximative.</strong> Ce point représente une région ou un lieu imprécis, pas un emplacement exact.</p>' : ''}
-    <input type="search" id="filtre-lieu" placeholder="Filtrer ces fiches (nom, année, livre)…" class="filtre-lieu">
+    <p class="meta">${pl(fs.length, 'fiche', 'entry').replace('entrys', 'entries')} · ${pl(livres, 'source', 'source')} · ${L('selon les filtres et la période choisis', 'according to the selected filters and period')}</p>
+    ${vague ? L('<p class="note"><strong>Localisation approximative.</strong> Ce point représente une région ou un lieu imprécis, pas un emplacement exact.</p>', '<p class="note"><strong>Approximate location.</strong> This point represents a region or an imprecise place, not an exact location.</p>') : ''}
+    <input type="search" id="filtre-lieu" placeholder="${L('Filtrer ces fiches (nom, année, livre)…', 'Filter these entries (name, year, book)…')}" class="filtre-lieu">
     <div id="liste-lieu">${[...parDecennie.entries()].map(([k, l]) =>
       `<details class="decennie" open><summary>${esc(k)} <span class="mini">(${l.length})</span></summary><ul class="liste-fiches">${l.map(li).join('')}</ul></details>`).join('')}</div>`;
   const ctx = { feats: fs, titre, cle };
@@ -188,7 +202,7 @@ function construireFiltres() {
   const groupes = [['Lecture intégrale des livres', lectures], ...GROUPES_CORPUS, ['Bibliothèque archive.org', archives], ['Autres sources', Object.keys(CORPUS).filter(k => !ranges.has(k))]]
     .map(([titre, ks]) => [titre, ks.filter(k => CORPUS[k])]).filter(([, ks]) => ks.length);
   $('#f-corpus').innerHTML = groupes.map(([titre, ks], g) =>
-    `<details class="groupe"><summary><input type="checkbox" data-groupe="${g}" checked title="Tout le groupe"> ${esc(titre)} <span class="mini">(${ks.reduce((s, k) => s + nb('corpus', k), 0)})</span></summary>
+    `<details class="groupe"><summary><input type="checkbox" data-groupe="${g}" checked title="${L('Tout le groupe', 'Whole group')}"> ${esc(EN ? (TR.GROUPES[titre] || titre) : titre)} <span class="mini">(${ks.reduce((s, k) => s + nb('corpus', k), 0)})</span></summary>
       <div class="groupe-corps">${ks.map(ligneCorpus).join('')}</div></details>`).join('');
   $('#f-themes').innerHTML = Object.entries(COULEURS).map(([k, c]) =>
     `<label><input type="checkbox" data-theme="${k}" checked> <i class="puce" style="background:${c}"></i>${esc(LIBELLES[k] || k)} <span class="mini">(${nb('theme', k)})</span></label>`).join('');
@@ -200,7 +214,7 @@ function construireFiltres() {
       cg.checked = n === cs.length; cg.indeterminate = n > 0 && n < cs.length;
     });
     const tous = document.querySelectorAll('[data-corpus]'), actifs = [...tous].filter(c => c.checked).length;
-    $('#corpus-resume').textContent = actifs === tous.length ? `(tous, ${tous.length})` : `(${actifs} sur ${tous.length})`;
+    $('#corpus-resume').textContent = actifs === tous.length ? L(`(tous, ${tous.length})`, `(all, ${tous.length})`) : L(`(${actifs} sur ${tous.length})`, `(${actifs} of ${tous.length})`);
   };
   const changerCorpus = (c, on) => { c.checked = on; on ? etat.corpus.add(c.dataset.corpus) : etat.corpus.delete(c.dataset.corpus); };
   document.querySelectorAll('[data-corpus]').forEach(c => c.onchange = () => { changerCorpus(c, c.checked); majGroupes(); filtrer(); });
@@ -230,10 +244,10 @@ function construireNations() {
   TOUTES.forEach(f => (f.properties.nations || []).forEach(n => compte.set(n, (compte.get(n) || 0) + 1)));
   const parAire = new Map();
   [...compte.keys()].forEach(n => { const a = AIRES[n] || '—'; if (!parAire.has(a)) parAire.set(a, []); parAire.get(a).push(n); });
-  const aires = [...parAire.keys()].sort((a, b) => (a === '—') - (b === '—') || a.localeCompare(b, 'fr'));
-  $('#f-nations').innerHTML = aires.map(a => `<div class="groupe-nation"><p class="aire">${esc(a === '—' ? 'Sans nation précisée' : a)}</p>${parAire.get(a).sort((x, y) => x.localeCompare(y, 'fr')).map(n =>
-    `<label data-nom="${esc(norm(n))}"><input type="checkbox" data-nation="${esc(n)}" checked> ${esc(n)} <span class="mini">(${compte.get(n)})</span></label>`).join('')}</div>`).join('');
-  const maj = () => { const t = document.querySelectorAll('[data-nation]'), a = [...t].filter(c => c.checked).length; $('#nations-resume').textContent = a === t.length ? `(toutes, ${t.length})` : `(${a} sur ${t.length})`; };
+  const aires = [...parAire.keys()].sort((a, b) => (a === '—') - (b === '—') || nomAire(a).localeCompare(nomAire(b), L('fr', 'en')));
+  $('#f-nations').innerHTML = aires.map(a => `<div class="groupe-nation"><p class="aire">${esc(a === '—' ? L('Sans nation précisée', 'No nation specified') : nomAire(a))}</p>${parAire.get(a).sort((x, y) => nomNation(x).localeCompare(nomNation(y), L('fr', 'en'))).map(n =>
+    `<label data-nom="${esc(norm(n + ' ' + nomNation(n)))}"><input type="checkbox" data-nation="${esc(n)}" checked> ${esc(nomNation(n))} <span class="mini">(${compte.get(n)})</span></label>`).join('')}</div>`).join('');
+  const maj = () => { const t = document.querySelectorAll('[data-nation]'), a = [...t].filter(c => c.checked).length; $('#nations-resume').textContent = a === t.length ? L(`(toutes, ${t.length})`, `(all, ${t.length})`) : L(`(${a} sur ${t.length})`, `(${a} of ${t.length})`); };
   document.querySelectorAll('[data-nation]').forEach(c => c.onchange = () => { c.checked ? etat.nations.add(c.dataset.nation) : etat.nations.delete(c.dataset.nation); maj(); filtrer(); });
   const toutes = on => { document.querySelectorAll('[data-nation]').forEach(c => { c.checked = on; on ? etat.nations.add(c.dataset.nation) : etat.nations.delete(c.dataset.nation); }); maj(); filtrer(); };
   $('#nations-tous').onclick = e => { e.preventDefault(); toutes(true); };
@@ -244,8 +258,8 @@ function construireNations() {
 // Ne garder qu'une nation : depuis une fiche
 function choisirNation(n) {
   document.querySelectorAll('[data-nation]').forEach(c => { c.checked = c.dataset.nation === n; });
-  etat.nations = new Set([n]); $('#nations-resume').textContent = `(1 sur ${document.querySelectorAll('[data-nation]').length})`;
-  const vis = filtrer(); cadrer(vis); afficherListe(vis, `Fiches : ${n}`);
+  etat.nations = new Set([n]); $('#nations-resume').textContent = L(`(1 sur ${document.querySelectorAll('[data-nation]').length})`, `(1 of ${document.querySelectorAll('[data-nation]').length})`);
+  const vis = filtrer(); cadrer(vis); afficherListe(vis, L(`Fiches : ${n}`, `Entries: ${nomNation(n)}`));
 }
 
 function majListePers() {
@@ -263,7 +277,7 @@ function choisirPersonne(n) {
   etat.personne = n; etat.toutes = true; $('#t-tout').checked = true; majPeriode();
   const vis = filtrer(); majListePers();
   cadrer(vis);
-  afficherListe(vis, `Fiches liées à ${n}`);
+  afficherListe(vis, L(`Fiches liées à ${n}`, `Entries linked to ${n}`));
 }
 
 function cadrer(feats) {
@@ -283,7 +297,7 @@ function construireChrono() {
   const max = Math.max(...Object.values(dec));
   Object.entries(dec).forEach(([d, n]) => {
     const h = document.createElement('i'); h.className = 'histo';
-    h.style.left = pos(+d + 5); h.style.height = `${4 + 14 * n / max}px`; h.title = `${d}-${+d + 9} : ${n} fiches`;
+    h.style.left = pos(+d + 5); h.style.height = `${4 + 14 * n / max}px`; h.title = L(`${d}-${+d + 9} : ${n} fiches`, `${d}-${+d + 9}: ${n} entries`);
     g.appendChild(h);
   });
   for (let a = T_MIN; a <= T_MAX; a += 10) {
@@ -314,7 +328,7 @@ function construireChrono() {
   majPeriode();
 }
 function majPeriode() {
-  $('#periode').textContent = etat.toutes ? 'Toutes dates' : (etat.debut === etat.fin ? `${etat.debut}` : `${etat.debut} – ${etat.fin}`);
+  $('#periode').textContent = etat.toutes ? L('Toutes dates', 'All dates') : (etat.debut === etat.fin ? `${etat.debut}` : `${etat.debut} – ${etat.fin}`);
 }
 
 // ---------- Fiches ----------
@@ -322,7 +336,7 @@ function trouver(id) { return TOUTES.find(f => f.properties.id === id); }
 
 function datation(p) {
   const d = anneeTxt(p.debut), f = anneeTxt(p.fin);
-  return p.date_edtf ? `${p.date_edtf}` + (d !== f ? ` <span class="mini">(période affichée : ${d}–${f})</span>` : '') : (d === f ? d : `${d}–${f}`);
+  return p.date_edtf ? `${p.date_edtf}` + (d !== f ? ` <span class="mini">(${L('période affichée :', 'period shown:')} ${d}–${f})</span>` : '') : (d === f ? d : `${d}–${f}`);
 }
 
 function afficherFiche(id, depuisListe = null) {
@@ -333,27 +347,28 @@ function afficherFiche(id, depuisListe = null) {
   const pers = (p.personnages || []).map(n => `<button type="button" data-p="${esc(n)}">${esc(n)}</button>`).join('');
   const memeLieu = TOUTES.filter(g => g !== f && Math.abs(g.properties.lon0 - p.lon0) < 1e-4 && Math.abs(g.properties.lat0 - p.lat0) < 1e-4);
   $('#panneau').innerHTML = `
-    ${depuisListe ? '<button class="retour" id="retour">← retour à la liste</button>' : ''}
+    ${depuisListe ? `<button class="retour" id="retour">${L('← retour à la liste', '← back to the list')}</button>` : ''}
     <h2>${esc(p.nom)}</h2>
+    ${p.nonTraduit ? '<p class="note">This entry has not been translated yet: the original French text is shown below.</p>' : ''}
     <div>
       <span class="badge ${p.corpus === 'Cragin' ? 'Cragin' : p.corpus === 'Recherches' ? 'Recherches' : p.corpus === 'Hafen' || p.corpus === 'Hafen MM' ? 'Hafen' : p.corpus === 'Atlas Aubry' || p.corpus === 'Atlas Iberville' || p.corpus === 'Atlas Jolliet' || p.corpus === 'Atlas Robidoux' ? 'Aubry' : 'Recherches'}">${esc(p.corpus)}</span>
       <span class="badge" style="background:${coulTheme};color:#fff">${esc(LIBELLES[p.theme] || p.theme)}</span>
-      <span class="badge ${esc(p.certitude)}">localisation ${esc(CERTITUDES[p.certitude] || p.certitude)}</span>
+      <span class="badge ${esc(p.certitude)}">${L('localisation', 'location')} ${esc(CERTITUDES[p.certitude] || p.certitude)}</span>
     </div>
-    <p class="meta">Date : ${datation(p)} · précision : ${esc(p.precision || '—')} · ${p.lat0.toFixed(4)}, ${p.lon0.toFixed(4)}</p>
-    <div class="nations-fiche">${(p.nations || []).map(n => `<button type="button" data-nation-fiche="${esc(n)}" title="Ne montrer que cette nation">${esc(n)}</button>`).join('')}</div>
-    ${pers ? `<p class="mini">Personnes autochtones nommées :</p><div class="pers">${pers}</div>` : ''}
-    ${(p.francophones || []).length ? `<p class="mini">Francophones de la fiche d'origine : ${esc(p.francophones.join(', '))}</p>` : ''}
+    <p class="meta">${L('Date :', 'Date:')} ${datation(p)} · ${L('précision :', 'precision:')} ${esc((EN ? TR.PRECISION[p.precision] : p.precision) || p.precision || '—')} · ${p.lat0.toFixed(4)}, ${p.lon0.toFixed(4)}</p>
+    <div class="nations-fiche">${(p.nations || []).map(n => `<button type="button" data-nation-fiche="${esc(n)}" title="${L('Ne montrer que cette nation', 'Show only this nation')}">${esc(nomNation(n))}</button>`).join('')}</div>
+    ${pers ? `<p class="mini">${L('Personnes autochtones nommées :', 'Indigenous people named:')}</p><div class="pers">${pers}</div>` : ''}
+    ${(p.francophones || []).length ? `<p class="mini">${L('Francophones de la fiche d\'origine :', 'French speakers in the original entry:')} ${esc(p.francophones.join(', '))}</p>` : ''}
     <div class="filet" aria-hidden="true">✦</div>
     <p class="description">${esc(p.description)}</p>
-    ${p.transcription ? `<details><summary>Transcription</summary><p class="mini">${esc(p.transcription)}</p></details>` : ''}
+    ${p.transcription ? `<details><summary>${L('Transcription', 'Transcription')}</summary><p class="mini">${esc(p.transcription)}</p></details>` : ''}
     ${imgs}
-    ${p.note ? `<p class="note"><strong>Note critique.</strong> ${esc(p.note)}</p>` : ''}
-    <p class="sources"><strong>Sources.</strong> ${esc(p.sources)}</p>
-    ${(p.voir_aussi || []).map(v => `<p><a class="lien-salle-fiche" href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.texte)}</a></p>`).join('')}
-    ${memeLieu.length > 8 ? `<p><a href="#" id="voir-lieu">Voir les ${memeLieu.length + 1} fiches de ce lieu (${esc(p.lieu)}) →</a></p>`
-      : memeLieu.length ? `<p class="mini">Autres fiches au même lieu :</p><ul class="liste-fiches">${memeLieu.map(li).join('')}</ul>` : ''}
-    <p class="mini">Identifiant : ${esc(p.id)}</p>`;
+    ${p.note ? `<p class="note"><strong>${L('Note critique.', 'Critical note.')}</strong> ${esc(p.note)}</p>` : ''}
+    <p class="sources"><strong>Sources.</strong> ${esc(EN ? TR.sources(p.sources) : p.sources)}</p>
+    ${(p.voir_aussi || []).map(v => `<p><a class="lien-salle-fiche" href="${esc(EN ? TR.url(v.url) : v.url)}" target="_blank" rel="noopener">${esc(EN ? TR.voir(v.texte) : v.texte)}</a></p>`).join('')}
+    ${memeLieu.length > 8 ? `<p><a href="#" id="voir-lieu">${L(`Voir les ${memeLieu.length + 1} fiches de ce lieu`, `See the ${memeLieu.length + 1} entries for this place`)} (${esc(p.lieu)}) →</a></p>`
+      : memeLieu.length ? `<p class="mini">${L('Autres fiches au même lieu :', 'Other entries at the same place:')}</p><ul class="liste-fiches">${memeLieu.map(li).join('')}</ul>` : ''}
+    <p class="mini">${L('Identifiant :', 'Identifier:')} ${esc(p.id)}</p>`;
   $('#panneau').scrollTop = 0;
   document.querySelectorAll('#panneau .pers button').forEach(b => b.onclick = () => choisirPersonne(b.dataset.p));
   document.querySelectorAll('#panneau [data-nation-fiche]').forEach(b => b.onclick = () => choisirNation(b.dataset.nationFiche));
@@ -370,7 +385,7 @@ const li = f => `<li data-id="${esc(f.properties.id)}"><i class="puce" style="ba
 function afficherListe(feats, titre, cle = null) {
   if (cle) return afficherLieu(cle);
   const tri = [...feats].sort((a, b) => a.properties.debut - b.properties.debut);
-  $('#panneau').innerHTML = `<h2>${esc(titre)}</h2><p class="meta">${tri.length} fiche${tri.length > 1 ? 's' : ''}, par ordre chronologique</p><ul class="liste-fiches">${tri.map(li).join('')}</ul>`;
+  $('#panneau').innerHTML = `<h2>${esc(titre)}</h2><p class="meta">${L(`${tri.length} fiche${tri.length > 1 ? 's' : ''}, par ordre chronologique`, `${tri.length} ${tri.length > 1 ? 'entries' : 'entry'}, in chronological order`)}</p><ul class="liste-fiches">${tri.map(li).join('')}</ul>`;
   brancherListe({ feats: tri, titre });
   $('#panneau').scrollTop = 0;
 }
@@ -404,7 +419,7 @@ async function demarrer() {
     carte.addSource('satellite', {
       type: 'raster', tileSize: 256, maxzoom: 19,
       tiles: ['https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'],
-      attribution: 'Imagerie © Esri, Maxar, Earthstar Geographics'
+      attribution: L('Imagerie © Esri, Maxar, Earthstar Geographics', 'Imagery © Esri, Maxar, Earthstar Geographics')
     });
     carte.addLayer({ id: 'satellite', type: 'raster', source: 'satellite', layout: { visibility: 'none' } });
 
@@ -447,7 +462,7 @@ async function demarrer() {
       carte.getCanvas().style.cursor = 'pointer';
       const p = e.features[0].properties;
       popup.setLngLat(e.lngLat).setHTML(p.n > 1
-        ? `<strong>${esc(p.lieu)}</strong><br><span class="mini">${p.n} fiches${p.certitude === 'hypothetique' ? ' · localisation approximative' : ''}</span>`
+        ? `<strong>${esc(p.lieu)}</strong><br><span class="mini">${p.n} ${L('fiches', 'entries')}${p.certitude === 'hypothetique' ? L(' · localisation approximative', ' · approximate location') : ''}</span>`
         : `<strong>${esc(p.nom)}</strong><br><span class="mini">${esc(p.date_edtf)} · ${esc(p.corpus)}</span>`).addTo(carte);
     });
     carte.on('mouseleave', 'lieux', () => { carte.getCanvas().style.cursor = ''; popup.remove(); });
@@ -461,7 +476,7 @@ async function demarrer() {
         if (p.n === 1 && p.id) afficherFiche(p.id); else afficherLieu(p.cle);
       } else {
         const fs = cles.flatMap(c => LIEUX_VISIBLES.get(c) || []);
-        afficherListe(fs, `${fs.length} fiches à cet endroit (${cles.length} lieux voisins)`);
+        afficherListe(fs, L(`${fs.length} fiches à cet endroit (${cles.length} lieux voisins)`, `${fs.length} entries at this spot (${cles.length} neighboring places)`));
       }
     });
 
@@ -490,18 +505,18 @@ async function chargerReseau() {
     const carte1 = a => {
       const prep = a.statut !== 'en_ligne';
       const base = a.ici ? '' : a.url;
-      const pages = (a.pages || []).map(p => `<a href="${esc(a.ici ? p.href : new URL(p.href, a.url).href)}">${esc(p.fr)}</a>`).join('');
-      const etiq = a.ici ? '<span class="etiq">vous êtes ici</span>' : prep ? '<span class="etiq prep">en préparation</span>' : '';
-      const lien = a.ici ? './' : a.url;
+      const pages = (a.pages || []).map(p => `<a href="${esc(a.ici ? (EN && p.href_en || p.href) : new URL(EN && p.href_en || p.href, EN && a.url_en || a.url).href)}">${esc(EN && p.en || p.fr)}</a>`).join('');
+      const etiq = a.ici ? `<span class="etiq">${L('vous êtes ici', 'you are here')}</span>` : prep ? `<span class="etiq prep">${L('en préparation', 'in preparation')}</span>` : '';
+      const lien = a.ici ? L('./', 'index-en.html') : (EN && a.url_en || a.url);
       return `<details class="atlas-carte${prep ? ' prep' : ''}" style="--c:${esc(a.couleur)}">
-        <summary><span class="nom-atlas">${esc(a.titre.fr)}</span>${etiq} <span class="mini">· ${esc(a.periode || '')}</span></summary>
-        <p class="sous">${esc(a.sous_titre.fr)}</p>
-        <p>${esc(a.description.fr)}</p>
+        <summary><span class="nom-atlas">${esc(EN && a.titre.en || a.titre.fr)}</span>${etiq} <span class="mini">· ${esc(a.periode || '')}</span></summary>
+        <p class="sous">${esc(EN && a.sous_titre.en || a.sous_titre.fr)}</p>
+        <p>${esc(EN && a.description.en || a.description.fr)}</p>
         ${pages ? `<p class="pages">${pages}</p>` : ''}
-        ${a.ici ? '' : `<p><a class="ouvrir-atlas" href="${esc(lien)}">${prep ? 'Voir le dossier →' : "Ouvrir l'atlas →"}</a></p>`}</details>`;
+        ${a.ici ? '' : `<p><a class="ouvrir-atlas" href="${esc(lien)}">${prep ? L('Voir le dossier →', 'See the project →') : L("Ouvrir l'atlas →", 'Open the atlas →')}</a></p>`}</details>`;
     };
     const groupe = (type, titre) => { const as = reg.atlas.filter(a => a.type === type); return as.length ? `<p class="mini">${titre}</p>` + as.map(carte1).join('') : ''; };
-    $('#atlas-reseau').innerHTML = groupe('thematique', 'Atlas thématique') + groupe('personnage', 'Atlas de personnages') + groupe('famille', 'Atlas de familles');
+    $('#atlas-reseau').innerHTML = groupe('thematique', L('Atlas thématique', 'Thematic atlas')) + groupe('personnage', L('Atlas de personnages', 'Atlases of individuals')) + groupe('famille', L('Atlas de familles', 'Family atlases'));
   } catch (e) { console.warn('Registre des atlas indisponible', e); }
   ACCUEIL = $('#panneau').innerHTML;
 }

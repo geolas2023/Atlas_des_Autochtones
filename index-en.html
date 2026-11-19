@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Atlas of Indigenous Peoples — First Nations, Métis and Inuit in the sources of French America</title>
+  <meta name="author" content="Olivier J. Caron, Department of Geography, UQAM">
+  <meta name="description" content="Interactive geohistorical atlas of First Nations, Métis and Inuit in the sources of French America: villages, events, people and nations mapped, with the source and a link to the page.">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap">
+  <link rel="stylesheet" href="css/style.css?v=202611275715">
+</head>
+<body>
+  <header class="barre">
+    <svg class="embleme" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 84" width="64" height="42" style="width:64px;height:42px;flex:none" role="img" aria-labelledby="embleme-titre"><title id="embleme-titre">Eagle feather</title>
+    <g transform="rotate(-28 64 42)" fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M30 42 C42 27 78 25 116 40 C78 57 42 57 30 42 Z"/>
+    <path d="M94 31 C103 33 110 36 116 40 C110 44 103 47 94 50 C98 44 98 37 94 31 Z" class="pointe"/>
+    <path d="M8 42 L116 40" fill="none" stroke-width="1.6" class="tige"/>
+    <path d="M52 33 L58 41 M66 31 L71 40 M78 31 L82 40 M58 51 L63 43 M71 52 L75 43" fill="none" stroke-width="1.4" class="encoche"/>
+    <rect x="20" y="38.5" width="10" height="7" rx="1.5" class="rouge"/>
+    <path d="M24 45 C22 54 20 60 15 66 M27 45 C27 55 26 61 23 69" fill="none" stroke-width="1.2" class="rouge"/>
+    <circle cx="15" cy="67" r="2" class="rouge"/><circle cx="23" cy="70" r="2" class="rouge"/>
+    </g>
+    </svg>
+    <h1><a href="index-en.html" id="titre-accueil" title="Home">Atlas of Indigenous Peoples</a> <span>First Nations, Métis and Inuit in the sources of French America</span></h1>
+    <p class="credit"><a href="https://professeurs.uqam.ca/professeur/caron.olivier/" target="_blank" rel="noopener">Olivier J. Caron</a> · <a href="https://geo.uqam.ca/" target="_blank" rel="noopener">Department of Geography</a> <img class="logo-uqam" src="images/uqam-logo.svg" alt="UQAM"></p>
+        <button type="button" id="btn-atlas" class="lien-salle" title="The atlases of the Atlas of French America network">⚜ The atlases</button>
+    <a class="lien-salle" href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/index-en.html" title="Atlas of the French Canadians of the West, where the entries come from">↔ French Canadians Atlas</a>
+    <a class="lien-salle" href="https://geolas2023.github.io/Atlas-Aubry/index-en.html" title="Aubry Atlas: François-Xavier Aubry (1824-1854) and his circle">↔ Aubry Atlas</a>
+    <a class="lien-salle" href="https://geolas2023.github.io/Atlas-Jolliett/index-en.html" title="Jolliet Atlas: Louis Jolliet (1645-1700)">↔ Jolliet Atlas</a>
+    <a class="lien-salle" href="https://geolas2023.github.io/Les-Robidoux/" title="Robidoux Atlas: the Robidoux family (1720-1876), in French">↔ Robidoux Atlas</a>
+    <a class="lien-salle lien-langue" href="index.html" hreflang="fr" lang="fr" title="Version française">Français</a>
+    <button type="button" id="btn-apropos" class="lien-salle">About</button>
+  </header>
+
+  <main class="contenu">
+    <section id="outils" aria-label="Search and filters">
+      <div class="bloc">
+        <label for="recherche" class="titre-bloc">Search</label>
+        <input type="search" id="recherche" placeholder="Name, place, person…" autocomplete="off">
+      </div>
+      <details class="bloc">
+        <summary class="titre-bloc">Corpus <span class="mini" id="corpus-resume"></span></summary>
+        <div id="f-corpus"></div>
+        <p class="mini"><a href="#" id="corpus-tous">all</a> · <a href="#" id="corpus-aucun">none</a></p>
+      </details>
+      <details class="bloc" open>
+        <summary class="titre-bloc">Themes</summary>
+        <div id="f-themes"></div>
+        <p class="mini"><a href="#" id="themes-tous">all</a> · <a href="#" id="themes-aucun">none</a></p>
+      </details>
+      <details class="bloc" open>
+        <summary class="titre-bloc">Nations <span class="mini" id="nations-resume"></span></summary>
+        <input type="search" id="recherche-nation" placeholder="Filter nations…" autocomplete="off">
+        <div id="f-nations"></div>
+        <p class="mini"><a href="#" id="nations-tous">all</a> · <a href="#" id="nations-aucun">none</a></p>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">Location certainty</summary>
+        <div id="f-certitude"></div>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">Named Indigenous people <span id="nb-pers" class="mini"></span></summary>
+        <input type="search" id="recherche-pers" placeholder="Filter the list…" autocomplete="off">
+        <ul id="liste-pers" class="liste-pers"></ul>
+      </details>
+      <details class="bloc">
+        <summary class="titre-bloc">Basemap and context</summary>
+        <div class="choix-fond" role="radiogroup" aria-label="Basemap">
+          <label><input type="radio" name="fond" value="plan"> Map</label>
+          <label><input type="radio" name="fond" value="arpenteur" checked> Surveyor</label>
+          <label><input type="radio" name="fond" value="western"> Western</label>
+          <label><input type="radio" name="fond" value="relief"> Terrain</label>
+          <label><input type="radio" name="fond" value="satellite"> Satellite</label>
+        </div>
+        <label><input type="checkbox" id="c-piste"> Santa Fe Trail (Aubry Atlas survey)</label>
+      </details>
+      <p id="compteur" class="compteur" aria-live="polite"></p>
+    </section>
+
+    <div id="carte" aria-label="Interactive map"></div>
+
+    <aside id="panneau" aria-live="polite">
+      <div class="vide">
+        <h2>Atlas of Indigenous Peoples</h2>
+        <div class="filet" aria-hidden="true">✦</div>
+        <p class="chapeau-accueil">The accounts of the travelers, missionaries, traders and settlers of French America speak constantly of the peoples among whom they lived, traded, married or fought. This atlas rereads all the sources of the <a href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/index-en.html">Atlas of French America</a> from the point of view of the First Nations, the Métis and the Inuit: villages, councils, treaties, wars, alliances and named individuals, each entry with its date, place, nation, source and a link to the page.</p>
+        <p>Click a point to open its entry; the <strong>Nations</strong> filter groups the nations by major cultural area.</p>
+        <p class="avertissement">English version: the interface is translated; the entries are being translated in batches, and those not yet translated are shown in the original French.</p>
+        <h3 class="titre-reseau">The atlases of the network</h3>
+        <div id="atlas-reseau"></div>
+        <details class="section-accueil">
+          <summary class="titre-reseau">Please read before browsing</summary>
+          <p class="avertissement">The sources were almost all written by Europeans and Euro-Americans, from the seventeenth to the twentieth century. They use period names for nations and period terms (“sauvages,” “squaw,” “half-breed”…) that are often pejorative; the atlas quotes them as they are, to remain faithful to the texts, and gives for each nation the name in use today. The view of Indigenous peoples is that of the authors, not that of the nations themselves.</p>
+          <p>Nations and personal names were identified in the text of the entries; no name has been added. When the text does not name the nation, the entry is classified as “Indigenous (nation not specified).”</p>
+        </details>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="timeline">
+    <button type="button" id="lecture" title="Animate the timeline" aria-label="Animate">▶</button>
+    <div class="curseurs">
+      <div class="double">
+        <input type="range" id="t-debut" min="1560" max="2010" step="1" value="1560" aria-label="Start of the period">
+        <input type="range" id="t-fin" min="1560" max="2010" step="1" value="2010" aria-label="End of the period">
+      </div>
+      <div id="graduation"></div>
+    </div>
+    <span id="periode"></span>
+    <label class="mini"><input type="checkbox" id="t-tout" checked> whole period</label>
+  </footer>
+
+  <dialog id="apropos">
+    <h2>About the atlas</h2>
+    <p>A geohistorical atlas of the First Nations, Métis and Inuit as they appear in the sources of French America, from New France to the twentieth century: villages and territories, councils, treaties and conflicts, missions, trade, alliances and marriages, guides and interpreters, and the Indigenous people named in the texts.</p>
+    <h3>Sources</h3>
+    <p>All the entries of the <a href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/index-en.html">Atlas of the French Canadians of the West</a> (Cragin's notebooks, Tassé, Hafen, French Illinois, New France, Louisiana, the archive.org library of more than two hundred books, etc.) and of the Aubry, Iberville, Jolliet and Robidoux atlases were reread. Each entry keeps the reference and link of its source (page of the book on archive.org, PDF of the issue, article) and points back to the original entry.</p>
+    <h3>Reading the entries</h3>
+    <p>Each nation is given under its current name, with period names in parentheses (Sioux, Chickasaw, Flathead…); an entry may concern several nations. Dates are expressed in decimal years for filtering and in EDTF; certainty refers to the location. The descriptions are those of the original entries, translated from the French; entries not yet translated are shown in French.</p>
+    <p class="avertissement">The period terms used by the sources are reproduced as they are; they may be hurtful.</p>
+    <p>Data: <code>data/lieux.geojson</code> (EPSG:4326), produced by <code>scripts/extraire.py</code>; English translations in <code>data/traductions-en.json</code>.</p>
+    <form method="dialog"><button class="btn">Close</button></form>
+  </dialog>
+
+  <script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"></script>
+  <script src="js/fonds.js?v=202611275715"></script>
+  <script src="js/traduction-en.js?v=202611275715"></script>
+  <script src="js/atlas.js?v=202611275715"></script>
+  <script src="js/langue.js"></script>
+</body>
+</html>

@@ -45,3 +45,15 @@ python3 scripts/extraire.py ../atlas-les-canadiens-fran-ais-de-l-ouest/data/lieu
 ```
 
 Après une publication, changer le numéro `?v=` dans `index.html` pour vider les caches.
+
+## Version anglaise
+
+`index-en.html` est la version anglaise de l'atlas (lien English / Français dans la barre du haut). L'interface est traduite dans `js/atlas.js` (selon `<html lang>`) et `js/traduction-en.js` (nations, corpus, mentions françaises des sources). Les fiches traduites sont dans `data/traductions-en.json`, une fiche par ligne ; une fiche qui n'y est pas encore s'affiche en français, avec une mention.
+
+La traduction se fait par lots :
+
+```
+python3 scripts/traduction_lot.py etat                 # avancement
+python3 scripts/traduction_lot.py extraire 400         # écrit lot-fr.json (fiches à traduire)
+python3 scripts/traduction_lot.py integrer lot-en.json # vérifie et ajoute le lot traduit
+```

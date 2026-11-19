@@ -26,7 +26,7 @@
     "en": "The network's crossroads atlas: Cragin's notebooks, Tassé, Hafen, French Illinois, New France, New England, the Oregon Trail and some twenty other sources, with a reading room per character."
    },
    "url": "https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/",
-   "url_en": null,
+   "url_en": "https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/index-en.html",
    "donnees": "data/lieux.geojson",
    "exclure_corpus": [
     "Atlas Aubry"
@@ -38,7 +38,8 @@
     {
      "fr": "Salle de lecture",
      "en": "Reading room",
-     "href": "salle.html"
+     "href": "salle.html",
+     "href_en": "salle-en.html"
     },
     {
      "fr": "Les hommes des montagnes",
@@ -84,7 +85,7 @@
     "en": "All the network's sources reread from the standpoint of Indigenous peoples: villages, councils, treaties, wars, missions, trade, alliances and named people, with the nation, the source and a link to the page."
    },
    "url": "https://geolas2023.github.io/Atlas_des_Autochtones/",
-   "url_en": null,
+   "url_en": "https://geolas2023.github.io/Atlas_des_Autochtones/index-en.html",
    "donnees": "data/lieux.geojson",
    "lien_fiche": "index.html#{id}",
    "couleur": "#a0522d",
@@ -158,7 +159,7 @@
     "en": "From Hudson Bay to Newfoundland and the Gulf of Mexico: the campaigns of the Montreal-born sailor and the founding of Louisiana, after Guy Frégault (Iberville le conquérant, 1944), on an old sea-chart basemap."
    },
    "url": "https://geolas2023.github.io/Atlas-Iberville/",
-   "url_en": null,
+   "url_en": "https://geolas2023.github.io/Atlas-Iberville/index-en.html",
    "donnees": "data/lieux.geojson",
    "exclure_corpus": [],
    "lien_fiche": "index.html#lieu={id}",
@@ -183,7 +184,7 @@
     "en": "The Mississippi with Father Marquette (1673), Hudson Bay by the Saguenay (1679), Anticosti, Mingan and the Labrador coast (1694): the life of the Quebec-born explorer after Ernest Gagnon (Louis Jolliet, 1913), Marquette's narrative and BAnQ documents."
    },
    "url": "https://geolas2023.github.io/Atlas-Jolliett/",
-   "url_en": null,
+   "url_en": "https://geolas2023.github.io/Atlas-Jolliett/index-en.html",
    "donnees": "data/lieux.geojson",
    "exclure_corpus": [],
    "lien_fiche": "index.html#lieu={id}",
@@ -233,7 +234,7 @@
     "en": "Taos trapper from Charlesbourg, leader of the 'Chaguanosos' who hired out their guns to California's revolutions and raided mission horse herds (1837-1840), later a rancher at Embudo and a pioneer of the Huerfano and Trinidad, after Lecompte, Janssens, Cragin and Nelson."
    },
    "url": "https://geolas2023.github.io/Atlas_Chalifoux/",
-   "url_en": null,
+   "url_en": "https://geolas2023.github.io/Atlas_Chalifoux/index-en.html",
    "donnees": "data/lieux.geojson",
    "exclure_corpus": [],
    "lien_fiche": "index.html#lieu={id}",
@@ -243,7 +244,8 @@
     {
      "fr": "Les inscriptions",
      "en": "Inscriptions",
-     "href": "inscriptions.html"
+     "href": "inscriptions.html",
+     "href_en": "inscriptions-en.html"
     }
    ]
   },
