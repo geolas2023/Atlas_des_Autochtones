@@ -217,6 +217,37 @@
    "pages": []
   },
   {
+   "id": "chalifoux",
+   "type": "personnage",
+   "statut": "en_ligne",
+   "titre": {
+    "fr": "Atlas Chalifoux",
+    "en": "Chalifoux Atlas"
+   },
+   "sous_titre": {
+    "fr": "Jean-Baptiste Chalifoux (v. 1791-1860)",
+    "en": "Jean-Baptiste Chalifoux (c. 1791-1860)"
+   },
+   "description": {
+    "fr": "Trappeur de Taos venu de Charlesbourg, chef des « Chaguanosos » qui louent leurs fusils aux révolutions californiennes et raflent les chevaux des missions (1837-1840), puis ranchero d'Embudo et pionnier de la Huerfano et de Trinidad, d'après Lecompte, Janssens, Cragin et Nelson.",
+    "en": "Taos trapper from Charlesbourg, leader of the 'Chaguanosos' who hired out their guns to California's revolutions and raided mission horse herds (1837-1840), later a rancher at Embudo and a pioneer of the Huerfano and Trinidad, after Lecompte, Janssens, Cragin and Nelson."
+   },
+   "url": "https://geolas2023.github.io/Atlas_Chalifoux/",
+   "url_en": null,
+   "donnees": "data/lieux.geojson",
+   "exclure_corpus": [],
+   "lien_fiche": "index.html#lieu={id}",
+   "couleur": "#c77d0a",
+   "periode": "1791-1889",
+   "pages": [
+    {
+     "fr": "Les inscriptions",
+     "en": "Inscriptions",
+     "href": "inscriptions.html"
+    }
+   ]
+  },
+  {
    "id": "provost",
    "type": "personnage",
    "statut": "en_preparation",

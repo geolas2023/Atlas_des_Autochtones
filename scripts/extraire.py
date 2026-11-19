@@ -203,6 +203,7 @@ RESEAU = [  # atlas du réseau : fiches complètes (remplacent les renvois court
     ('atlas-iberville', 'Atlas Iberville', 'https://geolas2023.github.io/Atlas-Iberville/index.html#lieu={id}', "Fiche d'origine dans l'Atlas Iberville →"),
     ('atlas-jolliet', 'Atlas Jolliet', 'https://geolas2023.github.io/Atlas-Jolliett/index.html#lieu={id}', "Fiche d'origine dans l'Atlas Jolliet →"),
     ('les-robidoux', 'Atlas Robidoux', 'https://geolas2023.github.io/Les-Robidoux/index.html#lieu={id}', "Fiche d'origine dans l'Atlas Robidoux →"),
+    ('atlas_chalifoux', 'Atlas Chalifoux', 'https://geolas2023.github.io/Atlas_Chalifoux/index.html#lieu={id}', "Fiche d'origine dans l'Atlas Chalifoux →"),
 ]
 
 def fiches_sources(src):
@@ -217,7 +218,7 @@ def fiches_sources(src):
         chemin = os.path.join(racine, dossier, 'data', 'lieux.geojson')
         if not os.path.exists(chemin): print('absent :', chemin); continue
         for f in json.load(open(chemin))['features']:
-            if f['geometry']['type'] != 'Point': continue
+            if f['geometry']['type'] != 'Point' or f['properties'].get('reseau'): continue  # reprise du réseau : déjà lue
             p = dict(f['properties'])
             p['corpus'] = corpus
             for k in ('debut', 'fin'):
@@ -225,7 +226,7 @@ def fiches_sources(src):
                 except (TypeError, ValueError, KeyError): p[k] = None
             if p['debut'] is None: continue
             if p['fin'] is None: p['fin'] = p['debut']
-            p['personnages'] = [corpus.replace('Atlas ', '')] if corpus != 'Atlas Robidoux' else ['Robidoux']
+            p['personnages'] = {'Atlas Robidoux': ['Robidoux'], 'Atlas Chalifoux': ['Jean-Baptiste Chalifoux']}.get(corpus, [corpus.replace('Atlas ', '')])
             for k in ('type', 'categorie', 'image', 'images'): p.pop(k, None)
             p.setdefault('certitude', 'approximative')
             yield p, f['geometry'], lien.format(id=p['id']), texte, 'A-' + corpus.split()[-1].upper() + '-'
