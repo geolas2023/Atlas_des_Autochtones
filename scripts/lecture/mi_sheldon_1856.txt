@@ -1,0 +1,9 @@
+# corpus: Lecture intégrale · Sheldon, Early History of Michigan (1856)
+# ref: E. M. Sheldon, The Early History of Michigan, from the First Settlement to 1815, New York, A. S. Barnes & Company, 1856
+# lien: https://archive.org/details/earlyhistoryofmi00shel/page/{page}/mode/1up
+# recherche: https://archive.org/details/earlyhistoryofmi00shel/mode/1up?q={q}
+# Pages approximatives.
+Meurtre de Le Maire et Berthot | Anishinaabés (Ojibwés, Saulteux); Autochtones (nation non précisée) | Sault-Sainte-Marie | 1683 | 42 | Deux traiteurs français partis du Sault vers le village de Kiaonan sont tués en route par trois Indiens de deux nations différentes.
+Folle-Avoine et Achiganaga | Anishinaabés (Ojibwés, Saulteux) | Sault-Sainte-Marie | 1684 | 43-46 | Folle-Avoine, complice du meurtre des deux traiteurs, se réfugie au Sault avec quinze familles saulteuses ; Du Lhut l'y arrête et tient conseil ; les Indiens accusent Achiganaga et ses fils.
+Retour des Outaouais à Michilimackinac et remise du Pesant | Odawas (Outaouais) | Michilimackinac | 1707 | 262 | Les Outaouais et les Kiskakons regagnent Michilimackinac ; au grand conseil, le chef Le Pesant est livré et conduit sous garde au Détroit ; Koutaouiliboe et Sakima descendent à Québec en octobre.
+Siège du fort Pontchartrain | Mesquakies (Renards); Mascoutens | Fort Pontchartrain (Détroit) | 1712-05 | 297-299 | Les Renards et les Mascoutens, gagnés aux Anglais et aux Cinq-Nations, se retranchent à cinquante pas du fort Pontchartrain commandé par Dubuisson.
