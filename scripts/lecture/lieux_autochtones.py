@@ -253,4 +253,5 @@ L = {
     'Savanes d\'Alachua (Floride)': (-82.33, 29.6, 'h', "Savanes d'Alachua (Paynes Prairie, Floride)"),
     'Hillabee (Creeks)': (-85.9, 33.15, 'h', 'Villages des Hillabees, Creeks supérieurs (Alabama)'),
     'Tuckabatchee (Creeks)': (-85.8, 32.54, 'h', 'Tuckabatchee, sur la Tallapoosa (Alabama)'),
+    "St. Peter's (Rivière-Rouge)": (-96.88, 50.2, 'h', "Paroisse St. Peter's, établissement saulteux du bas de la Rivière-Rouge (Manitoba)"),
 }
