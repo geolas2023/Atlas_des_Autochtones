@@ -1,0 +1,13 @@
+# corpus: Lecture intégrale · Evans, The Military History of Green Bay (1900)
+# ref: William L. Evans, The Military History of Green Bay, Proceedings of the State Historical Society of Wisconsin, 1899, Madison, 1900
+# lien: https://archive.org/details/militaryhistoryo00evan/page/{page}/mode/1up
+# recherche: https://archive.org/details/militaryhistoryo00evan/mode/1up?q={q}
+# Pages approximatives.
+Winnebagos et Hurons à l'arrivée de Nicolet | Ho-Chunks (Winnebagos); Wyandots (Hurons-Wendat) | Green Bay | 1634-10 | 128 | Nicolet débarque à l'embouchure de la Fox avec quelques Hurons pour régler leurs différends avec les Winnebagos; la paix est conclue.
+Paix de Lignery | Mesquakies (Renards); Sauks; Ho-Chunks (Winnebagos) | Green Bay | 1726-06 | 129-130 | Lignery conclut à La Baye une sorte de paix avec les Renards, les Sauks et les Winnebagos, qui souhaitent un officier français résident.
+Conseil de Gorrell | Menominees (Folles-Avoines); Ho-Chunks (Winnebagos) | Green Bay | 1762-05-23 | 134 | Les chefs ménomines et winnebagos promettent obéissance et amitié et se disent heureux d'accueillir les traiteurs anglais.
+Départ de la garnison de Gorrell | Menominees (Folles-Avoines); Sauks; Ho-Chunks (Winnebagos); Mesquakies (Renards) | Green Bay | 1763-06-21 | 135 | Un groupe de Ménomines, Sauks, Winnebagos et Renards accompagne les troupes anglaises qui évacuent le fort Edward Augustus.
+Nat-aw-pin-daw-qua | Ho-Chunks (Winnebagos) | Green Bay | 1816-08-23 | 137 | Chef winnebago, il demande au colonel Bowyer protection pour ses frères français et reproche aux agents américains de tromper les Autochtones.
+Red Bird | Ho-Chunks (Winnebagos) | Portage (Wisconsin) | 1827 | 139 | Il se rend sans combat au major Whistler près du portage Fox-Wisconsin; l'expédition comprend des Stockbridges et des Oneidas.
+Ménomines de Stambaugh | Menominees (Folles-Avoines) | Green Bay | 1832 | 139-140 | L'agent George Boyd envoie 300 Ménomines au front sous le colonel Stambaugh, qu'ils ont demandé comme chef.
+Black Hawk prisonnier | Sauks | Green Bay | 1833 | 140 | Prisonnier, il descend la rivière à Green Bay avec les soldats au début de sa tournée dans l'Est.
