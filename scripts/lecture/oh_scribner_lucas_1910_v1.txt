@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Memoirs of Lucas County, vol. 1 (1910)
+# ref: Harvey Scribner, Memoirs of Lucas County and the City of Toledo, vol. 1, 1910
+# lien: https://archive.org/details/memoirsoflucasco0001harv/page/{page}/mode/1up
+# recherche: https://archive.org/details/memoirsoflucasco0001harv/mode/1up?q={q}
+# Pages approximatives.
+La mission du père Burke près du fort des Miamis | Autochtones (nation non précisée) | Fort des Miamis (Maumee) | 1796-02-02 | 292 | Dans une lettre du 2 février 1796, le père Edmund Burke décrit sa mission auprès des Autochtones près du fort des Miamis, sur la Maumee, où des Canadiens l'accompagnent.

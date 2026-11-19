@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Williamson, History of Western Ohio and Auglaize County (1905)
+# ref: C. W. Williamson, History of Western Ohio and Auglaize County, Columbus, Press of W. M. Linn & Sons, 1905
+# lien: https://archive.org/details/historyofwestern00will/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofwestern00will/mode/1up?q={q}
+# Pages approximatives.
+La sœur Mary Green chez les Shawnees | Shawnees | Wapakoneta (Ohio) | 1828 | 757 | En 1828, la sœur Mary Green arrive à Wapakoneta avec des jésuites itinérants ; selon la tradition, elle enseigne aux enfants shawnees dans la maison de Francis Duchouquet jusqu'à sa mort vers 1831.
+Le traité de Gardner à Wapakoneta | Shawnees | Wapakoneta (Ohio) | 1831 | 265 | En 1831, le commissaire Gardner convoque les chefs shawnees à Wapakoneta pour obtenir la cession de leurs terres, après avoir écarté le vieil interprète Francis Duchouquet.
