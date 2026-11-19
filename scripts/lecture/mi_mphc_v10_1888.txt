@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Michigan Pioneer and Historical Collections, vol. X (1888)
+# ref: Michigan Pioneer and Historical Collections, vol. X (Haldimand Papers), Lansing, Thorp & Godfrey, 1888
+# lien: https://archive.org/details/michiganhistoric10michuoft/page/{page}/mode/1up
+# recherche: https://archive.org/details/michiganhistoric10michuoft/mode/1up?q={q}
+# Pages approximatives.
+Esclaves panis du poste Saint-Joseph | Pawnees | Fort Saint-Joseph | 1780-06-30 | 407 | Le recensement du poste Saint-Joseph compte des esclaves panises : Lizette et Angélique, avec son enfant, chez M. Chevalier, et Marianne, avec son enfant, chez M. Caron.
+La Fourche et les Indiens de Saint-Joseph | Autochtones (nation non précisée) | Fort Saint-Joseph | 1780-06-30 | 406 | Ainse écrit à Sinclair que La Fourche et les autres Indiens du poste Saint-Joseph se conduisent en fidèles sujets du roi.
