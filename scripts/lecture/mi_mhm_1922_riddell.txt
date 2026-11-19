@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Riddell, « Some Marriages in Old Detroit » (Michigan History Magazine, 1922)
+# ref: William Renwick Riddell, « Some Marriages in Old Detroit », Michigan History Magazine, vol. VI, n° 1, Lansing, Michigan Historical Commission, 1922
+# lien: https://archive.org/details/sim_michigan-history_1922_6_1/page/{page}/mode/1up
+# recherche: https://archive.org/details/sim_michigan-history_1922_6_1/mode/1up?q={q}
+# Pages approximatives.
+Catherine Malott, captive des Munsees | Lenapes (Delawares, Loups) | Malden (Amherstburg) | 1784 | 124-125 | Prise à quinze ans sur l'Ohio en 1780 et adoptée par une famille munsee du Scioto, Catherine Malott est rachetée par Simon Girty, qui l'emmène à l'automne 1784 sur sa ferme de Colchester ; leur mariage à l'embouchure de la rivière du Détroit n'est enregistré qu'en 1832.
