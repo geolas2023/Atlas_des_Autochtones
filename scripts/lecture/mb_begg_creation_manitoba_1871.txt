@@ -1,0 +1,6 @@
+# corpus: Lecture intégrale · Begg, The Creation of Manitoba (1871)
+# ref: Alexander Begg, The Creation of Manitoba, or, A History of the Red River Troubles, Toronto, A. H. Hovey, 1871
+# lien: https://archive.org/details/creationofmanito00begg/page/{page}/mode/1up
+# recherche: https://archive.org/details/creationofmanito00begg/mode/1up?q={q}
+# Pages approximatives.
+Henry Prince, chef saulteux, délégué de St. Peter's | Anishinaabés (Ojibwés, Saulteux) | St. Peter's (Rivière-Rouge) | 1869 | 64-65 | Parmi les vingt-quatre délégués des paroisses réunis au palais de justice près du fort Garry, la paroisse St. Peter's est représentée par Henry Prince, « chef indien des Saulteux ».
