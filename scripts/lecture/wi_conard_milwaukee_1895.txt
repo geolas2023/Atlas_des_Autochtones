@@ -1,0 +1,7 @@
+# corpus: Lecture intégrale · Conard, History of Milwaukee, vol. I (1895)
+# ref: Howard Louis Conard (éd.), History of Milwaukee from its First Settlement to the Year 1895, vol. I, American Biographical Publishing Company, Chicago et New York, 1895
+# lien: https://archive.org/details/historyofmilwauk01cona/page/{page}/mode/1up
+# recherche: https://archive.org/details/historyofmilwauk01cona/mode/1up?q={q}
+# Pages approximatives.
+Enfants Mirandeau | Métis; Anishinaabés (Ojibwés, Saulteux) | Milwaukee | 1836 | 14 | Les plus jeunes enfants du forgeron Jean Baptiste Mirandeau et de son épouse ojibwée, restés avec les Autochtones, partent avec eux à l'ouest du Mississippi.
+Paiement des Ménominees à Shawano | Menominees (Folles-Avoines) | Shawano | 1856-11 | 18-19 | Le paiement annuel des Ménominees a lieu deux jours avant la mort du traiteur Solomon Juneau, venu y régler ses comptes.

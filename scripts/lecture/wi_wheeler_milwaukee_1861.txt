@@ -1,0 +1,8 @@
+# corpus: Lecture intégrale · Wheeler, The Chronicles of Milwaukee (1861)
+# ref: A. C. Wheeler, The Chronicles of Milwaukee, Jermain & Brightman, Milwaukee, 1861
+# lien: https://archive.org/details/chroniclesofmilw00whee/page/{page}/mode/1up
+# recherche: https://archive.org/details/chroniclesofmilw00whee/mode/1up?q={q}
+# Pages approximatives.
+Autochtones de Milwaukee | Autochtones (nation non précisée) | Milwaukee | 1761-09-01 | 16 | Le journal du lieutenant Gorrell note qu'un groupe d'Autochtones est venu de Milwaukee, première mention connue du lieu.
+Potawatomis de Milwaukee | Potawatomis | Milwaukee | 1804 | 87 | Le Claire et John Kinzie ouvrent un poste de traite à Milwaukee et vendent de la pacotille aux Potawatomis.
+Pe-sha-no | Autochtones (nation non précisée) | Milwaukee | 1779 | 17 | Rival d'O-nau-ge-sa, il avait suivi Langlade en campagne en 1779, puis déserté et regagné son village de Milwaukee.
