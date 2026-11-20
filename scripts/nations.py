@@ -80,6 +80,8 @@ NATIONS = [
     ('Cherokees', 'Sud-Est', r"cherokees?|chéroquis", False),
     ('Muscogees (Creeks)', 'Sud-Est', r"creeks|muscogees?|alibamons?|alabamas|talapouches", True),
     ('Timucuas', 'Sud-Est', r"timucuas?|timuquanas?|thimagoas?", False),
+    ('Apalaches', 'Sud-Est', r"apalaches|apalachees?|apalachis?", False),
+    ('Chatos (Chacatos)', 'Sud-Est', r"chatos|chacatos", False),
     ('Mascoutens', 'Grands Lacs', r"mascoutins?|mascoutens?|maskoutens?", False),
     ('Iroquoiens du Saint-Laurent', 'Est', r"stadaconéens?|hochelaguiens?", False),
     ('Quinipissas', 'Bas-Mississippi', r"quinipissas?", False),
